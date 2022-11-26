@@ -1,0 +1,597 @@
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+Ref. Ares(2020)4717068 - 09/09/2020
+
+This document contains our responses to questions 9.1, 10.3, 12.2, 18.8, 18.10 and 24.1 of the 
+questionnaire. 
+
+9.1. Please explain your answer. If you replied yes, please also indicate the type of intervention that 
+would be needed.  
+
+We believe there is a need for intervention in digital markets where platforms act as  gatekeepers in the 
+form of targeted ex ante regulation of digital gatekeeper platforms, as set out in Vodafone’s separate 
+response to the Commission’s current consultation on the proposed Digital Services Act (DSA). Whether or not 
+an additional legal instrument to the DSA is necessary to address structural competition problems is largely 
+going to be a function of how wide in scope and effective in practice the DSA is likely to be, it being understood 
+that the P2B Regulation already constitutes an initial (but incomplete) regulatory step in that direction. There 
+needs to be a balance between the addition of new regulatory tools which can complement the work of 
+competition rules and the need to not over-regulate to the point where innovation might be impaired.   
+
+In addition to targeted ex ante regulation, we consider that the Commission should review and update certain 
+of its current competition law guidelines and notices in order to ensure that they are fit for purpose for the 
+modern, digital economy. For example, we support the (ongoing) consultation on the Commission’s Notice on 
+Market Definition, and believe it is also necessary to review and update the Article 102 Enforcement Priorities 
+Guidelines, the Horizontal and Vertical Guidelines, the Horizontal Merger Guidelines (in particular on innovation 
+effects) and Non-Horizontal Merger Guidelines (in particular on conglomerate effects).  This is necessary to 
+provide businesses with greater certainty and increase the competitiveness of European firms that could 
+challenge current gatekeeper platforms in certain markets and could compete more effectively in other 
+emerging digital markets. It is also necessary because both companies and the Commission currently lack 
+clear guidance on how EU competition law rules will be applied to new and emerging business models and 
+potential theories of harm in the digital economy.  As noted in our response to the Roadmap and IIA for this 
+consultation, revised guidance from the Commission should in particular support a more dynamic approach to 
+assessing competition in digital markets.  
+
+In addition, we support the increased use of existing powers available to the Commission, including interim 
+remedies powers and sector inquiries. The Commission should endeavour to make greater use of these 
+powers to better understand markets as they develop and evolve, and to intervene at an early stage, where 
+appropriate, in markets characterised by presence of gatekeeper platforms which are prone to leveraging, anti-
+competitive monopolisation strategies, tipping, etc. In our view, the competition problems arising in these 
+markets can be tackled by enforcing existing antitrust law more frequently and in a more timely manner and 
+targeted ex ante regulation of digital markets where gatekeepers have undermined or eliminated 
+contestability. To the extent that the DSA introduces market monitoring obligations, it is arguable that 
+enforcement of the current competition laws would be more effective.  
+
+We believe that introducing a new competition tool carries a significant risk of over-enforcement which distorts 
+competitive outcomes (in particular by chilling investment and innovation).  Vodafone therefore considers that 
+the Commission should: (a) proceed with the implementation of targeted ex ante regulation to tackle the 
+specific concerns which arise in markets characterised by the presence of gatekeeper platforms; and (b) make 
+more use of and update its existing competition law tools and guidance.   In addition, the Commission should 
+consider (again, as an alternative to a New Competition Tool) widening the scope of its existing powers 
+under Regulation 1/2003 to enable it to make recommendations to companies, sectoral regulators and 
+legislators following sector inquiries, which would seem to be a more proportionate and legitimate way to 
+proceed.. We do not believe there is a need currently for any additional  form of  intervention, including 
+one that takes the form of the proposed “New Competition Tool”, which should only be pursued if the 
+measures referred to above, once implemented, prove to be ineffective and once the results of current Court 
+appeals in the various digital platform cases have been resolved. 
+
+C2 General 
+
+ 
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+10.3. Please provide examples and explain them. 
+
+Vodafone considers that at least some of the examples cited in response to question 8.2 above could also be 
+viewed as forms of anti-competitive abusive practices which can be captured by an acknowledged theory of 
+harm. 
+
+In addition, and as also explained in our separate response to the DSA consultation, Vodafone has been 
+adversely affected by the imposition of certain unfair contractual terms and unfair practices by 
+gatekeeper digital platforms or eco-systems, including: 
+
+a.  The imposition of ‘high impact terms’, such as uncapped liability. This has the effect of increasing our 
+exposure to liability in way that results in an unfair distribution of liability across the value chain. 
+
+b.  The requirement to license all IPRs at no cost for the use of the digital gatekeeper’s proprietary products. 
+As a result of such practices, Vodafone is unable to effectively monetise and develop digital products and 
+services that could challenge the digital gatekeeper’s own propriety products and services.  
+
+c.  No notice given of technical changes to platforms, which then requires apps to be amended, in some 
+cases resulting in lack of functionality. By not being provided with such advance notice, Vodafone is left 
+exposed to technical issues that can stop services working and harm its reputation with customers. This 
+can also impact functionality which may affect Vodafone’s compliance with regulatory requirements.   
+
+d.  Opt-in consents inserted into the Vodafone app experience, which has the effect of increasing friction and 
+harming the overall customer experience, while at the same time not  adding meaningful controls on how 
+end user data is ultimately to be collected and monetised by  digital gatekeepers.  
+
+e.  Unreasonable transfers of liability to the app developer (i.e., Vodafone) without mutual liability being 
+
+accepted by the platform owner. This shifting of the financial risk burden solely on to the developer results 
+in an unfair distribution of liability throughout the value chain, thereby making it harder for end users to 
+seek redress and penalising backend developers of apps.  
+
+f.  Other unreasonable terms, in relation to the provision of Vodafone services or adjacent 
+
+obligations such as marketing, which impose a disproportionate cost to Vodafone.  
+
+We are also aware of a broader range of unfair commercial terms and unfair practices that foreclose 
+competitors in relation to various markets for digital products and services, including:  
+
+a.  Bundling and tying, as occurred in the Microsoft case concerning the bundling of Internet Explorer with 
+the Windows operating system, and in the Google Android case concerning, among other matters, the 
+Commission’s finding of tying of the Google search app and Google Chrome browser with Google’s Play 
+Store. 
+
+b.  Exclusive dealing, as occurred according to the Commission’s decision in Google Adsense concerning 
+
+the requirement that Google’s customers sign exclusively with Adsense, which the Commission found had 
+the effect of foreclosing rivals in online search advertising mediation. 
+
+c.  Self-preferencing practices in favour of a platform or eco-system’s own services, as the Commission 
+
+found to be the case in Google Shopping concerning the search ranking of Google’s own online shopping 
+service 
+
+d.  Discrimination such as that alleged by Spotify and Epic recently against Apple’s (in particular because 
+
+Apple forces developers to charge their customers via the App Store payment system , rather than through 
+the developer’s website or some other means) and to share a significant proportion of the revenue with 
+Apple, thereby effectively increasing third party developers’ costs and hindering their ability to compete 
+with Apple’s own services. 
+
+e.  Predatory pricing or margin squeezes, whereby as-efficient rivals cannot profitably match the dominant 
+firm’s prices without incurring the risk that they will exit the market, thereby enabling the dominant firm to 
+subsequently earn monopoly profits.  
+
+C2 General 
+
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+f.  The refusal to supply or license an input, which is important in order for a firm to be able to compete 
+
+effectively in a downstream market. 
+
+g.  Use of superior access to data, which we understand to be the potential concern of the Commission in 
+launching an investigation into whether Amazon’s access to data in its role as a merchant platform 
+adversely affects downstream competition in online retailing between Amazon and its rivals. (The parallels 
+are significant between the proposed DSA regulatory intervention and the approach adopted under Article 
+106 TFEU with regard to firms that have a “conflict of interest” in their commercial dealings and their rule-
+setting functions, as this conflict fuels self-preferencing practices.) 
+
+h.  Strategies to lock-in customers that can arise from the lack of interoperability or interconnection 
+
+between platforms, including for example the strategies described in response to question 8.2 above. 
+
+Vodafone would be happy to discuss these examples further with the Commission. 
+
+C2 General 
+
+ 
+ 
+ 
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+12.2. Please identify the markets concerned and explain those market situations. 
+
+We do not agree that a highly concentrated market is problematic per se from a competition perspective.  As 
+with other markets, the potential for competition concerns to arise in oligopolistic markets depends on the 
+specific characteristics of the market in question.  For example, while a “tight” oligopoly market structure may 
+facilitate tacit collusion in certain industries, this depends on a number of factors.  For example, the risk will be 
+higher in markets characterised by homogeneous products with high common and transparent cost bases.  
+However, concentrated market structures are still likely to produce competitive outcomes where the product 
+ranges of market players are diverse and where customers can switch easily and at relatively little cost.     
+
+For example, we note that mobile communications markets (and many other markets with similar or 
+comparable characteristics) are not conducive to concerns of this nature.  In this regard, we note the following 
+in relation to mobile communications:  
+
+  Operator profitability and return on capital are currently relatively low in these markets (in contrast to 
+many digital markets). This is a clear indication of their highly competitive nature. Relatively low 
+profitability and return on capital expenditure in telecoms markets where there is competing 
+infrastructure does not enable the same financial leverage used to support market power as in digital 
+markets. It is only in those telecoms markets where a position of clear market  dominance exists (e.g., 
+wholesale fixed access, which is dominated by one fixed incumbent in most countries) that profits are 
+raised  and incumbents are regulated while, in those markets that are contestable, profitability is low 
+and competition is fierce even under an oligopolistic market structure (e.g., as in the mobile sector). 
+The status quo of these markets is “reset” regularly as operators are required to roll out new 
+technologies approximately every five to seven years, and there is fierce competition on network 
+quality and capacity in the interim. 
+There is already well-established and effective sector-specific regulation in place which is based on 
+competition law principles.  This regulation applies in addition to the “traditional” competition law 
+framework established in Airtours and Impala.   
+
+ 
+
+ 
+
+  Where operators enter into network sharing or other cooperation arrangements in order to facilitate 
+pro-competitive investment and innovation, resulting in the faster and wider rollout of new networks 
+and/or services to customers, such arrangements are already effectively policed under antitrust 
+and/or merger control rules. 
+To the extent that operators in markets have been required by regulators to increase transparency in 
+relation to their customer offers, this should not be interpreted as providing a foundation for tacit 
+collusion, but as providing the basis for informed end-user decision-making which in turn reduces the 
+risk of customers being rendered inert to change. 
+
+ 
+
+  Switching is straightforward for customers, as the speed and low cost of number portability facilitates 
+
+customer churn.   
+
+Thus, although the market characteristics typically associated with markets with digital gatekeepers are prone 
+to inherent competition concerns, oligopolistic market structures such as those that are well understood in the 
+mobile telecommunications sector: 
+
+  Do not display an entrenched lack of competition nor the risk of monopolisation. The General Court 
+
+recently clarified that the mere fact that a market is highly concentrated does not automatically result 
+in a significant impediment to effective competition. 
+
+  Are characterised by a different approach to innovation than digital markets, where the need for quick 
+intervention is premised on the greater speed and less “structured” form of innovation cycles that 
+take place there, along with the cumulative effect of various market features which can cause such 
+digital markets to tip.  
+
+C2 General 
+
+ 
+ 
+ 
+ 
+  
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+Additionally, EU intervention in telecoms mergers has been based on potential unilateral effects and almost 
+never on potential coordinated effects. Accordingly, there are no hidden market failures that existing 
+competition tools have not been able to address. 
+
+Vodafone’s experience therefore does not suggest that, as a matter of general principle, the Commission 
+requires additional tools to tackle potential competition law risks in oligopolistic markets. To the extent that 
+such concerns may arise in certain markets based on their specific characteristics, and these cannot be tackled 
+under existing competition law rules, the example of the telecommunications sector illustrates that sector-
+specific  regulation is probably the most effective means by which address such concerns arising from complex 
+oligopoly situations  (as is explained further in response to question 13.1 below).   
+
+Finally, we note that the Inception Impact Assessment for this consultation (the IIA) refers to the increasing 
+digitalisation of society and economy which has attracted increasing attention under competition policy, 
+specifically “the large platforms [that] have become gatekeepers for many digital and non-digital products and 
+services”. Our understanding of the role of a gatekeeper is that it coincides with the accumulation of market 
+power increasingly in the hands of one undertaking. This is consistent with the IIA, which refers to certain 
+market characteristics (which are typically and in some cases uniquely present in digital markets) which 
+underpin this development, including extreme economies of scale and scope, strong network effects, zero 
+pricing and data dependency. The IIA identifies that it is specifically against this backdrop that it has engaged in 
+a process of reflection on the role of competition policy in order to assess whether the current competition law 
+framework allows for intervention that preserves competitive digital markets. Against this backdrop, there is 
+nothing that has been put forward in the IIA which suggests that oligopoly market structures are problematic 
+per se and/or require intervention in the form of the proposed New Competition Tool to maintain or improve 
+competition in those digital markets.   
+
+C2 General 
+
+ 
+ 
+ 
+ 
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+18.8. Please explain your answer, indicating why you consider the indicated features relevant for 
+qualifying a company as a gatekeeper. Please also add any other relevant features that qualify a 
+company as a gatekeeper and rate their importance. 
+
+As set out in our separate response to the DSA consultation, Vodafone considers that there is a need for targeted 
+intervention  when  a  range  of  criteria  are  cumulatively  satisfied.  These  criteria  should  encompass  the 
+following: 
+
+(i)  a non-contestable and concentrated market structure should be identified; 
+
+(ii)  the digital gatekeeper in question is an unavoidable trading partner; and 
+
+(iii)  the application of competition rules would be ineffective in addressing the identified market failures. 
+
+Each of these criteria are discussed in detail below. 
+
+Criterion 1: Non-contestable Concentrated Market Structure  
+
+Under this first threshold criterion, regulators would need to identify the following elements in the marketplace 
+in which the digital platform operates, namely:  
+
+(i) The existence of a well understood and defined digital “platform” or Internet eco-system of products 
+that lies above regulated telecommunications networks, which generates direct and indirect network effects 
+that might be capable of deterring switching by the creation of “positive feedback loops”, or which is prone to 
+the phenomenon of “tipping” in favour of a particular operator (or a very limited group of operators).  
+
+We consider that an online platform accords in principle with an “Information Society service”, as defined in EU 
+Directive  2015/1535.  This  would  have  the  following  characteristics:  (i)  the  ability  to  create  and  shape  new 
+markets, to challenge traditional ones, and to organise new forms of participation or conducting business based 
+on the collection, processing, and editing of large volumes of data; (ii) operating in multi-sided markets, but with 
+varying  degrees  of  control  over  direct  interactions  between  groups  of  users;  (iii)  benefitting  from  ‘network 
+effects’ where, broadly speaking, the value of the service increases with the number of users; (iv) often relying 
+on information and communications technologies to reach their users, instantaneously; (v) playing a key role in 
+digital value creation, by capturing significant value (often through data accumulation), which facilitates new 
+business ventures but also new strategic dependencies. 
+
+(ii) On the input side of the platform, such platforms would benefit from high entry barriers which, in particular, 
+may be due to the control of key innovation capabilities.  
+
+Barriers to expansion or entry can take various forms, particularly in the form of advantages specifically enjoyed 
+by the dominant firm such as economies of scale and scope, privileged access to essential inputs, important 
+technologies or an established distribution and sales network. 
+
+(iii) On the customers side of the platform, the market position would benefit from the prevalence of the practice 
+of single-homing, which may be due to strategic behaviour (e.g., exclusivity clauses, tying, MFNs) or, just as 
+effectively, from the non-utilisation of multi-homing options due to consumer inertia.  
+
+In  addition,  when  there  are  elements  of  “free”  provisioning  of  service,  which  may  increase  information 
+asymmetries and have the tendency to mask commercial incentives, the rationale for public intervention may 
+increase. This can be the case when ‘price’ reflects a digital representation of value, particularly in the form of 
+personal data that is provided in exchange for the supply of the services in question. 
+
+Criterion 2: Digital Gatekeeper which is an Unavoidable Trading Partner  
+
+Under this second criterion, the regulated digital platform would have the following commercial and structural 
+characteristics:  
+
+C2 General 
+
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+(i) The digital platform’s business model is associated with the provision of some form of intermediation 
+between two types of users across various sides of the platform. This implies that the platform in question allows 
+a user to offer goods or services to other users with a view to facilitating transactions between them. 
+
+(ii) The digital platform would act as a “gatekeeper” or as a provider of some form of a “bottleneck facility”, 
+which renders it an “unavoidable trading partner” (comparable to a “must have” product in a conglomerate 
+market environment) for other operators on that digital platform (which would include a ‘digital eco-system’). 
+
+The satisfaction of this criterion would require that the platform in question has achieved a significant level of 
+user uptake and that access seekers depend on the platform to reach a significant body of users. 
+
+(iii)  The  environment  in  which  the  digital  platform  operates  is  characterised  by  a  lack  of  effective 
+countervailing bargaining power being exercised by the underlying regulated networks over which the eco-
+system operates and by its immediate or end-user customers (depending on the business model deployed).  
+
+Countervailing buying power may result from the relative size of customers or their commercial significance to 
+the  dominant  firm,  and  their  ability  to  switch  quickly  to  competing  suppliers.  In  this  way,  new  entry  can  be 
+promoted or vertical integration can take place, at least where customers can credibly threaten to do so. 
+
+(iv)  Existing  regulatory  obligations  are  not  effective  in  preventing  the  digital  platform  in  engaging  in 
+exclusionary  behaviour.  To  the  extent  that  a  digital  platform  is  exploiting  a  regulatory  loophole,  or  where 
+regulation (either asymmetric of symmetric in nature) is not capable of exerting a meaningful market discipline 
+on the platform, additional regulatory intervention is likely to be a proportionate response.  
+
+Criterion 3: Ineffectiveness of competition rules  
+
+On the assumption that either a finding of dominance cannot be established in relation to a particular digital 
+platform (despite positive findings usually associated with market power) or the identified conduct and effects 
+cannot be effectively addressed pursuant to appropriate remedies under ex post competition rules and 
+within a reasonable period of time given the speed of technology and market evolution, there is a risk that the 
+changes effected to the marketplace are irreversible and the possibility of innovation from other competitors is 
+foregone unless regulatory intervention occurs.  
+
+Under the electronic communications regulatory framework, competition law interventions are deemed to be 
+insufficient where, for instance, the compliance requirements of an intervention to redress persistent market 
+failure(s) are likely to be very detailed or where frequent and/or timely intervention is indispensable. 
+
+Vodafone considers that this approach can best be implemented in the form of targeted ex ante regulation, as 
+proposed in the DSA consultation (refer to Vodafone’s separate response to that consultation). 
+
+C2 General 
+
+ 
+ 
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+18.10. Please explain your answers above. Please also use this space to mention any other competition 
+concerns that arise in markets featuring a gatekeeper and rate them in importance. 
+
+The practices listed below are commonly seen in markets involving digital gatekeepers, all of which are capable 
+of generating competition concerns of varying levels of gravity: 
+
+ 
+
+Imposition of unfair and potentially anti-competitive terms and conditions due to strong bargaining 
+power vis-à-vis smaller businesses (for example, MFN clauses, restrictions/abusive conditions on data 
+sharing and use, exclusivity clauses, obligations regarding IPR). 
+
+  Self-preferencing strategies, where digital platforms often use their gatekeeper role to favour their 
+own content, service or advertising (when vertically integrated), or to favour paid-for content by certain 
+content providers or advertisers in effect by discriminating against other competing users. This is the 
+case, for example, when search and ranking algorithms confer preference to the platform’s own services 
+above those of competitors or when the digital platform has an incentive to bias its recommendations 
+toward  the  content  provider  charging  a  lower  royalty.  The  fact  that  the  digital  platform  may  have 
+superior information about consumer preferences increases the risk of bias. This is also the case when 
+the platform does not treat third party applications the same way as its own applications.  
+
+  Leveraging  into  neighbouring  markets  is  a    common  practice  in  markets  with  digital  gatekeepers, 
+which    can  rely  on  their  wide  portfolio  of  services  to  leverage  into  neighbouring  markets  where 
+competition is foreclosed, or where  their entry alone is capable of  restricting the entry and expansion 
+of new entrants (by raising their costs of doing business). 
+
+  Bundling/tying with ‘must have’ services and apps, where the bundling leads to anti-competitive 
+foreclosure. Such practices often form part of an “envelopment” strategy, which can often be put into 
+effect  by    a  gatekeeper  platform   entering  a  market  by bundling  its  services  in order  to leverage  its 
+shared  user  base,  data  or  other  common  components,  thereby  excluding  or  marginalising  other 
+competitors in the market. 
+  Restricting  content/service 
+
+to  components, 
+software/hardware  which  is  critical  to  compete.  It  is  often  the  case,  on  the  grounds  of  introducing 
+technical innovations, that digital platforms  compel  competitors to adapt to technological changes 
+introduced  by  the  platform,  which  may    different  proprietary  standards  (which  may  not  always  be 
+possible for competitors, or for whom such adaptation of technical standards  may be very costly), or by 
+requiring payment of an exorbitant price to have access to the standard developed by the platform.  
+Another form of problematic conduct occurs  when platform owners fail to provide advance warning of 
+planned software updates, which result in harm to the performance of a third party’s business that  is 
+operating within the platform’s eco-system (including those situations where they offer services which 
+potentially compete with those of the platform operator). 
+
+interoperability  and  restricting  access 
+
+  Limited data portability due to lack of interoperability (e.g., APIs, limits to sharing customer data), 
+
+which creates obstacles for emerging competitors.  
+
+  Single-homing  requirements  and  restrictions  on  multi-homing,  which  involve    consumers  being 
+compelled  to use on an exclusive basis (or at least primarily)  the gatekeeper’s eco-system, will usually 
+lead to foreclosure risks because  customer switching is being rendered more difficult,  which leads to 
+gatekeepers  attaining strong positions in the market where they can, for example, set the conditions 
+of access to third parties. 
+
+This leads to foreclosure and poorer competitive outcomes for consumers insofar as: 
+
+  Closed  eco-systems  in  particular  prevent  innovative  new  services  from  emerging,  which  affects 
+
+ 
+
+companies of all sizes and is particularly harmful to smaller European companies. 
+For European consumers, detrimental impacts occur through the restrictions in choice for products and 
+services.  We increasingly see our customers being locked into digital eco-systems, rarely switching, 
+while providing ever-increasing amounts of personal data which further ties them into that  eco-system.  
+
+C2 General 
+
+ 
+ 
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+24.1. Please explain your answer. Please indicate which structural competition problems the new 
+tool should tackle or address. 
+
+As explained in our response to question 9.1 above, we believe the Commission should: (i) continue with 
+its ongoing review of, and make certain important updates to, the existing competition law framework to 
+ensure it is fit for purpose; (ii) increase its use of existing powers in relation to interim measures and sector 
+inquiries, and (iii) introduce an ex ante regulatory framework for digital gatekeepers , as set out in 
+Vodafone’s separate response to the DSA consultation, before considering the need for a New 
+Competition Tool. The Commission should only consider further forms of intervention, including any 
+potential New Competition Tool, once these reforms have been introduced and assessed, and if they are 
+shown to be ineffective in addressing the specific competition problems that the Commission is seeking 
+to address. 
+
+Prematurely introducing a new legal mechanism would not only be inconsistent with the principles of 
+proportionality, legitimacy and good administration, and not justifiable for the following reasons: 
+
+  The existing competition law framework is sufficient to address structural competition problems 
+in many cases, especially if the Commission expedites enforcement action (e.g. through use of 
+interim measures as we have suggested above and revises certain Guidelines and Notices (as 
+explained above -see in particular the response to question 9). 
+In particular, we believe the following revisions to Guidelines and Notices will not only enable 
+more efficient and dynamic enforcement of competition, but will be beneficial for competition in 
+the EU: 
+
+ 
+
+o  The Relevant Markets Notice should be updated to encourage a more dynamic and 
+forward-looking market assessment to keep up with the fast pace of digital markets. 
+o  The Horizontal and Vertical Agreements Guidelines should be revised to allow for the 
+
+consideration of theories of harm that arise from vertical and conglomerate foreclosure 
+concerns in digital markets, especially given the prevalence of those sorts of concerns in 
+the digital world, the similar approach to foreclosure adopted under both sets of 
+concerns, and because of the development in thinking about such foreclosure concerns 
+arising in recent merger practice both in the EU and elsewhere, as these types of 
+concerns pose the greatest threat to competition-related barriers for European firms 
+wishing to enter the digital space where firms from other jurisdictions (predominantly 
+the US) are already present.  
+
+o  The Article 102 Enforcement Priorities Guidelines should be updated to specifically 
+address the impact of certain types of digital market business models, identify 
+competition problems associated with the exploitation of such business models, and 
+explain further the rationale behind potential theories of harm that might apply in 
+markets with digital gatekeepers.  
+
+o  The Horizontal Merger Guidelines (in particular on innovation effects) and Non-
+
+Horizontal Merger Guidelines (in particular on conglomerate effects)   
+  The Commission already has extensive powers to gather information about markets where it 
+believes that it is not working as well as it should in part due to competition problems in that 
+market or sector, and to intervene where it is necessary to address irreparable harm to 
+competition and/or consumers. In our view, many of the types of competition concerns that the 
+Commission has raised through this consultation could be addressed through greater use of 
+interim measures powers and sector inquiries, which might require relatively minor 
+amendments to Regulation 1/2003 and which are unlikely to meet with much political 
+opposition at the Member State level.  For example, sector inquiry powers could be strengthened 
+to give the Commission the power to make recommendations to sector regulators and/or 
+legislators. 
+
+C2 General 
+
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+  A new legal mechanism that would allow the Commission to intervene and potentially to impose 
+
+remedies without the need to satisfy the burden of proof required for a finding of 
+infringement of competition law must be approached with great caution in any circumstances.  
+It is questionable whether a new competition tool would be proportionate or legitimate, in 
+particular as it would give the Commission significant powers to intervene in markets without 
+going through the legislative process (e.g. without involving the European Parliament and the 
+Council of Ministers) as it is the case today when the Commission wants to impose remedies after 
+a sector enquiry. 
+
+At a more fundamental level, one must question whether the legal basis upon which the Commission 
+proposes to act can in fact be Article 103 TFEU, read in combination with Article 114 TFEU. Given that the 
+proposed New Competition Tool is proposing to extend the Commission’s powers beyond those granted 
+under Article 101 and 102, it is difficult to see how the proposed measures could be considered to “give 
+effect to the principles” set forth in those Treaty Articles. By the same token, Article 114 TFEU is designed 
+to achieve harmonization in approach as between Member State enforcement, which is also clearly not 
+the policy basis which is driving the new proposed measures.  
+
+Notwithstanding the above, should the Commission ultimately decide to introduce a New Competition 
+Tool, Vodafone’s view is that: 
+
+  With regard to the question of whether it should be dominance-based or market-structure based, 
+it should apply to different related markets in which a gatekeeper platform is active and 
+which can, due to the structural features of the markets, leverage and extend their market power 
+across different relevant markets (not necessarily the individual market where that gatekeeper 
+has market power).  See the response to question 18.8 above for our proposed definition of 
+gatekeeper. 
+Its scope should be limited to digital markets that have tipped, or are on the verge of tipping, 
+towards dominance by a single gatekeeper firm (defined by reference to the criteria set out in 
+response to question 18.8 and in our separate DSA consultation response) resulting in a 
+structural lack of, or identifiable adverse effects on, competition.  Vodafone’s experience does 
+not suggest that it needs to deal with complex oligopoly issues, as explained above, 
+Vodafone’s experiences do not suggest that there are any identifiable candidates beyond digital 
+markets that would justify such an intervention.   
+
+ 
+
+  Where the Commission identifies a structural competition problem in a market subject to 
+
+existing regulation, intervention through sector-specific regulation and/or Articles 101/102 
+should be prioritised and the New Competition Tool should only be used where these tools are 
+insufficient or not capable of addressing the particular problem at hand. This is necessary to 
+avoid inconsistency, duplication and a “double jeopardy” situation.  
+
+  The New Competition Tool must be subject to various checks and balances in terms of its 
+scope/threshold, process, remedies and appeal rights – see our response to questions 29, 30 
+and in Section E below. Currently, the UK regime from which we understand the proposed New 
+Competition Tool takes inspiration has a series of essential procedural checks and balances 
+which are not currently available under the EU competition law regime.  
+
+ 
+
+  The Commission should only be able to intervene in markets pursuant to an investigation under 
+the new competition tool if it can show adverse effects on competition to a sufficiently high level 
+of standard of proof. 
+Finally, to the extent that a New Competition Tool equips the Commission with the power to 
+impose remedies, these should be limited non-binding remedies to companies, 
+recommendations/proposals to sector-specific regulators and/or legislative 
+recommendations. We do not believe the Commission should be able to impose binding 
+remedies on companies in circumstances where it is not first required to establish an 
+infringement of Article 101 or 102. See our response to question 30. As suggested above, 
+
+C2 General 
+
+ 
+Vodafone Group response to the public consultation on a New Competition Tool 
+Question 41 – additional information 
+
+however, we consider that a more proportionate way to achieve this could be through an 
+extension of the Commission’s existing powers for sector inquiries under Regulation 1/2003 to 
+enable it to make recommendations and proposals for regulatory and legislative reform.  
+
+C2 General 
+
+ 
+ 
+

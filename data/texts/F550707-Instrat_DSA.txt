@@ -1,0 +1,498 @@
+Instrat and European Horizons joint consultation for the 
+European Commission’s Digital Services Act package 
+(DSA) and the ex ante regulatory instrument. 
+
+Instrat  and  European  Horizons  appreciate  the  opportunity  to  comment  on  the  European 
+Commission’s Inception Impact Assessment regarding the development of Digital Services Act 
+package (DSA).  
+
+Instrat is a progressive think-tank focused on public policy advisory. We provide research and 
+consult on digital economy, energy and environment, sustainable finance, labour market and 
+inequalities.  We  act  in  the  public interest, in  our work  we  create  and  adapt  open  access  & 
+open source tools.  
+
+European Horizons is a global, student-led policy incubator committed to giving young people 
+a voice in shaping the future of Europe and of transatlantic relations. Through our network of 
+university  chapters  across  the  world,  and  in  collaboration  with  our  partner  organizations, 
+European  Horizons  devises,  tests,  and  advocates  for  innovative  policy  ideas  to  advance 
+European integration. 
+
+Executive Summary: Digital Services Act 
+
+●  Based on our argumentation below, we believe that the European Commission should 
+adopt a comprehensive framework with the overarching goal of establishing a fair and 
+competitive digital market environment, thus increasing innovation and securing digital 
+rights for European citizens. 
+
+●  To  level  the  playing  field,  it  is  necessary  to  rethink  the  fundamental  aspects  of  the 
+digital  space  and  propose  bold  policy  actions,  such  as  defining  the  significant  digital 
+presence, implementing interoperability through vertical separation of platform utilities 
+(decoupling),  listing  prohibited  and  unfair  practices,  analyzing  social  and  economic 
+impacts of algorithms, and strengthening data sharing. 
+
+●  Proper enforcement of both GDPR and DSA requires enhanced reporting and intervening 
+powers.  Therefore,  we  propose  a  new  European  regulatory  body  equipped  with  the 
+mandate to supervise the European Digital Single Market. 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+●  Consequently,  Instrat  and  European  Horizons  recommend  that  the  European 
+Commission choose Option 3 in conjunction with Option 2: ex-ante regulation for large 
+online platforms with significant network effects acting as gatekeepers, which includes 
+a  horizontal  framework  empowering  regulators  to  collect  information  from  those 
+platforms. 
+
+Introduction 
+
+Twenty years ago the European Union introduced the E-Commerce Directive. Since then, the 
+internet  and  the  broader  digital  economy  have  undergone  a  revolution  which  dramatically 
+altered market structures, business behaviors, and user vulnerability. In the early 2000s, digital 
+markets were still highly fragmented and subject to dynamic fluxes, underlined by the dot-
+com bubble. Since then, ICT has become a general purpose technology, affecting all sectors 
+of  the  economy  and  also,  fundamentally,  the  fabric  of  our  societies.  The  growing  divide 
+between  slow-moving  legislative  and  regulatory  bodies  and  fast-paced  technological 
+innovation, combined with disruptive business models of the digital economy, have created an 
+amalgamation of complex and interdependent problems. Of particular concern is the fact that 
+European  citizens  are  increasingly  exposed  to  orchestrated  and  hostile  disinformation 
+campaigns, in addition to being de facto powerless vis-a-vis online platforms and big tech in 
+their claim for fulfillment of their human right to data privacy.  
+
+Consequently, the European Digital Strategy is presently foremost, after the European Green 
+Deal, on the European Commission’s policy agenda for a more integrated Europe.  
+
+To  support  the  existing  European  Digital  Strategy,  the  above  mentioned  problems  must  be 
+addressed through policy solutions and regulatory measures that will facilitate socially and 
+economically beneficial development, both in the common internet and for the broader digital 
+economy, all while deepening European integration. The European Single Market has helped 
+transform  the  European  continent  into  a  global,  economic  heavyweight.  Therefore,  the 
+European  Commission  must  implement  new  regulations  to  strengthen  interoperability 
+between  online  platforms,  data  protection,  and  data  privacy,  and  to  counter  the  anti-
+democratic  phenomena  of  hate-speech  and  disinformation,  in  a  fair,  robust,  and  intelligent 
+manner. Only then can we hope to again witness the so-called Brussels effect: causing the 
+world to follow where the European Commission leads.  
+
+General remarks on the DSA 
+
+The Digital Services Act package is a necessary step to build on the recently introduced General 
+Data  Protection  Regulation  and  to  help  match  European  legislation  with  the  reality  of  the 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+digital economy in the 21st century. The E-Commerce Directive adopted in 2000 has become 
+outdated and is in urgent need of replacement by a more functional and pragmatic legislative 
+package. The Rome I Regulation and the Brussels Regime are directives introduced to govern 
+the  choice  of  law  and  apply  to  contractual  obligations.    Yet  they  both  fall  short  of  fully 
+addressing conflicts related to consumer protection in digital markets. To illustrate, in 2015 
+only one in ten consumers experiencing problems in the digital market received remedies. The 
+respective losses in welfare are estimated to be in the range of €9-11bn. 
+
+Since its inception, the Digital Single Market was expected to facilitate open digital borders, 
+boost e-commerce and retail, and create the conditions for a thriving data economy. Due to 
+the  peculiarities  of  the  digital  environment,  the  European  Digital  Single  Market  increasingly 
+suffers  from  market  concentration  and  deterioration  of  competition.  The  rise  of  dominant 
+online  platforms,  which  leverage  large  network  and  scale  effects  to  turn  themselves  into 
+gatekeepers,  is  economically  and  socially  harmful.  The  already  strong  market  position  of 
+gatekeepers is amplified by SMEs increasingly facing walled gardens. These small and medium 
+enterprises cannot match the sheer scale of data accessible to dominant online platforms and 
+thus risk being pushed out of business. Such structural risks for competition are empirically 
+known  to  foster  decreasing  research  and  development  spending  and,  ultimately,  stall 
+innovation in the European Digital Single Market.  
+
+Significant digital presence 
+
+For the European Commission to effectively implement the new policies collected under the 
+umbrella of the DSA package, it first needs to lay out a precise and robust definition of what 
+constitutes a significant digital presence. Due to the characteristics of the digital market, we 
+recommend  the  European  Commission  differentiate  between  the  applicable  thresholds 
+attributable to the European Digital Single Market: platform revenues; number of users; and 
+number of business contracts.  
+
+It is further important to apply a broader scope to the definition of significant digital presence 
+by  considering  multifaceted  online  platforms.  Only  then  can  regulation  consider  online 
+platforms which incorporate operating systems, multiple applications, application stores, and 
+marketplaces.  Online  platforms  below  a  pre-defined  qualifying  threshold  for  a  significant 
+digital presence will be exempt from remedies aimed at the largest gatekeepers specifically, 
+thus  this  document  uses  the  term online platform when  referring  to  gatekeeper  platforms 
+with significant digital presence. 
+
+Although the issue of corporate taxation lies clearly outside of the scope of this consultation, 
+we want to emphasize that the concept of a significant digital presence was launched and 
+introduced as a pre-requirement for a subsequent digital services tax applied to the European 
+Digital Single Market. Particularly in light of the stalled OECD talks, we identify the need for 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the European Commission to pursue the concept of a digital services tax, ideally implemented 
+through the Digital Services Act package. 
+
+Interoperability and platform utilities 
+
+One  of  the  core  features  of  open  and  accessible  digital  markets  is  the  prevalence  of 
+interoperable standards and protocols, which allow not just for low market entry barriers but 
+also for improved user friendliness. The importance of interoperability was well-understood 
+since HTTP and e-mail protocols facilitated the rise of first generation online platforms. The 
+new  generation  of  online  platforms  and  hardware  operating  systems,  however,  are 
+characterized  by  reduced  interoperability.  Unchecked  by  regulatory  authorities  these  online 
+platforms  leverage  network  effects  to  build  artificial  and  shielded  platform-specific 
+ecosystems. In other words, a lack of interoperability is utilized to decrease competition by 
+heightened entry barriers, effectively boosting market dominance. 
+
+Despite its peculiarities, the digital market is not the sole market affected by network effects 
+and  large  userbases.  Other  sectors  characterized  by  natural  monopolies  are  transmission 
+system operators, telecommunication, railway, or pharma. In order to avoid monopolization, 
+economic inefficiencies, and welfare losses, regulators need to step in to introduce fair and 
+transparent  rules  governing  the  market.  For  many  markets,  the  European  Commission  has 
+already  wisely  established  regulatory  legislation.  Since  the  three  liberalization  packages  for 
+the (horizontal) integration of European energy markets, competition in the market has thrived 
+and ultimately helped facilitate the emergence of renewable energy. A more recent, though no 
+less impactful, European policy measure is the Payment Services Directive, PSD2, addressing 
+fairness and transparency in the banking and financial system.  
+
+In general, most regulatory frameworks which foster infrastructure interoperability entail: 
+
+1)  the decoupling of the underlying network infrastructure from business operations and 
+provisioning of services (i.e. technical hardware and basic operating software); and 
+2)  the enforcement of interoperability on infrastructure operators and a broad regulatory 
+
+regime on service providers. 
+
+We  recommend  implementing  the  very  same  remedies  in  the  digital  market.  Specifically, 
+decoupling of the digital market to establish a digital infrastructure of databases, metadata, 
+standards, and protocols used by online platforms. Secondly, enforcement of interoperability 
+between platform utility operators and businesses providing goods and services in an over-
+the-top  manner.  Minimum  interoperability  requirements  should  be  introduced  to  allow 
+competing  applications  and  SME  software  solutions  to  simply  plug  into  larger  platform 
+systems via standardized communication protocols and programmable database interfaces. If 
+certain  online  platforms  consequently  failed  to  comply  with  these  new  interoperability 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+requirements,  regulatory  authorities  should  apply  remedies  on  the  basis  of  unfair  trading 
+practices and violation of European law.  
+
+Denylists for unfair trading practices 
+
+Because  of  the  slower  pace  of  regulatory  legislation,  today’s  gatekeeping  online  platforms 
+engage in a blurry legal gray zone by relying on unfair market behavior. Therefore, the European 
+Commission’s proposal to establish prohibited unfair trading practices should not be perceived 
+as a radical step but as a long-awaited correction of pre-existing legal loopholes. The special 
+characteristic of digital markets requires legislation which addresses structural competition 
+problems ex ante and not, as so far, ex post. We are convinced that market regulation is more 
+effective when it is not an emergency intervention but is rather of a preventive nature. In order 
+to  pursue  such  a  prevention-driven  approach  several  unfair  trading  practices  should  be 
+included in new digital market denylists:  
+
+●  Cross-financing and cross-subsidizing of otherwise unprofitable subsidiary companies 
+as a strategy to gain market power in adjacent markets (with Amazon Web Services or 
+Google  being  good  examples  of  powerful  subsidiaries  acting  as  cash  cows  for  other 
+subsidiaries)  
+
+●  Data transfer or database merging between subsidiary companies without implicit and 
+optional consent of consumers and users (with data transfer between WhatsApp and 
+Facebook being a prime example) 
+
+●  Self-preferencing  in  search  results  of  any  product  or  service  that  is  economically 
+connected (e.g. when Apple sells apps through its app-store which compete with third 
+party software sold via the same app-store) 
+
+●  Forcing users to accept data sharing, disclosure of private data, or downloads of cookies 
+
+if they aim to access the respective webpage or digital service 
+
+●  Forcing other platforms and apps into a self-preferred payment method 
+●  Bundling and tying sales of digital services and software and hardware 
+
+Enhanced GDPR enforcement 
+
+When the European Commission introduced the General Data Protection Regulation, GDPR, it 
+ventured to protect the most fundamental rights of data subjects. The DSA package is not just 
+a further regulation of the digital market but also the chance to correct shortcomings of the 
+GDPR and to double-down on promising provisions. We reiterate the urgent need for users to 
+have  access  to  effective  and  transparent  data  management  tools  which  support  data 
+portability as outlined in Article 20 GDPR. In addition, users were given the right to request 
+that platform administrators share the stored user data, yet many individual users faced non-
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+responsive  administrators.  While  users  currently  have  the  legal  right  to  demand  digital 
+platforms to disclose what personal data has been stored, users cannot require information 
+about how a digital platform has processed personal user data. In addition to merely requiring 
+online  platforms  to  follow  requests  for  disclosure  of  collected  and  processed  user  data, 
+enhanced  GDPR  enforcement  should  also  lead  to  disclosure  of  the  economic  value  of  user 
+data as online platforms earn huge profits by applying data processing algorithms. By pursuing 
+this approach, the European Commission would build on the official staff working documents 
+on  the  Guidance on the Implementation/Application of Directive 2005/29/EC on Unfair 
+Commercial Practices  and  court  rulings  lamenting  the  practice  by  online  platforms  of 
+obscuring the true cost of service.  
+
+We  appreciate  that  the  European  Commission  pursued  a  path  of  increased  focus  on  data 
+protection in recent years. Yet we need to stress the importance of effective policy solutions 
+and regulations requiring third parties to meet European data protection standards. The recent 
+Schrems II verdict demonstrated well that existing agreements, such as the EU-U.S. Privacy 
+Shield Framework, cannot  guarantee  protection  of  European  data  subjects  at  this  point  in 
+time. Particularly U.S. surveillance programs failed to meet the legal requirements as outlined 
+in Article 52 of the EU Charter on Fundamental Rights. This is of particular concern, as more 
+than 5,000 companies contributing to a €6trn transatlantic economic partnership relied on the 
+functioning of the Privacy Shield. We recommend the European Commission fully leverage the 
+effectiveness of the upcoming DSA package and work towards a new agreement to protect 
+European  data  subjects  in  order  to  uphold  the  principle  of  effective  judicial  protection  of 
+Community law. 
+
+Data sharing and governance 
+
+When large online platforms extract data and the vast associated economic value, it weakens 
+the  competitiveness  in  and  of  the  European  Digital  Single  Market  and  favors  commercial 
+interests  over  social  welfare.  One  could  argue  that  by  leaving  such  practices  unchecked, 
+Europe is massively investing abroad by providing (mostly) free data. Thus, we identified an 
+urgent  need  to  build  trusted  institutions  and  to  strengthen  data  sharing.  Effective  data 
+portability requires a competitive end-point to move data to. In order to provide a competitive 
+platform utility infrastructure, a trusted data sharing space is the minimum requirement that 
+the European Commission should encourage. We recommend that the DSA package grants the 
+minimum possibility of moving data to personal pods in the European Common Data Space. 
+There, data could be further managed in compliance with GDPR and other data governance 
+needs  of  any  individual  or  business.  Data  sharing  should  be  encouraged  via  trusted 
+intermediaries, which ensure interoperability and may restrict access to subjects violating data 
+sharing terms and conditions. The Common European Data Space is well-positioned to pioneer 
+trusted multi-stakeholder data governance. We recognize that investments in cloud computing 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+across the European Union, as outlined in the European Digital Strategy, are well-aligned with 
+the presented policy proposal.  
+
+Algorithmic Impact Assessments for social and economic issues 
+
+Online  platforms  are  obligated  to  perform  Algorithmic  Impact  Assessment  tests  for  high-
+impact  algorithms  on  socio-economic  activities.  This  approach  extends  the  high-risk 
+requirements as outlined in the European Commission’s White Paper on Artificial Intelligence. 
+When online platforms with a significant digital presence change algorithms (such as search 
+engine algorithms), it can lead to unintended consequences on digital markets. Therefore, the 
+European  Commission  should  make  AIA  tests  mandatory  for  all  algorithm  changes  by 
+gatekeepers. The AIA test should measure the following:  
+
+●  Purpose and outcomes of the algorithm change 
+●  Key variables and parameters as well as sourcing of data 
+●  Technical parameters (including loss function, fairness, and performance) 
+●  Harm caused to users (individual and SMEs) 
+
+AIA tests should be performed under a licensing regime. Auditing and testing by a European 
+regulator and mandated research institutes should be a precondition for a change and release 
+of  algorithm  changes.  The  main  outcomes  of  Algorithmic  Impact  Assessments  should  be 
+accessible to the wider public via digital leaflets (similar to practices in the pharmaceutical 
+sector) and need to be in accordance with the explainable AI principle. 
+
+Supervision, data collection, and enforcement 
+
+Online  platforms  should  be  obliged  to  report  to  national  authorities  and,  ideally,  a  new 
+European  regulator,  in  order  to  achieve  greater  digital  market  transparency.  Reported  data 
+should include, but not be restricted to, social media usage, advertisement sales, e-commerce, 
+and chosen high-impact sectors of social and economic activity, such as the housing market. 
+Regular reporting should take place via a dedicated application programming interface. Due to 
+the  digital  market’s  unique  characteristics,  regular  reporting  will  not  require  complex 
+bureaucratic procedures and will be almost costless, as online platforms already monitor user 
+activity data. Thus, successful implementation will only be a matter of introducing a proper 
+automatic supervision framework.  
+
+We  believe  that  the  successful  implementation  and  enforcement  of  a  new  regulatory 
+framework for the European Digital Single Market requires the creation of a new regulatory 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+authority on the supranational level. This regulatory body should oversee, but not be restricted 
+to, the following: 
+
+●  Supervising the implementation and enforcement of the DSA package and of additional 
+digital market legislation, such as the GDPR or the introduction of a digital services tax. 
+
+●  Setting common European standards for reporting and interoperability. 
+●  Collecting  data  and  aiding  Member  States  in  accessing  data  for  effective  national 
+
+policymaking. 
+
+●  Monitoring the digital market, competition, and openness of the internet. 
+
+Recommendation  
+
+Taking the above into account, Instrat and European Horizons recommend that the European 
+Commission choose Option 3 in conjunction with Option 2: ex-ante regulation for large online 
+platforms with significant network effects acting as gatekeepers, which includes a horizontal 
+framework empowering regulators to collect information from those platforms.  
+
+The  current  E-Commerce  Directive  and  competition  frameworks  fell  short  of  addressing 
+changed digital environments effectively. To counter both the existence and the emergence of 
+market  concentration  and  large  online  platforms  acting  as  gatekeepers,  the  European 
+Commission should deploy ex ante tools which will prevent market dominance and abusive 
+behaviors. We recommend the European Commission to implement the extended version of 
+Option 3 to include denylists and tailor-made remedies. Option 3 should be combined with 
+the transparency obligations derived from Option 2.  
+
+If  the  DSA  package  is  to  achieve  the  policy  objectives  presented  in  the  Inception  Impact 
+Assessment,  the  European  Commission  should  introduce  a  strong  regulator  equipped  with 
+bold ex ante instruments countering gatekeepers and unfair competition advantages arising 
+from network effects. The new regulatory body should be additionally empowered to actively 
+monitor the market and to conduct market audits via Algorithmic Impact Assessments. The 
+European Commission would thus safeguard long-term competitiveness and innovation in a 
+fair digital environment respecting our shared democratic, liberal values and the rule of law, 
+all while facilitating social and economic welfare.  
+
+We thus believe that the DSA should facilitate the transformation of the internet towards an 
+open, transparent, fair, and interoperable public space, which fosters the freedom of speech, 
+boosts innovation, and minimizes the spread of harmful content. 
+
+Instrat Foundation: jan.zygmuntowski@instrat.pl 
+www.instrat.pl 
+
+European Horizons: philipp.rombach@europeanhorizons.org 
+www.europeanhorizons.org 
+
+Document dated 8.09.2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

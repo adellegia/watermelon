@@ -1,0 +1,1987 @@
+Ref. Ares(2020)4626558 - 05/09/2020
+
+News  Media  Europe  submission 
+the  European 
+Commission  public  consultations  on  the  “Digital  Services 
+Act package (DSA)” and the “New Competition Tool (NCT)” 
+
+to 
+
+News Media Europe (NME) represents the progressive news media industry in  Europe  – over 2,500 
+media  companies  including  newspapers,  radio,  television  and  internet.  News  Media  Europe  is 
+committed  to  maintaining  and  promoting  the  freedom  of  the  press,  to  upholding  and  enhancing  the 
+freedom  to  publish,  and  to  championing  the  news  brands,  which  are  one  of  the  most  vital  parts  of 
+Europe’s creative industries. 
+
+Recommendations 
+
+•  NME  welcomes  plans  to  establish  a  DSA  and  NCT  and  calls  on  the  European 
+Commission  for  ambitious  legislative  proposals  to  shape  a  safer,  more 
+competitive and inclusive digital future for Europe; 
+
+•  NME  stresses  that  discussions  related  to  the  DSA  and  the  NCT  are  difficult  but 
+timely,  with  the  recognition  that  certain  platforms  routinely  engage  in  harmful 
+market conduct at the expense of other actors, including the news media; 
+
+•  NME highlights that large online platforms are exerting negative pressure on the 
+media industry and by extension on media pluralism, by extracting excess rents 
+that prevent the proper funding of content and journalism in particular;  
+
+•  NME  supports  a  strengthened  secondary  liability  framework  for  intermediaries 
+that  acknowledges  differences  between  content  hosts  and  content  producers, 
+and that offers a conditional safe harbour; 
+
+•  NME stresses the need for a robust ex-ante DSA framework to regulate the market 
+conduct of digital gatekeepers, by prohibiting practices with clear harmful effects 
+such as self-preferencing and data disintermediation; 
+
+•  NME  stresses  the  need  for  a  market-based  NCT  instrument  alongside  ex-ante 
+rules to address the  current enforcement gap,  and sees  added value in an NCT 
+that allows swift intervention in markets, with the ability to impose remedies;  
+
+•  NME stresses that discussions on the sensitivities associated with certain forms 
+of online advertisement should take due consideration of existing European data 
+protection and privacy regulation.  
+
+EU Transparency Register ID: 577812220311-81  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+1. Introductory remarks................................................................................................ 3 
+
+2. The impact of major platforms on media pluralism ............................................. 3 
+
+3. The liability regime of digital services acting as intermediaries ........................ 5 
+
+3.1 Illegal content: the notice-and-take-down mechanism......................................... 6 
+
+3.2 Reviewing the eCommerce Directive liability regime for online intermediaries .. 8 
+
+3.3 Clarifying responsibilities for online platforms .................................................... 10 
+
+3.4 Disinformation as harmful content ...................................................................... 11 
+
+4. The gatekeeper power of online platforms ......................................................... 12 
+
+4.1 Challenges with digital gatekeepers ................................................................... 13 
+
+4.2 Disintermediation problems ................................................................................ 15 
+
+4.3 Competition concerns of news publishers in online advertising ........................ 18 
+
+4.4 Lack of transparency in the ad-tech supply chain .............................................. 21 
+
+4.5 Problems with bargaining power in digital markets ............................................ 23 
+
+4.6 Dealing with imbalances in bargaining power .................................................... 26 
+
+5. Addressing structural market problems through a New Competition Tool ... 27 
+
+5.1 Reflections on the scope and purpose of a new competition tool ..................... 28 
+
+5.2 Harmful market conduct by large platforms not in the scope of the EU 
+competition framework .............................................................................................. 29 
+
+5.3 How the new competition tool could address the concerns of the news media 30 
+
+6. Emerging issues in online advertising ................................................................ 31 
+
+6.1 Transparency in commercial communications ................................................... 32 
+
+6.2 Political advertising ............................................................................................. 32 
+
+6.3 Advertising Technology “Ad-Tech” ..................................................................... 33 
+
+6.4 Personal data and advertising ............................................................................ 35 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introductory remarks  
+
+News Media Europe welcomes the opportunity to take part in the evidence-gathering 
+exercise towards  the Digital Services Act  (DSA) package and the New Competition 
+Tool (NCT). Our feedback will focus mainly on the review of the intermediary liability 
+regime,  the  responsibilities  of  online  intermediaries,  issues  arising  from  digital 
+gatekeepers alongside broader structural competition issues in digital markets, and the 
+introduction of a new competition tool.  
+
+Press publishers  in particular have  important expectations  associated with the DSA 
+and  NCT,  with  the  hope  that  they  will  support  the  key  democratic  function  of 
+professional journalism in a fair and inclusive digital environment. With this in mind, 
+these  instruments  should  actively  contribute  towards  enhanced  media  freedom and 
+creating a level-playing field between news media and tech companies.  
+
+The DSA in particular constitutes a unique opportunity to promote responsible actors 
+in the online space by focusing on the regulation of intermediaries. It is clear that such 
+intermediaries now play a critical if not systemic role in society across a broad range 
+of issues that span beyond mere economic considerations. Indeed, it is crucial that the 
+impact of large platforms on the plurality and sustainability of the media is addressed.  
+
+In  our  view,  the  DSA  should  therefore  contribute  to  strengthening  freedom  of 
+expression,  editorial  control,  the  protection  of  journalistic  sources,  and  the  financial 
+independence of journalism, while the NCT should complement a clear set of robust 
+ex-ante  rules  foreseen  in  the  DSA  package  to  ensure  a  coherent  competition 
+framework that can tackle the abusive market conduct of certain platforms. 
+
+Importantly, the DSA should not undermine existing media-specific legislation such as 
+the Audiovisual Media Services Directive (EU) 2018/1808 and the Copyright Directive 
+(EU)  2019/790.  If  overlaps  are  inevitable,  they  should  strengthen  media-specific 
+regimes, not undermine them, and preserve existing and effective forms of regulation 
+which continue to prove their effectiveness in maintaining high standards of journalism.  
+
+The  governance  of  a  future  DSA  should  involve  cooperation  between  competent 
+national authorities and coordination at EU level to bring procedural efficiencies and 
+improved cross-border enforcement. The creation of a European agency should only 
+be considered on the basis of practical necessity. 
+
+2. The impact of major platforms on media pluralism 
+
+The  emergence  of  online  platforms  over  the  past  two  decades  has  contributed 
+positively  to  the  spread  of  online  news  content,  helping  news  publishers  to  reach 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+greater audiences than ever before. However, online platforms have also had a huge 
+adverse impact on media pluralism in Europe and beyond globally.  
+
+There are multiple underlying reasons for this, but above all is the understanding that 
+the phenomenal growth and profits achieved by certain platforms have taken place at 
+the expense of other market participants.  
+
+It has become clear over recent years that large and powerful online platforms have 
+overtaken  media  companies  and  content  producers  in  their  capacity  as  the  main 
+beneficiaries of digital media content1. Certain large online platforms are able through 
+intermediation to monetise the biggest share of the value of third-party content, mainly 
+through advertising.  
+
+Indeed, certain online platforms now profit disproportionately from third-party content 
+that  they  do  not  produce,  ultimately  to  the  detriment  of  media  plurality.  That  is 
+particularly true when one considers what the real added value of their service is: mere 
+intermediation. Yet with the unique structure of digital markets, platforms are able to 
+extract significant excess value from third-party content that sits in sharp contrast with 
+the actual value they offer.  
+
+This  means  that  it  has  become  much  more  difficult  to  develop  self-sufficient, 
+sustainable businesses in the news industry, which also undermines the ability of the 
+market to sustain more companies and therefore greater media plurality in the form of 
+higher  participation  in  the  market.  That,  in  turn,  has  been  a  key  driver  of  growth  in 
+market concentration since economies of scale have become a necessity to maintain 
+profitability.  
+
+Overall, this broader shift in the allocation of profits along the media value-chain has 
+created  a  serious  and  fundamental  problem.  The  profits  derived  from  monetising 
+content are no longer flowing back to media companies and producers of content, and 
+instead stay within platforms ecosystems, which in turn further undermines business 
+models and content production in the broader media sector.  
+
+Ultimately, unless a direct and fair split approach to advertising revenues derived from 
+monetisation of third party content is adopted, or some form of “new deal for online 
+media” is achieved, it is very likely that problems related to funding of media content 
+will persist and worsen, in particular when it comes to news content because it is so 
+reliant on advertising for funding in the first place2.  
+
+Both Google and Facebook often reduce the debate about the commercial and social 
+value of journalistic content to a simplistic argument which suggests that the provision 
+
+1 Digital Content Next (2017) Distributed Content Revenue Benchmark Report (link) 
+2 Australian Competition & Consumer Commission (2019) Digital platforms inquiry (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of  web  traffic  constitutes  a  one-way,  altruistic and  charity-like  exchange  of  value  in 
+favour of publishers, who in turn should be grateful for the mere existence of these 
+platforms.  
+
+This is of course a deeply flawed reasoning and demonstrates poor judgement and a 
+lack of consideration for other non-commercial concerns of a broader, social value. 
+This line of reasoning also completely ignores and dismisses the fact that it is third 
+party  content,  including  journalistic  content,  that  brings  users  in  the  first  place  to 
+platforms.  
+
+While  the  ability  of  the  biggest  technology  platforms  to  act  independently  of  other 
+market  participants  increases,  they  also  play  an  important  role  in  defining  future 
+formats for digital content and are already attempting to unilaterally dictate and shape 
+the  future  of  news,  powered  through  artificial  intelligence  and  machine  learning. 
+Google’s  Google  Assistant  and  Amazon’s  Alexa  voice-based  assistant  are  good 
+examples of this3.  
+
+Such  products  already  show  that  providing  traffic,  advertising  revenues,  brand 
+attribution  or  any  form  of  payment  or  remuneration  if  any  to  media  companies  and 
+content  producers,  are  not  concerns  at  all.  This  is  deeply  concerning  for  several 
+reasons as it reinforces the abusive cycle of exploitation of third-party content along 
+lines that undermine the principle of fair market competition on the merits.  
+
+3. The liability regime of digital services acting as intermediaries 
+
+The scope of the DSA and its liability regime should not cover news content producers, 
+press  publications  and  works  of  a  journalistic  nature.  The  news  sector  already  has 
+effective  mechanisms  in  place  to  deal  with  content-based  issues.  In  particular,  the 
+newspapers  industry  is  subject  to  independent  regulators’  scrutiny  that  set  high 
+standards of journalism as well as restrictions above and beyond the law. Therefore, 
+the DSA should focus exclusively on online intermediaries. Our comments will focus 
+on the following aspects of the liability regime: 
+
+Illegal content: the notice-and-take-down mechanism  
+
+• 
+•  Reviewing the ECD liability regime for online intermediaries  
+•  Clarifying responsibilities for online platforms  
+•  Disinformation as harmful content  
+
+3 Oxford Reuters Institute for the Study of Journalism (2018) The Future of Voice and the Implications for News 
+(link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1 Illegal content: the notice-and-take-down mechanism  
+
+The experience of news publishers in dealing with illegal content online includes illegal 
+advertising, defamatory statements, intellectual property infringements and others, but 
+often  focuses  on  copyright  violations,  which we  will  use  as  a  basis  to  illustrate  and 
+discuss  a  typical  reporting  procedure  and  the  measures  that  may  consequently  be 
+taken. We wish to stress that the DSA should not try to re-write the Copyright Directive 
+(EU) 2019/790, but rather address situations unforeseen by the law so far. 
+
+Press  publishers  or  their  collective  management  organisations  regularly  monitor 
+whether their content is being illegally reproduced on websites or online intermediaries 
+such as social media, search engines, aggregators, etc. Journalists can also contact 
+press publishers when their articles are reproduced without consent.  
+
+In such case, press publishers have two options on how to proceed: either contacting 
+the  author  of  the  post  directly  (the  alleged  infringer)  or  the  online  intermediary  (the 
+host).  
+
+Generally speaking, infringers are genuinely not aware of copyright law and most of 
+them will  remove the content upon notification – with or without some persuasion  – 
+while only a few will refuse to take action. The situation becomes more complex when 
+the unlawful reproduction takes place in closed social media groups (e.g. Facebook, 
+WhatsApp, Telegram) since it is difficult to identify the unlawful reproduction of content 
+or  the  person  responsible  for  the  group.  Once  the  administrator  is  identified,  press 
+publishers are only able to contact the administrator through the  messaging service 
+(e.g. Messenger). Yet the message can simply be ignored, which brings an end to the 
+procedure.  As more social media groups turn private or closed, i.e. you need to be 
+approved as a member to see what is posted within the group, it becomes increasingly 
+difficult for rightsholders to monitor illegal reproductions. 
+
+Another  option  is  to  contact  the  online  intermediary.  News  producers  or  their 
+representatives  can  send  the  intermediary  a  warning  letter  which  would  typically 
+provide detailed information about which laws are being violated, clear  examples of 
+violations on the website or the platform, which solutions are available and the steps 
+to take to implement these solutions. The warning letter would give the opportunity to 
+either  remove  the  content,  conclude  a  license  or  change  the  content  into  a  lawful 
+format. When no action is taken, a settlement is sent out.  
+
+Press publishers can also notify illegal content through the online intermediary’s own 
+reporting procedure. While information about the reporting procedure is generally fairly 
+accessible, the procedure itself typically proves extremely tedious and inefficient, with 
+ample scope for improvement. 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The experience of news publishers is that reporting procedures are excessively time-
+consuming and that by the time they are concluded, illegal content is uploaded multiple 
+times and broadly disseminated. Filling in a form for every infringing upload is simply 
+impossible. Press publishers could spend  infinite resources filling in complaints and 
+yet  only  a  marginal  number  of  infringements  would  be  addressed  on  large  social 
+networks.   
+
+Social media must be forced to take more responsibility towards repeating infringers 
+and provide a more efficient reporting system to rightsholders. We suggest: 
+
+•  The introduction of precise timeframes to make each step of the notice-and-
+
+action procedure more efficient; 
+
+•  The  obligation  for  the  intermediary  to  actively verify  the  notified  content  and 
+
+quickly follow-up with the flagger; 
+
+•  The  obligation  for  the  online  intermediary  to  notify  users  of  the  decision  to 
+
+remove content with justifications; 
+
+•  Transparent  and  productive  communication  between  the  notifier  and  the 
+intermediary with a direct line, in the same time zone as the notifier and in the 
+local  language.  We  are  of  the  view  that  platforms  could  be  much  more 
+transparent with rightsholders, the same way that users who post illegal content 
+are informed on why their posts are removed from a page. 
+
+•  Building up on the recent CJEU case law4, a stay-down obligation, preventing 
+reappearance of the illegal content once and for all. The Court ruled that an 
+intermediary “can be ordered to remove content identical and equivalent to that 
+found  illegal”  and  that  such  injunction  may  produce  effects  “worldwide”.  We 
+think this is positive development insofar as the rightsholder would only have 
+to  notify  one  illegal  upload  to  have  all  “identical  or  equivalent  infringing 
+contents” removed across borders or on all the company’s services.  
+
+To  summarise,  the  notice-and-action  mechanism  deserves  clarification  and  clear 
+procedural steps, from the reception of the notification to follow-up communications 
+and  decisions  on  removal.  Also,  intermediaries  should  be  bound  by  a  stay-down 
+obligation to avoid multiple complaints on the same content.  
+
+Online intermediaries should be obliged to follow procedural steps based on the clear 
+principle that failure to do so would result in enhanced liability.  It is in platforms’ own 
+interests to act and keep their services free from content that is obviously and by nature 
+
+4 Eva Glawischnig-Piesczek vs Facebook Ireland Limited (Case C-18/18) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+illegal,  such  as  terrorist  content,  child  pornography,  incitement  to  violence,  hate 
+speech, etc. This is less obvious for other types of content that become illegal because 
+they  are  uploaded  without  the  rightsholders’  authorisation.  In  both  cases,  platforms 
+should diligently and swiftly engage in the procedure against illegal content.  
+
+Lastly, while there is merit for the DSA to clarify and harmonise the regime at EU level, 
+national authorities should remain competent to enforce illegal content rules. 
+
+3.2 Reviewing the eCommerce Directive liability regime for online 
+intermediaries  
+
+While we think that some principles of the eCommerce Directive 2000/31/EC (ECD) 
+remain relevant, such as the harmonised liability exemptions, we also believe the DSA 
+should  not  shy  away  from  improving  the  liability  framework  to  promote  a  safer  and 
+fairer digital space.  
+
+When discussing how such an outcome may be achieved, it is necessary to take due 
+consideration for the ban on general monitoring obligations. While the general ban is 
+well-founded, it should not be used by platforms to turn a blind eye on illegal content 
+circulating on their services.  The Internet of today brings risks that did not exist at the 
+time when the ECD was adopted more than twenty years ago. Therefore, it is important 
+to  acknowledge  that  a  certain  degree  of  monitoring  obligation  is  desirable  and 
+necessary  to  make  platforms  more  accountable  towards  business  partners,  public 
+authorities and most importantly the safety of users.  
+
+While  we  believe  that  the  protection  of  fundamental  rights  online  is  crucial  -  an 
+argument that our own industry is particularly receptive to - we think that technologies 
+and  human  review  working  together  can  provide  the  right  balance  to  content 
+moderation  and  should  form  the  basis  for  further  work  in  this  area.  Supporting 
+technologies are important in the fight against illegal content  and bring added-value 
+even  when human intervention  and oversight  remain relevant  to provide a nuanced 
+assessment.  
+
+Second, when it comes to the liability exemptions, the distinction between passive and 
+active hosts (Recital 42) is of crucial importance since it determines whether a host 
+may benefit from the safe harbour. However, experience shows that the distinction is 
+rather unclear and does not encourage platforms to become (pro)active due to the risk 
+of not qualifying for the exemptions, and can lead to inconsistent application of the law. 
+This  ambiguity  also  makes  it  difficult  for  press  publishers  to  start legal  proceedings 
+when they believe there is an online infringement.  Furthermore, we expect that  this 
+dichotomy will only become more uncertain as business models evolve. It is therefore 
+important that the DSA addresses this issue. 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+We  propose  to  clarify  that  an  intermediary  may  be  “active”  whenever  it  performs 
+“curation”, meaning, when it plays an active role towards the content it hosts. Curation 
+for  instance  happens  when  content  is  presented  in  an  attractive  way,  categorised, 
+selected or promoted, and can involve some degree of control over content. Hence 
+curation  is  important  because  it  implies  some  degree  of  knowledge  about  content, 
+which in turn can determine liability according to the existing framework.  
+
+Having said this, we wish to highlight that it is crucial to distinguish between “curation” 
+and “content creation”. Online intermediaries are not content producers even though 
+they increasingly curate third party content. To put it simply, social media and editorial 
+media operate under different business models, with different purposes, and thus call 
+for distinct legal qualifications and regimes.  
+
+An editorial media, such as a press publisher or a news broadcaster, is one that is 
+primarily liable for its own content. This includes situations where the editorial media 
+publishes and takes responsibility for a third party’s content (e.g. a letter to the editor-
+in-chief, an opinion, etc). Concretely, press publishers that have editorial control over 
+their own Internet publications do not benefit from the liability exemptions of Article 14 
+ECD because they do not act as intermediaries5. Therefore, news media is primarily 
+and fully liable for the content it produces. On the other hand, a social media hosts and 
+distributes content uploaded by its users: it is already secondarily liable for third party 
+content and can benefit from the ECD liability exemptions under certain conditions. 
+
+Now, the distinction becomes more and more blurry as business models evolve on 
+both sides. Social media increasingly curates third party content to propose tailored 
+pages. While editorial media increasingly introduces User-Generated Content (UGC) 
+by  encouraging  readers  and  viewers  to  engage  with  news  rather  than  passively 
+consuming it, e.g. when uploading the video of a witnessed event, commenting through 
+live chats, etc. However, the business model for social media is essentially based on 
+UGC  whereas  editorial  media  incorporates  UGC  as  an  accessory  to  illustrate  or 
+comment its own editorial content. The DSA should therefore define a liability regime 
+for social media different from that of editorial news media.  
+
+For  practical  reasons,  there  is  strong  merit  in  considering  whether  creating  new 
+categories of hosting services, such as “social networks” that are in practice in between 
+publishers and distributors, which would be accompanied by a defined and clarified set 
+of  legal  responsibilities  and  liability6.  Such  list  should  not  be  prescriptive  but  rather 
+welcome new business models and include evolving obligations.   
+
+5 Sotiris Papasavvas v O Fileleftheros Dimosia Etaireia Ltd and Others, CJEU (Case C-291/13): “Consequently, 
+since  a  newspaper  publishing  company  which  posts  an  online  version  of  a  newspaper  on  its  website  has,  in 
+principle, knowledge about the information which it posts and exercises control over that information, it cannot be 
+considered to be an ‘intermediary service provider’ within the  meaning of Articles 12 to 14 of Directive 2000/31, 
+whether or not access to that website is free of charge.” para [45] 
+6 Schibsted (2019) Report “Ensuring democracy and freedom of speech online – a need for a balanced regulation 
+of social networks” (link)  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+In any event, it is important that the appropriate online intermediary regime should be 
+a  reinforced  by  a  clear  principle  of  secondary  liability.  Under  the  ECD,  online 
+intermediaries are subject to a secondary (or limited) liability for the content they do 
+not own. This is a good principle. Yet the current regime does not encourage online 
+intermediaries to take action against  certain types of  illegal content and experience 
+shows that self-regulation so far continues to fall short of expectations. Therefore, we 
+suggest  the  DSA  introduces  enhanced  secondary  liability  attached  to  some  duty  of 
+care obligations for major platforms.  
+
+3.3 Clarifying responsibilities for online platforms  
+
+In our view, it is important that the DSA becomes an instrument to promote responsible 
+actors in the online space. As mentioned, while we agree with the basic principles of 
+the eCommerce Directive, what is missing is the notion of due diligence or duty of care. 
+In our view, platforms should take reasonable steps to keep users safe and prevent 
+harming  other  users  as  a  direct  consequence  of  the  activity  performed  on  their 
+services.  Now,  some  online  platforms  often  hide  behind  “the  responsibility  of  their 
+users”  instead  of  owning  up  to  their  own  accountability.  This  status  quo  cannot  be 
+tolerated for major platforms who could be doing much more. 
+
+In theory whether a platform is big or not, the problems and accountability remain the 
+same. But a differentiation based on a threshold system could be put in place  (e.g. 
+based on income or number of users) or using existing instruments under competition 
+law (e.g. market dominance). For instance, such duty of care could apply to “systemic” 
+platforms  that  have  become  so  influential  on  all  aspects  of  life  and  the  economy, 
+including culture, creativity, politics, social life and electronic commerce, that they must 
+carry  a  special  responsibility  towards  society.  We  further  develop  this  notion  in  the 
+“gatekeeper power” section.  
+
+Hosting platforms that are found “systemic” in nature should only benefit from the safe 
+harbour rules applicable under Article 14 ECD provided that they meet clear duty of 
+care  obligations.  This  means  that  large  platforms  that  are  fundamental  to  the 
+architecture of the internet should be bound by special obligations to avoid turning a 
+blind  eye  on  illegal  activities  occurring  on  their  services.  For  instance,  business-to-
+business  intermediaries  could  be  subject  to  a  “know-your-business-customer”  duty 
+requiring identity checks on the basis of official documents (e.g. corporate registration, 
+postal  address,  identity  card,  etc)  to  prevent  fake  accounts  or  pirate  websites  from 
+prospering. Also, UGC platforms, web browsers, search engines or aggregators, could 
+be  bound  by  a  “share-with-care”  obligation,  by  warning  users  to  think  twice  before 
+sharing or redirecting users to lawful options. External auditing could serve to verify 
+whether such duties have been diligently carried out.  
+
+To summarise, the DSA could build on the existing liability regime by clearly defining 
+secondary liability for online intermediaries. For instance, we propose making curation 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+10 
+
+ 
+ 
+an  indicator  that  the  platform  has  knowledge  over  the  substance  of  the  content  to 
+determine liability. Systemic platforms would only benefit from the secondary liability 
+exemptions provided that they perform special duty of care obligations. Such duty of 
+care  obligations  should in  no  circumstance  apply  to  news  publishers  which already 
+follow thorough editorial processes and assume  clearly defined legal responsibilities 
+for the nature of their content. As such, intermediaries should also not interfere with 
+editorial content integrity and media independence by exercising duty of care or other 
+standards in relation to professional news content. Otherwise, online intermediaries’ 
+new  compliance  practices  and  algorithms  risk  delisting,  deranking  or  removing 
+publishers’ content. 
+
+3.4 Disinformation as harmful content 
+
+The DSA is the opportunity to clarify the rules applicable to online intermediaries in the 
+fight  against  disinformation.  However,  such  rules  must  respect  media  freedom  and 
+fundamental rights such as access to information and freedom of expression. Hence, 
+we believe that the DSA should not regulate content but rather encourage platforms to  
+put measures in place to promote trustful sources, become more accountable to the 
+public,  work  with  independent  fact  checkers,  and  demonetise  disinformation  by 
+removing their ability to profit from advertising. Currently, platforms are not sufficiently 
+incentivised to put such measures in place.  
+
+For instance, there can be a significant financial incentive to fabricate and disseminate 
+fake  news,  as  content  published  online  can  benefit  from  advertising  revenue. 
+Producers of fake news notably compete with trusted media providers for the attention 
+of readers and for advertising revenues.  Therefore, professional journalistic content 
+and trusted sources could be put more in the spotlight to give users better access to 
+reliable information.  
+
+We  suggest  the  DSA  imposes  algorithmic  transparency  rules  on  hosting  service 
+providers to ensure the distribution of a diversity of opinions and variety of contents 
+online. In particular, hosting service providers should be subject to accountability rules 
+towards  news  producers  with  regards  to  the  monetization  and  distribution  of  their 
+content.  A  functioning  Digital  Single  Market  should  ensure  that  quality  content, 
+especially professional journalism, is given more prominence and attracts more user 
+traffic than illegal or harmful content.  
+
+Fact-checking UGC can be a solution in the fight against disinformation while avoiding 
+over-removal. However, it is important to preserve the integrity of professional news 
+media  content  that  has  already  been  fact-checked  and  subject  to  strict  journalistic 
+guidelines. In other words, responsibility should never extend to the review of editorial 
+content  to  respect  media  independence  and  freedom.  Nor  should  platforms’  own 
+standards result in the removal or otherwise undermining of the integrity of journalistic 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+content. Our industry already has in place national press complaint systems to deal 
+with concerns associated with professionally edited news content. 
+
+Also,  the  decision  as  to  whether  content  is  “acceptable”  should  not  be  left  to  tech 
+companies’ private policies or community standards. One issue is that disinformation 
+may be subject to different definitions from one Member State to another and such 
+fragmentation can lead to legal uncertainty. In our view, EU guidance could clarify what 
+can  constitute  “disinformation”,  e.g.  the  notion  of  “intention”  to  differentiate  an 
+inaccurate  statement  from  conscious  misinformation,  the  exclusion  of  parody  and 
+satire to preserve media freedom, or generally the exclusion of any definition that could 
+be used as a justification for legal restraints on news media publishers’ content, which 
+is already subject to national laws and the industry’s own codes of conduct. 
+
+That said, decisions related to UGC should be taken in line with cultural differences 
+and  national  rules  for  freedom  of  speech.  Therefore,  regulatory  scrutiny  and 
+enforcement on disinformation should for now be left to national authorities. However, 
+if self-regulatory efforts continue to fall short of expectations, the natural way forward 
+would be additional intervention possibly in the form of co-regulation. Yet there remains 
+a question mark as to whether this would be best achieved at EU or national level. In 
+any event, improved coordination between Member States would yield better results.  
+
+4. The gatekeeper power of online platforms  
+
+News  organisations  in  Europe,  whether  publishers,  radio  or  tv  broadcasters,  must 
+develop a strong and sustainable online presence in order to fulfil their mission and 
+commercial  objectives,  whether  through  the  development  of  own  tools  or  through 
+partnerships with third-party commercial entities.  
+
+In practice, the size of companies involved in the production and distribution of news 
+and the ways in which news consumption is evolving means that publishers very often 
+have to work with large online platforms who, by virtue of market structures, have both 
+the  ability  and  incentive  to  engage  in  anti-competitive  practices  that  distort 
+competition7.  
+
+This  observation  relates  mainly  but  not  exclusively  to  large  and  powerful  platform 
+operators  that  have  become  “systemic”  digital  gatekeepers,  who  are  unavoidable 
+partners and control access to key markets. Such gatekeepers are able to determine 
+the trading conditions for third parties, and to behave independently of other actors in 
+the  online  marketplace  due  to  the  market  power  afforded  to  them  by  their  strategic 
+position as intermediaries.   
+
+7 J. Crémer, Y-A. de Montjoye and H. Schweitzer (2018) Report on “Competition policy for the digital era” (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As such, large platforms can control access to audiences, monetisation tools, data and 
+more.  Such  platforms  are  present  across a  range  of  markets  of  key  importance  for 
+news  companies,  including  search,  social  networks,  app  stores,  over-the-top 
+communications services, and content aggregators, which enables them to leverage 
+their market power into neighbouring markets to the detriment of existing and potential 
+competitors, including news publishers at large.  
+
+EU  competition  law  is  inherently  flexible  enough  to  address  many  of  the  concerns 
+shared by the news media. Yet, it is also by itself insufficient to solve all of the problems 
+identified, and complementary regulation is therefore required in the form of ex-ante 
+regulation89. Below, we explore a number of recurrent areas of concern identified by 
+our industry over the past years, and also provide some case studies, which we believe 
+should inform EU policy makers, across a non-exhaustive range of issues including: 
+
+•  Challenges with digital gatekeepers 
+•  Disintermediation problems 
+•  Competition concerns of news publishers in online advertising  
+•  Lack of transparency in the ad-tech supply chain  
+•  Problems with bargaining power in digital markets 
+•  Dealing with imbalances in bargaining power 
+
+4.1 Challenges with digital gatekeepers 
+
+News publishers are heavily reliant on a few large and powerful intermediaries to do 
+business, notably Google and Facebook, across a number of core business functions 
+such  as  content  licensing  and  distribution,  audience  and  advertisement  analytics, 
+advertising, and other supporting technology services.  
+
+The relationship with these platforms is a complicated one, as previously highlighted 
+in our contribution, since they both offer services used by publishers but also compete 
+with them for the same revenue, while controlling the access to key markets as well as 
+the rules that govern such access.  
+
+These  specific  structural  market  conditions,  combined  with  the  use  of  commercial 
+practices  by  platforms  that  raise  concerns  of  an  anti-competitive  nature,  have 
+increasingly  resulted  in  discussions  revolving  around  the  concept  of  “digital 
+gatekeepers”.  
+
+We  believe  this  problem  identification  accurately  captures  the  relevant  market 
+dynamics at play, especially when it comes to the understanding that certain platforms 
+
+8 Digital Competition Expert Panel chaired by J. Furman (2019) Unlocking Digital Competition (link) 
+9 Stigler Center Committee on Digital Platforms (2019) Final Report and Policy brief on Digital Platforms (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+can also assume a “systemic” role in the marketplace, without necessarily having a 
+“dominant” position in the market within the meaning of EU competition law.  
+
+Digital gatekeepers are of particular concern to news publishers when they build their 
+activities on a strategic market position. This is because such strategic positions in the 
+market  may  not  always  satisfy  the  conditions  for  dominance  that  has  traditionally 
+guided work in the field of EU competition law. In such cases, competition authorities 
+have very limited powers to prevent market conduct that can still result in significant 
+harm for the marketplace and consumers.  
+
+It  is  furthermore  important  that  the  role  of  certain  large  platforms  be  recognised  as 
+“systemic”  in  their  role  across  a  variety  of  regulatory  purposes,  as  the  European 
+Commission acknowledged in its Communication on Shaping Europe’s Digital Future, 
+and  regulators  should  not  shy  away  from  understating  this  reality10.  Such  systemic 
+platforms  essentially  control  access  to  large  markets  that  can  hardly  be  ignored  by 
+smaller third-party operators, creating an uneven relationship of dependency, and can 
+also have significant broader social, political and cultural implications for society.  
+
+In  a  stricter  economic  sense,  systemic  platforms  constitute  unavoidable  partners, 
+which  is  the  experience  that  news  publishers  have  in  relation  to  several  of  the  big 
+technology firms such as Google, Facebook and Apple. As such, they can and should 
+in  our  view  also  be  seen  as  systemic  gatekeepers.  The  economic  model  of  these 
+platform operators means that much of the content on the internet is now accessed via 
+their  platforms,  including  news  and  journalistic  content,  and  it  is  clear  that  a  major 
+relationship of dependency has developed over time.  
+
+The  problem  of  excessive  dependency  has  now  reached  a  critical  juncture  that  is 
+exacerbated  by  the  economic  models  of  certain  intermediation  platforms  which 
+continue to leverage their strategic position in the market to forcibly disintermediate 
+other industries. In practice, certain systemic gatekeepers are now largely able to set 
+the terms and conditions that govern the distribution and accessing of news content 
+via  their  platforms  independently  of  what  other  third-party  commercial  partners  do, 
+demonstrating their ability to behave independently of other market participants and 
+competitors.  
+
+This dynamic is particularly acute and most visible when it comes to access to data-
+related issues, with the prevailing concern of news publishers being the phenomenon 
+of  data  disintermediation.  Both  Google  and  Facebook  are  able  to  strong  arm  news 
+publishers through their respective publishing tools, Google Accelerated Mobile Pages 
+“AMP” and Facebook Instant Articles into giving up any rights on user data or on the 
+data that results from their own commercial activities to the benefit of the closed data 
+ecosystems or walled-gardens that these digital gatekeepers are able to thus reinforce.  
+
+10 European Commission (2020) Communication on “Shaping Europe’s Digital Future” (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  puts  news  publishers  in  a  difficult  position  in  relation  to  systemic  gatekeepers 
+since publishers cannot afford to forego the benefits of having access to the market 
+and user base that these platform operators can provide access to, in order to retain 
+an economically sound footing in the marketplace. News publishers are in this sense 
+coerced to accept unenviable trading conditions and are as such locked in the closed 
+platform ecosystems that systemic gatekeepers develop, alongside their userbase and 
+corresponding data space.  
+
+Looking to the not so distant future, the rise of smart speakers, voice assistants and 
+similar  audio-based  technologies,  raise  significant  concerns  about  a  handful  of 
+companies  becoming  gatekeepers  at  the  centre  of  much  regulatory  debate.  Such 
+internet-of-things devices are likely to rapidly grow to control access to key markets 
+and become unavoidable partners, and the way in which the underlying search function 
+of such devices respond to queries will have a major impact on the media sector11.  
+
+Overall, it is clear to us that there are several ways in which gatekeepers can be looked 
+at and defined. Most importantly for the news industry, is the recognition that certain 
+large  platforms  in  particular  take  on  a  systemic  character  in  their  importance  as 
+commercial partners, and as such become “unavoidable partners”. They are effectively 
+gatekeepers to users, data, and entire markets.  
+
+The  notion  of  gatekeepers  is  not  a  notion  that  should  be  restricted  by  existing  EU 
+competition  law  constructs,  and  should  instead  be  flexible  to  address  the  current 
+shortcoming  of  the  competition  framework.  The  importance  of  specific  criteria  in 
+determining  which  platforms  should  qualify  as  “gatekeepers”,  and  consequently  be 
+included in the scope of a stronger, ex-ante framework for large platforms, should be 
+further investigated in the framework of an impact assessment study.  
+
+4.2 Disintermediation problems 
+
+As the digital economy evolves, many new online platforms that act as intermediaries 
+emerge  and  bring  valuable  and  innovative  services  to  the  marketplace.  That  is  in 
+principle a positive and welcome development that can drive new, mutually beneficial 
+commercial partnerships and bring more choice for consumers.  
+
+However, when the market power of intermediaries or their strategic market position is 
+used to forcibly impose or exacerbate disintermediation effects at the expense of the 
+legitimate  activities  of  third-party  businesses,  with  the  effect  of  coercing  such 
+businesses  into  accepting  otherwise  unacceptable  terms  and  conditions,  such 
+intermediaries raise strong concerns about harmful anti-competitive behaviour.  
+
+11 Oxford Reuters Institute for the Study of Journalism (2018) The Future of Voice and the Implications for News 
+(link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disintermediation  can  take  many  forms  and  gatekeeping  platforms  such  as  Google 
+and  Facebook  have  been  central  to  the  harmful  disintermediation  process  that  has 
+taken place between news publishers and their audiences over the past 20 years. This 
+development  is  highly  regrettable  since  intermediation  by  online  platforms  is  not 
+inherently harmful and could in theory be harnessed to drive healthy competition in 
+digital markets.  
+
+Platforms such as Google and Facebook go to great lengths to control the interfaces 
+through  which  news  content  is  delivered  on  their  platforms  and  to  claim  exclusive 
+ownership  of  users  and  client  relationships.  They  also  further  disintermediate  the 
+advertising  side  of  the  market  as  well  as  audiences,  and  by  extension  they  also 
+disintermediate publishers from data that is critical to the development of sustainable 
+digital business models.  
+
+Disintermediation problems related to data are particularly urgent to address since data 
+serves  not  only  as  input  for  key  business  processes,  but  for  innovation,  for  the 
+development of new products and services, and for spotting emerging market trends. 
+On a broader level, data allows businesses to better engage with their consumers and 
+audiences and enables digital business models to thrive. This is particularly relevant 
+when considering the need to attract paying customers in the form of subscribers. In 
+practice, publishers need to be able to access data if they are to be able to offer good 
+services and to compete with large platforms.  
+
+News  publishers  may  try  to  bypass  the  data  ecosystems  of  large  platforms  and  to 
+develop their own capabilities as competitors, by creating first party data spaces which 
+can  have  multiple purposes.  When  that  is  possible,  more  publishing,  analytical and 
+trading functions can be brought in house and allow for companies to further develop 
+and diversify their business models and strategic capabilities through organic growth. 
+
+This approach, however, can only succeed if  digital platforms do not interfere with the 
+ability  of  publishers  to  collect  and  process  data  associated  with  their  products  and 
+audiences,  and  if  they  do  not  artificially  restrict  the  right  of  legitimate  businesses 
+operating on their platforms to collect and process that data. This problem posed by 
+data disintermediation can be illustrated through several industry products belonging 
+to Google, Apple and Facebook, amongst others.  
+
+In the case of Apple’s App Store, for example, Apple claims to have ownership of the 
+relationship  with  users  of  apps  developed  by  third  party  developers  that  are  made 
+available on its App Store platform. Whereas many news publishers spend significant 
+amounts of time and effort to develop apps to better engage with audiences, and in a 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+spirit of good faith, publishers are only given little to no access to user data because 
+Apple considers that it owns the said data12.  
+
+Apple considers that it owns the said data because the terms and conditions governing 
+the use of the App Store for app developers stipulate that Apple is the contractual party 
+with whom end-users of apps enter into an agreement. The Commission’s decision to 
+open  a  formal  probe  into  the  App  Store  and  the  number  of  complaints  concerning 
+Apple’s policy is testament to the seriousness of the concerns raised over time by such 
+practices.  
+
+It needs to be assessed whether the imposition of terms by platforms such as Apple 
+that systematically disintermediate data and/or seek to limit access to data, constitute 
+an abuse of dominance, and it is equally necessary to assess whether such terms can 
+be  considered  unfair  and anti-competitive  in  light  of  this.  Yet  such  issues  may also 
+arise in situations where a given platform may not be dominant per se in a strict sense, 
+but instead may still be regarded as a digital gatekeeper with important “intermediary 
+power”.  
+
+Here, the Spotify-Apple anti-trust investigation of the European Commission may prove 
+to be a case in point. Apple claims that it is not dominant in any market, and instead 
+faces intense competition in a range of markets such as music, streaming, phones, 
+laptops, etc.  
+
+On the other hand, if one follows the logic of the 2018 Android decision13, it could be 
+argued that Apple faces no competition in app stores for Apple’s iOS, and that Apple 
+is therefore the default monopolist in this market and thus holds a dominant position, 
+and  that  its  App  Store  rules  are  therefore  capable  of  producing  exclusionary  and 
+exploitative effects on app developers at large.  
+
+The  case  goes  to  demonstrate  how  a  finding  of  dominance,  which  could  have  a 
+decisive  impact  on  the  finding  of  whether  certain  practices  are  abusive,  anti-
+competitive and harmful under the current regulatory framework, can vary in outcome 
+as  a  function  of  the  market  definition  process.  Regardless  of  the  outcome  of  this 
+particular case, it follows that it is conceivable that more situations may arise whereby 
+a firm may not be necessarily dominant because of the definition of the relevant market 
+but  could  still  be  engaged  in  practices  with  harmful  effects  on  the  market  and 
+consumers that warrant some form of intervention.  
+
+For  instance,  Apple  recently  announced  that  the  newest  iteration  of  its  operating 
+system “iOS 14” for its desktop and mobile devices will include a new feature: when 
+clicking  on  news  links,  Apple  News+  subscribers,  instead  of  being  redirected  to 
+
+12 The Netherlands Authority for Consumers & Markets (2019) Market study into mobile app stores (link) 
+13 European Commission (2018) Press Release “Commission fines Google €4.34 billion for illegal practices 
+regarding Android mobile devices to strengthen dominance of Google's search engine” (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+publishers’ websites, will be directed to the Apple News + app (this would apply when 
+news publishers are part of the Apple News+ licensing programme)14. 
+
+This effectively amounts to harmful form of data disintermediation which will keep users 
+in  the  Apple  closed  data  ecosystem  to  the  detriment  of  publishers  who  will 
+consequently loose access to valuable data. In this scenario, Apple is leveraging its 
+position  as  a  gatekeeper,  without  necessarily  doing  so  on  the  basis  of  a  dominant 
+market position. 
+
+App stores, in general, also raise a broader question going forward about who should 
+be considered the owner of data, and by extension who should have the legitimate 
+right to access data held by intermediaries. In many cases, such data is essential so 
+that the right level of service can be provided to users and so that businesses may 
+develop their own capabilities and digital business models. Cutting off third parties from 
+accessing such data therefore does not seem fair or legitimate.  
+
+In  fact,  it  appears  counterintuitive  that  intermediary  platforms  rather  than  app 
+developers should own and control access to such key data. When a user navigates 
+the app of a news publisher and benefits from journalistic content on it, it is clear the 
+user is doing so primarily in a capacity as a consumer of a product or service supplied 
+by the app developer. In that case, the fact the content is accessed via, for example, 
+either an app store belonging to Apple or Google, is merely coincidental.  
+
+We therefore believe that the DSA should impose a legitimate data access obligation 
+on platforms acting as gatekeepers towards third-party commercial partners operating 
+on their platform. This would go a long way towards balancing competition in the long-
+term, in ways that competition policy cannot address, especially when non-dominant 
+firms are concerned, and give recognition to legitimate online business models. Such 
+an obligation should explicitly include app stores in its scope.  
+
+Doing  so  would  require  a  competent  regulator  to  have  both  powers  to  collect 
+information from companies involved in data disintermediation, but also to be able to 
+impose tailor-made remedies to specific market participants going forward.  
+
+4.3 Competition concerns of news publishers in online advertising 
+
+Industry experts refer to the online advertisement market as “the duopoly” because of 
+the  overwhelming  market  dominance  of  Google  and  Facebook,  respectively  in  the 
+search  and  display/non-search  markets.  The  high  levels  of  concentration  in  these 
+markets  put  at  significant  risk  the  economic  sustainability  of  present  and  potential 
+
+14 TechCrunch (2020) iOS 14 redirects web links from News+ publishers directly to the Apple News app (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+future business models for news organisations, and media more broadly speaking, that 
+rely on advertising15. 
+
+In  practice,  this  is  reflected  by  the  very  limited  share  of  revenues  derived  from  the 
+selling of advertising space that contribute towards the bottom line of publishers, and 
+disproportionately  high  share  of  profits  that  are  absorbed  by  various  advertising 
+technology companies along the value chain.  
+
+There is no comprehensive and definitive study identifying across markets the typical 
+or average split and distribution of revenues. But the existing literature and anecdotal 
+evidence,  probably  more  on  the  optimistic  side  of  the  discussion,  point  to  news 
+publishers  struggling  in  most  cases  to  achieve  even  half  every  1  EUR  spent  by 
+advertisers at the other end of the supply chain. This is often referred to as the so-
+called “ad tech tax” that ultimately remains difficult to explain and which we elaborate 
+on in the following section.  
+
+Overall,  it  is  concerning  to  observe  the  continued  trend  and  paradox  of  increased 
+popularity and monetisation of digital media content, in particular as regards journalistic 
+content, while the financial gains derived from that very content, or the proportion of 
+those profits that goes back to benefit content producers, remains very limited. In this 
+sense,  the  main  beneficiaries  of  content  monetisation  through  advertising  are  now 
+large and powerful online platforms which intermediate, distribute and monetise third-
+party content.  
+
+It is of particular concern for the news industry that certain platforms not only distribute 
+news content, but also compete for advertising revenue with news organisations while 
+supplying  them  with  advertising  technology-related  services.  This  can  contribute  to 
+exacerbating the gatekeeper relationship between large platforms and news publishers 
+and in this sense, large platforms may have become unavoidable partners to an even 
+greater extent which enables them to impose unenviable terms and conditions. 
+
+In addition, we note that several platforms increasingly compete with news publishers 
+for the provision of news-related products and services, as evidenced by the growing 
+number  of  journalists  that  these  platforms  are  hiring  to  support  their  product 
+development  teams.  This  is  a  testament  to  their  intent  to  move  into  news-related 
+neighbouring markets, in a bid to extract further value from publishers, possibly through 
+greater disintermediation.  
+
+As such, competition with news publishers no longer only takes place along the lines 
+of  advertising  revenues.  Google,  Facebook  and  Apple  all  have  such  products  (e.g. 
+Google News, Google Discovery, Google Accelerated Mobile Pages “AMP”, Google 
+Subscribe, Google Assistant, Facebook Instant Articles, Facebook News Tab, Apple 
+
+15 Competition and Markets Authority (2020) Online platforms and digital advertising report (link)  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+News+), with varying degrees of editorial control being applied to the content itself. Of 
+particular concern is the rise of voice assistants from various technology companies, 
+who would provide voice-based news aggregation services.  
+
+Another  issue  that  deserves  particular  importance  from  the  perspective  of  online 
+advertising, is the shift that internet browsers are forcing through the phasing out of 
+third-party  cookies,  which  are  fundamentally  essential  to  the  ways  in  which  digital 
+advertising  companies  currently  operate,  except  for  Google  who  is  largely  able  to 
+provide advertising services on a first-party basis due to the vast swathes of data it has 
+accumulated over time through its many products and services. 
+
+This  is  why  the  announced  phasing  out  of  third-party  cookies  by  Google by  202216 
+through  the  Google  Chrome  internet  browser  raises  strong  concerns  about  the 
+exclusionary effects it would have on the rest of the online advertising industry. This is 
+of  particular  concern  when  one  considers  that  Google  already  holds  a  dominant 
+position both in the market for web browsers and the online advertising market, which 
+could as a result become further entrenched.  
+
+Google has justified its decision to phase out third-party cookies as informed by privacy 
+concerns, following similar moves by Mozilla’s Firefox and Apple’s Safari browsers. 
+Yet, it seems that eliminating third-party cookies only, if anything, maintains the ability 
+of  companies  such  as  Google  and  Facebook  to  track  users,  while  preventing  their 
+competitors  in  the  advertising  sector  from  doing  the  same,  thus  strengthening  their 
+position as gatekeepers. In practice, it will become harder for other digital advertising 
+companies  to  conduct  their  activities  such  as  browser-based  targeting,  cross-site 
+tracking,  frequency  capping  and  retargeting,  which  are  essential  parameters  of 
+competition.  
+
+Indeed, the move would also not affect the quantity and depth of tracking that Google 
+itself  would  continue  to  conduct,  and  therefore  raises  important  questions  about 
+whether  this  decision  is  really  motivated  by  privacy  concerns,  or  by  abusive  anti-
+competitive  behaviour  with  clear  exclusionary  effects  on  competitors,  since  unlike 
+Mozilla and Apple, Google has a clearly dominant position and important market power 
+in browsers that it can leverage in the online advertising market.  
+
+Addressing  the  concerns  raised  in  relation  to  online  advertising  would  require  a 
+competent  regulator  to  have  both  powers  to  collect  information  from  companies 
+involved in online advertising, but also to be able to impose tailor-made remedies to 
+one or several market participants going forward.  
+
+16 Google Chrome Blogpost (2020) Building a more private web: a parth towards making third party cookies 
+obsolete (link)  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4 Lack of transparency in the ad-tech supply chain  
+
+Transparency in the marketplace is a basic requisite for the development of a healthy 
+competitive environment. Unfortunately, transparency is too often lacking the case in 
+the ad-tech ecosystem and it is clear to us that much more can be done to improve 
+transparency  to  the  benefit  of  all  participants  involved,  businesses  and  consumers 
+alike17.  
+
+It was hoped that the online advertising supply chain’s overall transparency situation 
+would improve from a data protection point of view with the  General Data Protection 
+Regulation (EU) 2016/679 (GDPR), but that has not consistently been the case across 
+the entire advertising ecosystem.  
+
+Indeed, Google has been able to exploit the GDPR to its own advantage to entrench 
+its market position by offering to deliver all advertising technology services in the ad 
+tech  stack  while  also  refusing  to  share  data  with  publishers,  preventing  them  from 
+effectively competing and developing their own capabilities. In doing so, it has also 
+become  clear  that  the  data  protection  standards  applied  by  Google  for  internal 
+purposes,  as  opposed  to  in  relation  to  data  sharing  with  third  parties,  are  by 
+comparison less restrictive. 
+
+Furthermore,  it  has  become  clear  that  in  addition  to  issues  associated  with  data 
+protection, there are also broader and more basic transparency concerns that persist 
+as regards auction mechanisms and bidding processes, matching functions, pricing, 
+hidden fees, remuneration of intermediaries, as well as the wider competitive process.  
+
+A  recent  study  by  PwC  UK  suggests  that  15%  of  every  British  Pound  spent  by 
+advertisers “disappear” in the supply chain and cannot be accounted for, a situation 
+which in our understanding reflects the market reality in other parts of Europe as well18. 
+It follows that there are legitimate questions and concerns about the way in which parts 
+of the ad tech ecosystem work. 
+
+Shedding  light  on  the  competitive  process  is  complicated  because  of  the  difficulty 
+involved in gathering the information necessary to make a good assessment of the 
+landscape. It is notoriously difficult to map out the precise scope of activity of firms 
+involved in online advertising intermediation at technical level alongside market shares, 
+and how such parameters may reflect different competitive processes.  
+
+In this sense, greater transparency across the industry, mandated through regulation, 
+should be seriously considered as a way of ensuring that news publishers can obtain 
+a  better  deal  in  the  online  advertising  market.  This  could  notably  be  achieved  by 
+
+17 Algoware (2019) An overview of the Programmatic Advertising Ecosystem: Opportunities and Challenges (link) 
+18 PricewaterhouseCoopers (2020) ISBA Programmatic Supply Chain Transparency Study (link)  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mandating the development of a transparent, industry-wide standardised process of 
+billing and receipt for ad tech services.  
+
+Yet, this  would remain insufficient to address the current concerns shared by news 
+publishers and other parts of the advertising ecosystem. When discussing the lack of 
+transparency  in  ad-tech,  it  is  also  important  to  discuss  the  role  of  the  Google 
+advertising machinery specifically, since it plays such an important role throughout the 
+entire supply chain from picking the relevant ads, to placing them and measuring their 
+effectiveness on publishers’ websites.  
+
+As the European Commission recently noted as part the Google-Fitbit merger review 
+procedure19, Google is already dominant in online search advertising, it holds a strong 
+market position in online display advertising and, importantly for this discussion, it also 
+holds a strong market position in the supply of ad tech services.  
+
+Because  Google’s  market  power  across  these  key  online  advertising  markets  is  so 
+strong,  it  is  equally  concerning  to  observe  the  absence  of  full  transparency  and 
+disclosure on how it determines its commercial offerings and how they may artificially 
+deflate  the  bottom  line  of  commercial  partners  through  higher  prices  that  harm 
+business users and consumers.  
+
+It  is  commonplace  for  industry  commentators  to  refer  to  the  Google  advertising 
+ecosystem as a “black box”20, where advertisers do not know why they are paying a 
+certain price to put out their ads and do not know whether they are getting the best 
+value for their money, and vice versa when it comes to online publishers.  
+
+Central to this concern is the realisation that Google operates with conflicts of interest 
+as it is significantly active both on the sell and buy-side of the advertising market, with 
+a strong position at each stage of the value chain21. On the basis of its uniquely strong 
+market  power  in  advertising,  Google  is  able  to  charge  significantly  higher  prices  to 
+advertisers than its competitors.  
+
+In this sense, Google has the ability and incentive to exploit its position on both sides 
+of the market by engaging in exclusionary conduct through self-preferencing. In doing 
+so, Google is able to leverage its strong position to make it harder for third parties to 
+compete  on  the  merits.  Google’s  significant  data  advantage  and  the  absence  of 
+meaningful competition in search advertising, from where Google leveraged its strong 
+market position to enter the open display market, only aggravate this concern.  
+
+19 European Commission (2020) Press Release “Mergers: Commission opens in-depth investigation into the 
+proposed acquisition of Fitbit by Google” (link)  
+20 New York Times (2019) The Online Ad World Is Murky. A Group of Companies Wants to Fix That. (link) 
+21 Competition and Markets Authority (2020) Online platforms and digital advertising report (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This creates several risks for rivals such as anti-competitive tying/bundling and a lack 
+of interoperability. This can be exemplified with the merger of Google’s “Double Click 
+for Publishers DFP” (Ad server) and “Ad Exchange AdX” (supply-side platform and ad 
+exchange) products into “Google Ad Manager” in 2018.  
+
+At its very core, Google’s online advertising business is about the real-time electronic 
+buying and selling of ads and advertising space through an advertising exchange. In 
+essence, this business replicates the structure of traded financial markets, except that 
+in Google’s case, it is a single company that simultaneously operates the leading trade 
+venue and the leading buyers and sellers. Google therefore engages in market conduct 
+that would in other electronic trading markets be prohibited by law22. The status quo 
+amounts to having leading banks running the most important stock exchanges. 
+
+It  is  therefore  also  essential,  in  addition  to  developing  more  transparent  billing  and 
+receipting,  to  further  investigate  the  online  advertising  value  chain  and  Google’s 
+multiple roles thereof to determine if it is abusing its position as dominant firm and a 
+systemic gatekeeper, and whether some form of structural separation or prohibition to 
+be active on both the buy and sell sides of the market is consequently necessary to 
+ensure the good functioning of the market.  
+
+This would require a competent regulator to have both powers to collect information 
+from companies involved in the ad-tech ecosystem, but also to be able to impose tailor-
+made remedies to one or several market participants going forward.  
+
+4.5 Problems with bargaining power in digital markets 
+
+One of the key characteristics of the difficult relationship between digital gatekeepers 
+and  news  publishers  is  the  fundamental  imbalance  in  bargaining  power  that 
+consistently prevents third parties from securing better trading condition and which, by 
+extension, enable gatekeepers to operate independently of the rest of the marketplace. 
+
+Typically, this is reflected in the unilateral imposition of terms and conditions that third 
+parties are coerced into accepting due to the gatekeeping role of platforms on which 
+they rely and depend on to do business. A subsequent issue is that such terms and 
+conditions  are  not  always  contestable  since  they  may  not  necessarily  constitute  an 
+anti-competitive practice with harmful effects within the meaning of EU competition law.  
+
+The concern that imbalances in negotiation power highlight between third parties and 
+platforms are already serious and are likely to become worse with time unless policy 
+intervention is carried out, as the European Commission rightly acknowledged in its 
+preparatory work ahead of the Platform-to-Business Regulation (EU) 2019/115023.  
+
+22 D. Srinivasan (2020) Why Google Dominates Advertising Markets (link) 
+23 European Commission ((2018) Impact Assessment of the Platforms-to-Business Regulation Proposal (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In particular, the case of bargaining power of news publishers needs to be considered 
+in  relation  to  Google,  Facebook  and  Apple  who  should  be  seen  as  key  digital 
+gatekeepers notably but not exclusively because they constitute “unavoidable trading 
+partners”24.  
+
+This  uneven  relationship  can  be  illustrated  with  several  problems  that  publishers 
+regularly refer to when discussing the issue of bargaining power, and which reflect to 
+varying degrees the ability of gatekeepers to leverage their market power to entrench 
+their own position in the marketplace. 
+
+For example, these gatekeepers can make sudden and unexplained changes to their 
+basic search (or similar) algorithms, which can have an important, adverse impact on 
+the  web  traffic  of  news  publishers  and  on  their  financial  performance  and  ability  to 
+develop their data capabilities in the longer-term. Repeated efforts to address this issue 
+directly with these companies have yielded little to no attention at all to this ongoing 
+problem. In this area, it is clear that additional rules of conduct of business rules are 
+needed  to  ensure  more  predictability  for  businesses  subject  to  rankings  and  other 
+forms  of  indexation.  In  this  respect,  the  rules  in  Art.  5  of  the  Platform-to-Business 
+Regulation (EU) 2019/1150 on rankings under are necessary but not sufficient.  
+
+Increased algorithmic transparency should also serve the purpose of shedding light on 
+the extent to which the revenues of platforms are linked to third-party media content. 
+That in turn should help establish an equitable distribution of revenue between content 
+producers and intermediaries.  
+
+Another  important  area  of  concern  is  the  unilateral  development  and  imposition  of 
+content delivery formats and standards on gatekeeping platforms, such as Google’s 
+Accelerated Mobile Pages “AMP” and Facebook’s Instant Articles “IA”25. Google’s AMP 
+format has in particular also raised significant concerns in the broader open internet 
+community26.  
+
+For  news  publishers,  the  AMP  standard  is  concerning  because  refusing  to  use  it 
+basically results in lower rankings in search and exclusion from news carousels found 
+in the Google News and Google Discover products. As such, it amounts to exclusionary 
+conduct. Furthermore, the AMP format also means that content is hosted and served 
+directly via Google’s own proprietary servers and domains which means that users are 
+kept within the Google ecosystem or walled-garden which reinforces its own market 
+position.  
+
+24 P. Alexiadis and A. de Streel (2020) EUI Working Papers: Designing an EU Intervention Standard for Digital 
+Platforms (link) 
+25 Columbia Journalism Review (2018) Google’s new hands-off approach to AMP fails to satisfy its critics (link)  
+26 AMPletter.org (2018) A letter about Google AMP (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This creates several disadvantages for news publishers such as making it harder to 
+build direct relationships with audiences, reducing the subscription conversion rates, 
+limiting the use of interactives features in articles, damaging advertising revenues for 
+publishers, and preventing the collection and processing of user data.  
+
+The AMP standard further comes with onerous terms and conditions that grant Google 
+excessively broad present and future rights over content which would, in the absence 
+of  an  imbalance  in  bargaining  power,  otherwise  be  rejected  as  unfair.  These  terms 
+form in our view the basis for possible exploitative abuses.  
+
+Concerns broadly similar to Google’s AMP exist in respect of Facebook’s sister product 
+“Instant Articles”. With the development of a Facebook “News Tab” product, and its 
+expected roll out in Europe this year or next, there are growing concerns that Facebook 
+may  coerce  publishers  into  adopting  the  content  delivery  format  standard  by 
+developing  search  rankings  that  penalise  publishers  that  do  not  make  use  of  it, 
+resulting in exclusionary conduct similar to Google with AMP and the Google News 
+and Google Discovery products.  
+
+As in the case of changing algorithms, both Google and Facebook have shown very 
+little interest in sitting at the table with news publishers to discuss concerns associated 
+with the AMP and IA products, which illustrates the problem of bargaining power that 
+publishers face. For large gatekeeping platforms like Google and Facebook, it does 
+not matter if a few publishers refuse or reject their products and terms and conditions 
+at an important cost whereas the opposite is true for publishers who are dependent on 
+fair access to those markets to develop a strong and sustainable digital presence.  
+
+A more recent illustration of this same problem can be observed in the ongoing dispute 
+involving Google and French news publishers in relation to the implementation of the 
+Copyright Directive (EU) 2019/790, which affords news publishers a new neighbouring 
+right which entitles them to remuneration for the exploitation of their content.  
+
+This dispute, which we expected will be replicated in other Member States and beyond 
+globally,  as  evidenced  by  recent  developments  in  Australia27,  demonstrates  the 
+problematic nature of Google’s bargaining power in relation to news publishers, raising 
+important concerns from the perspective of competition law and provisions against the 
+abuse of dominant positions.  
+
+Google is currently able to leverage is market power and far superior bargaining power 
+to prevent the application of Article 15 of the new Copyright Directive (EU) 2019/790. 
+The French competition authority found in its preliminary decision28 that Google has 
+potentially  abused  its  dominant  position  in  the  search  market  by  offering  news 
+
+27 Financial Times (2020) Google says Australian news rule threatens free search services (link)  
+28 Autorité de la Concurrence (2020) Press Release “Related rights: the Autorité has granted requests for urgent 
+interim measures presented by press publishers and the news agency AFP (Agence France Presse).” (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+publishers inequitable terms that are also in breach of the spirit and objective of the 
+Directive.  
+
+Last but not least, the terms and conditions governing the use of Apple’s App Store 
+can also be used as example of imbalance in bargaining power. In essence, it is equally 
+difficult  for  news  publishers  to  forego  a  presence  on  the  Apple  ecosystem  and 
+publishers are therefore forced to accept whatever terms and conditions Apple wishes 
+to impose, even when this may amount to exploitative abuse.  
+
+Currently, publishers who develop their own apps face important restrictions on what 
+they  may  communicate  to  their  users  through  their  apps,  and  the  required  use  of 
+Apple’s proprietary in-app purchase system to sell content, which in turn is tied to a 
+significant fee, and consequently eliminates competition in payments. Unfortunately, 
+Apple  has  shown  no  interest  in  discussing  those  terms  and  conditions  in  the  past, 
+which also points towards bargaining power problems.  
+
+Regarding  the  specific  issue  of  payments,  we  believe  that  additional  regulation  is 
+needed to ensure open competition. This issue is not new, and EU legislation is already 
+in  place  to  ensure  competition  in  payments  when  it  comes  to  banking  institutions 
+through the second Payment Services Directive (EU) 2015/2366. We support similar 
+legislation to avoid exploitative abuses.  
+
+The bargaining power issues identified demonstrate that a stronger form of regulatory 
+incentive is needed to ensure more balance in the way in which platforms interact with 
+news publishers. In our view, the introduction of an ex-ante framework with horizontal 
+rules for large platforms, inter alia on self-preferencing and other forms of exclusionary 
+and exploitative practices, must be an important element of the regulatory response.  
+
+4.6 Dealing with imbalances in bargaining power 
+
+Broader  concerns  over  imbalances  in  bargaining  power,  specifically  in  relation  to 
+media  players  and  news  publishers  in  particular,  are  not  new.  Indeed,  there  have 
+already been debates about whether the industry should be granted a waiver from anti-
+trust laws in order to engage in collective bargaining with systemic gatekeepers such 
+as Google and Facebook. The idea is that such bargaining rights could cover different 
+activities,  such  as  terms  and  conditions  of  content  distribution,  and  content 
+monetisation via licensing and advertising.  
+
+That  has  indeed  been  the  recommendation  of  several  policy  initiatives  globally.  In 
+Australia, the ACCC has recommended a mandatory bargaining code of conduct to 
+govern the relationship between news media and Google and Facebook, to address 
+bargaining  power  imbalances29.  In  the  US,  a  bill  “Journalism  Competition  and 
+
+29 Australian Competition & Consumer Commission (2019) Digital platforms inquiry (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preservation  Act”  is  currently  being  debated  in  the  anti-trust  subcommittee  of  the 
+Judiciary Committee30, to grant news media a waiver from anti-trust law to allow them 
+to enter into collective negotiations and increase their bargaining power.  
+
+Closer to home in Europe, the German legislator adopted a law in the form of the 9th 
+Amendment Bill to the Act Against Restraints of Competition which entered into force 
+in June 201731. The amendments included inter alia an exemption from cartel rules for 
+certain forms of cooperation between publishers of newspapers.  
+
+More recently, the UK competition authority as part of its “Online platforms and digital 
+advertising” market study recommended the establishment of a pro-competitive digital 
+regulatory regime, including the development of a code of conduct that would inter alia 
+cover elements of the publisher-platform relationship, with issues such as control over 
+content, content monetisation and access to user data being addressed32.  
+
+Our view at EU level is that it is clear that further tools, possibly along the lines of some 
+of  those  described  above,  are  needed  to  address  the  current  acute  imbalance  in 
+bargaining power between news publishers and systemic digital gatekeepers, possibly 
+building further on the Platform-to-Business Regulation (EU) 2019/1150 instrument.  
+
+Experience from publishers demonstrates that it is very difficult to bring any of those 
+platforms to the table in the first place, let alone to discuss the possibility of deviating 
+from the anti-competitive baseline trading relationship that these systemic gatekeepers 
+seek to impose on business users.   
+
+News  Media  Europe  has  previously  called  for  news  publishers  to  benefit  from  a 
+General Block Exemption Regulation at EU level to allow for collective bargaining rights 
+vis-à-vis certain digital gatekeepers  that would ensure better negotiation power and 
+immunity from anti-trust cartel rules. We wish to reiterate this call.  
+
+5. Addressing structural market problems through a New 
+Competition Tool  
+
+The previous sections identified and described some of the key competition problems 
+faced by news media when doing business in the digital economy. Even if some of 
+those challenges are specific to the media sector and news publishers, it is also clear 
+that many are not insofar as they also concern other businesses operating in digital 
+markets in their capacity as business users of, or third parties to, large online platforms.  
+
+30 US Congress (2019) Journalism Competition and Preservation Act of 2019 (link) 
+31 Bundeskartellamt (2019) Act against Restraints of Competition (link)  
+32 Competition and Markets Authority (2020) Online platforms and digital advertising report (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 Reflections on the scope and purpose of a new competition tool 
+
+The competition problems faced by news media warrant in our view the introduction of 
+both ex-ante rules for digital gatekeepers and of a complementary new competition 
+tool to preserve and restore dynamic competition in digital markets. In particular, the 
+introduction  of  ex-ante  rules  for platforms  is  also  in  itself  unlikely  to  be  sufficient  to 
+address emerging competition concerns associated with digital markets given the pace 
+at which such markets evolve. As such, the introduction of a new competition tool as a 
+complementary instrument to ex-ante regulation becomes critically important to ensure 
+a healthy competitive process. 
+
+In  this  sense,  we  believe  that  the  proposed  new  competition  tool  could  bring  most 
+added  value  to  the  EU  competition  framework  as  a  horizontal,  market-based 
+instrument  because  it  could  accordingly  provide  a  clear  basis  for  market-wide 
+interventions  to  proactively  promote  competition,  not  only  on  the  basis  of  market 
+conduct  but  also  of  market  features.  Such  a  change  in  the  underlying  approach  to 
+enforcement would in our view constitute positive and progressive change, but also at 
+a more practical level address some of the substantive gaps or limitations associated 
+with ex-ante regulation.  
+
+Some  digital  markets  exhibit  important  structural  risks  for  competition,  while  others 
+experience a structural lack of competition. The latter in particular may arise notably 
+but  not  exclusively  when  the  concerned  market  is  tipping  or  has  already  tipped,  or 
+when certain firms become insulated from dynamic competition because their strong 
+market  position  becomes  so  entrenched  that  the  market  is  no  longer  properly 
+contestable. It is by now abundantly clear that digital market failures are more prevalent 
+than  some  commentators  would  suggest,  especially  in  light  of  repeated  claims  not 
+supported by little to no evidence that digital markets experience intensive competition 
+and that markets remain highly contestable. 
+
+It  is  clear  that  many  market  features  can  play  an  important  role  in  producing  such 
+structural outcomes and they include but are not limited to market concentration, high 
+vertical  integration  (and  ensuing  conflicts  of  interest),  lack  of  multi-homing,  lack  of 
+access  to  data,  extreme  economies  of  scale  and  scope,  strong  direct  and  indirect 
+network effects, the gatekeeping role of some platforms and broader relationships of 
+economic dependency, the development of platforms ecosystems or walled-gardens, 
+and  general  lack  of  transparency.  When  combined,  these  dynamics  favour  the 
+continued  incumbency  of  large platforms  and  raise  questions  as  to  whether  certain 
+markets are even still contestable.  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.2 Harmful market conduct by large platforms not in the scope of the EU 
+competition framework 
+
+At  a  more  granular  level,  it  is  of  particular  concern  that  large  platforms  are  able  to 
+leverage their market power, or strategic market position in the case of gatekeepers, 
+from one market to another, or multiple others, in ways that are not possible for other 
+market operators to replicate and that are inconsistent with the principle of competition 
+on the merits. As such, it is important that the current regulatory toolbox is strengthened 
+when it comes to platforms that are largely insulated from dynamic competition, and 
+who engage in harmful market conduct, especially when the said conduct is identified 
+in the absence of a finding of dominance within the meaning of EU competition law and 
+Article 102 TFEU.  
+
+This is important because some platforms may in the absence of a dominant status in 
+a given defined market still play a role of systemic importance in the marketplace, for 
+instance by virtue of their role as gatekeepers, derived from their strategic position in 
+the market as an intermediary. The market conduct of such gatekeepers is as such 
+able to produce important exclusionary and exploitative effects to the detriment of other 
+economic operators and consumers alike, that should raise serious concerns about 
+harm.  
+
+It is therefore essential that the new competition tool does not become a dominance-
+based instrument. A case in point may be the emerging market smart speakers, voice 
+assistants  and  similar  internet-of-things  audio-based  technologies  which  raise 
+significant concerns about a handful of companies that may become gatekeepers33 in 
+an oligopolistic market structure, where no single platform may necessarily achieve a 
+market dominant status.  
+
+The French competition authority put forward earlier this year interesting proposals on 
+digital gatekeepers34, reflecting a progressive understanding of underlying theories of 
+harm in digital markets applicable in the case of non-dominant undertakings. In that 
+context,  a  number  of  harmful  and  abusive  gatekeeper  practices  were  identified  as 
+raising  concerns  including  discrimination,  preventing  access  to  markets  where  the 
+gatekeeper  is  not  dominant,  leveraging  data  where  the  gatekeeper  is  dominant, 
+making  interoperability  more  difficult,  making  portability  more  difficult,  and  making 
+multihoming more difficult.  
+
+It is also clear that the current competition framework has reached its limits when it 
+comes to markets that have already irreversibly tipped, or are about to tip, and that 
+new  and  better  use  of  restorative  remedies,  including  interim  measures,  is  needed 
+
+33 Oxford Reuters Institute for the Study of Journalism (2018) The Future of Voice and the Implications for News 
+(link) 
+34 Autorité de la Concurrence (2020) Contribution de l’Autorité de la concurrence au débat sur la politique de 
+concurrence et les enjeux numériques (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+going  forward.  The  new  competition  tool  should  therefore  aim  to  address  this 
+enforcement gap. For this to be possible, the scope of the proposed instrument should 
+cover both structural and non-structural (behavioural) remedies.  
+
+That is especially important given recent experience and difficulties associated with 
+overseeing  the  effective  implementation  of  behavioural  remedies  in  digital  markets, 
+which  we  suspect  will  gradually  lead  to  more  prevalent  use  of  structural  remedies, 
+especially if the aggressive market conduct of certain platforms remains unchanged. 
+We  furthermore  wish  to  highlight  the  importance  of  explicitly  including  data-related 
+remedies in the scope of the proposed instrument, including mandated access to data 
+for  third  parties,  mandated  interoperability,  and  mandated  data  separation  or 
+prevention from integration.  
+
+5.3 How the new competition tool could address the concerns of the news 
+media 
+
+Overall, it is our understanding that a new competition tool should be an instrument 
+sufficiently flexible to address a variety of different competitive scenarios that may arise 
+in digital markets. One of the main benefits of a new competition tool should therefore 
+be to promote timely and efficient intervention in such markets before irreparable harm 
+occurs, in what may be described as strengthening the preventive arm of competition 
+policy. Keeping up with change in digital markets is already widely recognised as a 
+major challenge for competition authorities that contributes to the enforcement gap35. 
+The proposed instrument should therefore seek to add value in this area.  
+
+Our  submission  identifies  several  situations  where  the  imminent  launch  of  new 
+products and services by large platforms, or changes to terms and conditions, are the 
+source of competition concerns, and where a new competition tool could be envisaged 
+as an instrument capable of swift and proportionate intervention on justified grounds, 
+before irreparable harm occurs. The market-wide intervention powers are also relevant 
+in  such  cases  to  avoid  “reinventing  the  wheel”  in  some  scenarios,  such  as  those 
+involving Google’s harmful market conduct in vertical, specialised search markets. 
+
+So while it is clear that a number of procedural safeguards should be introduced as 
+regards the new competition tool, both as a matter of general good law and to ensure 
+that  the  tool  is  not  misused,  such  safeguards  should  not  be  so  burdensome  as  to 
+undermine  timely  intervention  in  the  market  or  to  reproduce  lengthy  procedures 
+traditionally associated with competition cases, or be opened to other abusive “delay 
+tactics”. Any process of judicial review should benefit from a fast track procedure with 
+competent courts of justice.  
+
+35 J. Crémer, Y-A. de Montjoye and H. Schweitzer (2018) Report on “Competition policy for the digital era” (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In any event, it remains essential for any new competition tool to have sufficient powers 
+to pose a credible challenge to the systemic, anti-competitive market conduct of certain 
+large online platforms. It is clear that large platforms are able to approach competition 
+proceedings  as  a  cost  of  doing  business,  while  conversely  for  other  businesses  in 
+digital markets the questions at stake are more often than not of an existential nature. 
+The new competition tool should therefore act as a deterrent against harmful market 
+conduct  and  bring  more  discipline  to  digital  markets,  with  the  understanding  that 
+dissuasiveness should remain a cornerstone of EU competition policy.  
+
+As concerns the relationship between the proposed new competition tool and other 
+competition instruments, such as sector inquiries, enforcement through cases and the 
+foreseen ex-ante rules, some clarifications would be needed regarding the preferred 
+approach according to the circumstances. As previously iterated, we view one of the 
+major benefits of a new competition tool as the ability to swiftly intervene in markets to 
+prevent irreparable damage.  
+
+That will however only be possible if the substantive standard of proof to be met for 
+imposing necessary and proportionate remedies is lowered, possibly reversed under 
+specific  circumstances,  as  compared  to  current  practice  in  individual  enforcement 
+cases. Since the process should be open to judicial review and would not involve the 
+formal  finding  of  an  infringement  nor  fines  or  other  penalties,  this  seems  to  be  a 
+reasonable compromise approach that could safeguard procedural fairness while also 
+ensuring the flexibility required to successfully operate the proposed instrument.  
+
+6. Emerging issues in online advertising 
+
+Online advertising plays a uniquely important role in funding journalism across Europe, 
+at a time of important difficulties for our industry. The digital transformation of news 
+publishers in particular continues to be a complicated process as the growth in digital 
+revenues is often insufficient to offset lost revenues from the legacy print business.  
+
+Regulatory initiatives in the field of advertising are therefore of direct concern to our 
+industry  which,  in  the  wake  of  important  challenges  in  developing  new  content 
+monetisation strategies, will continue to be very reliant on advertising revenues to be 
+able to fund quality journalism in the foreseeable future.  
+
+Based  on  the  European  Commission  public  consultation  and  discussions  in  the 
+European Parliament on the Digital Services Act, we wish to submit comments on a 
+number of advertising-related themes: 
+
+•  Transparency in commercial communications  
+•  Political advertising 
+•  Advertising Technology “Ad-Tech”  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Personal data and advertising 
+
+6.1 Transparency in commercial communications 
+
+There  is  absolutely  no  doubt  that  advertisement  should  be  identifiable  as 
+advertisement, whether that is on paper or in a digital format36. EU legislation already 
+ensures in several ways that “commercial communications” should be identifiable as 
+such,  even  if  the  precise  standards  through  which  this  requirement  is  implemented 
+currently varies depending on the Member State.  
+
+It is indeed also necessary to ensure that audiences are able to correctly identify who 
+is communicating with them through online advertising, and who is paying for the ads 
+that are being delivered to them, so that a safe and trusted online space is fostered.  
+
+With  such  concerns  borne  in  mind,  the  news  media  industry  continues  to  be  very 
+supportive of self-regulatory initiatives in the field of advertising as means of achieving 
+good  outcomes  that  balance  all  the  interests  at  stake  in  this  debate.  Our  industry 
+proactively supports self-regulation as means of achieving more efficient and better 
+results than through lengthy and burdensome regulatory procedures involving public 
+authorities.  
+
+We  and  our  members  work  together  with  self-regulatory  organisations  at  European 
+and  national  level  to  ensure  that  problems  identified  by  consumers,  regulators  and 
+businesses in relation to commercial communications, be they related to content or 
+delivery, can be addressed in a good manner.  
+
+We are of the view that if there are concerns associated with the status quo concerning 
+transparency requirements on commercial communications, that this should be raised 
+as an issue with self-regulatory bodies in the first place to better understand whether 
+legislation  is  even  needed  or  justified.  We  remain  available  to  further  discuss  the 
+ongoing work in the field of advertising self-regulation.  
+
+6.2 Political advertising 
+
+The issue of political advertisement has received significant attention in recent years 
+due to various interrelated developments. There have been suggestions that the EU 
+should seek to further regulate such advertising, notably based on the understanding 
+that  what  is  illegal  offline,  should  also  be  illegal  online.  We  therefore  share  some 
+observations below.  
+
+36 International Chamber of Commerce (2018) Advertising and Marketing Communications Code (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Much of the discussion on political advertising follows from growing concerns about 
+disinformation, election interference and large-scale manipulation taking place in the 
+ecosystems of powerful online platforms.  
+
+Often,  however,  such  political  ads  that  are  cause  for  concern  are  enabled  by  the 
+mismanagement of citizens’ data by large online platforms, who continue to face little 
+to no accountability for their role and lack of transparency. 
+
+It is clear that large online platforms such as those operating as social networks could 
+do much more to ensure that political advertising takes place under sound conditions. 
+This includes but is not limited to transparency for users on why they are seeing certain 
+ads, verifying the identity of advertisers, and revealing how much political advertisers 
+are spending, for instance.  
+
+We therefore suggest that possible additional regulation should be targeted and limited 
+in scope so as not to adversely impact editorial media that is already regulated and not 
+the source of the concerns that tend to be raised (eg. print, journalistic outlets online, 
+radio and tv).  
+
+In fact, more traditional forms of media such as print and broadcasters are in most EU 
+countries, in one form or another, already covered by relevant legislation and laws that 
+apply to political advertisement, notably through electoral law.  
+
+We therefore wish to avoid conflict with or overburdening existing systems that may 
+already be functional, with additional regulation that could have the adverse effect of 
+undermining existing measures or overburdening editorial media.  
+
+6.3 Advertising Technology “Ad-Tech”  
+
+The ad-tech and broader third-party ecosystem that characterises the contemporary 
+online advertising industry is very important to news publishers because it allows news 
+organisations  to  efficiently  monetise  their  content  without  necessarily  having  to 
+possess  the  relevant  in-house  technological  knowledge  and  expertise.  This  is 
+particularly  useful  for  smaller  and  medium-sized  businesses,  such  as  local  and 
+regional publishers.  
+
+In practice, the use of advertising technology allows news publishers to drive a better 
+match between the ads served and the audiences that they reach, meaning that such 
+ads have a better conversion rate (ie. the desired outcome in terms of either raising 
+awareness  or  leading  to  an  actionable  outcome  such  as  the  sale  of  a  product  or 
+service).  For  this  reason,  advertising  space  can  command  a  higher  price  with 
+marketeers, which helps to drive profitability.  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Working with third parties to form an online advertising supply-chain, however, also 
+means that news organisations are only partially in control of the supply-chain. This 
+loss of control is not inherently harmful but poses a number of challenges in the present 
+environment in the absence of an appropriate overarching framework that helps ensure 
+collective responsible behaviour and accountability in the marketplace. 
+
+The current challenges are in particular exacerbated by the presence of tech giants 
+with immense market power who are in position to act unilaterally with no regard for 
+other market participants. The strong position and vertical integration of Google along 
+the ad-tech value chain is of major concern here. As such, it is clear to news publishers 
+that much more can be done to improve transparency to the benefit of all participants 
+involved.  
+
+While the overall situation has arguably improved from a data protection point of view 
+since the GDPR came into force in 2018, there are still basic transparency concerns 
+that persist as regards bidding processes and matching functions, pricing, hidden fees, 
+and  the  wider  competitive  process.  For  instance,  and  as  already  explained  in  the 
+section concerning gatekeepers, a recent study by PwC UK suggests that 15% of every 
+British  Pound  spent  by  advertisers  “disappear”  in  the  supply  chain  and  cannot  be 
+accounted for37.  
+
+As news publishers seek to develop a trusted and safe digital environment in which to 
+serve customers and to develop better products and solutions, they need to ensure 
+that all of their partners act responsibly. It is therefore of the highest importance that 
+news publishers, also being ultimately responsible for the impact that activities may 
+have on direct users of their service, are able to conduct audit assessments of other 
+participants in the supply-chain, even in the absence of direct contractual relationships 
+with advertising intermediaries.   
+
+As  industry  best  practice  and  norms  evolve,  such  auditing  practices  are  becoming 
+more common place and accepted. However, not all market participants, least of which 
+large online platforms, and in particular Google who maintains an extremely strong and 
+vertically integrated presence throughout the online advertising market, are willing to 
+accept  to  be  transparently  audited  for  the  purpose  of  ensuring  that  acceptable 
+standards  are  met  in  the  broader  process  of  serving  ads  to  users.  Regulation  may 
+therefore be needed to ensure that the use of audit procedures becomes possible.  
+
+While such effective, enforceable controls targeted against the platforms need to be 
+implemented quickly, in the meantime, an immediate practical approach, could be to 
+encourage the development of a self-regulatory system of transparent receipting and 
+billing, enabling buyers and sellers of advertising inventory to better understand the 
+
+37 PricewaterhouseCoopers (2020) ISBA Programmatic Supply Chain Transparency Study (link) 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+underlying  financial  dealings  that  drive  the  distribution  of  profits  along  the  online 
+advertising value chain.  
+
+The importance of conducting such audits cannot be understated. There are concerns 
+associated  with  competition  law,  consumer  protection,  data  protection,  privacy 
+protection, disinformation, other forms of harmful content, and other illegal or bad ads. 
+All of these possible areas of concern warrant some degree of access to all participants 
+in the supply chain to ensure better control by first parties and to safeguard the best 
+interest of legitimate businesses and consumers alike.  
+
+We stress that any new regime should be targeted at the platforms, neither placing 
+new or broader legal responsibilities upon publishers, or allowing the platforms to shift 
+their  responsibilities  to  them,  nor  require  publishers  to  perform  unreasonable  due 
+diligence checks beyond normal contractual requirements, nor be placed at risk of legal 
+liability for failure to do so. 
+
+6.4 Personal data and advertising 
+
+Following discussions on the DSA that have taken place in the European Parliament, 
+we wish to highlight our industry’s strong commitment to continue implementing the 
+GDPR  and  the  ePrivacy  Directive  (2002/58/EC),  which  are  currently  into  force  and 
+which  together  constitute  the  core  regulatory  framework  governing  the  online 
+advertising industry. 
+
+We  note  that  it  has  been  suggested  that  this  framework  is  insufficient  to  obtain 
+meaningful user consent to the relevant data-driven operations used to deliver ads, 
+which we strongly disagree with. News publishers provide ample and comprehensive 
+information to website users and audiences about how online ads are served and make 
+use of user information in the form of personal data.  
+
+Specifically,  under  the  GDPR  and  ePrivacy  framework,  audiences  already  have 
+transparent  access  to  the  type  of  data  collected,  the  purpose  for  which  they  are 
+processed, and can consent and withdraw consent or opt-out at any time.   
+
+It  has  also  been  suggested  that  another,  additional  layer  of  consent  specific  to 
+advertising should be introduced. We view such proposals as redundant, unnecessary, 
+burdensome, and inconsistent with existing rules. We  further take  the view that the 
+current regulatory framework is fit for purpose and should not be undermined in this 
+way.  
+
+This  means  that  new  proposals  to  create  another  layer  of  rules  regarding  profiling, 
+tracking  and  targeting  of  users,  or  other  opt-in  or  opt-out  systems,  and  use  of 
+behavioural data, should be avoided altogether and at all costs. This will ensure that 
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the current and already comprehensive data and privacy protection rulebook is applied 
+in a consistent and effective manner.   
+
+We also wish to note that proposals to introduce so-called “accountability and fairness 
+criteria”  to  algorithms  used  to  target  users  with  advertisement  to  allow  the  use  of 
+external audits could prove a very demanding and burdensome exercise. We suggest 
+that existing tools in the field of audit are explored before considering any regulatory 
+measures.  
+
+News Media Europe – Square de Meeûs 25 – 1000 Brussels – Belgium – BE 0647.900.810 
+
+36 
+
+ 
+ 
+ 
+

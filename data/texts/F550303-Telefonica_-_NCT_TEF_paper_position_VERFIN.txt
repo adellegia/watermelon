@@ -1,0 +1,465 @@
+Telefónica’s response to DG COMP’s consultation 
+regarding a New Competition Tool  
+September 8, 2020 
+
+1.  Executive summary 
+
+Telefonica  welcomes  this  opportunity  to  comment  on  DG  COMP’s  proposals  for  a  New 
+Competition Tool (NCT).  In summary, our assessment of this IIA from DG COMP is as follows: 
+
+• 
+
+If there is a problem with antitrust tools being insufficient to address problematic digital 
+platform markets, then the first approach must be to fix antitrust, rather than create a 
+new  layer  of  market  supervision.    DG  COMP  has  not  clearly  identified  the  gaps  in 
+competition law, nor why antitrust economic tools cannot be adapted to solve these 
+issues.  We make some proposals in this regard; Telefonica believes that antitrust can 
+be adapted to capture problematic digital platform markets. 
+
+•  The evidence contained in the IIA does not support DG COMP’s assertion that there are 
+more  general  market  concentration  problems  in  the  economy.    The  referenced 
+economic papers, in particular from the OECD, contradict the narrative put forward in 
+the IIA.  The Commission has not done enough to justify a horizontal tool that covers 
+the whole economy, there simply isn’t the economic evidence of a problem. 
+
+•  Telefonica believes that there are competition problems in digital platform markets, but 
+we believe that an ex-ante framework is the better approach to deal with these digital 
+platform  markets  –  as  happens  in  other  sectors  which  require  systematic  targeted 
+intervention.    So  we  are  strongly  supporting  DG  CNECT’s  parallel  proposal  3b  as  an 
+alternative to any NCT. 
+
+•  The legal basis given in the IIA to justify the need of the NCT are  misconceived: the 
+NCT takes the form of an “ex-ante” intervention, yet explicitly the need for an NCT is 
+based  there  being  no  breach  of  antitrust  rules  under  the meaning of  Art.  101 &  102 
+TFUE.  It follows that the NCT cannot be justified based on Art. 103 TFUE.  
+
+•  The UK’s market investigation tool is seen as a model for the NCT, at least by DG COMP.  
+The  CMA’s  MI  tool  has  a  number  of  important  checks  and  balances,  in  particular  in 
+relation to the selection of markets for review and the separation of the investigation 
+function  from  the  CMA  executive.    Telefonica  believes  that  a  limited  NCT  might 
+generate wider support if the Commission is clearer on how the application of any 
+new rules would be triggered and controlled. 
+
+•  Similarly, clarity of scope will be important if the Commission is to develop its case for 
+an  NCT.    Any  NCT  proposed  by  the  Commission  will  only  deal  with  Single  Market 
+problems, rather than national markets.  Telefonica believes that any NCT should not 
+add regulation to already economically regulated sectors, especially in light of the lack 
+of evidence presented for a general weakening of competition.  Existing laws are more 
+than enough for those already regulated ex-ante. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  The justification for a New Competition Tool (NCT) 
+
+An NCT focussed on digital markets 
+
+We agree with DG COMP, as highlighted in the IIA, that the current competition tools have been 
+shown to be insufficient, ineffective and even slow to address anticompetitive conducts exerted 
+by a few digital platforms.  
+
+This should naturally raise two questions: 
+
+(1)  Can  existing  tools  (specifically  antitrust  methods)  be  updated  such  that  they  can 
+
+effectively address competition problems? and only if not;  
+
+(2)  Should there be new rules that deal with these problems specifically? If so, should these 
+
+rules: 
+
+a.  Be an ex-ante framework: ie the proposals of DG CNECT launched in the parallel 
+
+consultation1; or 
+
+b.  A new competition tool? 
+
+To answer these questions a thorough and rigorous economic analysis of the impact on social 
+welfare would be required, something that is lacking at the moment. Absent this analysis, the 
+Commission should opt for the least intrusive of the proposed measures. And if, as it seems, the 
+welfare problem is confined to a certain set of businesses of well-known features, then the tool 
+should be limited also to that scope. 
+
+It appears to Telefonica that the launch of DG CNECT’s proposals has led DG COMP to miss out 
+the  important  intermediate  steps of  reviewing  competition  law  in  general  and consulting on 
+changes to existing tools to address any shortcomings as they relate to digital platforms. 
+
+During the  term of this Commission, DG COMP must review  general competition  law and its 
+effectiveness in order to adapt the current tools to the Digital Economy, as well as reviewing a 
+number of elements of competition law that expire during this mandate. 
+
+Specifically, the Commission enjoys wide-ranging powers that can be more systematically used 
+in order to tackle competition problems in digital platform markets: 
+
+i. 
+
+Use the existing Article 17 sector-inquiry power to improve the regulatory framework 
+or feed into regulatory initiatives: a further use of sector inquiries would help to solve 
+(if any) likely structural market failures in traditional sectors, having DG COMP making 
+suggestions to regulators with the “ex-ante remedies” power left to the discretion of 
+the sector specific regulator; 
+
+ii. 
+
+Imposition of behavioural or structural remedies (Article 7 and recital 12) in an ex-post 
+intervention; and 
+
+iii. 
+
+Further use of interim measures (Article 8), limited in time. 
+
+1  https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12418-Digital-Services-Act-
+package-ex-ante-regulatory-instrument-of-very-large-online-platforms-acting-as-gatekeepers  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+In  addition,  the  current  reviews  on  the  Horizontal  and  Vertical  Guidelines  and  the  Market 
+Definition Notice should be clearly focused on the Digital Economy, in order to respond to the 
+challenges and new types of agreements emerging from the digital sector; as well as to address 
+how the presence of digital platforms should be taken into account defining a relevant product 
+market.  
+
+With regard to the expected Merger Control review, we believe there is a clear need for new 
+thresholds such as the value of the transaction in order to catch under the scope of review the 
+so-called “killer acquisitions”. 
+
+If there are problems with antitrust methodologies that make it difficult to deal with competition 
+problems in digital markets, then DG COMP should seek to improve and update the defective 
+methods  –  rather than propose  an incremental layer of  market  regulation.    If your car stops 
+working at the side of the road, you don’t immediately buy a new one.  You see if you can fix up 
+your car and go on your way.  Telefonica has long argued that antitrust rules require updating – 
+they do not need to be superseded by a New Competition Tool. 
+
+Finally, an ex-ante framework is better suited to deal with sector specific market failures than a 
+New Competition Tool.  In our response to DG CNECT’s parallel consultation, we show how its 
+Option 3b – a full ex-ante regulatory framework, could be made tractable.  There is no need to 
+duplicate supervision through a sector specific NCT as well. This is especially true given the lack 
+of academic consensus and the principle of proportionality when establishing new rules. 
+
+Indeed, we note that DG COMP wants to ensure that overlap with the proposals of DG CNECT is 
+minimised, similarly it should also be seeking to remove any conflicts with general competition 
+law and sector specific regulation for other industries.  This is best undertaken in the round, 
+during the review of competition law, rather than as an adjunct to the proposals of DG CNECT.   
+
+Justification for a new competition tool with a horizontal scope 
+
+Turning to the justifications made by the Commission in the IIA for expanding the scope of an 
+NCT beyond digital markets, to the whole economy, the argument runs as follows:  
+
+• 
+
+Increasing firm profitability is evidence of a lessening of competition; and  
+
+•  oligopoly market structures allow tacit collusion, which would be enhanced with digital 
+
+tools such as Artificial Intelligence.  
+
+It is worth examining these claims in more detail to see if the evidence put forward by DG COMP 
+is  sufficient  to  warrant  intervention,  which  we  do  below.    A  subsidiary  argument  is  also  put 
+forward that: 
+
+•  The  problems  in  digital  markets  will  affect  all  markets,  because  all  markets  will 
+eventually become digital.  This claim is obviously not true, or at least presents a gross 
+simplification  of  how  the  interfaces  between  digital  platforms  and  the  rest  of  the 
+economy work.  Just because Uber uses a digital platform to compete with taxi firms, 
+does  not  make  the  entire  taxi  or  personal  transportation  sector  “digital”.    It  is  the 
+intermediation service of the platform of Uber that is “digital”, not the act of paying a 
+taxi fare in exchange for transportation.   
+
+3 
+
+ 
+ 
+ 
+ 
+Are higher firm profits evidence of the need for a New Competition Tool? 
+
+Firstly it is worth observing that there might be a number of reasons for higher firm profits: 
+
+(1)  The  location  of  profit  taking  in  the  value  chain  might  be  changing  –  profits might  be 
+being  extracted  in  different  parts of the  value  chain as other  parts  commoditise  and 
+value is added elsewhere.  It is important to examine the profits of all firms, rather than 
+a subset; and/or 
+
+(2)  The next question to ask is whether “supernormal” profits are a transitory feature or 
+not?    In  contestable  markets  with  freedom  of  entry  and  exit,  it  is  the  presence  of 
+supernormal profits that encourages entry and innovation by rivals, which eats into the 
+profit taking by the established firms, returning profitability back to the efficient level.  
+The transitory existence of higher profits is an economic signal for more competition to 
+take place, not a signal for regulation. 
+
+It is only where markets are not contestable, there is limited or no entry and exit,  and where 
+supernormal profits persist for a protracted period that, from an economic point of view, there 
+might be a competition problem.  Digital markets are often said to exhibit such features, but it 
+is the contestability that should be tackled in our view, not the profit margins which are just a 
+symptom.  This is why Telefonica supports an ex-ante regime based on securing contestability, 
+like Option 3b proposed by DG CNECT. 
+
+Returning to the justification for a horizontal new competition tool, the Commission quotes its 
+own  Single  Market  Performance  Report  20192  as  showing  that  there  is  “a  growing  body  of 
+economic evidence in the EU  suggesting increasing  market  concentration  and increasing firm 
+profitability levels” [our emphasis].  Firstly, Telefonica notes that the relevant passage from the 
+report runs to just one page out of sixty-two.  On page 25 of the Staff Working Document, the 
+Commission’s analysis of “signs of weakening competition” is as follows: 
+
+“Following a period of relative stability, indicators of competition have deteriorated after 
+the [2008 financial] crisis. These trends are less pronounced in Europe than in US but still 
+clearly detectable […..] The observed patterns include industry-level concentration which 
+according  to  OECD  data  climbed  over  the  past  20  years  in  both  the  US  and  Europe. 
+Possible explanations include structural changes in the economy, in particular the rise of 
+new  technologies  with more efficient  production methods,  as  well as  a weakening of 
+competition.” [our emphasis] 
+
+Firstly,  it  is  worth  pointing  out  that  industry-level  concentration  is  not  the  same  as  market 
+concentration.  As the authors of the quoted OECD study say3: 
+
+“Industry  concentration  is  related  to,  but  distinct  from,  the  concept  of  market 
+concentration. Industry concentration measures the extent to which economic activity is 
+concentrated within a small number of large companies or business groups within an 
+industry.  Market  concentration,  instead,  describes  the  weight  of  leading  firms  in  a 
+market for particular products or services that are close substitutes. Accordingly, market 
+concentration  is  a  far  narrower  definition  than  what  is  typically  reflected  in  industry 
+concentration  measures.  The  fact  that  a  large  share  of  industry  activity  is  due  to  a 
+
+2 https://data.consilium.europa.eu/doc/document/ST-15321-2019-ADD-1/en/pdf  
+3 Industry Concentration in Europe and North America, Bajgar et al, January 2019 (OECD), paragraph 4. 
+
+4 
+
+ 
+ 
+ 
+ 
+handful  of  large  firms  does  not  necessarily  mean  that  product  markets  within  that 
+industry are highly concentrated. While industry concentration can be used as an initial 
+indicator to screen for changes  in the degree of competition,  by itself it can say little 
+about whether or not market competition is changing.” [our emphasis] 
+
+Bajgar continues at footnote 3 in that paper: 
+
+“….to get from industry concentration to market competition one needs to be confident 
+that  a)  there  is  a  reliable  relationship  between  industry  concentration  and  market 
+concentration  (see  OECD,  2018b,  and  Werden  and  Froeb,  2018),  b)  that  market 
+concentration is a good indicator of market power (often not the case in differentiated 
+product or geographic markets, platform markets and innovative markets); and c) that 
+market  power  reflects  a  lack  of  competitive  intensity  rather  than  being  a  sign  of 
+competition in action.” 
+
+The  evidence  in  DG  COMP’s  IIA  uses  the  wrong  metric  from  which  to  infer  a  lessening  of 
+competition.  It has failed to demonstrate a relationship between industry concentration and 
+market concentration, as well as failing to demonstrate that market concentration (which it has 
+not measured) leads to the creation of market power.  Finally, as Bajgar highlights, concentration 
+might just be a “sign of competition in action”, rather than a priori a competition problem.  
+
+The  referenced  Staff  Working  Document  posits  that  efficiency,  new  technology,  structural 
+change  and/or  a  weakening  of  competition  could  all  be  “possible  explanations”  for  higher 
+industry (sic) concentration.  Being just one of many “possible explanations” is not a sufficiently 
+robust basis on which to make proposals to regulate competition in the entire economy through 
+a  New  Competition Tool.  Furthermore,  this  evidence  relates only  to  industry concentration, 
+rather than demonstrating cause and effect – that increased industry concentration has led to 
+negative  consequences  for  consumers  in  terms  of  price,  quality  and  choice.    It  is  a  factual 
+observation about industry concentration made in the paper, not a determinative point about 
+persistent supernormal profits of firms in more concentrated product markets.  The change is 
+also recent, “following a period of relative stability”, so still potentially transitory, these profits 
+might be competed away through the normal process. 
+
+The Staff Working Document continues: 
+
+“The  trend  involving  higher  concentration  ratios  and  markups  is  also  reflected  in 
+increased market  power, especially among larger firms.  Possible explanations  include 
+changes  in  business  dynamics  and  structure  of  markets.  This  concerns  winner-takes-
+most  outcomes,  also  referred  to  as  the  “superstar  firm”  hypothesis,  where  the  more 
+productive firms increasingly reap the benefits of network effects and scale economies.” 
+[our emphasis] 
+
+Again, possibilities and hypotheses are not a sound basis for wide-ranging untargeted legislation.  
+The Staff Working Paper then turns its attention to the issue of digitalisation: 
+
+“The digitalisation of the economy increases the importance of knowledge assets. A few 
+firms, especially in digital-intensive sectors, benefit from high and increasing markups 
+and gain large market shares due to the intensive use of intangible assets, such as data 
+analytics,  and  the  difficult  replication  of  successful  business  models,  together  with 
+declining IT capital prices.” 
+
+If  true  (again  this  point  is  asserted  without  evidence),  it  would  point  to  a  targeted  piece  of 
+legislation to reduce the market power of the “few firms” in “digital intensive sectors”, not a 
+
+5 
+
+ 
+potentially horizontal instrument affecting all firms in all sectors.  Such evidence would point to 
+DG CNECT’s asymmetric ex-ante solution (option 3b) not an instrument affecting all firms in all 
+sectors  as  proposed  by  DG  COMP.  The  latter  would  dramatically  increase  the  potential  for 
+overlapping  intervention  in  sectors  which  are  already  subject  to  an  ex-ante  regime,  such  as 
+telecom markets. 
+
+The Staff Working Document continues in the same vein: 
+
+“Such outcomes are possibly also going beyond the digital economy. Firm markups have 
+also increased, especially among the most successful firms.”  
+
+Here is what the quoted paper from Bajgar (OECD) says on this matter (at paragraph 10 of the 
+quoted report): 
+
+“This research suggests that economies appear to be less dynamic, with declining entry 
+and exit rates across most OECD economies and increased divergence between top and 
+bottom productivity firms. At the same time, market power appears to have increased, 
+as  indicated  by  increasing  mark-ups  of  top  firms  and  falling  labour  share  of  income. 
+Whether  these  findings  are  the  result  of  a  reduction  in  competition,  or  a  sign  of 
+competition  in  action  –  with  market  power  representing  a  temporary  reward  for 
+innovative  and  efficient  firms  –  remains  unclear.  Our  results  should,  thus,  not  be 
+interpreted as unambiguous evidence of reduced competition, and much less yet of a 
+need for particular policy interventions.” [our emphasis] 
+
+Given  the  caution  of  the  authors,  it  is  unclear  why  this  report  and  its  data  are  adduced  as 
+evidence in support of DG COMP’s NCT proposal.  The authors explicitly caution against using 
+these data to evidence any particular policy intervention.  Yet the OECD report is one of the 
+few pieces of “evidence” in the IIA. 
+
+The final bit of evidence used in the Staff Working Document is a report entitled “Globalization 
+and the fall of mark-ups.” [our emphasis].  From this, DG COMP’s IIA concludes: 
+
+“More  generally,  price  cost  margins  (as  a  further  markup 
+comparatively higher in services than in manufacturing”.  
+
+indicator)  remain 
+
+What one can observe from these data is that the prices of goods have benefited from the scale 
+effects  of  global  consumption  and  production,  whereas  services  (which  tend  to  be  more 
+localised) have not.  It is also worth noting that the very same Staff Working Document says 
+“Excess restrictions in professional services stifle competition and limit market entry. Regulation, 
+while  instrumental  in  certain  professional  services,  can  often  be  associated  with  significant 
+economic costs through limiting market entry and competition.”  In some services at least, the 
+solution is deregulation, not more regulation. 
+
+Another paper is identified in the Staff Working Document as lending support to the assertions 
+we expose above; namely “Increasing Differences Between Firms: Market Power and the Macro-
+Economy”, Van Reenen 2018, London School of Economics, Centre for Economic Performance. 
+
+The reader does not need to get far beyond the Abstract of the Van Reenen paper to realise it 
+does  not  lend  weight  to  the  Commission’s  assertions  in  the  Staff  Working  Paper,  but  rather 
+contradicts them: 
+
+“Higher sales concentration and apparent increases in aggregate markups have led to 
+the  concern  that  product  market  power  has  risen  substantially  which  is  a  potential 
+explanation for the falling labor share of GDP, sluggish productivity growth and other 
+
+6 
+
+ 
+indicators of declining business dynamism. I suggest that this conclusion is premature. 
+Many of the patterns are consistent with a more nuanced view where many industries 
+have become “winner take most/all” due to globalization and new technologies rather 
+than  a  generalized  weakening  of  competition  due to  relaxed  anti-trust rules  or  rising 
+regulation.” [our emphasis] 
+
+DG COMP has adduced no evidence that would justify its proposed new competition tool,  in 
+particular  in  a  horizontal  form.    In  fact,  the  evidence  it  has  provided  so  far  contradicts  this 
+narrative completely. 
+
+3.  Legal basis 
+
+Going through the IIA, we have clear doubts on the legal basis taken by DG COMP to justify the 
+need for this new competition tool, in particular referring to Articles 103 and 114 TFUE for the 
+following reasons: 
+
+▪  The NCT is not aimed at giving effect to the principles set out by Articles 101 & 102 of 
+the TFEU because it is foreseen to be applied in a “ex-ante” intervention and not related 
+to either the behaviour of the targeted company nor based on the breach of antitrust 
+rules carried out by a undertaking that enjoys a dominant position in a given market. 
+Therefore, the NCT cannot rely on Article 103 TFUE’s grounds to justify its need. 
+
+▪  Article  114  provides  the  legal  grounds  required  by  Commission  to  propose  any 
+legislative  tool  aimed  at  harmonising  law  across  Member  States  and  thus  avoiding 
+fragmentation in the internal market. However, we believe there are not national laws 
+to harmonise either in competition law or sectorial regulation that justify the need for 
+the new competition tool. 
+
+It appears to Telefonica that the proposed NCT would need to be justified based on the evidence 
+of an enforcement gap in competition law more generally rather than just two assertions in this 
+IIA and the coincidental proposal for ex-ante regulation by another DG.  Moreover, we note that 
+DG COMP wants to ensure that overlap with the proposals of DG CNECT is minimised, similarly 
+it  should  also  be  seeking  to  remove  any  conflicts  with  general  competition  law  and  sector 
+specific regulation for other industries.  This is best undertaken in the round, during the review 
+of competition law, rather as an adjunct to the proposals of DG CNECT.   
+
+4.  Functioning of any New Competition Tool 
+
+There is no economic justification for a horizontal scope – ruling out Options 1 & 3.  Whatever 
+DG COMP finally puts out to further consultation, the proposals need to be much clearer on: 
+
+(1)  The scope of digital platforms – both what is inside this definition and what is specifically 
+
+excluded, such as already economically regulated sectors; 
+
+(2)  The  scale  required  for  a  “single  market”  dimension  –  as  in  antitrust,  how  many  EU 
+markets must be affected before the identified problem falls within the scope of any 
+new MI tool? 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(3)  The triggers for a market investigation.  The UK MI tool is triggered either by a reference 
+from a limited set of external bodies, or following an own initiative study by the CMA.  
+This  market  study  phase  is  itself  a  burdensome  exercise  for  the  Authority,  such  that 
+embarking on any investigation following on from this must be a serious undertaking. 
+
+(4)  A separation of the investigation function from the executive of DG COMP.  DG COMP 
+cannot act as inquisitor, judge and jury in this process.  The UK’s MI tool uses an external 
+panel of lay members, the same panels that review mergers under the UK regime.  This 
+creates  adequate  distance  between  the  executive  of  the  CMA  and  the  team 
+investigating the relevant market. 
+
+(5)  Possibility for the targeted companies to express their views during the whole process: 
+the  UK’s  MI tool  sets  out  a  continuous  dialogue  between  the  affected  firms  and  the 
+CMA,  mainly  by  means  of  formal  hearings  and  remedies  hearings  when  the  Market 
+Study turns to a Market Reference. It should be ensured that DG COMP allows for this 
+continuous feedback during the procedure until the final result when the Market Study 
+turns to “Phase 2” with the Market Reference where there is a higher likelihood that 
+remedies might be imposed. 
+
+(6)  DG  COMP’s  decisions  after  the  market  investigation  procedure  should  focus  on 
+recommendations  to  policymakers,  sectorial  regulators  and  only  where  necessary 
+remedies on market actors. 
+
+(7)  Remedies should be applicable both to the market under investigation and, where there 
+is evidence of anticompetitive tying or leveraging of dominance, to adjacent markets.  
+This is a very important feature for gatekeeping platforms. 
+
+(8)  A quick appeals procedure before the Courts is needed in order to lessen, as much as 
+possible, the uncertainty and the reputational impact of the targeted undertaking. 
+
+We also see that there is a potential overlap with competition law, in particular  with merger 
+procedures.  One feature of merger analysis is to understand whether theories of harm related 
+to the merger could be tackled by the specific sector regulatory regime.  It follows that DG COMP 
+will need to determine whether, in any given merger scenario, the NCT would be able to deal 
+with the competition problem it foresees.  This is just one example, but it shows that given the 
+nature of the tool, the NCT should really be considered in relation to competition law overall, 
+rather than just the overlap with a potential sector specific ex-ante tool proposed by DG CNECT.  
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

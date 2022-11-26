@@ -1,0 +1,537 @@
+Ref. Ares(2020)4722284 - 09/09/2020
+
+GSMA-ETNO Position Paper 
+on a New Competition Tool
+
+September 2020
+
+About the GSMA
+
+About ETNO
+
+The GSMA represents the interests of mobile 
+operators worldwide, uniting more than 750 
+operators and nearly 400 companies in the broader 
+mobile ecosystem, including handset and device 
+makers, software companies, equipment providers 
+and internet companies, as well as organisations in 
+adjacent industry sectors. The GSMA also produces 
+the industry-leading MWC events held annually in 
+Barcelona, Los Angeles and Shanghai, as well as the 
+Mobile 360 Series of regional conferences.
+
+ETNO is the European Telecommunications Network 
+Operators’ Association. We proudly represent 
+Europe’s main telecom operators, who innovate 
+and invest in the continent’s digital backbone. 
+Our companies are the providers of Europe’s 
+most advanced digital networks and services. 
+ETNO’s mission is to develop a positive policy and 
+regulatory environment empowering the delivery 
+of world-class services for European citizens and 
+businesses.
+
+For more information, please visit the GSMA 
+corporate website at gsma.com
+
+www.etno.eu | @ETNOAssociation 
+
+Follow the GSMA on Twitter:
+@GSMA 
+@GSMAEurope 
+
+GSMA-ETNO position paper on a New Competition Tool
+
+3
+
+1. Executive Summary
+
+The GSMA & ETNO associations, which represent 
+the vast majority of telecom operators in the 
+European Union, welcome the opportunity to 
+provide input to DG Competition on the possibility 
+to introduce a New Competition Tool (NCT). In 
+summary, GSMA & ETNO European mobile and 
+fixed telecom operator’s position on the matter 
+and response to the Commission’s Inception 
+Impact Assessment and questionnaire is as follows:
+
+• The existing competition framework is fit for 
+purpose; however, it needs to be revised in order 
+to be able to address the challenges brought by 
+the digital economy. Both associations welcome 
+the Commission’s efforts and ongoing reviews and 
+believe that the Commission should focus on such 
+revisions before introducing any additional tools;
+
+• In order to ensure a smart and faster 
+enforcement process, DG COMP could make an 
+increasing use of existing measures, such as sector 
+enquiries and interim measures;
+
+• Structural competition problems mentioned 
+in the questionnaire relate to large digital actors 
+and should therefore be addressed by imposing 
+
+specific measures to such actors when competition 
+law has proven to be insufficient. This is being 
+tackled currently by the DSA proposal on ex-ante 
+rules for large platforms acting as gatekeepers. 
+Therefore, there is no need for a NCT. However, 
+we do not exclude the possibility that competition 
+policy should be able to issue targeted actions 
+towards digital gatekeepers;   
+
+• Articles 103 and 114 TFEU do not seem to 
+provide the adequate legal basis for introducing 
+a tool following the options expressed by the 
+Commission in its IIA;
+
+• If the Commission decides nevertheless to 
+propose the introduction of a NCT: 
+
+- it should be limited to address the structural 
+problems deriving from large online platforms 
+acting as gatekeepers and therefore limited in 
+scope; 
+- it should include an adequate system of checks 
+and balances to provide market actors with the 
+appropriate certainty and rights of defence. 
+
+2. Need to Update Current Competition Law Framework 
+Rather than Introducing a New Competition Tool 
+
+The GSMA & ETNO believe that the current 
+competition principles and toolbox are fit for 
+purpose and encourage DG COMP to continue 
+first with the ongoing review of the competition 
+law framework before considering introducing 
+any additional tools. As both associations 
+have proposed in their responses to previous 
+consultations1, there is a need to evaluate and an 
+opportunity to update and adapt existing tools and 
+methodologies to the new digital environment. 
+The ex-post intervention has in fact shown at times 
+new challenges due to the specific characteristics 
+of these actors.
+
+We believe that the following suggestions would 
+help DG COMP to ensure a faster and smarter ex-
+post intervention.
+
+On the one hand, Regulation 1/20032 establishes 
+wide-range powers that DG COMP can more 
+systematically use in order to tackle competition 
+problems related to the presence of digital players, 
+in particular:
+
+1. Please refer to the joint response to the NCT questionnaire and/or to www.gsma.com/gsmaeurope/ and etno.eu/
+
+2. Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty
+
+ 
+GSMA-ETNO position paper on a New Competition Tool
+
+4
+
+• Use of sector enquiry powers (Article 17): 
+a further use of sector inquiries would help 
+understand market failures, as well as provide 
+crucial input to potential revisions or introduction 
+of legislation, having DG COMP making 
+suggestions to regulators with the “ex-ante 
+remedies” power left to the discretion of the sector 
+specific regulator;
+
+• Imposition of behavioural or structural 
+remedies (Article 7 and recital 12) in an ex-post 
+intervention; and
+
+• Wider use of interim measures (Article 8), 
+limited in scope and time, like those imposed 
+in October 2019 for the first time in nearly two 
+decades, to ensure fast intervention and avoid 
+irreparable damages to the market, consumers and 
+competitors.
+
+On the other hand, the ongoing reviews of the 
+Horizontal and Vertical rules, the Market Definition 
+Notice and the merger control framework should 
+be carefully carried out taking into consideration 
+the increasing digitalisation and globalisation of 
+the economy as well as the competitive dynamics 
+described in this document and our response to 
+the NCT consultation as examples of structural 
+
+competitive problems. 
+
+Both associations have in their responses to DG 
+COMP’s questionnaires mentioned what this 
+should mean with regard to vertical agreements 
+(a stricter approach towards agreements 
+contributing to the extension of market power in 
+neighbouring markets) and horizontal agreements 
+(a more lenient approach and enhanced legal 
+clarity vis-à-vis cooperative agreements between 
+traditional actors seeking to create sufficient scale). 
+These forms of cooperation are in general pro-
+competitive as they allow to achieve the necessary 
+scale for the European firms to be competitive vis-
+à-vis global actors.
+
+Furthermore, we kindly invite the Commission 
+to also review the Communication on the 
+Commission’s Enforcement Priorities in Applying 
+Article 102 TFEU to address the challenges created 
+by the digital economy.
+
+In relation to a more efficient use of existing 
+tools, the Commission should speed up antitrust 
+processes and make more use of its existing 
+powers (e.g. to impose interim measures) as 
+highlighted above.  
+
+3. Structural Competition Problems Relate to Large Digital 
+Platforms Acting as Gatekeepers and Should be Tackled by 
+Specific Measures Targeting Such Actors 
+
+As said, the Commission should make use of its 
+existing powers to intervene where there has 
+been or might be a breach of competition rules. 
+We highly believe that an updated competition 
+framework, in combination with targeted 
+intervention in relation to digital gatekeepers 
+could allow the Commission to address structural 
+competition problems mentioned in this 
+consultation. 
+
+Indeed, we recognise that there might be limits 
+to what the current way of applying existing 
+competition rules can achieve to address the 
+gatekeeper role that large online platforms play in 
+certain markets, in particular, those characterised 
+by extreme economies of scale and scope, strong 
+network effects and access to large volumes 
+of data. The current way of applying existing 
+competition rules might not always be sufficient to 
+
+GSMA-ETNO position paper on a New Competition Tool
+
+5
+
+tackle competition issues arising from large digital 
+platforms with cross-market activity in an efficient 
+and timely manner, due to the specificities of these 
+platforms. Therefore, dedicated measures targeted 
+at large online platforms acting as gatekeepers 
+might be necessary to prevent and/or address 
+competition distortions, before entrenched and 
+durable dominance materialises in digital markets.
+
+More specifically, as mentioned in our responses 
+to the NCT and DSA consultations, an intervention 
+framework, adopted in the context of the DSA, 
+allowing for the possibility to impose tailored 
+remedies on individual large online platforms 
+with gatekeeper power, on a case- by-case basis 
+would be the most suitable instrument to ensure 
+competition and contestability in dynamic digital 
+markets. This framework could be complemented 
+by a list of prohibitions generally applicable to 
+all large online platforms with gatekeeper power 
+as a baseline safeguard against certain abusive 
+behaviours. However, the latter option alone would 
+be insufficient to address market failures related 
+to large online platforms with gatekeeper role in a 
+targeted and proportionate manner. Therefore, we 
+have strongly supported the option 3b of the IIA 
+of the DSA consultation allowing for the possibility 
+to impose tailored remedies on individual large 
+
+online platforms with gatekeeper power, on a case- 
+by-case basis. Moreover, a combination of option 
+3b with option 3a as a complement could also be 
+suitable.
+
+In light of the above, there is an overlap and 
+potential inconsistency between the regulatory 
+framework allowing for a case-by-case imposition 
+of targeted remedies under option 3b of the DSA 
+IIA, and the New Competition Tool. We believe that 
+only one instrument, if properly defined in its scope 
+and through an efficient institutional setup, is 
+necessary to tackle asymmetries and competition 
+issues raised in the markets where digital platforms 
+with a gatekeeper role operate.
+
+In conclusion, DG COMP should only consider 
+introducing a New Competition Tool if the 
+combination of the above mentioned tools 
+together with an update of the way of applying 
+existing competition rules will prove to be 
+insufficient to address the  structural competition 
+problems identified in the consultation. Such 
+tool would therefore be limited to tackle the 
+outstanding problems and would have a much 
+narrower scope of application than the one 
+presently envisaged in the ongoing consultation. 
+
+4. Legal Basis to justify the Need for a New Competition 
+Tool
+
+It is not clear whether articles 103 and 114 TFEU 
+provide an adequate legal basis for introducing 
+such a tool. In this regard, we doubt that 
+article 103 TFEU could be the legal basis for a 
+competition tool operating outside 101 and 102 
+TFEU (i.e. options 3 and 4 in the Inception Impact 
+Assessment). 
+
+As regards options 1 and 2, as the tool would 
+apply (according to the questionnaire and the IIA) 
+in the absence of a competition law breach, we 
+have some difficulties in understanding how 103 
+TFEU would be an adequate legal basis for these 
+
+solutions. 103 TFEU is in fact specifically aimed at 
+ensuring compliance and defining the scope of 
+application of Articles 101 and 102 TFEU3.
+
+As regards Article 114 TFEU, this would be the 
+adequate legal basis should the new tool be 
+an internal market investigation tool aimed at 
+harmonising national laws rather than introducing 
+additional powers for the implementation of 
+general principles of the Treaty. 
+
+In this regard, the fact that in parallel the 
+Commission is working on introducing other tools 
+
+3. Aside of other non-substantial roles such as defining the functions of the Commission and the European Courts or determining the relationship between EU and 
+national competition rules.
+
+GSMA-ETNO position paper on a New Competition Tool
+
+6
+
+(i.e. the DSA regulatory tools) whose legal basis 
+is clearly linked to the harmonisation process and 
+to the completion and protection of the internal 
+market, makes it at least questionable to use the 
+same legal basis for a competition law tool serving 
+the same or similar purposes. 
+
+In conclusion, as it is clear from this questionnaire 
+as well as from the IIA that the new tool would deal 
+with structural competition problems, we believe 
+that article 114 TFEU does not seem to be the 
+
+adequate legal basis for it. 
+
+Last, even if Articles 103 and 114 TFEU would 
+constitute an adequate legal basis (quod non!) 
+a thorough application of the Proportionality 
+Principle should be at the basis of the scope of 
+application of a new tool. Accordingly, a new 
+tool should be applied only to situations and 
+enforcement gaps which cannot be adequately 
+tackled by using other less invasive measures.
+
+5. No Need for a New Competition Tool. 
+If Needed, the NCT Should Focus on Digital Actors. In 
+Any Case, Check & Balances are Crucial to Avoid Legal 
+Uncertainty and Regulatory Overreach
+
+As expressed, the GSMA & ETNO members believe 
+that there is no need at the present stage to 
+introduce additional competition tools as defined 
+in the Inception Impact Assessment for NCT  unless 
+and until the existing tools as well as the other, less 
+invasive measures listed above have proven to be 
+insufficient to address the structural competition 
+problems described in the questionnaire. 
+
+If a new tool were to be introduced, we strongly 
+believe that it should be limited to address the 
+structural problems deriving from large online 
+platforms acting as gatekeepers. Its intervention 
+should therefore be tailored to address only 
+exceptional situations where alternative 
+instruments have demonstrated being ineffective 
+(burden of proof on the Commission) and be 
+based on strict triggering criteria. The intervention 
+should therefore be limited to some predetermined 
+digital actors based on a thorough analysis of the 
+recurrence of the above mentioned, pre-defined 
+elements.
+
+Once again, we consider that all alternative 
+possibilities should be explored (modifying 
+guidelines, interim measures, DSA-style ex ante 
+regulation, etc.). Once all the alternatives have 
+been considered, if there are still some structural 
+
+competition problems that cannot be addressed by 
+alternative, less intrusive measures, a new tool can 
+be taken into consideration that will be applicable 
+only to those situations where these problems are 
+present (i.e. structural problems deriving from large 
+online platforms acting as gatekeepers presenting 
+the characteristics described in the questionnaire).
+
+In this case, the new tool should be drafted 
+respecting the letter and spirit of the principle 
+of Proportionality as laid down in Article 5 of the 
+Treaty on European Union. According to Article 
+5, “the content and form of Union action shall not 
+exceed what is necessary to achieve the objectives 
+of the Treaties”. Accordingly, the characteristics 
+and scope of application of the new tool, if 
+required, will need to be designed taking in the 
+utmost account the need to only address situations 
+which: (a) respond to the specific need to achieve 
+the objectives of the Treaties and; (b) cannot 
+be addressed through existing or less intrusive 
+measures. This tool shall therefore address 
+structural competition problems related to specific 
+characteristics of large digital platforms acting as 
+gatekeepers. 
+
+Furthermore, we do not consider that any new 
+tool should be extended to oligopoly markets. We 
+
+GSMA-ETNO position paper on a New Competition Tool
+
+7
+
+do not believe that oligopolistic market situations 
+are per se problematic. Indeed, competitive issues 
+related to the functioning of oligopolies have little 
+or nothing to do with the structural competitive 
+problems that the new tool allegedly should 
+address (tipping, monopolisation, gatekeeping, 
+etc.)
+
+Additionally, despite that these “oligopolistic” 
+markets have maintained the same or similar 
+structure along many years, there are few 
+examples of collusive behaviour successfully 
+tackled by competition authorities in such markets, 
+for example when looking at telecommunication 
+markets. 
+
+Last but not least, we consider that Articles 101 
+and 102 TFEU and existing case law are sufficiently 
+effective to address anti-competitive behaviour 
+in oligopolistic markets and do not believe there 
+is any justification for any additional intervention 
+going beyond a thorough application of the 
+relevant case law on collective dominance and 
+concerted practices. 
+
+In the event that the Commission nevertheless 
+decides to introduce a new tool, to ensure legal 
+certainty and avoid regulatory overreach, we 
+strongly believe that procedural safeguards must 
+be at the heart of its deployment:
+
+• A new tool should not give the Commission an 
+indiscriminate power to intervene in markets on 
+the basis of indicative economic indicators (e.g. 
+UPP – GUPPI – HHI – etc.)
+
+• In addition, if a particular market is subject to 
+existing regulation, this should be considered 
+as a first port of call to address any identified 
+competition problems. This is to ensure that 
+any new tool is not be applied unless the existing 
+regulation is not addressing or is not capable to 
+effectively address the problem. This is necessary 
+to ensure there is no duplication or inconsistency, 
+and to avoid double jeopardy scenarios. In case the 
+market is already subject to asymmetric sector-
+specific regulation it should be assessed whether 
+
+an existing sector-specific regulator will be best 
+placed to address any competition problems.
+
+• Checks & balances: there must be additional 
+controls on the trigger of this power to provide 
+more certainty to market actors; there needs to 
+be a mechanism to ensure that the selection of 
+markets for investigation are not perceived as 
+arbitrary or politically motivated.
+
+• The geographic dimension of markets in the 
+scope should go beyond the national dimension: 
+DG COMP’s current competence to intervene 
+regards cases having an European dimension and/
+or Union interest4. A new competition tool should 
+follow the same approach.
+
+• Possibility for the targeted company(ies) to 
+express views during the whole process: the 
+CMA’s MI tool sets out a continuous dialogue 
+between the firm and the CMA, mainly by means 
+of formal hearings and remedies hearings when 
+the Market Study turns to a Market Reference. DG 
+COMP should allow for this continuous feedback 
+during the procedure until the final result when the 
+Market Study turns to the Market Reference where 
+there is a higher likelihood that remedies might be 
+imposed.
+
+• DG COMP’s decisions after a market investigation 
+procedure should focus on recommendations to 
+policymakers and sectorial regulators and where 
+necessary remedies on market actors. Furthermore, 
+a tool should be allowed only as a last resource to 
+impose structural remedies as divestiture remedies 
+can be drastic and fundamentally change market 
+structure. Stopping company’s business strategies 
+or models when there is no breach of competition 
+rules should in any case be considered as an 
+intrusive penalty even if the monetary implications 
+are indirect. 
+
+• Remedies should apply also to adjacent markets 
+where no dominance is yet established, or which 
+are still untipped but where certain forms of tying 
+has led to leveraging of market power from the 
+market under review in adjacent markets. 
+
+4. The European Commission (based on European Courts’ case-law since Automec) has been given great discretion to reject, shelve or prioritize cases on the basis of 
+Community/EU interest and/or Community Dimension of the cases.
+
+GSMA-ETNO position paper on a New Competition Tool
+
+8
+
+• A potential tool should not be able to impose 
+fines or penalties when there is no infringement 
+of competition rules. In addition, we believe that 
+structural remedies should only be considered 
+as a last resort and would be disproportionate 
+in circumstances where no infringement of 
+competition law would need to be demonstrated. 
+Moreover, if the Commission is ultimately given 
+power to impose structural remedies under a NCT 
+(if any), as structural remedies are very severe 
+sanctions they should only ever be used as a last 
+resort and subject to a very strict burden of proof 
+(i.e. necessity, proportionality).
+
+• In terms of remedies following any 
+subsequent intervention via a new tool, where 
+the relevant market is already regulated, these 
+should be limited to recommendations to the 
+relevant regulator or acceptance of voluntary 
+commitments, rather than the imposition of 
+behavioural or structural remedies. 
+
+• Quick appeal procedure before the Courts 
+(in order to lessen as much as possible, the 
+uncertainty and the reputational impact of the 
+targeted undertaking).
+
+

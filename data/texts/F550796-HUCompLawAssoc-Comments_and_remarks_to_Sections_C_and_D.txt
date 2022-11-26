@@ -1,0 +1,210 @@
+The respondent provided its answers to questions raised in Section C and D based information supported 
+by  evidence  or  legal  practice  regarding  the  Hungarian  market.  If  such  pieces  of  information  were  not 
+available,  the  respondent  answered  “Not  applicable  /  no  relevant  experience  or  knowledge”,  this  paper 
+includes the comments and remarks to some in-depth questions in Section C and D: 
+
+AD 8.2. 
+
+As  regards  the  Hungarian  market,  the  respondent  is  not  aware  of  any  particular  example  supported  by 
+evidence or legal practice. 
+
+Although the GVH has been proactive in the field of digital markets in the last couple of years, it has focused 
+predominantly on the enforcement of consumer protection norms. Other major competition law enforcing 
+jurisdictions  (such  as  the  EU  and  Germany)  have  heavily  relied  on  regulations  concerning  abuse  of 
+dominance,  and  thus,  assessed  the  relevant  issues  of  digital  markets  even  in  the  context  of  B2B 
+relationships. In contrast, the GVH's practice is quite sporadic in this regard, and it almost entirely lacks 
+dominance cases of this kind. Nevertheless, its reliance on consumer protection norms allowed the GVH to 
+tackle  similar  issues,  and  to  reflect  on  them  from  a  B2C  relationships  perspective.  Given  the  fact  that 
+consumer  protection  procedures  are  significantly  shorter  because  they  do  not  require  a  robust  market 
+analysis,  they  allowed  the  GVH  to  intervene  in  the  underlying  anticompetitive  practices  in  a  timely  and 
+effective manner. However, although the GVH issued multiple guidelines and other soft-law instruments 
+concerning digital markets, none of them addressed specifically the issue of market power. Consequently, 
+there is somewhat of a vacuum regarding judicial interpretations of market power definitions in Hungary 
+concerning digital markets, where there is no developed case law in this field yet, since abuse of dominance 
+focused market analyses are largely absent.  
+
+As  regards  market  power,  the  GVH's  practice and  case  law  in  merger  control  cases  and  a  recent  vertical 
+restrictions  decision  can  also  be  considered  relevant.  These  decisions  suggest  that  the  GVH's  practice 
+acknowledges that the access to data and the increasing potentials of online platforms may be considered as 
+significant  factors  of  market  power  in  digital  markets,  and  thus,  in  future  cases,  competition  law 
+enforcement should take into account these factors as well. 
+
+Generally, the answer is affirmative, but the respondent represents the view that exact definitions of “digital 
+markets” and “market power in the context of digital markets” are required to provide an accurate answer 
+to the type of necessary intervention. 
+
+AD 9.1. 
+
+AD 9.3 
+
+For traditional markets, competition law has developed measures of market power and criteria applicable 
+to dominance and abuse of dominance. Up to now, assessment of market power has been based primarily 
+on  market  shares.  Before  deciding  on  the  suitability  of  current  antitrust  tools,  the respondent  considers 
+useful to analyse what kind of non-market-share-based measures can be applied to digital markets. 
+
+The respondent has the view that, save in respect of the very specific structural competition problems linked 
+to digital gatekeepers which we consider would be more appropriately and effectively addressed through the 
+introduction of ex ante regulation through the DSA amendments, and pending the outcome of the Court 
+appeals in the various digital platform cases pending adjudication, we believe that Articles 101 and 102 of 
+the  EU  Treaty, if  updated  and  per  the  Commission’s  ongoing  consultations,  are  suitable  and  sufficiently 
+effective to address structural competition problems across all markets, particularly when supplemented by 
+greater  use  of  existing  competition  powers and  tools  available  to  the  Commission  (e.g.,  sector  inquiries, 
+interim measures). 
+
+AD 10.7  
+
+The respondent notes that it is not quite clear to what extent anti-competitive monopolisation strategies fall 
+under the scope of antitrust. Thus, in this regard the distinction between unfair B2C, B2B and P2B rules and 
+antitrust rules are required to be laid down. 
+
+AD 11.3. 
+
+The respondent notes that unfair B2C, B2B and P2B rules are also to be assessed as existing regulatory tools, 
+and  the  option  of  non-market-share-based  measures  of  market  power  (key  databases,  key  software 
+environments, etc.) applied to digital markets may put the existing dominance-related rules in new light. 
+
+AD 13.3. 
+
+ 
+ 
+ 
+Following a deeper understanding of digital markets, the current framework of antitrust rules might be able 
+to address the relevant new challenges. Thus, the respondent adopts the standpoint that the flexibility of the 
+antitrust framework combined with a new approach, definitions and principles fitting the digital markets 
+could fulfil its role also in the future. 
+
+AD 14.4. 
+
+As  regards  the  Hungarian  market,  the  respondent  is  not  aware  of  any  particular  example  supported  by 
+evidence or legal practice. 
+
+The  respondent  notes,  however,  that  for  retailers  which  are  present  both  online  and  offline,  pricing 
+algorithms applied to webshops might have a secondary effect on offline prices. 
+
+AD 15.1. 
+
+As regards the Hungarian market, the respondent is not aware of particular example supported by evidence 
+or legal practice. It needs, however, further consideration that pricing algorithms and similar analysis tools 
+have generated efficiencies in many industries for a number of years, and an optimal intervention (via a new 
+competition tool or otherwise) has to avoid any unnecessary restriction in the field of innovation. 
+
+AD 15.3. 
+
+Following a deeper understanding of digital markets, the current framework of antitrust rules might be able 
+to address the relevant new challenges. Thus, the respondent adopts the standpoint that the flexibility of the 
+antitrust framework combined with a new approach, definitions and principles fitting the digital markets 
+could fulfil its role also in the future. 
+
+AD 17.3.  
+
+Following a deeper understanding of digital markets, the current framework of antitrust rules might be able 
+to address the relevant new challenges. Thus, the respondent adopts the standpoint that the flexibility of the 
+antitrust framework combined with a new approach, definitions and principles fitting the digital markets 
+could fulfil its role also in the future. 
+
+AD 18.8.  
+
+As regards the Hungarian market, the respondent is not aware of any particular example supported by evidence 
+or legal practice. The respondent agrees in principal that there might be a need to consider a targeted ex ante 
+regulation to supplement ex post antitrust enforcement. Although there might be a range of criteria available 
+that could apply in relation to determining the gatekeeper role of large online platform companies (but e.g. user 
+numbers  seem  too  crude),  however  platforms  should  be  identified  via  a  more  dynamic,  case-by-case 
+assessment.  The  following  criteria  could  apply  with  equal  force  in  relation  to  the  proposed  new  ex  ante 
+regulatory  tool  to  address  online  digital  gatekeepers  and  we  consider  that  there  is  a  need  for  targeted 
+intervention when a range of criteria are cumulatively satisfied: 
+
+ 
+ 
+ 
+
+a non-contestable and concentrated market structure should be identified; 
+the digital gatekeeper in question is an unavoidable trading partner; and 
+the application of ex post competition rules would be ineffective in addressing the identified market 
+failures arising from the exercise of the gatekeeping function. 
+
+AD 19.1.  
+
+As regards the Hungarian market, the respondent is not aware of any particular example supported by evidence 
+or  legal  practice.  In  our  view,  it  is  not  obvious  that  the NCT  is  necessary  (and  in  any  case  it  should  not  be 
+introduced before the effectiveness of any new ex ante regulation can be assessed).  
+
+An  updated  competition  framework,  in  combination  with  targeted  intervention  in  relation  to  digital 
+gatekeepers  could  allow  the  Commission  to  address  structural  competition  problems  mentioned  in  this 
+consultation.  
+
+Concerns have arisen about the ability of traditional competition rules to address issues in relation to digital 
+platforms, in particular when defining digital markets and identifying dominance in relation to data funded, 
+multi-  sided  markets.  In  addition,  competition  law  enforcement  is  often  too  time-consuming,  resulting  in 
+irreversible foreclosure taking place before any, remedies are implemented effectively.  Remedies also tend to 
+be specific to individual cases and difficult to apply more generally. We believe that the EU should take the lead 
+in  addressing  the  regulatory  challenges  posed  by  digital  markets  and  that  competition  law  and  ex  ante 
+regulation need to evolve together to address these challenges.   
+
+In relation to competition law, when assessing market definition in relation to digital gatekeepers, there is a 
+need to examine the commercial and strategic links between markets or market segments and the incentives 
+available  to  digital  platforms  to  take  advantage  of  those  links  through  the  implementation  of  leveraging 
+
+ 
+ 
+strategies.  These  leveraging  possibilities  open  up  the  possibility  of  a  broader  range  of  conglomerate 
+relationships being affected than would otherwise be the case in more traditional markets. Our view is that a 
+more dynamic analysis of the market definition issue is required, focusing on not just existing but on potential 
+competition. The Commission should issue guidance that takes into account the particular dynamics of digital 
+platforms and internet ecosystems. In addition, the Commission should make greater use of its powers to grant 
+interim relief where necessary to prevent markets from “tipping”. 
+
+Ex ante regulation might also be needed to fill the gaps that competition rules cannot address. Already existing 
+ex ante regulation framework can provide a suitable reference point for the type of intervention required to 
+address market failures, through the use of an adapted “three criteria” test designed for digital gatekeepers. 
+The types of platforms, the types of competitive harms identified, and the remedies used to address those harms 
+need to be varied and flexible to fit the particular issues that arise. These could vary from the prohibition of 
+discrimination to access to key capabilities or data, to even structural separation where more extreme cases of 
+competitive harm have been identified to occur in a systematic manner. In turn, one could foresee the adoption 
+of a system of listed prohibited practices, accompanied by a flexible set of remedies.  
+
+AD 19.3. 
+
+Following a deeper understanding of digital markets, the current framework of antitrust rules might be able to 
+address  the  relevant  new  challenges.  Thus,  the  respondent  adopts  the  standpoint  that  the  flexibility  of  the 
+antitrust framework combined with a new approach, definitions and principles fitting the digital markets could 
+fulfil its role also in the future. 
+
+AD 20.1.  
+
+The respondent adopts the standpoint that the definition of digital markets needs further elaboration, so that 
+the above question can be answered, because the current definition is rather underdetermined to serve as a 
+basis of sectoral differentiation. 
+
+AD 24.1.  
+
+Following a deeper understanding of digital markets, the current framework of antitrust rules might be able to 
+address  the  relevant  new  challenges.  Thus,  the  respondent  adopts  the  standpoint  that  the  flexibility  of  the 
+antitrust framework combined with a new approach, definitions and principles fitting the digital markets could 
+fulfil its role also in the future. 
+
+Our starting point is that consistent and significant evolution in EU competition law is best way to proceed. On 
+the  proposal  for  a  competition  tool,  the  respondent  has  the  view  that  before  introducing  new  tools,  the 
+Commission may assess the design and scope of the proposed ex ante regulation for digital gatekeepers, and 
+that  the  existing  solutions  also  need  to  be  updated.  For  example,  the  market  definition  notice  needs  to  be 
+adapted significantly in response to the challenges of the digitised economy and increase the use of existing 
+powers in relation to interim measures and sector inquiries. 
+
+AD 25.1.  
+
+Based on the definition of digital markets it is not quite obvious (i) which markets belong to the scope of the 
+new tool, (ii) whether the outlined concerns are primarily platform-related issues or there are extra elements 
+and market phenomena.  
+
+Thus, the following steps seem reasonable: firstly, the flexibility and reaction potential of the current antitrust 
+framework have to be tested more deeply in the enforcement, and based on the practical experience, consistent 
+core principles are to be laid down. At this point the respondent emphasises that the efficiency of collecting 
+proofs and evidence in the digitalised economic environment might play a key role from the perspectives of 
+enforcement and the success of the regulatory regime. Secondly, it has to be examined what is the useful scope 
+of  platform-specific  regulation  and  what  developments are  taking  place  in  this  field.  Should  any  uncovered 
+regulatory  issues  emerge  beyond  the  scope  of  antitrust  rules  and  the  platform  specific  framework,  the 
+suitability of a new tool can be re-assessed. 
+
+ 
+ 
+ 
+

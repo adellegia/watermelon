@@ -1,0 +1,306 @@
+EU Commission - Consultation on a New Competition Tool    
+
+________________________________________________ 
+
+Consultation response from the 
+
+Centre for Competition Policy 
+
+University of East Anglia, Norwich Research Park, Norwich NR4 7TJ 
+
+Date: 08th September 2020  
+
+Author(s): 
+
+•  Dr Andrea Calef  
+
+•  Professor Sean Ennis  
+
+•  Dr Elias Deutscher  
+
+•  Professor Amelia Fletcher  
+
+•  Professor Bruce Lyons 
+
+This consultation response has been drafted by the named academic members of the Centre, 
+who retain responsibility for its content. 
+
+As an academic research centre, we welcome explicit citation and sharing of this 
+consultation response and the research cited within it. If you would like to discuss the 
+evidence in more detail, please feel free to contact the centre or the named academics. 
+
+The Centre for Competition Policy (CCP) 
+
+CCP  is  an  independent  research  centre  established  in  2004.  CCP’s  research  programme  explores 
+competition  policy  and  regulation  from  the  perspective  of  economics,  law,  business  and  political 
+science.  CCP  has  close  links  with,  but  is  independent  of,  regulatory  authorities  and  private  sector 
+practitioners.  The  Centre  produces  a  regular  series  of  Working  Papers,  policy  briefings  and 
+publications. An e-bulletin keeps academics and practitioners in touch with publications and events, 
+and a lively programme of conferences, workshops and practitioner seminars takes place throughout 
+the year. Further information about CCP is available at our website: www.competitionpolicy.ac.uk  
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional CCP comments: EU consultation on New Digital Tool and New 
+Digital Regulation. 
+
+In light of the nature of the possible changes in EU legislation and potential new regulatory 
+
+structure, and the stated indication that there might not be a second opportunity for open 
+
+comment, the UEA’s Centre for Competition Policy provides the following observations. These 
+
+draw  out  key  points  for  which  we  did  not  feel  able  to  express  responsive  points  in  the 
+
+questionnaire  format.  We  note  also  a  recent  2020  paper  by  Amelia  Fletcher  “Market 
+
+Investigations  for  Digital  Platforms:  Panacea  or  Complement?”  (attached  and  available  at 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668289)  and  another  by  Elias 
+
+Deutscher (attached). 
+
+The Centre for Competition Policy is a leading inter-disciplinary research centre focused on 
+
+competition and regulation based at the University of East Anglia. This response was prepared 
+
+by Andrea Calef, Elias Deutscher, Sean Ennis, Amelia Fletcher and Bruce Lyons, though not all 
+
+views are attributable to each person. 
+
+We proceed with comments by theme, with an emphasis on brevity and focus, and without 
+
+suggesting that these points provide a complete coverage of important topics: 
+
+Structure,  location  and  funding  of  body  for  new  competition  tool.  DG  Competition,  as 
+
+currently  constituted,  is mainly  set  up  for  casework.  Although  it  has performed  occasional 
+
+market studies, any addition of responsibilities to the European Commission, such as those 
+
+outlined, would require that the body handling those powers (if pre-existing) would receive 
+
+an additional budget sufficient to ensure that balanced and procedurally fair conclusions can 
+
+be  drawn.  This  issue  is  particularly  relevant  if  remedies  need  ongoing  monitoring.  If  the 
+
+competition tool and digital regulation go to one or more existing DGs, then the budget of the 
+
+DG(s) would need to be raised concomitantly. We note that often the funding of competition 
+
+authority work may come from general taxation (though there are exceptions within the EU, 
+
+such as in Greece) while regulators are very often financed by a levy from the industry they 
+
+oversee, given that the focus is so much more specific on a limited area of economic activity. 
+
+To  the  extent  that  these  powers  focus  very  much  on  one  sector,  the  question  of  how  to 
+
+finance their application is relevant. 
+
+2 
+
+ 
+ 
+ 
+ 
+Remedies.  With  the  described  powers  in  hand,  it  will  be  important  to  devise  checks  and 
+
+balances to aid in resisting the temptation to enter directly into structural remedies when 
+
+behavioural  remedies  are  possible.  Demand  side  remedies  can  be  valuable  in  many 
+
+circumstances, particularly when structural remedies are inappropriate; for example, in the 
+
+presence  of  strong  network  externalities  or  when  consumer  behaviour  results  in  lack  of 
+
+competition  despite  an  apparently  competitive  market  structure.1  When  designing  such 
+
+remedies, it is important to consider how consumers really behave, with a particular focus on 
+
+relative salience and relative consumer engagement.2 Moreover, intuitively sensible remedies 
+
+may sometimes have unexpected effects, as might occur with price disclosure requirements.3 
+
+When remedies are adopted, there needs to be an appropriate body (e.g. DG) that has the 
+
+capacity for on-going monitoring and review.   
+
+Coordination. Coordination between EC and EU national regulators will be important, as well 
+
+as coordination between regulators and competition authorities. The governance challenges 
+
+and  benefits  from  coordination  between  sector  and  competition  authority  regulators  are 
+
+described  in  Ennis  (2019)  which  includes  a  discussion  of  the  merits  and  disadvantages  of 
+
+combining  regulators  and  competition  authorities.4  It  will  be  particularly  valuable  to  find 
+
+appropriate  mechanisms  for  sharing  confidential  information  from  investigations  and 
+
+ensuring  that  comparable  information  is  provided  to  different  authorities  with  legitimate 
+
+interest and with powers that enable gathering and sharing the type of information shared. 
+
+In particular for digital companies, information needed in one jurisdiction may commonly be 
+
+found  in  another.  The  signing  on  2  September  2020  of  the  Mutual  Assistance  and  Co-
+
+operation Framework for Competition between five competition authorities outside the EU 
+
+is a positive development and it may be useful for the EU to take those steps necessary to 
+
+ensure it has access to relevant confidential information wherever it may be held in the world. 
+
+1 See Amelia Fletcher (2016) The Role of Demand-Side Remedies in Driving Effective Competition: A Review for 
+Which? CCP Report, http://www.regulation.org.uk/library/2016-CCP-Demand_Side_Remedies.pdf. 
+2 See Amelia Fletcher (2018) “Disclosure and Other Tools for Enhancing Consumer Engagement and 
+Competition”, CCP Working Paper 18-13, 
+http://competitionpolicy.ac.uk/documents/8158338/24898393/CCP%2BWP%2B18-13%2Bcomplete.pdf. 
+3 Further thoughts on proposals for broad or narrow disclosure requirements related to price 
+discrimination on the internet, can be found in Sean Ennis and Wynne Lam (2020) “Personalised 
+Pricing and Disclosure” (forthcoming) BEIS Research Paper. 
+
+4 Sean Ennis “Independent Sector Regulators and their Relationship with Competition Authorities” (2019) 
+https://one.oecd.org/document/DAF/COMP/WP2(2019)3/en/pdf. 
+
+3 
+
+ 
+ 
+ 
+ 
+In addition to the new mutual assistance framework, examples of ways to share information, 
+
+investigative and decision-making powers include: 
+
+-European Competition Network; 
+
+-Dual  powers  in  the  UK  between  the  competition  authority  and  regulators 
+
+(concurrency). We note that in the UK, if CMA writes a report, it may send the 
+
+design of remedy to the regulator or monitoring to the regulator. 
+
+We  note  in  particular  that  it  may  be  worth  looking  to  experience  with  other  domains  of 
+
+regulation. For example, the experience of cooperation in the Single Supervisory Mechanism 
+
+(SSM) at ECB may illustrate alternative mechanisms for ensuring that activities are overseen 
+
+both at national and ECB level. We note that DG Competition may not have the direct pseudo-
+
+legislative power of the SSM at the ECB (even if that power is not used by the ECB). 
+
+One of the authors of this note believes that even if cross-jurisdiction mandatory coordination 
+
+is possible, differentiated enforcement across geographies can permit comparative studies to 
+
+help  determine  which  policy  options  are  most  effective,  which  may  be  valuable  if  the 
+
+corporate  cost  from  implementing  different  local  versions  of  their  product  is  moderate. 
+
+Uniform and coordinated action can make such evaluation more difficult. But such evaluation 
+
+is  particularly  important  in  a  context  in  which  unexpected  regulatory  consequences  are 
+
+possible and the evidence base for specific regulatory approaches is somewhat limited.5  
+
+Monitoring  and  subsidiarity.  As  already  pointed  out,  the  monitoring  of  commitments  by 
+
+private companies on their behaviour may be a major future activity. For monitoring elements 
+
+on  the  demand  side,  related  to  perceived  retail  activity,  national  authorities  may  be  well-
+
+suited  to  such  monitoring.  On  the  other  hand,  monitoring  of  behaviour  behind  the  retail-
+
+customer interface (including business customers) may involve examination of algorithms or 
+
+examinations  of  multi-country  related  business  documents.  In  some  respects,  this  type  of 
+
+monitoring  may  be  particularly  well-suited  to  a  large  authority  with  multi-country 
+
+competence, suggesting some monitoring may be best performed by the EC. 
+
+5 See Sean Ennis (2017) “Disruptive innovation and cross-border co-operation” (Prepared for EUI conference of 
+29 May, 2017, mimeo. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Checks and balances. We note that the UK government has given UK competition authority 
+
+strong powers that amount to quasi-legislative authority around market investigations (e.g. 
+
+break-up or price regulation of firms that have not broken any law). Giving such authority to 
+
+an entity in the European Union context may be more of a political concern than it is in the 
+
+UK. 
+
+Powers.  The  distribution  of  powers  would  an  important  aspect  of  forthcoming  legislation, 
+
+considering whether member states would be required to set up a comparable digital tool 
+
+and regulatory apparatus to that at the European Union level, on the one extreme, or having 
+
+the  powers  for  review  handled  exclusively  at  the  central  level.  In  the  energy,  sector,  for 
+
+example, EU policies tend to be operationalised via the mechanism of national regulators. 
+
+While it might be unwise to require putting in place of such regulation in all member states, 
+
+given the limited size and budget of smaller states and complexity of the digital field at the 
+
+moment, there may be benefits that come from regulatory diversity that ultimately allows for 
+
+a better assessment of alternative policy options at the EU level.  
+
+When comparable powers exist at Member State and EU level, a mechanism is needed to 
+
+prevent inconsistent outcomes. We note that, while the UK had market investigation powers 
+
+that  could  potentially  overlap  with  those  of  the  EC,  no  UK  market  investigations  are 
+
+performed in areas that would potentially intervene with EC competences.  
+
+Limiting focus to digital.  Moreover, there is a risk that if new powers are justified for digital 
+
+purposes, but are actually much broader, they will then be used later for purposes beyond 
+
+the  initially  envisioned  legislative  remit,  and  that  they  could  be  used  for  broader  political 
+
+intervention in corporate structuring. However, it will be increasingly difficult to distinguish 
+
+separate digital and non-digital markets as transactions move online and consumer durables 
+
+become  part  of  the  ‘internet  of  things’.  Placing  the  powers  within  DG  Competition  would 
+
+ensure that other investigations can take priority over  a given market study (e.g., cartel or 
+
+abuse  of  dominance),  both  limiting  scope  of  market  studies  and  ensuring  that  market 
+
+investigations are not stopping enforcement against otherwise illegal acts for which classic 
+
+competition law enforcement would be the preferred outcome. 
+
+5 
+
+ 
+ 
+ 
+

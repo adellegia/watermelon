@@ -1,0 +1,149 @@
+Ref. Ares(2020)4629822 - 06/09/2020
+
+Inputs to the NCT-consultation from FBRT 
+
+Dear BEUC,  
+
+Thank you for engaging passionately in the important debate about NCT. We definitely support the notion 
+that the existing framework in the area of competition is insuffient in terms of tackling the new challenges 
+arising as a result of most notably, digitalisation. The call for a change in the current market structure and 
+its resulting competition issues has to be adressed most fiercely. In the following, we would like to mention 
+a few things that we believe should be emphasised and others which should be treated more in depth*.  
+
+We have chosen to deliver the input as follows and thus not merely filling out the distribruted questionaire. 
+
+Ex-ante regulation and third-party responsiblity 
+
+  We firmly follow the notion that ex-ante regulation may be a too potent tool in terms of principles 
+for legal certainty and related issues. Taking into consideration the fast-developing development of 
+new technologies following an algoritmic logic at the risk of arriving at crucial tipping points calls 
+for a stronger competition tool with ex-ante competence is necessary.  
+
+  BEUCs role in the upcoming examination of Amazons business model are appreciated and 
+
+applauded by us when discussing use of third-party sales to promote own products. Overall, we 
+support looking into possible uses of ex-ante regulation to counter some of the rising challenges. In 
+terms of tipping point. This comes in handy to prevent harmful distortion of market mechanisms.  
+  Clearly, ex-ante regulation must not be too harmful for competition nor legal certainty – just like 
+
+we have experienced in others markets where certian affairs require specific permission. These 
+worries are also driven by the insights into network effects in i.e. social networks where the 
+responsobility when dealing with user-generated content can be questioned. The transparency 
+concerns and division of responsiblity must be well thought out here.  
+
+Development of the estimation of ’willingness to pay’ in the algorithmic era:  
+
+  One of the major changes in online algorithmically-driven market places are the enhanced 
+
+estimation of ’willingness to pay’, which leads to enlargement of producer surplus at the expense 
+of consumers that fundamentally increases power inequaility (information) of markets. Resulting in 
+disequilibirum with sticky prices due inadequate information, possible tacit collusion and more.  
+ This may result in decreased total market surplus that cannot be in the interest of society or 
+anyone besides few gatekeeper companies that lucrate on data expropiation. 
+
+ 
+
+  Also we must demand transparency of pricing mechanisms to ensure fair competetion and market 
+prices (i.e. Amazons tendency to capture market share by temporarally applu a cost-based pricing 
+strategy setting price under cost in certain product groups). Like AI-technlology, the right of 
+explicability must apply – without companies having to reveal their ’secret’, but merely providing 
+customers with better navigation tools.   
+
+ 
+ 
+Disturbing power of gatekeepers 
+
+  Using the gatekeeper power to capture market shares are questionable in terms of competition 
+
+and furthermore difficult to enforce when platforms take on a two-faced role as provider and seller 
+at the same time i.e. Amazon with their Prime-subscription simultanously promote single-home.  
+  The two-faced role is also present in the case of Apple owning both hardware and software there is 
+a strong force towards keeping consumers in the closed eco-system due to lock-in features. In 
+terms of payment solutions, the NFC-chip is blocked for other service providers than Apple Pay, 
+which leaves competiting apps with the only option to settle with inferior Bluetooth-technology.  
+  Facebook has foreshadowed introduction of the ’stable’ coin Libra, which further limit competition 
+through de-facto controlling both input, output and the means of payment and transaction in toto.  
+
+  The ban of cartels and splitting up markets, potential abuse of a dominant position alike as well as 
+deals that harm competition at the expense of users and consumers must be questioned critically. 
+
+  Pricing algoritmics regulated through huge data capacities makes it nearly impossible for smaller 
+
+companies to compete with the large companies who have great data power (and market power). 
+This makes it virtually impossible to capture market shares through traditional pricing strategies.  
+
+  The misconduct of dividing markets via mechanimsm mimicking tacit collusion between 
+
+gatekeeping powers must be taken firmly care of. In a traditional market menu cost inmenu costs 
+mean that firms may be reluctant to change their prices; however in a digital market these cost 
+approches zero, which may be harmful to the competition situation. Namely, this happens when 
+digital technologies undermines the delay, which otherwise causes dynamic effect in traditional 
+markets. Moreover, profiling of costumers and users on platforms with single-home charateristics. 
+  Competition in the area of payment solutions suffers from sub-optimal structures, which ultimately 
+disadvantages consumers. Exisiting actors in the area has next to zero costs when conducting the 
+marginal payment. This surplus deriving from economics of scale does not benefit consumers. 
+PSD2-regulation has diminished this challenged, but has not performed as well as intented; which 
+calls for further regulation to ensure efficency, consumer benefits and better datamarket structure. 
+
+  As a consumer, these tendencies including data collection, rating and pricing makes it difficult to 
+
+navigate and to know whether the search results through a de-facto monopoly of service provider, 
+Google, will actually led you to the best prices online relative to navigating consumers towards 
+partner companies or own products through target marketing driven by large-scale data collection.   
+
+Product quality as a parameter 
+
+  Digitalisation reinforce the tendency of viewing price as the primary parameter for costumers, but 
+price is not everything and that notion has to contemplated when designing the NCT. In example, 
+even though the lifetime of technological products i.e. smartphones have decreased notable, this  
+does not seem to interfere in the general considerations. Studies from i.e. the healthcare sector has 
+shown that price is often valued below price, costumers service, general confort and more.  
+  There is no guarantee that the quality of a certain product or service is reflected in the price or 
+ratings. Increased information deficits in buying situations i.e. when chosing a dentist online.  
+  Consumer experiences has to not only feel good, but be good. A labelling scheme within NCT- 
+
+framework may resolve some of the challenges arising in online interaction to ultimately ensure an 
+adequte consumer proctetion and information in the analogous world and digital world alike. 
+
+Learning to think of data shares in additional to tradtional market shares 
+
+  Traditional competition law has had to do with market share determined by production of largely 
+
+material products and more recently human services. However the digital era requires rethinking of 
+this and learning to think of data shares  important itself. Competition in the algorithmically driven 
+attention economy is a radically new phenomena. One could think of capital requirements that 
+limit market power is just like data power that make it almost impossible for smaller actors to get 
+their fair share.  
+
+  The very large market shares and data shares alike constitute distortion of competetion itself. In 
+their existence alone, consumers will not have the opportunity to choose an alternative, as such 
+will not materialise in the current market, as gatekeepers – and not just dominating companies that 
+have too much data power. In relation to this, we must move closer to a revised understanding of 
+platform-based markets that are essentially global. For this, data should also be used as a 
+delimitation of a market (what type of data is collected, etc.) and thus be equated as a mean of 
+payment as mentioned in the directive on digital content and others.  
+It is widely adopted that data has a value and is thus not ’ zero price’. Now we must learn to 
+understand data as more than digital information and to figure out how to fully operate with data 
+as i.e  mean of payment. Denmark has implemented rather well-functioning consumer protection 
+legislation that defines rules for what kind and extent of data that payment solutions may collect. 
+In this instance, GDPR is not sufficient due to its status of framework law, which could be 
+problematic when considering the above-mentioned foreshadowing of i.e. Libra currency and other 
+new inventions, which most like would be rather difficult to enforce compliance with legislation.   
+
+ 
+
+*Future work and inputs to the proces of NCT 
+
+FBRT has a huge interest in contributing to the proces of NCT and the digital field more broadly. Noting that 
+DSA and NCT are different policies and followingly different consultation, we would like to ask how BEUC 
+envisions to coordinate the work between the two. We are happy to hear from you and answer any 
+questions that may arise in the light of the considerations presented in the  abovementioned. 
+
+Best regards, 
+
+// Morten Bruun Pedersen, chief economist The Danish Consumer Council (FRBT) 
+
+ 
+ 
+ 
+

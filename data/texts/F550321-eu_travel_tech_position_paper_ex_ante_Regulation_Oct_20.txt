@@ -1,0 +1,1250 @@
+Eu travel tech position paper on ex ante regulation to complement competition 
+law in the digital era 
+
+I. 
+
+Introduction  
+
+This  paper1  presents  eu  travel  tech’s  position  on  the  debate  over  whether ex ante 
+regulation needs to be adopted by the European Union to complement competition 
+law  in  the  digital  era.  Its  purpose  is  to  share  with  the  European  Commission  the 
+experience  of  its  members  in  dealing  with  large  consumer-facing  digital  platforms 
+active  in  several  markets  (which  we  refer  to  as  “Systemic  Digital  Platforms”)  and,  in 
+particular,  Google  on  which  they  and  other  business  users  depend  for  material 
+volumes of user traffic. eu travel tech will show that ex ante regulation is needed to 
+prevent  “Systemic  Digital  Platforms”  from  leveraging  their  market  power  at  the 
+expense of their business users and consumers.  
+
+eu travel tech represents the interests of travel technology companies. eu travel tech 
+uses its position at the centre of the travel and tourism sector to promote a consumer-
+driven, innovative and competitive industry that is transparent and sustainable. Our 
+membership spans Global Distribution Systems (GDSs), Online Travel Agencies (OTAs), 
+Travel  Management  Companies  in  business  travel  (TMCs)  and  Metasearch  Search 
+Engines (MSEs).2 
+
+This  paper  is  divided  in  nine  Parts.  Part  II  contains  an  executive  summary.  Part  III  
+provides an overview of the various issues posed by Systemic Digital Platforms in the 
+EU  travel  tech  sector.  Part  IV  makes  a  case  for  adopting ex ante  rules  aimed  at 
+controlling  the  market  power  of  Systemic  Digital  Platforms,  explaining  why 
+competition law alone is inadequate for that task. Part  V examines the appropriate 
+legal  basis  for  adopting  such ex ante  rules.  Part  VI  identifies  objective  criteria  to 
+identify companies that it would be appropriate to subject to such ex ante rules, while 
+Part VII  lays down the principles that should form the content of regulation. Part VIII  
+includes our suggestions with regard to institutions and enforcement. Finally, Part IX 
+concludes. 
+
+II. 
+
+Executive summary 
+
+Core problem and focus.  While  several  digital  platforms  can  be  characterized  as 
+“systemic”, the  present  paper  focuses on  the  behavior  of  one such  Systemic  Digital 
+Platform, namely Google. Like most online businesses, many OTAs and MSEs are reliant 
+on Google for a material portion of user traffic, be it organic or paid. In many cases, 
+
+1 The paper was produced by the EU competition law firm Geradin Partners, on behalf of eu travel tech.  
+2   eu  travel  tech's  members  include  Amadeus,  Booking.com,  eDreams  ODIGEO,  Expedia  Group, 
+Travelport,  and  Skyscanner.  Associate  members  include  American  Express  GBT.  Strategic  Partners 
+include Lastminute.com, etraveli, Trainline, Travix, Travelgenio, OAG and CWT. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+customers  begin  their  journey  with  Google  Search.  This  control  of  the  top  of  the 
+customer  purchase  funnel  enables  Google  to  act  as  a  bottleneck,  by  e.g.,  diverting 
+traffic from OTAs and MSEs into its own competing vertical travel search products, to 
+the detriment of OTAs and MSEs. Google’s conduct harms innovation as by directing 
+users to its vertical products (Hotel Finder, Google Flights, etc.), Google prevents OTAs 
+or  MSEs  from  differentiating  themselves,  other  than  on  price,  or  even  from  earning 
+revenue. This reduces competition and innovation, and harms consumer choice. 
+
+There is a need for ex ante regulation. eu travel tech supports the work done by DG 
+Competition.  However,  intervention  based  on  competition  law  alone  many  not  be 
+sufficient to address and deter anticompetitive conduct by Systemic Digital Platforms. 
+Rather, we believe that existing ex post enforcement should be complemented by ex 
+ante rules, which could address certain limitations of antitrust enforcement, ensuring 
+EU markets remain fair and contestable to the benefit of consumers. 
+
+Which online platforms should be ex ante regulation?   The  Commission  should 
+produce  a  definition  of  Systemic  Digital  Platforms  that  is  neither  under-  nor  over-
+inclusive, i.e. that captures those (but only those) platforms whose systemic role in the 
+digital economy is such that their conduct threatens the fairness and openness of EU 
+markets,  without 
+imposing  unnecessary  regulatory  burdens  on  other  market 
+participants.  We  think  a  workable  definition  would  be  that  a  digital  platform  is 
+systemic if the following cumulative conditions are met: 
+
+(a)  Its  activities  span  over  a  significant  part  of  the  EU  internal  market  and  are 
+protected by high barriers to entry, such as economies of scale, and direct and 
+indirect network effects; 
+
+(b)  It acts as a private gatekeeper to critical online services for an exceptionally 
+large  population  of  consumers,  which  single  home;  hence  allowing  it  to  act 
+without constraint when it sets the rules of the game for the services it controls. 
+(c)  It  is  able  to  leverage  its  unique  assets  (data,  customer  base,  technological 
+
+assets, etc.) into new markets and exclude rivals.  
+
+Content  of  ex  ante  regulation.  Instead  of  laying  down  highly  detailed  and 
+prescriptive  rules,  the ex ante  regulation  should  set  out  core  principles,  which  are 
+fleshed out in an accompanying guidance paper and further developed through the 
+enforcement  process.  More  specifically,  we  believe  that  these  principles  should 
+address several practices that are particularly detrimental to the travel industry and 
+which  may  also  affect  other  industries,  including  the  ability  of  Systemic  Digital 
+Platforms  to:  (i)  engage  in  self-preferencing,  e.g.  when  Google  discounts  organic 
+search results in favor of its own products or advertising; (ii) internal combine and use 
+data across products and services; (iii) impede multi-homing to entrench the Systemic 
+Digital Platform’s position by “locking in” users and erecting barriers to entry.  
+
+Designation of  a platform as “systemic”.  The  Commission  should  have exclusive 
+jurisdiction  to  designate  a  digital  platform  as  “systemic”.  The  effect  of  such  a 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+designation should be that the Systemic Digital Platform is automatically subject to 
+the ex ante rules, which may then be adapted on a case by case basis to the particular 
+characteristics of the platform in question. The geographic scope of the designation 
+should reflect the EU-wide jurisdiction of the Commission and the cross-border nature 
+of the relevant Systemic Digital Platforms, i.e. it should cover all of the Member States 
+in which the Systemic Digital Platform is active.  
+
+Enforcement of the ex ante rules. Enforcement could be based on a system of parallel 
+competences between the Commission and national authorities, drawing inspiration 
+from the mechanism in place for the enforcement of EU competition law according to 
+Regulation 1/2003. Were similar principles to govern the enforcement of ex ante rules, 
+we would typically expect the Commission to be the authority “well placed to act”, as 
+the practices of large digital platforms are usually cross-border in nature and affect 
+several Member States at once. The competent authority should be vested with the 
+power to take all necessary measures to ensure the effet utile of the ex ante rules, lest 
+we end up with toothless regulation. 
+
+III. 
+
+The problems faced by the travel sector 
+
+Digitization  has  changed  profoundly  the  way  people  live,  communicate  with  each 
+other  and  travel.  For  instance,  digitization  has  seen  the  rise  of  certain  large  digital 
+platforms that intermediate between a variety of businesses and consumers. This has 
+given rise to new dynamics and in some cases new competitive challenges.  Protected 
+by significant  barriers to entry (strong  network  effects and  economies of scale  and 
+scope,  marginal  costs  often  close  to  zero,  primarily  single-homing  customers,  wide 
+access to competitively relevant data, etc.),3 a small subset of platforms have become 
+“digital gatekeepers” to markets, customers and information, thus putting in danger 
+the fairness and openness of EU markets.4 There is already evidence of how Systemic 
+Digital  Platforms  can  use  their  systemic  role  to  cement  their  market  power  and 
+leverage it into new markets, as well as to impose unfair conditions on their business 
+customers (e.g., excessive data extraction). Once a market has tipped in their favor, it 
+becomes extremely difficult  for both existing rivals and new entrants to compete. This 
+stifles innovation and harms consumers. 
+
+3   Stigler  Committee  on  Digital  Platforms,  Final  Report,  September  2019,  available  at 
+https://research.chicagobooth.edu/-/media/research/stigler/pdfs/digital-platforms---committee-report---
+stigler-center.pdf?la=en, (the “Stigler Report”), pages 34-41. See also Jacques Crémer, Yves-Alexandre 
+de  Montjoye  and  Heike  Schweitzer,  “Competition  Policy  for  the  digital  era”,  Final  Report  (2019), 
+available  at  https://ec.europa.eu/competition/publications/reports/kd0419345enn.pdf  (the  “Crémer 
+Report”), pages 20-21.  
+
+4   Communication from the Commission to the European Parliament, the Council, the European Economic 
+and Social Committee and the Committee of the Region, Shaping Europe’s digital future, COM(2020) 
+67 final, page 8.  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The travel sector is no exception, as it has grown heavily dependent on – and exposed 
+to the problematic conduct of – one of these gatekeepers, namely Google, on which 
+this  paper  will  focus.  Yet,  our  concerns  are  far  from  being  specific  to  the  travel 
+industry.  Indeed,  similar  concerns  about  Google’s  conduct  have  been  voiced  by 
+companies operating in many other sectors (e.g., comparison shopping services, news 
+publishing, etc.). This serves to illustrate how the issues posed by Google’s conduct are 
+at  their  core systemic  and structural:  they  stem  from  Google’s  abuse  of  its  quasi-
+monopoly in general search (and related advertising), which act as a gateway for user 
+traffic to online businesses. 
+
+At the same time, our concerns are not necessarily limited to Google. Rather, Google’s 
+practices  should  be  regarded  as  examples  of  how  a  large  tech  firm  may  use  its 
+gatekeeping role to gain anticompetitive advantage in new markets and/or entrench 
+its  position  on  existing  markets.  Indeed,  companies  in  similar  gatekeeping  positions 
+engage  in  similar  practices.  For  this  reason, ex ante  regulation  should  not  refer  to 
+named undertakings, but should focus on the conduct of gatekeepers that threaten 
+the openness and fairness of EU markets. 
+
+The  Commission  is  well  aware  of  Google’s  quasi-monopoly  over  general  search:  at 
+least since 2008, Google has consistently held remarkably high market shares across 
+all  27  EU  Member  States,  in  most  cases  exceeding  90%,  while  no  effective  entry  has 
+taken  place.5  Coupled  with  strong  barriers  to  entry  such  as  network  effects, 
+economies  of  scale,  access  to  click-and-query  data,  and  the  need  for  significant 
+investments,6  this  means  that  Google’s  position  is  virtually  incontestable.  That  has 
+enabled Google to become the gatekeeper of user traffic flowing through its search 
+engine. 
+
+Naturally, that has not left the travel sector unaffected. Like most online businesses, 
+many  OTAs  and  MSEs  –  even  those  with  a  highly  recognizable  brand  and  a  strong 
+direct  relationship  with  consumers  –  are  reliant  on  Google  for  a  material  portion  of 
+user traffic, be it organic or paid. In many cases, customers begin their journey with 
+Google  Search.  This  control  of  the  top  of  the  customer  purchase  funnel  enables 
+Google to act as  a  bottleneck,  by  e.g.,  diverting traffic from OTAs and MSEs into  its 
+own vertical search products, to the detriment of OTAs and MSEs.  Indeed, Google has 
+systematically engaged in such practices in order to promote its own vertical travel 
+products, namely Hotel Finder (accommodation), Google Flights (flights) and VR finder 
+(vacation rentals).  
+
+5   Commission Decision of 27.6.2017 in case AT.39740 - Google Search (Shopping), C(2017) 4444 final, 
+
+paragraphs 274-284.  
+
+6   Commission Decision of 27.6.2017 in case AT.39740 - Google Search (Shopping), C(2017) 4444 final, 
+
+paragraphs 286-296.  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For  instance,  when  a  user  searches  for  a  hotel  in  Brussels,  Google  automatically 
+displays the “Hotel search unit”, a box with hotel listings that when clicked on leads 
+the user to Google’s hotel vertical,7 see Figure 1. The Hotel search unit is prominently 
+featured on Google’s SERP with a rich and attractive display format, setting it apart 
+from  rival  verticals  displayed  significantly  further  down  the  page,  below  “the  fold”, 
+despite the fact that these rivals are highly ranked organic results. Over the years, the 
+Hotel  search  unit  has  captured  an  increasingly  large  portion  of  the  SERP,  pushing 
+organic  results  ever  further  down  the  page  (and  below  the  fold).  If  the  search  is 
+conducted  on  a  mobile  device  –  as  is  increasingly  the  case  –  where  screen  size  is 
+limited, the Hotel search unit will typically push organic results down so far that the 
+user will have to scroll down to find them. Yet the average user rarely scrolls down the 
+SERP.  
+
+Figure 1 
+
+The result is that OTAs and MSEs receive increasingly less traffic from organic results. 
+In order to make up for the loss of organic traffic, they have increased their ad spend 
+
+7   As  far as  eu travel tech is aware,  Google  monetizes  its  Hotel search  unit  by displaying ads  within its 
+
+vertical. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+with Google (either in the form of traditional Search Engine Marketing or in the form of 
+Hotel  Ads),  which  in  turn  increases  their  cost  of  customer  acquisition,  increases 
+distribution costs and squeezes their margins.8 
+
+Even  when  a  user  clicks  on  a  listing  displayed  within  the  Hotel  search  unit,  Google 
+interposes itself between the OTA or MSE whose listing is clicked on and its customers. 
+When  a  user  clicks  on  a  listing  in  the  Hotel  search  unit  display  (see  Figure  1),  he  is 
+referred  to  Google’s  Hotel  Finder  vertical,  not  to  the  OTA  or  MSE  whose  listing  he 
+selected,  see  Figure  2.    The  user  then  inputs  her  search  details  into  Google’s  Hotel 
+Finder  (e.g.,  dates,  star  rating,  budget,  services  such  as  Wi-Fi).  In  effect,  the  Hotel 
+search  unit  that  is  displayed  on  the  SERP  (Figure  1)  is  a  “bait  and  switch”  –  the  user 
+thinks  that  he  will  be  taken  to  the  listing  he  clicks  on,  but  in  fact,  regardless  of  the 
+listing on which he clicks, he is taken to the Hotel Finder page (Figure 2).  
+
+Figure 2 
+
+Google  then  displays  the  offers  made  by  OTAs,  MSEs  and  hotels  that  have 
+participated in the auction run by Google to populate its Hotel Finder results page, see 
+Figure  3  (which  shows  the  screen  the  user  sees  when  it  clicks  on  one  of  the  hotels 
+listed). Only then will the customer be able to choose an OTA or MSE to complete her 
+booking. 
+
+8   See  also  “A  Deep  Dive  Into  Google’s  Impact  on  Travel  2020”,  Skift,  February  2020,  available  at 
+
+https://research.skift.com/report/a-deep-dive-into-googles-impact-on-travel-2020/, pages 37-38.  
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+
+Consumers  are  thus  pushed  further  down  Google’s  purchasing  funnel  before  they 
+interact with the OTA or MSE that they initially chose back on the SERP. This reduces, if 
+not eliminates, the ability of OTAs or MSEs to differentiate themselves other than on 
+price (as only their logo appears next to a price), stifling innovation, disincentivizing 
+investments  in  quality  enhancements  and  harming  consumers.9  At  the  same  time, 
+OTAs  and  MSEs  have  to  pay  significant  amounts  to  be  displayed  in  Google’s  Hotel 
+Finder results. In addition, to be able to participate in the Hotel Finder auction, OTAs 
+and MSEs, hand over valuable data to Google, through a live feed, which Google uses 
+to populate its Hotel Finder results.10 Google has not entered into contracts with tens 
+of thousands of hotels and hotel chains in the way that OTAs have. 
+
+As  one might  expect, Google has engaged in similar practices  to promote its  travel 
+search products in other verticals, such as flights. Each time a user searches for flights 
+on  Google  Search,  Google  will  by  default  display  its  own  “Flights  unit”,  which  when 
+
+9   Worse, in the case of the recently launched flights carousel that appears above the Flights unit, OTAs and 
+
+MSEs may differentiate only on the basis of their logos, as no prices are shown. 
+
+10   This is a broader concern about Google, i.e. that it may collect through its various business-user services 
+(e.g., advertising or analytics services) data not strictly necessary for the provision of its services, which 
+it may then use to develop competing products. Businesses are in the dark as to what Google may do with 
+the collected data and its standard terms and conditions shed little light.  
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+clicked on leads the user to Google’s dedicated flights vertical. As is the case with the 
+Hotel search unit, the Flights unit occupies an increasingly large portion of the SERP 
+and  pushes  organic  results  further  down  the  page  (below  the  fold),  while  its  rich 
+display format makes it visually more attractive to users.11 See Figure 4, which shows 
+the  results  a  Google  user  based  in  Brussels  sees  when  she  searches  for  flights  to 
+London. 
+
+Figure 4 
+
+Importantly, in the case of flights search Google announced in January 2020 that it 
+will  no  longer  charge  airlines  /  OTAs    referral  fees.12  It  is  hard  to  see  how  an 
+
+11   This  is  in  stark  contrast  with  the  “neutral  display”  obligations  imposed  on  vendors  of  computerized 
+reservation  systems  (CRS).  See  Regulation  (EC)  No  80/2009  of  the  European  Parliament  and  of  the 
+Council of 14 January 2009 on a Code of Conduct for computerised reservation systems and repealing 
+Council Regulation (EEC) No 2299/89, OJ L 35, 4.2.2009, pages 47–55. 
+
+12   G. Sterling,  “Google removes  ‘ads’  and  ‘sponsored’ labels  from flight search results”, Search Engine 
+Land,  23  January  2017,  available  at  https://searchengineland.com/google-removes-ads-and-sponsored-
+labels-from-flight-search-results-327975. Flight search engines typically offer their services to consumers 
+free  of  charge.  They  fund  their  operations  by  charging  participating  airlines  /  OTAs  each  time a  user 
+clicks  on  one  of  their  offers  (on  a  Cost-Per-Click  basis)  or  completes  a  transaction  (on  a  Cost-Per-
+Acquisition basis). 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+independent flights search engine could compete against a product offered virtually 
+for free to all sides of the market. eu travel tech suspects that Google most likely cross-
+subsidizes Google Flights through its other products, and in particular Google Search 
+and related advertising. Google may use the data it collects through Google Flights 
+(e.g.,  people’s  travel  plans,  their  destination,  the  dates  on  which  they  travel,  the 
+airports they will use, etc.) in order to sell high-value targeted ads on Google Search.  
+
+As described in the academic literature, the ability to internally combine and use data 
+across  products  and  services  may  enable  a  platform  like  Google  to  engage  in 
+“envelopment”  strategies  aimed  at  conquering  new  markets  through  cross-
+subsidization.  This  strategy  further  entrenches  Google’s  position  in  its  core  market 
+(general search), while also preventing rivals in the flights search market from gaining 
+data parity, let alone superiority.13 This strategy is simply impossible to match even for 
+more efficient rivals in the flights search market, as it would require them at the same 
+time to enter the general search market, where Google’s position is incontestable.  
+
+In  summary,  Google’s  conduct  harms  innovation  as  we  have  seen  that  by  directing 
+users to its vertical products (Hotel Finder, Google Flights, etc.), Google prevents OTAs 
+or  MSEs  from  differentiating  themselves,  other  than  on  price,  or  even  from  earning 
+revenue. This reduces competition and innovation, and harms consumer choice.  
+
+IV. 
+
+Why ex ante regulation? 
+
+One  might  of  course  argue  that  the  issues  presented  above  should  be  addressed 
+through  recourse  to  EU  competition  law.  However,  while  undoubtedly  an  important 
+tool in preserving the contestability of markets, relying on competition law alone is no 
+longer a sustainable solution.  
+
+In  the  first  place,  ex post  enforcement  is  not  always  sufficient  to  tackle  anti-
+competitive practices by Systemic Digital Platforms.14 Competition investigations are 
+resource-intensive  and  lengthy,  spanning  several  years.  As  a  result,  by  the  time  an 
+investigation has concluded, the market may have tipped in favor of the investigated 
+undertaking as a result of its conduct, such that competition may be extremely hard 
+to restore.15 
+
+13   D.  Condorelli  and  J.  Padilla,  “Harnessing  Platform  Envelopment  Through  Privacy  Policy  Tying”,  14 
+
+December 2019, available at SSRN: https://ssrn.com/abstract=3504025.  
+
+14   See Competition and Markets Authority, “Online platforms and digital advertising”, Market study interim 
+at 
+(the 
+
+report, 
+https://assets.publishing.service.gov.uk/media/5dfa0580ed915d0933009761/Interim_report.pdf 
+“CMA Interim Report”), page 234. 
+
+December 
+
+available 
+
+2019, 
+
+18 
+
+15   See also Report of the Digital Competition Expert Panel, “Unlocking digital competition”, March 2019, 
+at 
+
+available 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the second place, competition investigations are ad hoc, limited to the facts of the 
+particular case, and may do little to prevent similar conduct that has similar effects in 
+other  markets.16  eu  travel  tech  members  learned  this  the  hard  way:  even  though 
+certain members filed complaints with the Commission over Google’s conduct as early 
+as  2012,  Google’s  conduct  worsened  and  continues  unchecked  today.  While  initially 
+the  Commission  took  issue  with  Google  using  its  dominance  in  search  to  favor  a 
+number  of  its  verticals,  including  travel,  it  eventually  only  addressed  one  of  the 
+affected  verticals,  namely  comparison  shopping  services  in  the  case  AT.39740  – 
+Google Search (Shopping).  In  the  meantime,  Google  has  been  free  to  engage  in 
+abusive practices that are comparable to, and have created consumer harm of the 
+order  of,  the  conduct  condemned  in Google Shopping in  order  to  favor  its  travel 
+verticals.17 
+
+In the third place, even when lengthy investigations conclude, the remedies imposed 
+may do little to facilitate the restoration of competition. For example, rival comparison 
+shopping  services  have  long  complained  that  the  remedy  implemented  in Google 
+Shopping has had little to no impact.18 In November 2019, more than two years after 
+the decision was adopted, Commissioner Vestager observed in an interview that the 
+remedy generates “very little” traffic to rivals.19 In the case of Google Android,20 rival 
+search  engine DuckDuckGo  recently  criticized  the proposed auction-based  remedy 
+for  both  favoring  Google21  and  being  “rigged in favor of big companies and search 
+engines with intentionally ad-heavy search results.”22 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/7855
+47/unlocking_digital_competition_furman_review_web.pdf,  (the  “Furman    Report”)  paragraph  2.8  et 
+seq; Stigler Report,  page 99. 
+
+16   See also Furman Report, paragraph 2.20. 
+
+17   For instance, in the case of Google Flights or Google Hotel Finder, there is a valid argument that Google 
+has engaged in an unlawful tie of its travel vertical to its general search services. Once the user enters a 
+travel-related query on Google Search, Google will automatically display its OneBox (e.g., Hotel search 
+unit or Flights unit). There is no way for the user to access Google Search and avoid Google’s verticals.  
+18   See  e.g.,  R.  Toplensky  and  M.  Acton,  “Google  antitrust  remedy  delivers  few  changes  for  rivals”, 
+Financial Times, 27 October 2017, available at https://www.ft.com/content/b3779ef6-b974-11e7-8c12-
+5661783e5589.  
+
+19   N. Hirst and L. Croft, “Google's shopping remedy providing 'very little' traffic to rivals, EU's Vestager 
+
+says”, MLex, 27 November 2019. 
+
+20   Commission Decision of 18.7.2018 in Case AT.40099 – Google Android, C(2018) 4761 final. 
+
+21   A. White, “Google’s App Choice Screen Still Favors Google, Rival Says”, Bloomberg, 28 January 2020, 
+available  at  https://www.bloomberg.com/news/articles/2020-01-28/google-rival-attacks-search-giant-s-
+bid-to-stoke-android-choice.  
+
+22   “Google's Android  choice  screen 'rigged' against some  search engines,  DuckDuckGo  says”,  MLex, 10 
+
+March 2020. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Finally, there are circumstances where competitive entry may not be possible in the 
+short- to medium-term as a result of the existence of insurmountable barriers to entry, 
+in which case ex ante regulation may be the only available tool to prevent Systemic 
+Digital Platforms from non-exploitative abuses of their market power.  
+
+In light of the above, while eu travel tech supports the work done by DG Competition, 
+intervention based on competition law alone many not be sufficient to address and 
+deter anticompetitive conduct by Systemic Digital Platforms. Rather, we believe that 
+existing ex post enforcement should be complemented by ex ante rules. Ex ante rules 
+could  address  certain  limitations  of  antitrust  enforcement,  ensuring  EU  markets 
+remain fair and contestable to the benefit of consumers. This view is shared by various 
+Member States, including Germany and France, which are considering revising their 
+competition law frameworks for the digital economy.  
+
+Germany has been perhaps the most aggressive Member State to date. In January 
+2020, the Ministry of Economic Affairs and Energy published a draft bill proposing to 
+amend  the  German  Act  against  Restrictions  of  Competition 
+(Gezetz  gegen 
+Wettbewerbsbeschränkungen  or  “GWB”).23  Among  other  things,  the  draft  bill 
+introduces the concept of “undertakings with paramount significance for competition 
+across markets”,  and  provides  for  the  Bundeskartellamt  to  impose  additional 
+obligations on such undertakings.  
+
+More  recently,  the  French  Autorité  de  la  Concurrence  suggested  introducing  the 
+concept  of  “structuring  digital  platforms”, 
+i.e.  those  with  significant  market 
+dominance.24 Last year, the competition authorities of Belgium, the Netherlands and 
+Luxembourg also called for the introduction of ex ante instruments to enable them to 
+remedy potential anti-competitive conduct in digital markets without conducting full-
+scale investigations.25 
+
+23   Referentenentwurf des Bundesministeriums für Wirtschaft und Energie, Entwurf eines Zehnten Gesetzes 
+zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen für ein fokussiertes, proaktives und digi-
+tales Wettbewerbsrecht 4.0 (GWB-Digitalisierungsgesetz), 24 January 2020 The draft bill is available (in 
+German) 
+https://www.bmwi.de/Redaktion/DE/Downloads/G/gwb-digitalisierungsgesetz-
+referentenentwurf.pdf.  An  English  translation  of  the  key  proposals  can  be  found  at  https://www.d-
+kart.de/wp-content/uploads/2020/02/GWB10-Engl-Translation-2020-02-21.pdf.  
+
+at 
+
+24   “The  Autorité  de  la  concurrence’s  contribution  to  the  debate  on  competition  policy  and  digital 
+at 
+
+challenges”, 
+https://www.autoritedelaconcurrence.fr/sites/default/files/2020-
+03/2020.03.02_contribution_adlc_enjeux_numeriques_vf_en.pdf  (the  “Autorité  de  la  concurrence 
+position paper”).    
+
+February 
+
+available 
+
+2020, 
+
+19 
+
+25   Joint  memorandum  of  the  Belgian,  Dutch  and  Luxembourg  competition  authorities  on challenges 
+in  a  digital  world,  2  October  2019,  available  at 
+
+faced  by  competition  authorities 
+https://www.belgiancompetition.be/sites/default/files/content/download/files/bma_acm_cdlcl.joint_me
+morandum_191002.pdf.  
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given  these  developments,  and  the  resulting  risk  of  fragmentation  of  the  internal 
+market  linked  with  the  multiplicity  of  initiatives  taken  at  the  national  level,  the  EU 
+should  proactively  step  in  and  adopt  EU  ex ante  rules  ensuring  uniformity  and 
+consistency in creating  a true (regulatory) level playing field across the Union.  
+
+V. 
+
+The legal basis for  ex ante regulation under EU law 
+
+The  EU  could  adopt ex ante  regulation  to  ensure  the  fairness  and  contestability  of 
+digital markets relying on either Article 114 TFEU or Article 103 TFEU. 
+
+First, the EU should be able to rely on the general internal market legal basis of Article 
+114  TFEU,  as  the  proposed  rules  would  have  as  their  object  “the establishment and 
+functioning of the internal market.”  However,  this  would  require  that  the  (lengthy) 
+ordinary legislative procedure be followed, with legislation being adopted jointly and 
+on  an  equal  footing  by  the  Parliament  and  the  Council  on  a  proposal  from  the 
+Commission (Article 289(1) TFEU). 
+
+Alternatively, the Commission may choose to rely on Article 103 TFEU,26 which provides 
+for the adoption of a Regulation or Directive “to give effect to the principles set out in 
+Articles 101 and 102 […] laid down by the Council, on a proposal from the Commission 
+and after consulting the European Parliament.” This  path  would  be  open  if  the 
+proposed rules are designed to give effect to the “principles” laid down in Article 102 
+TFEU:  the  rules  would  elaborate  on  the  long-recognized  “special  responsibility”  of  a 
+dominant undertaking under Article 102 TFEU.27  
+
+The benefit of Article 103 TFEU is that it enables legislation to be adopted on the basis 
+of a  faster special  legislative procedure (see Article 289(2) TFEU),  with the Council of 
+the European Union as the sole legislator. The European Parliament would only take 
+part  in  a consultation procedure.28  Given  the  obvious  benefits  of  such  a  shorter 
+
+26   Of the same view the Report “A new competition framework  for the digital” prepared by the Commission 
+‘Competition Law 4.0’,  set up  by  the German Ministry  of Economic  Affairs  and Energy, available  at 
+https://www.bmwi.de/Redaktion/EN/Publikationen/Wirtschaft/a-new-competition-framework-for-the-
+digital-economy.pdf?__blob=publicationFile&v=3 (the “Competition Law 4.0 Report”), page 49.  
+27   Judgment of the Court of 9 November 1983 in case 322/81, NV Nederlandsche Banden Industrie Michelin 
+
+v Commission of the European Communities, ECLI identifier: ECLI:EU:C:1983:313. 
+
+28   This means that the Commission will submit the proposal to the Council and the European Parliament. 
+The  Parliament  may  accept,  reject  or  propose  amendments  to  the  legislative  proposal.  However,  the 
+Council is not required to take into account the Parliament’s opinion – but it must not take a decision 
+without  having  received  it.  If  the  Council  substantially  amends  the  Commission’s  proposal  after  the 
+Parliament  has  given  its  opinion,  the  Parliament  must  be  reconsulted  (see  paragraph  40(iii)  of  the 
+Framework Agreement on relations between the European Parliament and the European Commission). 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+legislative  procedure,  eu  travel  tech  encourages  the  Commission  to  base  its 
+legislative proposal on Article 103 TFEU. 
+
+VI. 
+
+Identifying the scope of the  ex ante regulation 
+
+The most challenging issue is to delineate the scope of the proposed rules, i.e. identify 
+the characteristics of the undertakings that should be subject to the ex ante rules. The 
+goal  should  be  to  produce  a  workable  definition  that  is  neither  under-  nor  over-
+inclusive, i.e. that captures those (but only those) undertakings whose systemic role in 
+the digital economy is such that their conduct threatens the fairness and openness of 
+EU  markets,  without  imposing  unnecessary  regulatory  burdens  on  other  market 
+participants. The Commission should rely on abstract and objective criteria to define 
+the scope of the regulation, as naming particular companies (e.g., the GAFAs) would 
+not be realistic.  
+
+In general, it seems there are two approaches that could be followed, each with its 
+own pros and cons. One approach would be to lay down a “hard” definition, whereby 
+certain  exhaustive  criteria  would  have  to  be  cumulatively  met  in  order  for  an 
+undertaking to be subject to the ex ante rules. While theoretically providing certainty, 
+this  approach  faces  the  challenge  of  correctly  formulating  the  various  criteria in 
+abstracto.  A  second  approach  would  be  to  set  out  indicative  criteria,  which  the 
+authority responsible for enforcing the rules would use to determine whether a given 
+undertaking is subject to one or more of the rules. This approach provides flexibility 
+but might create legal uncertainty.  
+
+The terms of reference (“ToRs) of the “Platforms with Significant Network effects acting 
+as Gatekeeper Impact Assessment Study” (the “Impact Assessment Study”) provides 
+some indication of the  types of platform  that  could fall  within the scope of ex ante 
+regulation.  We  agree  that  the  regulation  should  cover  “online platforms, i.e. digital 
+services that facilitate interactions via the Internet between two or more distinct but 
+interdependent sets of users”,29  including  “online marketplaces, app stores, search 
+engines, social media and platforms for the collaborative economy.”30 
+
+We also note that the ToRs identifies a series of features that could be used to identify 
+the  online platforms that  would  be subject to ex ante  regulation, including the fact 
+that: 
+
+29   “Platforms with Significant Network effects acting as Gatekeeper Impact Assessment Study”, p. 1. 
+
+30   Id. 
+
+13 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+They are “driven by strong economies of scale, and direct and indirect network 
+effects  [and]  increasingly  act  as  private  gatekeepers  to  critical  online 
+activities for an exceptionally large population of private and business users.”31 
+
+Their “gatekeeper role is enabled inter alia by their hold over vast amounts of 
+data and in some cases very large customer bases.”32 
+
+They  enjoy  a  “systemic ability to cement and even expand their critical 
+gatekeeping roles, including in other ecosystems, to raise barriers to entry and 
+expansion for rivals and to increase their hold and leverage over their users.”33 
+
+Their  “large competitive advantage due to the economies of scale and of 
+scope, reinforced by data-driven network effects”  allows  them  “to act as 
+private regulators setting the rules of the game on the markets they control.”34 
+
+The ability to leverage their core abilities (data, customer base, technological 
+assets, etc.) to enter and potentially conquer new markets with relative ease 
+“may lead to unusually large commercial imbalances and bargaining power 
+between platforms on the one hand and their users and rivals on the other.”35 
+
+eu travel tech agrees that these features are what sets “Systemic Digital Platforms” 
+apart from many other platforms that should not be subject to ex ante regulation, as 
+problematic  conduct  by  such  other  platforms  can  be  dealt  with  using  competition 
+law.  
+
+On  the  basis  of  the  above,  we  think  a  workable  definition  would  be  that  a  digital 
+platform is systemic if the following cumulative conditions are met: 
+
+(a)  Its  activities  span  over  a  significant  part  of  the  EU  internal  market  and  are 
+protected by high barriers to entry, such as economies of scale, and direct and 
+indirect network effects; 
+
+(b)  It acts as a private gatekeeper to critical online services for an exceptionally 
+large  population  of  consumers,  which  single  home;  hence  allowing  it  to  act 
+without constraint when it sets the rules of the game for the services it controls. 
+
+31   Id., p. 3. 
+
+32   Id. 
+
+33   Id. 
+
+34   Id., p. 2. 
+
+35   Id., p. 4. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)  It  is  able  to  leverage  its  unique  assets  (data,  customer  base,  technological 
+
+assets, etc.) into new markets and exclude rivals.  
+
+The  first  condition  requires  that  ex ante  regulation  should  only  capture  digital 
+platforms whose activities extends “across a significant part of the internal market”, 
+hence avoiding local actors from being caught by ex ante regulation. It also requires 
+that these online platforms be protected by high barriers to entry, enabling them to 
+enjoy  significant  and  enduring  market  power  over  their  business  customers  and 
+individual users.  
+
+The  second  condition  requires  that  the  digital  platform  should  act  as  a  private 
+gatekeepers,  so  that  one  user  group  depends  on  the  platform  in  order  to  reach  a 
+significant  portion  of  another  user  group.  That  is  the  case  when  one  user  group 
+(typically consumers) single-homes, to the effect that the other user group (typically 
+businesses)  relies  on  each  platform  with  single-homing  consumers  to  reach  those 
+single-homers.36  
+
+Third,  this  position  can  also  enable  the  platform  to  control  access  to  users  in  an 
+adjacent market (“gatekeeper” role), enabling it to charge a premium for such access 
+(e.g., in the form of high fees or other onerous terms).37 They are also able to dictate 
+their  rules  to  competitors  in  such  adjacent  markets,  which  are  dependent  on  their 
+platforms  to  reach  consumers,  hence  acting  as  private  regulators.  This  reflects  the 
+“horizontal”  or  “conglomerate”  nature  of  the  digital  platforms  in  question.  Indeed, 
+there is a valid argument that the digital platforms posing most risk to competition are 
+those that, by virtue of their systemic position, access to resources or competitively 
+relevant  data  are  able  to  swiftly  and  effectively  expand  into  adjacent  or  related 
+markets.  This  enables  the  digital  platform  to  rapidly  become  dominant  in  new 
+markets,  while  at  the  same  time  entrenching  its  position  on  its  core(s)  market(s), 
+reinforcing its gatekeeper role.38 
+
+36   See also Autoriteit & Consument Market, “Market study into mobile app stores”, Report, 11 April 2019, 
+available  at  https://www.acm.nl/sites/default/files/documents/market-study-into-mobile-app-stores.pdf, 
+page 56, describing how single-homing of one user group enables the platform to become a bottleneck 
+for  the  multi-homing  side:  “[s]ingle-homing  and  a  lack  of  switching  opportunities  mean  consumers 
+cannot effectively be reached by the multi-homing side in  any other way, and the platform becomes a 
+bottleneck for reaching the single-homers. According to economic theory, this means that the platform 
+can  charge  the  multi-homing  side  a  premium  fee  for  accessing  the  single-homing  side,  once  it  has 
+attracted a large single-homing group. If the single-homing users cannot be effectively reached by the 
+multi-homing  side  in  any  other  way,  the  platform  will  become  a  bottleneck  for  reaching  the  single-
+homers.” 
+
+37   See also Autorité de la concurrence position paper, page 7; Crémer Report, pages 61-63. 
+
+38   See also German draft bill to amend GWB, page 76: “such undertaking have in particular the ability to 
+use their power and resources from other markets to restrict competition in additional markets, thereby 
+strengthening  their  market  position  there  and  thus  ultimately  further  deepening  their  paramount 
+significance for competition across markets.” (free translation from the original German).   
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  second  approach  would  be  to,  instead  of  proposing  a  “hard”  definition  of  what 
+constitutes a Systemic Digital Platform, list criteria on which the authority responsible 
+for enforcing the rules would rely in order to classify the digital platform as systemic. 
+The indicative criteria could be similar to the conditions put forward above as part of 
+a definition. The authority enforcing the rules could thus have regard to the fact that 
+the  platform  is  a  digital  gatekeeper,  which  can  act  as  a  private  regulator,  and 
+leverage its market position into adjacent or other related markets, as well as other 
+factors  (such  as  the  digital  platforms’  access  to  competitively  relevant  data,  its 
+financial strength, etc.).39  
+
+We  note in this respect that the  ToR of the Impact Assessment Study mentions that 
+the authors of the study should elaborate a set of “mainly quantitative indicators (and 
+underlying methodology for setting those) on the basis of platforms’ characteristics 
+such as number of unique users, number of visits, the amount of gathered data, time 
+spent on the platform, network effects and drivers of growth, main source of income, 
+multi-platform  integration,  third  parties’  turn-over  realised  on  a  platform  or 
+geographic coverage, number of transactions, etc.”  While  we  believe  that  these 
+quantitative criteria may play a role in identifying the platforms that should be subject 
+to ex ante regulation, they should be combined with the qualitative criteria suggested 
+above. We do not think, for instance, that the time users spent on a platform or the 
+number of visits it receives are, in and of themselves, particularly good indicators of 
+the systemic nature of a platform.  
+
+Regardless  of  the  approach  followed,  it  would  be  necessary  to  safeguard  legal 
+certainty  for  market  participants.  For  this  reason,  we  think  the ex ante  rules  should 
+apply to  a digital platform’s conduct only once the competent regulatory authority 
+has issued a formal decision designating such platform to be “systemic”. That is in line 
+with the proposals in the Furman Report (whereby the proposed Digital Markets Unit 
+would have to first designate the companies holding “strategic market status”), and 
+the  German  draft  bill  (whereby  the  Bundeskartellamt  would  have  to  first  issue  a 
+decision declaring that an undertaking is of “paramount significance for competition 
+across markets”).40 
+
+If  the  Commission  were  to  take  this  approach,  it  would  have  to  consider  (1)  which 
+authority would have competence to issue a decision declaring a digital platform to 
+
+39   See  also  the German draft bill  to amend GWB,  which provides  that “[i]n  determining the paramount 
+significance of an undertaking for competition across markets, particular account shall be taken of: 1. 
+its dominant position on one or more markets, 2. its financial strength or its access to other resources, 3. 
+its vertical integration and its activities on otherwise related markets, 4. its access to data relevant for 
+competition, 5. the importance of its activities for third parties' access to supply and sales markets and 
+its related influence on third parties' business activities.” 
+
+40   See proposed Section 19a of the German draft bill to amend GWB. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+be “systemic”, (2) the effect of such a decision, (3) the geographical and (4) temporal 
+scope  of  such  a  decision.  As  these  issues  are  closely  related  to  enforcement 
+considerations, we address them in Part VIII below. 
+
+VII. 
+
+The content of ex ante regulation 
+
+In this Part, we propose the principles that should apply to Systemic Digital Platforms 
+in  order  to  ensure  the  fairness  and  contestability  of  EU  digital  markets.  Instead  of 
+laying down highly detailed and prescriptive rules, the ex ante regulation should set 
+out core principles, which are fleshed out in an accompanying guidance paper and 
+further developed through the enforcement process.41  
+
+The  principles  would  limit  or  prohibit  Systemic  Digital  Platforms  from  engaging  in 
+conduct considered to be particularly harmful, such as self-preferencing or reducing 
+interoperability with competing products or services. Of course, such practices may 
+well be prohibited under Article 102 TFEU. However, given the potential for harm when 
+such  Systemic  Digital  Platforms  engage  in  such  conduct, ex ante  regulation  would 
+introduce  a  reversal  in  the  burden  of  proof,  whereby  such  practices  would  be 
+presumed unlawful.42 It would then be for the Systemic Digital Platform to prove that 
+its  conduct  does  not  have  adverse  effects  on  competition.  The  Systemic  Digital 
+Platform should also have the right to provide an objective justification for its conduct 
+or point to demonstrable efficiencies that are passed on to consumers that outweigh 
+anti-competitive  effects.  That  would  ensure  that  ex  ante  regulation  does  not 
+discourage pro-competitive practices. We now turn to particular practices that could 
+be addressed with the ex ante rules. 
+
+1.  Leveraging / Self-preferencing 
+
+Many Systemic Digital Platforms seek to leverage their market power from one market 
+into an adjacent or other related market.  
+
+A particular type of vertical leveraging that should be regulated is self-preferencing 
+by Systemic Digital Platforms, namely using market power in one market to favor their 
+position in an adjacent or related market at the expense of their rivals, e.g., by giving 
+preferential  treatment  to  their  own  products  and  services.43  There  is  growing 
+
+41   Of the same view the CMA  with regard to a code of conduct for digital platforms. See CMA Interim 
+
+Report, page 237. 
+
+42   Of the same view the Crémer Report with regard to self-preferencing. See also ADLC position paper, 
+
+page 8. 
+
+43   According to the context, self-preference tactics may come in different shapes and forms, e.g., a systemic 
+platform operating a search engine or an online marketplace may modify its ranking algorithm to give an 
+advantage to its own products or services (e.g., in the form of a more prominent position in the results or 
+a visually richer and more attractive format). 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+consensus  that  self-preferencing  by  systemic  digital  platforms  may  be  harmful  for 
+competition and should be circumscribed.44  
+
+As observed above, one clear example of harmful self-preferencing is when Google 
+places  its  “Hotel  search”  or  “Flights  search”  units  above  all  higher  ranked  organic 
+search  results,  hence  discounting  organic  search  results  in  favor  of  its  own  travel 
+products.  Users  will  be  drawn  to  these  Google  travel  products  not  because  they 
+provide superior services, but because they are guaranteed a privileged position by 
+Google  on  top  of  the  SERP.  These  products  are  prominently  featured  on  the  SERP 
+because  Google  determine  where  its  page  placement  algorithm  displays  its  own 
+vertical product relative to the organic results produced by its search engine, which it 
+can  do  because  of  the  lack  of  competition.  In  this  case,  self-preferencing  hurts 
+competition, innovation and consumer choice.  
+
+This self-preferencing problem is further aggravated when organic search results are 
+also discounted by advertising as organic search almost entirely disappears from the 
+screen. This forces travel tech operators to buy expensive advertising, which – while 
+being  extremely  profitable  to  Google  –  increases  their  cost  of  customer  acquisition 
+and distribution, and squeezes their margins. 
+
+In addition to pushing organic search results from the screen, Google is able to funnel 
+traffic  to  its  own  vertical  search  product  through  a  “bait and switch”  mechanism, 
+When a user clicks on a listing in the Hotel search unit display, the user thinks that he 
+will be taken to the listing he clicks on, but in fact, regardless of the listing on which he 
+clicks, he is taken to the Hotel Finder page, not to the listing he selected –The user then 
+separately inputs her search details into Google’s Hotel Finder on this separate page 
+(e.g., dates, star rating, budget, services such as Wi-Fi) for a new search. 
+As long as Google is allowed to give preferential treatment to its own products on the 
+SERP, as well as to load the top of the SERP with ads discounting organic traffic, market 
+players such as the members of EU travel tech will have to spend more while getting 
+less  traffic  and  conversion  on  its  ad  spend.  This  hurts  growth,  innovation  and 
+consumer choice.  
+
+2.  Limiting data cross-usage 
+
+As explained above, the ability to internally combine and  use data across products 
+and  services  may  enable  a  platform  like  Google  to  engage  in  “envelopment” 
+strategies aimed at conquering new markets through cross-subsidization. This is, for 
+instance, illustrated by the Google Flights service, which Google does not monetize by 
+charging a fee, but by collecting data that it will monetize through search or display 
+ads.  An  appropriate  response  would  be  to  place  strict  limitations  on  the  Systemic 
+
+44   Crémer Report, pages 66-67; Furman Report, pages 60-61; CMA Interim Report, page 238; Competition 
+Law 4.0 Report, pages 50-51; German draft bill to amend GWB, page 78; ADLC position paper, page 8. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital Platforms’ ability to combine and use data across products and services (“data 
+unbundling”).  
+
+In  the  alternative,  and  in  order  to  preserve  efficiencies  stemming  from  data  cross-
+usage, the Systemic Digital Platforms could be prohibited from using data collected 
+from one product or service in order to improve advertising for another product.45 That 
+would be especially the case where the data is provided by business users for the sole 
+purpose of servicing the business user’s advertising, but where the business user has 
+no option to limit the ability of the Systemic Digital Platforms to use this data for other 
+purposes.  
+
+3. 
+
+Impeding multi-homing 
+
+Multi-homing has the potential to enable new entrants to build a sufficiently large user 
+base  and  eventually  challenge  the  Systemic  Digital  Platform,  introducing  much-
+needed  competition  “for”  the  market.  As  a  result,  measures  impeding  multi-homing 
+entrench  the  Systemic  Digital  Platform’s  position  by  “locking  in”  users  and  erecting 
+barriers  to  entry.  For  this  reason,  it  is  important  that  Systemic  Digital  Platforms  be 
+prohibited  from  taking  measures  that  impede  multi-homing,  such  as  reducing  user 
+data portability.46  
+
+Depending on the case, it might be appropriate to require Systemic Digital Platforms 
+to provide “real-time, potentially standardised, access” to data,47 in order to enable 
+“personal data mobility”.48    
+
+VIII. 
+
+Enforcement considerations 
+
+A  final,  but  equally  important  question,  is  which  regulatory  authority  should  be 
+responsible  for  enforcing  the ex ante  rules.  This  is  addressed  in  this  Part,  alongside 
+related enforcement considerations. 
+
+45   Advertising  would  be  construed  broadly  to  include  all  fundamental  advertising  functions,  namely 
+
+targeting, frequency capping, conversion measurement and attribution. 
+
+46   Of the same view the authors of the Crémer Report, page 57 (“it is important to ensure that multi-homing 
+is possible and that dominant platforms do not impede its practice”) and page 58 (“we feel that a measure 
+by which a dominant firm impedes multi-homing is suspect and an efficiency defence would be needed”). 
+See also German draft bill to amend GWB, according to which undertakings with paramount significance 
+for  competition  across  markets  should  be  prohibited  from  making  the  interoperability  of  products  or 
+services or data portability more difficult and thereby impending competition. 
+
+47   Crémer Report, page 84. As the authors of the Crémer Report observe, data interoperability allows for 
+
+complementary services to platforms to be developed and may also help multi-homing. 
+
+48   Furman Report, pages 65-71. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There seem in principle to be three options, namely (a) enforcement at the EU level, (b) 
+enforcement at the national level and (c) a combination of both. Considering the need 
+to  ensure  consistency  among  EU  Member  States  while  avoiding  overburdening  the 
+Commission, a workable enforcement mechanism could differentiate between (1) the 
+process of designating a digital platform as “systemic” and (2) enforcing the principles 
+analyzed above in Part VI.  
+
+1.  Designating a digital platform as “systemic” 
+
+We  strongly  recommend  that  the  Commission  should  have exclusive  jurisdiction  to 
+designate a digital platform as “systemic”. Empowering national authorities to declare 
+digital platforms to be “systemic” would lead to considerable fragmentation across 
+the EU. One could easily imagine a scenario in which one national authority declares 
+a given pan-European platform to be systemic while other national authorities do not. 
+In order to achieve consistency and legal certainty, the power to issue such decisions 
+should lie exclusively with the Commission. 
+
+The  effect  of  such  a  designation  should  be  that  the  Systemic  Digital  Platform  is 
+automatically  subject  to  the ex ante  rules.49  When  issuing  the  decision  qualifying  a 
+platform as “systemic”, the Commission should have the power to limit the scope of its 
+obligations specifying that the platform should comply only with some of the ex ante 
+rules, in order to better take into account the particular characteristics of the platform 
+in question. The addressee of the decision should have of course the right to challenge 
+the decision before the EU courts, but such relief should not have suspensory effect. 
+
+The  geographic  scope  of  the  decision  should  reflect  the  EU-wide  jurisdiction  of  the 
+Commission and the cross-border nature of the relevant Systemic Digital Platforms, 
+i.e. it should cover all of the Member States in which the Systemic Digital Platform is 
+active.  In  other  words,  the  designation  of  a  digital  platform  as  systemic  would  be 
+“pan-European”,  unless  a  narrower  geographic  scope  is  explicitly  identified.  The 
+Commission’s  decision  should  bind  national  authorities  –  including  national  courts, 
+which  when  entertaining  doubts  about  the  legality  of  the  Commission’s  decision 
+would  have  the  power  to  refer  the  matter  to  the  Court  of  Justice  for  a  preliminary 
+ruling under Article 267 TFEU. 
+
+Moreover, given that the Commission’s decision would be effective ex nunc (and not 
+retroactively),  it  should  be  in  force  for  an  indefinite  period  of  time  (“once  systemic 
+always  systemic”),  with  the  caveat  that  (a)  the  Commission  would  monitor  market 
+developments and revisit (and if need be update) its decision periodically (e.g., every 
+three  years)  and  (b)  the  addressee  would  have  the  right  to  ask  the  Commission  to 
+
+49 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+repeal  its  decision  for  the  future  pointing  to  exceptional  changes  in  market 
+circumstances.  
+
+2.  Enforcement of the ex ante rules 
+
+Enforcement of the ex ante rules could be based on a system of parallel competences 
+between  the  Commission  and  national  authorities,  drawing  inspiration  from  the 
+mechanism  in  place  for  the  enforcement  of  EU  competition  law  according  to 
+Regulation  1/2003.50  Under  this  mechanism,  competence  lies  with  the  authority  “well 
+placed to act”.51 A Member State’s authority is typically “well placed to act” when there 
+is “a material link between the infringement and the territory of [that] Member State”.52 
+On  the  other  hand,  the  Commission  is  particularly  “well  placed  to  act”  if:  (a)  the 
+practice has effects on competition in more than three Member States,53 (b) the case 
+is  closely  linked  to  other  Community  provisions  which  may  be  exclusively  or  more 
+effectively  applied  by  the  Commission,54  or  (c)  the  Community  interest  requires  the 
+adoption of a Commission decision to develop Community competition policy when a 
+new competition issue arises or to ensure effective enforcement.55  
+
+Were similar principles to govern the enforcement of ex ante rules, we would typically 
+expect the Commission to be  the authority “well placed to act”,  as the practices of 
+large digital platforms are usually cross-border in nature and affect several Member 
+States  at  once.  However,  it  cannot  be  excluded  that  in  certain  cases  national 
+
+50   According to Article 11(1) of Regulation 1/2003, “[t]he Commission and the competition authorities of 
+the Member State shall apply the Community competition rules in close cooperation”. Further details  on 
+the  division  of  work  between  the  Commission  and  national  competition  authorities  (together,  the 
+“European Competition Network” or “ECN”) are laid down in Commission Notice on cooperation within 
+the Network of Competition Authorities (Text with EEA relevance), OJ C 101, 27.4.2004, pages 43–53 
+(the “Cooperation Notice”). 
+
+51   According to paragraph 6 of the Cooperation Notice, a case may be re-allocated where the authority that 
+receives a complaint or initiates ex officio proceedings considers that is not “well placed to act” or where 
+other  authorities  also  consider  themselves  “well  placed  to  act”.  Re-allocation  may  also  be  decided  if 
+necessary “for an effective protection of competition and of the Community interest” (paragraph 7 of the 
+Cooperation Notice).  
+
+52   Paragraph 9 of the Cooperation Notice. Paragraph 8 lays down three cumulative conditions indicating the 
+existence of such material link: (a) the agreement or practice has substantial direct actual or foreseeable 
+effects on competition within the territory of an authority, is implemented within or originates from its 
+territory, (b) the authority is able to effectively bring to an end the entire infringement, i.e. it can adopt a 
+cease-and-desist order the effect of which will be sufficient to bring an end to the infringement and it can, 
+where appropriate, sanction the infringement adequately and (c) the authority can gather, possibly with 
+the assistance of other authorities, the evidence required to prove the infringement. 
+
+53   Paragraph 14 of the Cooperation Notice. 
+
+54   Paragraph 15 of the Cooperation Notice. [expedia: para 14] 
+
+55   Ibid. 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+authorities  would  be  “well  placed  to  act”,  e.g.,  because  the  practice  in  question  is 
+implemented  only  in  one  Member  State  –  or  simply  because  the  Commission’s 
+resources are limited. In that case, enforcement by the national authorities could work 
+as follows: once a Systemic Digital Platform has been the subject of a decision by the 
+Commission, national authorities could rely on the Commission’s decision and initiate 
+proceedings  against  the  Systemic  Digital  Platform  for  breach  of  the ex ante  rules. 
+Considering  the  proposed  reversal  of  the  burden  of  proof,  we  would  expect  the 
+workload  of  the  national  authority  to  be  manageable  and  thus  decisions  to  be 
+adopted swiftly.  
+
+In any case, the competent authority – be it the Commission or national authorities – 
+should be vested with the power to take all necessary measures to ensure the effet 
+utile of the ex ante rules, lest we end up with toothless regulation. That would involve, 
+in  particular,  (a)  broad  information-gathering  powers,  (b)  the  power  to  accept 
+commitments proposed by the platform as well as (c) the power to order the platform 
+to either refrain from a particular action or engage in specific affirmative conduct to 
+ensure  compliance  with  the  rules,  on  pain  of  periodic  penalty,  and  appoint  a 
+monitoring trustee. The power to impose restorative remedies, i.e. remedies aimed at 
+restoring competition in the status quo ante should also be considered.56 
+
+In addition, considering the fast-moving nature of digital markets and their tendency 
+to  (irreversibly)  tip,  the  competent  authority  should  have  the  power  to  issue  interim 
+measures aimed at preserving the status of competition, pending full examination of 
+the  systemic platform’s  compliance with the ex ante rules.57 The Commission  should 
+also  have the  power  to order  interim measures.  To this end,  the Commission  should 
+adopt a threshold for interim measures that is lower than the one currently contained 
+at  Article  8(1)  of    Regulation  1/2003,  which  requires  a  “prima facie”  finding  of 
+infringement and an urgent need for interim measures to avert the risk of “serious and 
+irreparable” damage to competition. Such lower threshold  could, for instance, require 
+that the conduct in question is “likely” to infringe ex ante rules and may lead to “serious 
+and immediate” damage to competition in a related market.58  
+
+**** 
+
+56   In favor of restorative remedies (remedies with a “restitutive” element) the authors of the Crémer Report, 
+
+page 68. 
+
+57   On the need to make greater use of interim measures and / or suggestions to lower the required threshold, 
+see Furman Report, pages 104-105; ADLC position paper; Competition Law 4.0 Report, pages 71-73.  
+58   This is the threshold under French law. See French Commercial Code, article L464-1; French Supreme 
+Court, case No. 04-16.857 Neuf Telecom c/ France Telecom, 8  November  2005, Bulletin 2005 IV  No 
+220. Note that the ADLC has made frequent use of interim measures.  
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

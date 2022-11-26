@@ -1,0 +1,576 @@
+Ref. Ares(2020)4713545 - 09/09/2020
+
+THE EUROPEAN UNION ALUMINIUM 
+INDUSTRY 
+THE IMPACT OF THE EU TRADE MEASURES ON THE 
+COMPETITIVENESS OF DOWNSTREAM ACTIVITIES  
+
+EXECUTIVE SUMMARY 
+
+June 2019 
+
+GRUPPO DI RICERCHE INDUSTRIALI E FINANZIARIE - GRIF “FABIO 
+GOBBO” 
+
+LUISS GUIDO CARLI UNIVERSITY 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+Disclaimer 
+
+This project has been funded with support from FACE - The Federation of Aluminium Consumers in 
+Europe. GRIF “Fabio Gobbo” was asked by FACE to carry out an independent study with the aim of 
+establishing a constructive and transparent exchange of views on the competitiveness of the 
+aluminium value chain in the European Union with a specific focus on trade policies on unwrought 
+aluminium and their impact on manufacturers of aluminium semi-finished products. To have 
+consistent information and to ensure the robustness and the comparability of the quantitative analysis 
+for well-informed design of policies, the study only relies on data provided by institutional sources and 
+independent third parties, having market recognition for reliability. While also benefitting from the 
+industry knowledge of FACE stakeholders, any views expressed herein, including interpretation(s) of 
+policies, reflect the current views of the author(s), which do not necessarily correspond to the views of 
+FACE. Reproduction, publication and reprint are subject to prior written authorisation of the authors. 
+
+The study is available at: https://face-aluminium.com/wp-content/uploads/2019/06/2019-LUISS-
+Study.pdf 
+
+Authors and contributors 
+
+Ernesto Cassetta, GRIF “Fabio Gobbo”, University of Udine, ecassetta@luiss.it 
+
+Umberto Monarca, GRIF “Fabio Gobbo”, University of Foggia, umonarca@luiss.it 
+
+Cesare Pozzi, GRIF “Fabio Gobbo”, LUISS University, cpozzi@luiss.it 
+
+Davide Quaglione, GRIF “Fabio Gobbo”, D’Annunzio University of Chieti-Pescara, dquaglione@luiss.it 
+
+Alessandro Sarra, GRIF “Fabio Gobbo”, D’Annunzio University of Chieti-Pescara, asarra@luiss.it 
+
+GRUPPO DI RICERCHE INDUSTRIALI E FINANZIARIE - GRIF “FABIO GOBBO” 
+
+Department of Business and Management 
+
+LUISS Guido Carli University 
+
+Viale Romania, 32 00197 Roma (Italia) 
+
+Website: http://impresaemanagement.luiss.it/en/ricerca/research-centers/industrial-and-financial-research-center 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+Key findings 
+
+­  The competitive advantage of the EU aluminium industry lies in the technological leadership of 
+the downstream segments, i.e. producing semi-finished products for many end-user industries. 
+
+­  The  downstream  segments  account  for  about  70%  of  the  annual  turnover  of  EU  aluminium 
+
+industry and for nearly 92% of the total industry employment. 
+
+­ 
+
+In the last twenty years, the EU aluminium industry has experienced massive structural changes 
+with a strong decline of aluminium primary production and underinvestment being the leading 
+trend. 
+
+­  Rising dependency on imports of unwrought aluminium and intensifying competition from third 
+countries  are  increasingly  becoming  key  factors  influencing  the  competitiveness  of  EU 
+downstream activities. 
+
+­  Other than unwrought aluminium, EU has constantly worsened its trade balance in all segments 
+
+of semi-finished aluminium products over the period 2000-2017. 
+
+­  EU  import  tariffs  on  unwrought  aluminium  have  been  ineffective  in  sustaining  primary 
+aluminium production, while they are imposing additional costs to downstream  transformers 
+and potentially repealing the effects of trade measures on semi-finished products. 
+
+­ 
+
+It can be estimated that up to 17.8 billion euros was the extra cost of the tariff for unwrought 
+aluminium for EU downstream producers over the period 2000-2017. In the same time, import 
+tariffs have resulted in additional revenues for EU primary and secondary (recycling) producers, 
+as well as additional incomes for primary producers with duty-free access to EU internal market. 
+
+­  From a policy perspective, EU trade measures should be placed in a broader industrial policy 
+framework aimed at preserving and possibly reinforcing the competitiveness of the downstream 
+activities and, in turn, of the EU aluminium industry as a whole. 
+
+­  To this end, the study suggests to abolish import tariffs on unwrought aluminium, to define ad-
+hoc measures for primary and secondary production and to provide incentives to downstream 
+transformers  to  expand  their  innovative  and  technological  capabilities,  to  improve  their 
+sustainability in a circular economy perspective, and to enhance, including with the tools of the 
+so-called fourth industrial revolution, the relationships with relevant end-user industries. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+Executive summary 
+
+Context and objectives of the study 
+
+The aluminium industry is an industry that is essential to the economy of modern countries as it provides 
+a range of highly differentiated products, from those for final consumption to the intermediate inputs 
+that are required for many high-tech industries. Aluminium is currently used as an input material in the 
+manufacturing  of  investment  goods  (automotive,  shipbuilding,  aerospace,  building  and  construction, 
+mechanical  and  electrical  engineering),  and  consumer  goods  (like  mobile  devices,  computers, 
+recreational  vehicles,  household  appliances,  etc.).  Regarded  as  one  of  the  most  sustainable  metals, 
+aluminium  is  increasingly  used  by  companies  strongly  committed  to  improving  their  environmental 
+performance. 
+
+The  global  aluminium  industry  has  undergone  fundamental  changes  in  recent  years  in  terms  of 
+geographical  relocation  of  production  and  consumption,  degree  of  concentration  and  integration, 
+development  of  new  end-use  markets,  increasing  financialisation,  and  international  trade.  Globally, 
+China’s role has increased substantially in all segments of the aluminium value chain as well as in the 
+consumption of aluminium products, to the detriment of North America and the EU.  
+
+The decline in the EU aluminium industry has been particularly severe in the upstream segments of the 
+value chain, causing an increasing unwrought aluminium deficit and rising costs of raw materials. This 
+trend has, in turn, progressively affected the competitiveness of downstream companies, which represent 
+the bulk of the EU aluminium industry in terms of turnover, value added and employment. 
+
+The structural changes in the aluminium industry have sparked renewed interest in trade policies’ role 
+in driving economic development and in influencing the competitiveness of the manufacturing sector as 
+a whole. The aluminium industry was recently at the core of the international debate on protectionist 
+measures mainly because of the decision taken by the US administration to impose additional import 
+tariffs on aluminium products. In the EU, the aluminium industry is one of the sectors that has featured 
+most prominently in the anti-dumping investigations which have taken place since the conclusion of the 
+Uruguay Round. 
+
+As a result, the need for a comprehensive revision of trade rules has become increasingly clear, to take 
+into account the greater complexity of international production and to place those measures in a broader 
+industrial policy framework. 
+
+Against this background, the purpose of this study is threefold: 
+
+- 
+
+- 
+
+to provide a comprehensive overview of the EU aluminium industry value chain; 
+
+to quantitatively estimate the economic impact of the EU import tariffs on unwrought aluminium 
+in terms of additional costs imposed on other segments further down the value chain; 
+
+3 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+- 
+
+to strategically assess the role of import tariffs on unwrought aluminium as an industrial policy 
+instrument for promoting the competitiveness of downstream activities and the EU aluminium 
+industry as a whole. 
+
+Some policy recommendations are finally made with the aim of preserving the technological leadership, 
+as well as possibly restoring the industrial competitiveness, of firms producing semi-finished products, 
+while also helping the EU to achieve its sustainability and industrial renaissance targets. 
+
+Overview of the EU aluminium industry 
+
+The aluminium industry includes a range of activities along the value chain. They can be divided into 3 
+main segments: 
+
+1.  upstream, including all the producers of the raw material from the unwrought mineral, namely 
+
+the extractors (mining and quarrying) and the primary aluminium smelters; 
+
+2.  downstream, involving a broad group of producers manufacturing high differentiated outputs 
+(so-called  “wrought  aluminium”,  “semi-finished,”  “semis,”  or  “mill  products”)  by  rolling, 
+extruding, casting and drawing unwrought aluminium into various forms; 
+
+3.  aluminium 
+
+recycling  and 
+
+remelting,  comprising  producers  of  aluminium  alloys 
+(recyclers/remelters)  from  metallic  waste  and  scrap  generated  either  as  a  by-product  of 
+manufacturing or from recycled goods. 
+
+For the purpose of this study, recycling and remelting activities are included in the upstream segment as 
+they both produce unwrought aluminium for the downstream transformers.  
+
+The EU  aluminium  industry  encompasses  more  than  a  thousand  companies,  directly  employs  about 
+230.000 employees and is indirectly responsible for around 1 million jobs.  
+
+Lacking raw material (i.e. bauxite), the EU aluminium industry is actually characterised by few facilities 
+which produce alumina (the white powder produced by the refining of bauxite) and by a limited number 
+of companies which use alumina to produce primary aluminium in any form (commodity ingots and 
+value-added  products, such  as  slabs,  billets,  foundry  alloys,  and  wire  rods).  Hundreds  of  small-  and 
+medium-sized vertically  non-integrated  firms  are involved  in  the  manufacturing  of  aluminium  semi-
+finished products, such as extrusions, flat-rolled products, castings, foil, wire and slug.  
+
+It can be estimated that the aluminium downstream sector now accounts for about 70% of the annual 
+turnover of the EU aluminium industry and for nearly 92% of the  total  employment  in the industry, 
+compared to 5% of the primary segment and 2% of the secondary segment. Secondary aluminium is 
+produced by recycling and remelting aluminium-bearing scrap and/or aluminium-bearing materials. 
+
+The global positioning of primary aluminium production has dramatically changed over the last twenty 
+years. China’s role has increased substantially to the detriment of North America and the EU.  
+
+Since 2008, the EU’s production of primary aluminium shrank by 30%. A decreasing number of EU 
+member states have operating aluminium smelters. Some primary aluminium producing countries, such 
+as Italy, the UK, and the Netherlands, have significantly curtailed or definitively ceased their production 
+in the last few years. As a result, the EU lost more than one quarter of its smelting capacity in the period 
+from  2008  to  2017.  The  process  of  disinvestment  is  almost  certain  to  continue,  as  Alcoa  recently 
+announced the closure of its three aluminium smelters in Spain. 
+
+4 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+Since 2004, the EU has produced more secondary (that is unwrought aluminium produced by recycling 
+and remelting scrap and waste) than primary aluminium. As of 2017, however, secondary aluminium 
+output has not yet matched pre-crisis levels. 
+
+As  for  semi-finished  products,  global  manufacturing  of  aluminium  extrusions,  flat-rolled  products 
+(FRPs) and aluminium castings more than doubled over the period from 2000 to 2017. China has driven 
+much of this expansion, now representing around 50% of global output of aluminium semis. The EU 
+production of aluminium FRPs and aluminium castings has increased in the period from 2000 to 2017, 
+but at a significantly slower pace than at the global level.  In 2017, the EU production of aluminium 
+extrusions  was  even  slightly  below  2000  levels,  although  global  production  has  tripled  in  the  same 
+period. As a result, the EU’s share in global manufacturing of semi-finished aluminium products has 
+constantly declined, from 29% in 2000 to 14% in 2017. 
+
+Germany, Italy, and France are the largest producers of semi-finished products in the EU, representing 
+about  62%  of  the EU’s  total  production  in  2017.  Germany  further  strengthened  its  leadership  in  the 
+manufacturing of aluminium semis over the last few years and now constitutes about one third of the 
+total  production  in  the  EU.  France,  Italy  and  Spain  have  roughly  maintained  their  share  of  total  EU 
+production.  Other  EU  member  states  have  progressively  seen  their  relative  production  shrink, 
+cumulatively representing less than one quarter of EU total output in 2017. 
+
+Trade flows of unwrought and wrought aluminium products 
+
+Over the period from 2000 to 2017, the EU’s trade balance has consistently worsened in all segments of 
+the aluminium value chain. 
+
+EU imports of unwrought aluminium increased significantly during the period from 2000 to 2017. In 
+particular,  imports  in  2017  were  69%  higher  than  in  2000.  Although  EU  exports  of  unwrought 
+aluminium to third countries showed a significant upward trend over the last ten years, these exports 
+only constitute a negligible quantity of EU trade flows, corresponding on average to roughly 4% of the 
+imports. Between 2000 and 2017, the trade deficit of unwrought aluminium has thus steadily worsened.  
+
+In the same period, the EU trade balance in aluminium semi-finished products has also deteriorated. 
+
+Structurally being a net exporter of FRPs, the EU has experienced an increasing trade deficit in the last 
+four years. FRPs now account for the vast majority of the EU imports of semis (about 70%). The EU’s 
+reliance on imported aluminium extrusions has also grown rapidly in recent years. In 2017, the EU net 
+imports of  aluminium  extrusions  were  more  than  five  times  higher  than  in  2000.  Finally,  the  EU  is 
+currently a net importer of aluminium castings, including aluminium road wheels as one of the main 
+product categories. Much of the growth of EU imports of aluminium semis is due to the increase of 
+Chinese imports to the EU.  In 2017,  the amount  of  aluminium extrusions  imported from  China was 
+about 36 times higher than in 2000, imports of Chinese FRPs increased by 20 times, while the imports 
+of aluminium casting from China rose 46 times. 
+
+A notable exception to the EU trade imbalance is the trade surplus registered in the aluminium waste 
+and scrap sector since 2002. This surplus has even increased over the last few years, notwithstanding 
+the fact that secondary production is actually regarded as the most energy efficient method of producing 
+aluminium—especially for countries with high energy and carbon costs and significant availability of 
+secondary raw material. As waste and scrap are typically used as input for secondary production, the 
+positive EU trade balance should be interpreted as an outflow of raw materials, although these are of 
+
+5 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+low quality and are very expensive to sort and process. Asian countries, such as China and India, are 
+markets to which an increasing quantity of waste and scrap has been exported. 
+
+EU trade policies on unwrought aluminium 
+
+A complex system of import tariffs currently applies to unwrought and wrought aluminium products.  
+
+With regard to unwrought aluminium, after two successive autonomous temporary suspensions, adopted 
+in 2007 and 2013, the conventional customs duty rates are respectively 3% for not alloyed aluminium, 
+4% for aluminium slabs and billets and 6% for foundry alloys. Unwrought aluminium can be imported 
+into the EU duty-free from countries having signed Preferential Trade Agreements (PTAs) with the EU 
+and from less developed countries (SPGA) covered by the Generalised Scheme of Preferences (GSP). 
+
+Over the period 2000-2017, about half of the imports of unwrought, not alloyed, aluminium originated 
+from countries with duty-free access to the EU market. The share of duty-free imports has increased in 
+periods in which imports  are  sensibly lower  in quantity, such as during  the  economic  crisis.  Among 
+countries subject to the tariff, Russia accounts for slightly less than 38% of the EU’s total imports of 
+unwrought, not alloyed, aluminium, also representing about 63% of the total imports subject to the tariff. 
+Conversely, Mozambique (17%) and Iceland (16%) are the main exporters among duty-free countries. 
+
+The share of imports of aluminium alloys which were duty-free averaged 75% during the period 2000-
+2017. Among countries with duty-free access to the EU internal market, Norway and Iceland are by far 
+the leading exporters, accounting together for 57% of the EU’s imports of slabs and billets and 47% of 
+the EU’s imports of foundry alloys. Among countries subject to duties, the UAE accounts for slightly 
+less than 18% of total EU imports of alloyed slabs and billets in 2017 (equivalent to about 55% of the 
+total imports subject to duties in the same year) and 16% of total EU imports of foundry alloys (about 
+39% of the total imports subject to duties in the same year). 
+
+EU trade policy also offers companies the option of processing imported products without paying any 
+duty.  Companies  can  temporarily  import  raw  materials  or  semi-manufactured  goods  from  various 
+countries, assemble  or transform them so as to  re-export the products  for  final  consumption in  third 
+countries.  In  the  period  2000-2017,  the  inward  processing  procedure  was  extensively  used  by  EU 
+companies both for not alloyed aluminium (averaging 43% of the total import subject to duties) and 
+aluminium alloys (averaging 39% of the total import subject to duties). 
+
+Estimates  of  the  impact of import  tariffs  on  unwrought  aluminium  on  the  aluminium  industry  value 
+chain 
+
+The adoption of import tariffs is meant to increase prices of both imported and domestic goods. Given 
+the regional market conditions and the structural characteristics of the EU aluminium industry, there is 
+an incentive for domestic producers of unwrought aluminium, including those with duty-free access to 
+the EU internal market, to align their prices with the highest possible level, namely the duty-paid price. 
+This theoretical prediction is largely confirmed by findings of many studies focusing on the aluminium 
+industry. 
+
+The price increase induced by import tariffs imposes extra costs on companies operating in segments 
+further  down  the  value  chain,  in  particular  on  downstream  transformers,  while  simultaneously 
+representing a net transfer of financial resources to upstream activities.  
+
+6 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+As such, they correspond to extra revenues for primary and secondary producers (in addition to revenue 
+for EU customs). EU primary and secondary aluminium producers should in principle use the additional 
+revenues to compensate for cost differences with respect to extra-EU competitors as well as to invest in 
+improving their products and production technologies. Moreover, as a result of current PTAs, extra costs 
+for  EU  downstream  transformers  also  represent  additional  revenues  for  primary  producers  based  in 
+countries from which primary aluminium can be imported on a duty-free basis (mainly Norway, Iceland, 
+and Mozambique).  
+
+Increasing international competition from developing countries and limited bargaining power vis-à-vis 
+their customers have mostly prevented EU downstream transformers from further passing through the 
+extra costs imposed by import tariffs down the value chain, thus progressively squeezing their margins 
+and putting  further pressure  on  their  survival,  in  particular  on  SMEs.  Whenever  partial  or full pass-
+through is possible, import tariffs  would still result  in  higher  prices of semi-finished  products to the 
+detriment of EU end-user industries and final consumers. 
+
+Total estimated cumulative extra costs sustained by EU aluminium downstream industry, net of inward 
+processing,  range  from  €9.7  to  €17.8  billion  in  the  period  2000-2017.  Those  additional  expenses 
+represent up to 75% of the turnover of the European downstream aluminium industry in 2015. This also 
+implies yearly average extra costs ranging between €529 million and €1 billion. 
+
+Impact on downstream transformers of the EU import tariffs on unwrought aluminium (2000-2017, € 
+billion - real 2018) 
+
+Scenario 
+
+Cumulative 
+extra-costs for 
+EU downstream 
+transformers 
+
+Duty 
+revenues  
+(net of 
+inward 
+processing) 
+
+EU primary 
+producers 
+
+Extra revenues 
+
+Primary 
+producers 
+with duty free 
+access to the 
+EU 
+
+EU secondary 
+producers 
+
+Lower bound 
+
+Upper bound 
+
+  9,7   
+
+    1,4  
+
+   17,8 
+
+     3,9  
+
+    2,6 
+
+     4,8 
+
+    2,5 
+
+    3,1   
+
+     4,6  
+
+     5,8   
+
+* Duty revenues are net of inward processing of unwrought aluminium. 
+Source: Authors’ own elabouration. 
+
+The largest share of the extra costs translated into extra revenues for remelters and refiners based in the 
+EU producing secondary aluminium (33% of total extra costs). The price increase due to the EU import 
+tariffs also led to extra revenues for EU smelters (28% of total extra costs) and for primary producers 
+based in countries from which primary aluminium can be imported on a duty-free basis (26% of total 
+extra costs). 
+
+Assessing EU trade measures on unwrought aluminium from an industrial policy perspective  
+
+At the EU level, the task of supporting the aluminium industry was mainly left to trade rules, including 
+the use of import tariffs as the main industrial policy measure. National measures were primarily aimed 
+at  sustaining  existing  upstream  activities  by  lowering  their  energy  costs,  often  as  a  part  of  a  wider 
+
+7 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+regulatory  intervention  for  energy-intensive  sectors.  National  governments  were  also  left  with  the 
+burden of dealing with the economic and social consequences of shuttered smelting facilities. 
+
+The import tariffs on unwrought aluminium were mainly justified by the need to prevent EU smelters 
+from  reducing  their  production  or  even  shutting  down  their  facilities,  eventually  moving  them  to 
+countries with low energy and labour costs, as well as lax environmental regulations. In turn, this would 
+make more difficult for EU producers of semi-finished products and end-user industries to reliably and 
+competitively source unwrought aluminium and aluminium products. 
+
+The customs duty on imports of unwrought aluminium has not worked as expected in achieving the EU 
+objectives. 
+
+The  EU’s  production  of  primary  aluminium  has  decreased  significantly  because  of  the  major 
+curtailments and shutdown of numerous EU smelters. More than 11,300 jobs were lost in the upstream 
+segment, including in the alumina and metal supply sectors, in the period 2002-2015. Consequently, the 
+EU  trade  deficit  regarding  unwrought  aluminium  has  considerably  worsened  and  will  be  further 
+exacerbated with the closure of additional smelters. 
+
+In 2017, the EU’s primary aluminium production was about 27% of the EU’s apparent consumption of 
+primary aluminium. Furthermore, in the same year, as a consequence of several smelter closures, the 
+total installed smelting capacity in the EU was instead equal to 30% of the EU’s apparent consumption 
+of primary aluminium. The increasing demand for primary aluminium has been met by rising imports. 
+Dependence  on  imported  unwrought  aluminium  for  the  production  of  aluminium  semi-finished  and 
+finished products has thus steadily increased. 
+
+No increases in production capacity or new entries in the unwrought aluminium segment are expected 
+in  the  EU  member  states  in  the  next  few  years.  This  will  further  increase  the  EU’s  dependence  on 
+imports, as unwrought aluminium consumption is expected to grow, though at a slower pace than in the 
+past. 
+
+Import tariffs, having failed to sustain the EU’s primary aluminium production, have negatively affected 
+the competitiveness of other segments of the value-added industrial chain, especially downstream users 
+that are not able to pass through the price increase of unwrought aluminium.  
+
+An effective protection of segments further down the value chain would necessitate sourcing unwrought 
+aluminium at the lowest possible costs, leaving aside any issues related to security and continuity of 
+supply.  The  adoption  of  import  tariffs  works  exactly  in  the  opposite  direction  by  potentially 
+counteracting the effects of trade measures in downstream segments (i.e. import tariffs on semi-finished 
+products). Not surprisingly, many countries such as China have adopted policies to make unwrought 
+aluminium cheaper as to explicitly confer a cost advantage on domestic manufacturers of semis. 
+
+The overall effects are clearly visible. In 2017, EU production of aluminium extrusions was slightly 
+below  2000  levels,  although  global  production  has  tripled  in  the  same  period.  The  production  of 
+aluminium FRPs and castings has increased compared to 2000, but at a significantly slower pace than 
+on  the global  level.  In  the  period  2000-2017,  the  EU’s  trade  balance  has constantly  worsened  in  all 
+sectors of aluminium semi-finished products, as consumption of semi-finished aluminium products has 
+increased at a compound growth annual rate of 3% in the same period. 
+
+The impact has been different depending on the specifics of downstream producers, with specialised 
+SMEs  inevitably  suffering  more  than  vertically  integrated  companies.  Better  performing  companies 
+
+8 
+
+ 
+ 
+ 
+ 
+The EU aluminium industry. The impact of the EU trade measures on the competitiveness of downstream activities - EXECUTIVE SUMMARY 
+
+have  generally  been  characterized  by  long-standing  customer  relationships—based  on  geographical 
+proximity, flexibility and customization—with end-user industries. 
+
+The autonomous temporary suspension of customs duty, adopted in 2007 for not alloyed aluminium and 
+in  2013  for  aluminium  slabs  and  billets,  which  was  primarily  intended  to  reduce  input  costs  for 
+downstream aluminium users while preserving the profitability of the upstream segment, has failed to 
+reverse the described trends. 
+
+Industrial policy recommendations for the competiveness of the EU aluminium industry 
+
+The  competitive  advantage  of  the  EU  aluminium  value  chain  undoubtedly  lies  in  the  technological 
+leadership of the downstream activities. From a broader industrial policy perspective, it is thus essential 
+to  provide  all  the  right  support  to  maintain  this  leadership  and  possibly  reinforce  the  economic  and 
+industrial competitiveness of firms producing semi-finished products and using aluminium products.  
+
+Overall this report’s findings suggest the following policy recommendations: 
+
+­ 
+
+Import  tariffs  on  unwrought  aluminium  should  be  abolished.  A  customs  duty  on  unwrought 
+aluminium  should  not  be  regarded  as  the  right  policy  instrument,  as  it  artificially  raises 
+downstream costs without offering any appreciable results in supporting upstream production. 
+
+­  The maintenance of primary aluminium production can be justified only through recognising its 
+strategic value for the entire EU economy. Government intervention may be required to avoid 
+being totally dependent on imports. 
+
+­  Secondary aluminium production should be encouraged through appropriate support schemes 
+other than customs duties (e.g. by promoting innovative sorting and separation technologies, 
+consistent  product  design,  etc.)  and  by  creating  incentives  for  the  secondary  raw  materials 
+produced in the EU to be increasingly recycled and reused domestically. 
+
+­  Maintaining the technological leadership and possibly  reinforcing  the competitiveness  of the 
+EU’s semi-finished transformers would require policy measures other than simply reducing the 
+costs these firms incur while procuring the inputs and intermediates. The suggested removal of 
+import tariffs on unwrought aluminium would generate additional financial resources (estimated 
+between  530  million  and  1  billion  euros  per  year)  for  EU  downstream  transformers’ 
+investments. Incentives for downstream transformers should be primarily directed at expanding 
+their  innovative,  research  and  technological  capacities  and  at  improving  their  sustainability, 
+resource efficiency and environmental performances from a circular economy perspective.  
+
+­  Finally,  improving  the  competitiveness  of  the  whole  EU  aluminium  value  chain  requires 
+enhancing,  including  with  the  tools  of  the  so-called  fourth  industrial  revolution,  the 
+collaborations and the relationships between EU semi-finished transformers and relevant end-
+user industries. 
+
+9 
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,370 @@
+Position Paper 
+7 September 2020 
+
+Commission consultation on a New Competition Tool 
+
+Key messages 
+
+EuroCommerce shares the Commission’s aim of ensuring that markets remain open and contestable 
+for innovators, businesses, and new market entrants. Markets, and in particular digital markets, are 
+developing  fast  and  are  expected  to  continue  to  do  so,  with  new  services  and  business  models 
+constantly emerging. It is therefore critical that any possible policy intervention aimed at addressing 
+certain business practices or models does not unintentionally stifle innovation or the dynamism on 
+the market and thus undermine the ability and incentives of European players to grow and compete. 
+
+To remain competitive and grow, retailers and wholesalers need a regulatory framework that provides 
+legal certainty and a level playing field and gives incentives to develop their businesses online as well 
+as offline. We ask the Commission to take these factors into account when conducting their impact 
+assessments.   
+
+We wish to make the following main points, which we will detail further below: 
+
+1.  We  are,  not  convinced  that  a  New  Competition  Tool  would  contribute  to  creating  such  a 
+framework. Rather, we are concerned that this would represent a fundamental change in how 
+markets are assessed, and competition policy enforced, by focusing on market structures rather 
+than on infringements. We would ask the Commission to provide a much clearer justification for 
+the development of a completely new tool, in any of the forms proposed. 
+
+2.  A new tool allowing the imposition of remedies without a finding of infringement could lead to 
+a disproportionate interference in the market economy and have a chilling effect on innovation, 
+growth and investment. 
+
+3. 
+
+In  our  opinion,  Articles  101  and  102  TFEU  and  the  related  EU  competition  law  tools  are 
+sufficiently flexible to catch all new forms of conduct that pose a threat to competition and the 
+competition rules  toolbox  is under  review, in particular to adapt  it  to digital  developments.  In 
+addition, the Commission has the ability to undertake sector inquiries and regulate in cases of 
+market failure. 
+
+4.  We  are  also  not  convinced,  that  the  legal  basis  proposed  by  the  Commission  is  appropriate. 
+
+Neither Art. 103 TFEU nor Art. 114 seem to be an appropriate legal basis.  
+
+5.  We  would  welcome  more  detail  on  how  the  suggested  approach  could  contribute  to  more 
+competitive and innovative markets and consumer welfare. We also ask whether the same results 
+could not be achieved by adapting some of the existing competition law toolbox through the 
+ongoing review or by exploring self-regulatory instruments; and whether experience from other 
+sectors can provide examples of successful alternative approaches. 
+
+6. 
+
+If  the  Commission  pursues  this  new  tool  we  underline  the  importance  of  imposing  proper 
+safeguards  and  due  process,  and  would  recommend  to  limits  its  application  to  areas  where 
+competition problems have been observed that cannot be solved by more proportionate means 
+and  have  an  appreciable  effect  on  trade  between  EU  member  states  that  is  not  limited  to 
+national  or  regional  markets  within  one  member  state.  Furthermore,  the  relationship  with 
+Art.101 and 102 would need to be clarified. 
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+
+www.eurocommerce.eu 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Legal basis 
+
+2.  Art. 103 TFEU does not seem to be an appropriate legal basis. The scope of the authorisation to 
+the Council to adopt all appropriate regulations and directives is determined by the content of 
+Articles 101 and 102 TFEU. Regulations or directives must serve to implement these provisions 
+but may neither amend nor supplement them. Art. 102 TFEU, for example, as interpreted by the 
+ECJ in the Continental Can case (ECJ, Case C-6/72), prohibits a merger as abusive only if it leads to 
+a strengthening of an already existing dominant position, but not if it first creates  a dominant 
+position. In this respect, it is highly doubtful whether the options which link remedies neither to 
+an infringement of competition law nor to a dominant position can be based on Article 103 TFEU. 
+
+3.  Art.  114  TFEU  will  in  all  likelihood  not  be  considered  as  a  supplementary  legal  basis  either. 
+According  to  the  case  law,  Article  114  TFEU  is  the  appropriate  legal  basis  for  approximation 
+measures aimed at improving the conditions for the establishment and functioning of the internal 
+market  by  removing  or  preventing  obstacles  to  fundamental  freedoms  or  distortions  of 
+competition. However, according to the Roadmap, the aim is not precisely to eliminate distortions 
+of  competition,  but  to  eliminate  so-called  structural  risks  and  deficits  below  the  radar  of 
+competition law. Nor would the information and disclosure obligations for companies to "identify" 
+risks, which the NCT would certainly entail, be covered by Article 114 TFEU, as the discussion on 
+the establishment of a Single Market Information Instrument (SMIT) a few years ago showed. The 
+latter failed not least because of the lack of a legal basis for the mandatory information and data 
+collection rights provided for in the instrument. 
+
+2. Identifying structural market problems and scenarios 
+
+4. 
+
+In  the  consultation  questionnaire  the  Commission  seeks  stakeholder  feedback  on  the 
+characteristics of market conditions and scenarios where structural competition problems could 
+potentially  be  identified:  anti-competitive  monopolisation  strategies,  oligopolistic  markets, 
+markets where pricing algorithms are prevalent, tipping markets and markets characterized by 
+“gatekeepers”.  
+
+5.  We agree, that in specific cases, these situations may give rise to competition concerns, especially 
+where  entry  barriers,  of  a  regulatory  or  non-regulatory  nature,  in  a  given  market  could  limit 
+competition  from  existing  players  and/or  limit  new  entrants  into  the  market.  However,  we 
+wonder whether markets tipping, dominance or network effects in themselves always require 
+competition enforcement action. These can be a normal result of successful growth strategies 
+and scale efficiencies and can generate economic and consumer benefits. They may however give 
+rise to concerns where they lead to restrictions of competition and limit entry into a given market. 
+
+6.  The Commission already has powers to conduct sector inquiries and take follow up action where 
+such concerns arise. As we have seen in many instances in the past, a sector inquiry constitutes 
+an effective and proportionate tool to identify structural competition problems and their possible 
+harm to competition and consumer welfare; they provide the basis for the Commission to take 
+action as required (e.g. recommendations, enforcement action, legislation). We therefore ask the 
+Commission to focus on the effects on competition and consumer welfare rather than on market 
+structures  themselves  and  provide for  these  to be  assessed  individually  on  their  merits  and 
+effects. 
+
+7.  A market structure approach runs the risk that it will necessarily have to be based on uncertain 
+forecasts  of  future  market  developments  and  be  open  to  broad  interpretation,  leading  to 
+considerable legal uncertainty and possibly false incentives for companies. 
+
+8.  We  support a  case by case approach, rather than a  one-size-fits-all new tool.  Most retail and 
+wholesale markets remain anchored in physical product markets where consumers pay for the 
+products  and  services  that  they  purchase.  Providers  compete  on  price,  quality  of  service  and 
+innovation and consumers shop around for the deal that they consider the most attractive.  There 
+may be some exceptions where there are strong network effects (such as online search addressed 
+in the Google Shopping case) and where it is harder for smaller rivals to compete because the 
+service is offered free of charge to consumers and is monetised through ads.  In such cases there 
+may be multi-sided network effects that increase barriers to entry. We ask the Commission to 
+assess whether such individual instances would warrant the adoption of a completely new tool or 
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+could  be  included  in  the  review  of  the  existing  tools,  particularly  by  updating  the  market 
+definition notice to take the dynamics of such multi-sided markets better into account. 
+
+3. Tackling structural competition problems in existing and/or sector specific law 
+
+9.  Where competition issues arise, it is appropriate for the Commission to review whether existing 
+law  is  fit  for  purpose  or  whether  there  is  a  need  for  change  to  address  gaps  in  the  present 
+legislation.  
+
+10. A number of existing competition rules (the vertical and horizontal block exemption regulations 
+and guidelines, the merger control regulation, the market definition notice, etc.) are under review 
+to ensure that they are working properly and fit for the new digital environment. EuroCommerce 
+welcomes this review process and considers that this could capture many of  the aspects the 
+Commission is seeking to address with the New Competition Tool (NCT), and that this review 
+should be completed before pressing ahead with widely-drawn new powers under the NCT.  For 
+example, the existing tools could address potential gaps by:  
+
+•  Tightening the definition of markets e.g. in respect of product substitutability, developing a 
+common methodology to assess multi-sided markets including zero-price markets, and take 
+better account of channel substitutability. 
+
+•  Updating  the  existing  guidance  on  abusive  exclusionary  conduct  by  dominant  players1  to 
+
+reflect the digital environment.  
+
+•  Strengthening existing interim measures to ensure that infringements of Art. 101 and/or Art. 
+
+102 TFEU are suspended or reversed while DG COMP comes to a final decision. 
+
+•  Updating the horizontal guidelines on information exchange, particularly with regards to data 
+
+• 
+
+sharing, signalling and the risk of collusion in the context of algorithmic pricing. 
+Including consideration of subsidies from foreign states to companies active in the internal 
+market in the  State  Aid rules  as well as the  FDI Screening mechanism  as suggested in the 
+Commission  White  Paper  on  Foreign  Subsidies2,  to  avoid  markets  tipping  due  to  state 
+supported players leveraging their position in the home market to gain a privileged position 
+on the internal market.  
+
+11. We  are  concerned  with  the  term  “gatekeeper”  as  referred  to  in  section  18  of  the  NCT 
+questionnaire. The  term  is largely undefined and open to  potentially very  wide  interpretation, 
+leading to legal uncertainty. This could risk creating disincentives for businesses to grow further 
+(see our contribution to section III of the DSA consultation for further elaboration). We see the 
+Platform to Business Regulation as an important tool to ensure an open and transparent business 
+environment online. We  ask  the  Commission to ensure that, if such an approach was  deemed 
+necessary,  any  further  “ex  ante”  instrument  should  be  clearly  linked  to  that  regulation.  The 
+Platform to Business regulation has however only been in application for a very limited time and 
+should be allowed to demonstrate its effects on the market before adding further – potentially 
+not needed - regulation on top of it – be it an ex ante instrument or the NCT.  
+
+12. In other areas such as the aftersales market for car repair and payment cards and services, market 
+failures have been identified and sector-specific regulation introduced to seek to remedy these 
+failures. EuroCommerce supports such interventions when clearly justified and encourages the 
+Commission to keep monitoring the need for updating existing, or developing new, sector-specific 
+legislation where market failure is evident or where it has become clear that the existing sector 
+specific regulation is not working as intended.  
+
+13. As mentioned above the Commission already has the power to undertake sector inquiries “when 
+it believes that a market is not working as well as it should, and also believes that breaches of the 
+competition rules  might be a contributory factor”3  4.  Sector enquiries  have  proven effective  in 
+uncovering  anticompetitive  behavior  and  in  providing  a  basis  for  the  Commission  to  take 
+
+1 2009/C 45/02 Guidance on the Commission's enforcement priorities in applying Article 82 of the EC Treaty to 
+abusive exclusionary  conduct  by  dominant  undertakings; This  guidance  sets  out  the practices  that  dominant 
+players cannot engage in, but is very much based on the physical economy. 
+2 European Commission White Paper on levelling the playing field as regards foreign subsidies, 17. June 2020 
+3 DG COMP website here 
+4 https://ec.europa.eu/competition/antitrust/sector_inquiries.html 
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+enforcement and/or regulatory action. Examples include the Commission’s e-commerce enquiry 
+which led the  Commission to take  a  number of enforcement  actions  (e.g.  Nike, Sanrio,  Guess, 
+Phillips & Marranz, etc)5. The inquiry into roaming opened in 20006 led to the adoption of the 
+Roaming Regulation in 2015. The inquiry concerning payment cards in 2006,7 in addition to further 
+enforcement action, was a step towards the 2012 Green paper and the Multilateral Interchange 
+Fees Regulation adopted in 2015. Very recently the Commission also opened a sector inquiry into 
+consumer IoT, looking into, amongst other things, the effects of voice assistance on competition8.  
+
+14. This approach would be in line with current enforcement practice and in our view be sufficient 
+and effective to address key issues identified by the Commission for the NCT9, without developing 
+a completely new tool. Furthermore, it would allow the Commission to gather solid evidence to 
+base any legislative actions on, in line with the better regulation guidelines 
+
+15. We would also ask the Commission to take into account the cumulative impact of the  current 
+wide set of initiatives10 as well as the ongoing implementation of the last legislature’s 16 Digital 
+Single Market initiative covering EU online markets, and  to ensure equal treatment between EU 
+and foreign-based operators.   
+
+4. Limited scope including case-by-case effects tests 
+
+16. We would hope that the Commission will address the concerns listed above before deciding to 
+move ahead with a new tool. Any such proposal should have a clearly-defined scope, focusing on 
+areas  where  competition  problems  have  been  observed  that  cannot  be  solved  by  more 
+proportionate means and have an appreciable effect on trade between EU member states that 
+is not limited to national or regional markets within one member state.  
+
+17. Given  the  novel  nature  of  the  enforcement  powers  proposed  under  the  NCT,  we  consider  it 
+advisable, should the Commission proceed with the  NCT,  to ensure that  all  regulators and the 
+market  become  familiar  with  its  application  initially  in  a  limited  area  where  the  most  serious 
+competition problems have been identified. We further recommend that the Commission clarify 
+that any instrument should be applicable only in cases where there is a cross-border dimension, 
+and not to purely national cases.  
+
+18. A case-by-case approach based on  the specific activities companies are engaged in online and 
+offline, and their effects on competition and consumer welfare are, in our view, more appropriate 
+than  a  one-size  fits  all  approach.  With  regard  to  platforms,  as  defined  in  the  stakeholder 
+consultation,  they  cover  widely  differing  types  of operators  offering diverse  services  with  only 
+their use of the internet in common – a marketplace, a social media platform or a platform hosting 
+apps are operating in very different markets and any instrument or regulatory action needs to 
+take  those  different  circumstances  properly  into  account.  An  approach  based  on  effects  tests 
+rather than focusing on certain market structures  would be  in line  with the  recommendations 
+made by the three experts’ report to the Commission on “Competition policy in a digital era11”. 
+
+5. Remedies and safeguards 
+
+19. A new tool allowing the imposition of remedies without a finding of infringement could lead to 
+a disproportionate interference in the market economy and have a chilling effect on innovation, 
+growth and investment. Therefore, it is important that any new tool should be accompanied by 
+appropriate safeguards, clearly defined rights of defense and due process, e.g. as provided for 
+
+5 Guess (AT.40428) and consumer electronics (AT.40181, AT.40182, AT.40465 and AT.40469) 
+6 https://ec.europa.eu/competition/sectors/telecommunications/archive/inquiries/roaming/index.html 
+7 https://ec.europa.eu/commission/presscorner/detail/en/IP_06_496 
+8 https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1326 
+99 see Commission IIA on a New Competition Tool here 
+10 such as the industrial strategy, the development of a carbon border tax, a European instrument of reciprocity 
+in public procurement, treatment of foreign state owned or subsidized enterprises, ensuring the effectiveness 
+of European trade defense instruments with regard to subsidies, etc. 
+11 Competition law in a digital era  
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in the  UK  by the  Competition and Markets Authority under its market investigation tool12.This 
+should  include  a  case-by-case  analysis  and  a  written  statement  of  objections  provided  to  the 
+relevant addressees of any European Commission decision taken under the new tool. We would 
+recommend that the Commission establish an independent panel and clear rules on transparency 
+and involvement of the parties to ensure due process under any new tool.  
+
+20. We would ask the Commission to fully assess the relationship between an NCT and Articles 101 
+and  102  TFEU.  The  options  set  out  in  the  NCT  inception  impact  assessment  appear  to  target 
+exclusively  or  to  a  very  substantial  extent  single  firm  conduct  but  without  providing  the 
+substantive  and  procedural  safeguards  enshrined  in  Article  102  TFEU.  Absent  adequate 
+safeguards, this could create an incentive to bring cases under the NCT instead of Article 102 TFEU. 
+In particular, it should be made clear that Article 102 TFEU and not the NCT must be applied to 
+any conduct caught by that Treaty provision to ensure that Article 102 TFEU remains the main EU 
+competition law tool for addressing single firm conduct as contemplated by the Treaty. 
+
+21. Imposing remedies to avoid markets tipping is similar to imposing interim measures, a tool which 
+is already available. The Commission appears to be concerned that it will not be able to intervene 
+sufficiently quickly in markets such as online search to protect competition effectively.  However, 
+the Broadcom case shows that the existing toolbox enables the Commission to intervene quickly 
+and tackle concerns with important issues such as exclusivity and prevention of multi-homing.   
+
+22. While we can see the merits of applying interim measures and understand the ongoing discussion 
+over the standard of proof, we do not believe that the burden of proof should be reversed. This 
+would fundamentally change EU standards of due process and create legal uncertainty, with a risk 
+of reducing incentives for companies to invest and innovate.  
+
+23. Within  the  scope  of  proceedings  under  Art.  101  and  Art.  102,  the  Commission  can  already 
+influence market structures today, in particular through obligations on the part of the companies, 
+if  a  competition  problem  has  been  identified  beforehand  and  the  Commission  has  provided 
+evidence of an infringement by the part of the companies concerned. Merger control also allows 
+a no-fault market structure control. We therefore do not see the need for a new competition 
+tool to achieve this.  
+
+6. Relations with the ex ante instrument 
+
+24. The  ex-ante  instrument and New Competition Tool  represent  two new regulatory  instruments 
+aimed at achieving very similar objectives. We ask the Commission in its impact assessment to 
+provide evidence that there is an overall need to establish a new mechanism whilst the existing 
+competition rules are being adapted to address challenges arising from digitalisation and other 
+market development, and substantiate the need for two different tools to address very similar 
+issues. It would also be important to clarify exactly the interplay between the two instruments 
+and  avoid  regulatory  overlap.  This  would  be  in  line  with  better  regulation  principles  and 
+commitments to limit regulatory intervention to what is strictly necessary. 
+
+Contact:  
+Katinka Worsoe - +32 2 737 05 86 - worsoe@eurocommerce.eu  
+Christel Delberghe - +32 7370591 – delberghe@eurocommerce.eu      
+
+Transparency Register ID: 84973761187-60 
+
+12 Guidelines for market investigations: Their role, procedure, assessment and remedies  
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

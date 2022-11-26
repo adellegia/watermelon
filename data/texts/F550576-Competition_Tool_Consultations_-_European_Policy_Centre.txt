@@ -1,0 +1,147 @@
+Ref. Ares(2020)4711846 - 09/09/2020
+
+Prospects – Getting the DSA right 
+These are the main conflict lines in the DSA debate: defining minimum obligations for all platforms 
+which  apply  regardless  of  their  size  –  the  de  minimis  rule;  and  defining  additional  rules  for 
+gatekeeping platforms – ex ante legislation – that will apply to giant platforms, whose access to data 
+enables them to profile users and to influence opinion information online.  
+
+Firstly,  there  are  concerns  about  the  risks  citizens  face  in  their  online  engagements  and  the 
+protection  of  their  rights.  Tackling  these  risks  will  require  measures  that  increase  transparency 
+about  how  platforms  moderate  content.  Content  moderation  is  a  standard  practice  among 
+platforms  and  is  usually  achieved  via  automated  decision-making  (ADM)  tools  because  the  sheer 
+abundance of information is impossible for human agents alone to process. Using ADM, platforms 
+can  identify,  filter  or  remove  illegal  content  that  may  fall  under  a  certain  category  (e.g.  terrorist, 
+child sexual abuse, racist and xenophobic hate speech). 
+
+No  matter  how  beneficial this  practice  may  sound,  it  poses  serious  threats  to  fundamental  rights, 
+such  as  freedom  of  expression  and  opinion.  ADM  tools  are  unable  to  understand  the  highly 
+contextual and delicate nuances of speech. While ADM can potentially identify illegal content, it can 
+also silence groups and individuals whose messages are not illegal. As a result, ADM can reinforce 
+social biases, for example, by targeting the content of minorities and vulnerable social groups.1 This 
+is why ADM tools must be made sufficiently transparent, so that independent observers can monitor 
+and assess the different platforms’ ADM tools and decision-making criteria for content moderation.  
+
+Additionally,  while  limited  liability  for  platforms  should,  in  principle,  be  preserved,  it  must  be 
+reinforced  with  a  clause  that  addresses  the  Good  Samaritan  paradox,  and  introduce  additional 
+responsibilities for the dominant players.  
+
+Secondly,  there  are  competition  concerns  concerning  the  introduction  of  new  entrants  into  the 
+market and the level playing field. These measures will likely be the focus of the ex ante rules that 
+the Commission has mentioned in its DSA plans. They will be activated retrospectively when certain 
+conditions  are fulfilled,  to curb  the  market  power of  giant  platforms  which  act  as  gatekeepers  for 
+aspiring entrants. 
+
+An  impact  assessment  of  dominant  players  in  the  market  will  be  needed  to  avoid  measures  that 
+undermine consumer interests and innovation. Almost a million EU businesses sell their goods and 
+services  via  major  online  platforms  nowadays,  and  more  than  50%  of  small  and  medium-sized 
+enterprises sell their products through online marketplaces. With 4.7 million EU jobs currently linked 
+to  businesses  active  on  online  platforms,  the  stakes  are  high  and  ineffective  measures  could 
+exacerbate existing market distortions.2 
+
+In this spirit, there are three recommendations the Commission should consider when drafting the 
+DSA. 
+
+Recommendation 1 – Introduce a double-incentive mechanism 
+While  several  major  players  act  as  gatekeepers  of  the  industry,  there  also  smaller  online 
+intermediaries. Therefore, the minimum transparency and market obligations of online platforms 
+must  be  defined  according  to  indexes  of  annual  turnaround,  market  share,  user  base  and 
+gatekeeping impact.  
+
+Market  and  algorithmic  transparency  obligations  may  be  well-processed  by  market  giants  like 
+Google,  Amazon,  Facebook  and  Apple  (GAFA).  However,  they  would  require  smaller  ones  to 
+compromise on their capacity for innovation. That is why smaller platforms should not have to offer 
+
+1 Birgit Stark and others, ‘Are Algorithms a Threat to Democracy? The Rise of Intermediaries: A Challenge for 
+Public Discourse’ 
+2 European Commission (2019), Online platforms: New European rules to improve fairness of online platforms 
+trading practices. 
+
+                                                      
+exhaustive descriptions of their ADM and other processes, unless they are required on a spot-check 
+basis. This measure could enable smaller players to enjoy considerable incentives  for entering the 
+market.  
+
+Conversely,  ex-ante  rules  should  disincentivise  especially  strong  players  from  abusing  their 
+dominance in the market  and engaging in practices that make it impossible for other players to 
+compete. Disincentives should involve merging and sharing user data across multiple services that 
+are owned by the same platform (e.g. Facebook and its Instagram and WhatsApp).  
+
+Data-merging  practices  offer  dominant  platforms  crucial  insights  about  purchasing  behaviour  and 
+content consumption. In turn, these insights translate into ‘data power’ that gives unfair advantages 
+to dominant players because it allows them to behave as gatekeepers.3 That is why ex ante rules for 
+especially  strong  players  should  be  introduced,  forbidding  data-merging  practices  for  players  with 
+excessive data power.  
+
+An  effective  sanctioning  regime  will  be  necessary  in  cases  of  negligence.  It  should  enforce  fines 
+proportional  to  the  damage  the  dominant  player  has  inflicted  to  the  market.  The  fines  should  be 
+backdated  to  account  for  the  entire  period  of  market  abuse,  and  orders  to  stop  abusive  market 
+behaviour should be enforced a soon as the threshold for adequate evidence is met – even prior to 
+concluding the examination, which could take years 
+
+Recommendation 2 – Establish a central EU agency 
+A  central  EU  agency  that  monitors  and  enforces  the  DSA  is  necessary.  The  agency  would  have  a 
+clear  legal  mandate  to  enforce  transparency  obligations  and  ex  ante  rules  for  especially  strong 
+players acting as gatekeepers across the EU27.   
+
+Equal  enforcement  of  the  DSA  across  the  Union  will  be  a  daunting  task.  National  enforcement 
+agencies  should  not  engage  alone  in  enforcing  the  DSA  for  giant  platforms.  Besides  lacking  the 
+necessary  resources,  this  approach  would  cause  fragmentation  in  the  EU  Single  Market,  through 
+inconsistent  interpretation  of  rules  and  enforcement.  This  is  why  a  central  EU  agency  would 
+harmonise governance between national and EU-level regulatory authorities by enforcing consistent 
+regulation across the Union.  
+
+The agency would increase EU leverage over giant platforms since it would represent the Union as a 
+whole.  Additionally,  it  would  be  in  a  unique  position  to  address  potential  clashes  of  interest  in 
+enforcement between the national and EU-levels of governance. For example, it could monitor the 
+implementation of DSA transparency obligations by national enforcement bodies in member states 
+where rule of law has been an issue. 
+
+The agency should also enforce  a data  access  regime  in order to increase  transparency  over giant 
+platforms in the EU27. This approach would enable independent ADM monitoring by  stakeholders 
+(e.g.  civil  society,  journalists,  regulators,  academics)  and  foster  freedom  of  scientific  research  in 
+platform governance. 
+
+The  issues  of  democratic values  and  human  rights  are  hugely  important.  This  is  why  this  agency’s 
+mandate should  be  designed  with  a view  to monitoring  issues  of content  governance,  algorithmic 
+transparency,  and  discrimination  related  to  ADM  on  giant  platforms.4  To  minimise  the  risk  of 
+overlaps,  tiered  regulation  should  explicitly  outline  different  levels  of  oversight  and  how  they 
+interact with regulatory authorities in competition, data protection, cybersecurity, etc.  
+
+3 O. Lynskey “Grappling with ‘Data Power’: Normative Nudges from Data Protection and Privacy” (2019) 20(1) 
+Theoretical Inquiries in Law 189, 207-209.   
+4 The Commission is also planning to present its European Democracy Action Plan (EDA) in 2020, which will 
+also target issues of online disinformation and ADM discrimination on the basis of values enshrined in the EU 
+fundamental rights. That is why potential synergies between the DSA and the EDA should be considered in 
+advance. 
+
+                                                      
+Recommendation 3 – Enhance the role of national data protection authorities (DPAs) 
+The  role  of  national  DPAs  should  be  enhanced  in  order  to  enable  them  to  effectively  enforce  the 
+implementation of the General Data Protection Regulation (GDPR, 2016/679) at the national level.  
+
+There  are  currently  difficulties  in  implementing  the  GDPR  at  the  national  level  due  to  a  lack  of 
+resources. A recent report shows that dominant platforms and services  can leverage DPAs’ lack of 
+resources  in  individual  member  states.  For  example,  Ireland  and  Luxembourg  have  seen  resource 
+increases of 169%  and 126%  between 2016  and 2019,  respectively. However,  there  are  significant 
+disparities elsewhere: Greece and Bulgaria have seen a 15% and 14% decrease in staff, respectively.5  
+
+Enhancing  the  capacities  of  DPAs  is  crucial  if  research  institutions,  civil  society  and  other 
+stakeholders  are  to  safely  engage  in  independent  monitoring  of  ADM  practices.  Any  data  access 
+regime  that  facilitates  independent  monitoring  should  come  with  strong  safeguards  for  personal 
+data,  in  line  with  the  GDPR.  This  is  especially  important  when  it  comes  to  data  access  regimes 
+operating  at  the  national  level  –  DPAs  should  have  adequate  resources  to  monitor  how  personal 
+data is processed in these regimes. 
+
+This  approach  would  alleviate  the  EU  agency’s  administrative  burden  of  processing  data  access 
+requests from 27 member states. It would also foster harmony between national and supranational 
+levels  of  governance,  as  it  would  maintain  a  meaningful  role  for  national  agencies.  Additionally, 
+enhancing  the  role  of  DPAs  would  distribute  responsibility  across  different  levels  of  governance, 
+which would reduce concerns about power grabs at the EU level.  
+
+5 Massé, Estelle (2020), “Two years under the EU GDPR. An implementation progress report: State of play, 
+analysis, and recommendations”, Brussels: Access Now. 
+
+ 
+                                                      
+

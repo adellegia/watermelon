@@ -1,0 +1,1081 @@
+A. 
+
+Introduction and Executive Summary 
+
+Microsoft appreciates the opportunity to comment on the European Commission’s  consultation regarding 
+the development of a new competition tool (NCT).1  
+
+In summary: 
+
+•  Microsoft supports the Commission’s objective to ensure that its competition policy and rules are fit 
+for the digital age and are capable of levelling the playing field so that business will invest, innovate 
+and grow. The underlying market characteristics and dynamics that accompany digital transformation 
+bring manifold benefits but also create legitimate concerns for which, in certain circumstances, there 
+may be a gap in the current competition policy armory. 
+
+•  There is wide support for expansion of the competition policy tool kit as an effective way to address 
+these concerns, which reflects the strong reputation which the Commission’s competition policy has 
+earned over the years through clear policy objectives, a coherent and internally consistent analytical 
+framework, its technocratic, non-political approach and its robust procedural safeguards. 
+
+•  Microsoft  supports  the  case  for  the  introduction  of  the  NCT;  it  is  however  important  that  the 
+Commission  will  preserve  the  existing  benefits  of  competition  policy  built  up  over  decades  whilst 
+equipping itself to address the legitimate concerns raised in recent years as to the effectiveness of the 
+Commission’s powers. 
+
+•  Microsoft believes that the preferred NCT option should be a market structure-based tool that applies 
+
+to all sectors (i.e. Option 3):  
+
+− 
+
+In our view, the dominance-based options are unlikely to cover comprehensively the structural 
+competition problems that the Commission will face, including markets that have not yet tipped 
+but are prone to tipping and oligopolistic markets with an increased risk of tacit collusion.  
+
+−  A sector-limited NCT would be less flexible, failing to capture structural competition problems in 
+out-of-scope sectors; furthermore, a sectoral tool would raise the prospect of sterile disputes over 
+‘jurisdiction’ rather than to focus on substance. It would also be open to charges of discrimination 
+by prejudging that structural competition problems are likely to exist in certain sectors. 
+
+•  Microsoft  considers  that,  on  balance,  the  NCT  should  solely  address  competition  issues  to  the 
+exclusion of consumer protection considerations. While, admittedly, the line between the two are not 
+always  easy  to  draw,  there  are  strong  arguments  for  a  competition-only  focus.  It  would  allow  the 
+Commission to base the NCT on well-understood policy objectives and avoid more complex trade-offs 
+
+1  European Commission, Public Consultation 3 June 2020 – 8 September 2020, Single Market – new 
+
+complementary tool to strengthen competition enforcement, (see here) 
+
+1 
+
+   Microsoft Corporation  Response to the European Commission’s  Consultation on a ‘New Competition Tool’ (8 September 2020)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+generated  by  consumer  protection  considerations. A  wider  consumer  protection  policy  would  risk 
+leading the Commission away from technical issues into a wider political minefield. 
+
+•  The Commission will also need to make the sensitive decision of whether to address market failures 
+stemming from legislation or regulation at either Member States or EU level. Given the objective of 
+the NCT to address “structural competition problems” in full, Microsoft believes it would be appropriate 
+for the Commission to be able to address concerns regardless of whether they stem from private or 
+public conduct. 
+
+•  The NCT would be more robust if the Commission were required to identify a plausible remedy at an 
+early stage of the investigation. There are two reasons why such a requirement would be justified: 
+first, the potential benefits to intervention in terms of effectiveness of remedies must be sufficiently 
+concrete and likely to justify the significant costs of a market investigation (particularly in the absence 
+of any deterrent effect); and, second, for the NCT, more than for other competition mechanism, it is 
+the  remedy  which  determines  the  relevant  counterfactual  without  which  a  clear  competition 
+assessment will not be possible.  
+
+•  There would be a significant overlap between Option 3 of the NCT and the existing competition tools, 
+in particular Articles 101 and 102. Microsoft believes there should be a priority rule for determining 
+whether  it  is  more  appropriate  to  address  the  issues  with  the  NCT  or  the  Commission’s  existing 
+powers. The  UK’s  market  investigation  regime  (which  has  obvious  similarities  with  Option  3  of  the 
+NCT) provides a good basis for such a priority rule, namely that the NCT should only address problems 
+within the scope of its conventional competition tools where (a) it has ‘reasonable grounds to suspect’ 
+that  there  are  ‘features’  of  a  market  distorting  competition  but  does  not  have  sufficient  grounds  to 
+establish a breach of its conventional competition tools or (b) action under its conventional competition 
+tools ‘is likely to be ineffective.’2 
+
+•  One of the most difficult issues will be the legal standard for the NCT. In Microsoft’s view, the NCT 
+should apply a legal standard for intervention which is consistent with EU competition policy and, in 
+particular,  the  Commission’s  existing  competition  policy  instruments. A  lowering  of  standards  away 
+from  precedent  would  unjustifiably  disregard  the  Commission’s  and  the  EU  Courts’  decades  of 
+experience and accumulated practice on the appropriate treatment of different types of conduct and 
+market features. This calculus does not change materially due to the absence of fines or infringement 
+decisions.3  The  standards  set  under Article  101  and  102  TFEU  focus  primarily  on  the  costs  and 
+benefits of intervention without consideration for whether a fine will ultimately be imposed.4 
+
+•  Procedural  safeguards  are  a  necessary  consequence  of  any  creation  of  novel  regulatory  powers. 
+Again, inspiration can be drawn from the UK market investigation regime which has an elaborate set 
+of procedural safeguards to ensure due process for these wide-ranging investigations, including (i) a 
+two-phase  process,  where  a  Phase  I  market  study  may  lead  to  an  in-depth  (Phase  II)  market 
+investigation; (ii) a strict legal test for opening a Phase II investigation which is a protection mechanism 
+against “fishing expeditions”, i.e. lengthy investigations being launched without a clearly defined theory 
+
+2  OFT, Guidance on Market Investigation References, 2006 (see here, original text has been adopted unamended 
+
+3 
+
+by the CMA).   
+Amelia Fletcher, Market Investigations for Digital Platforms: Panacea or Complement? Centre for Competition 
+Policy University of East Anglia, 6 August 2020. 
+
+4  Wouter Wils, Optimal Antitrust Fines: Theory and Practice, World Competition Vol 29, No 2, June 2006.  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+of harm and without plausible remedies in prospect; and (iii) strict timelines, both for the conduct of 
+Phase I and Phase II of its review. 
+
+•  The final safeguard, and perhaps one of the most important for the legitimacy of the NCT relates to 
+the right of judicial review: the substantive legal tests for the NCT must be sufficiently clear and precise 
+to enable affected companies to challenge the Commission’s findings; and the scope and intensity of 
+the review of the EU courts, in terms of merits, should be no less than what is accorded in relation to 
+the existing competition tools. 
+
+B. 
+
+The Case for an Extension of the European Commission’s Competition Tool Kit 
+
+The proposal to introduce an NCT is part of the Commission’s answer to the challenge that competition 
+policy has increasingly fallen short. The claim is made that the competition agencies have been “asleep at 
+the wheel” in recent years but also that the existing competition policy tools lack sufficient scope, flexibility, 
+speed and powers to tackle today’s competition problems, particularly in the digital sector. This discussion 
+is part of a far wider debate over the ability of the modern economy to deliver the best outcomes for society.  
+
+Microsoft  recognises  that  the  underlying  market  characteristics  and  dynamics  that  accompany  digital 
+transformation, which bring manifold benefits, at times create legitimate competition concerns which may 
+be best addressed outside the context of traditional competition enforcement. While some of the additional 
+burden of addressing those concerns will fall on ex ante regulation, there is strong support by many policy 
+makers and commentators to rely heavily on competition policy and to expand the scope of its existing tool 
+kit.  
+
+This support reflects the good reputation which competition policy (both at a global but in particular at the 
+EU  level)  enjoys,  despite  its  occasional  shortcomings.  This  reputation  was  forged  as  a  result  of  its 
+conversion  towards  clear  policy  objectives;  its  coherent  and  internally  consistent  substantive  analytic 
+framework; and its technocratic, non-political approach which is supported by clear procedural safeguards. 
+The clarity of the competition policy framework, and of the economic theories underpinning it, support a 
+consistent  legal  framework  for  enforcement  across  a  variety  of  different  market  structures  and  market 
+characteristics. Furthermore, competition rules have been capable of adapting and changing over time to 
+keep pace with innovation and changes in business practices, as well as preserving political legitimacy. 
+
+The introduction of the NCT would mark a policy choice to widen the role of competition policy to address 
+perceived failings and enforcement “gaps” through a hybridized instrument. In so doing, it will inevitably blur 
+the line between competition policy and wider regulatory policy. The Commission would step from enforcing 
+the law to managing a broader regulatory remit. While this does not automatically undermine the existing 
+tenets of EU competition policy, the wider regulatory remit of the NCT – with more complex trade-offs – will 
+inevitably put pressure on them.  
+
+Microsoft  sees  a  case  for  the  introduction  of  the  NCT  to  address  the  gaps  in  existing  enforcement;  the 
+challenge for the Commission will be to make sure that it does not throw out the baby with the bathwater: 
+preserving  the  benefits  of  competition  policy  built  up  over  decades  whilst  equipping  the  Commission  to 
+address the legitimate concerns raised in recent years as to the effectiveness of Commission’s competition 
+powers.  
+
+Microsoft  believes  that  this  can  be  achieved  if  the  existing  core  safeguards  of  competition  policy  are 
+preserved and extended to the NCT; namely:  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+•  Substantive  safeguards:  Firstly,  the  NCT  must  be  in  line  with  the  existing  competition  policy 
+objectives; second, the NCT must clearly identify the gaps in existing enforcement which it seeks to 
+address and the standard for intervention must be tailored precisely to address those gaps, rather 
+than granting broad discretion to intervene which supplants effective existing enforcement.   
+
+•  Consistency safeguards: The NCT must not create issues of consistency and conflict with the existing 
+legal  framework.  In  other  words,  it  must  be  clear  precisely  when  the  NCT  is  applicable  and  its 
+enforcement should not undermine the existing framework.  
+
+•  Procedural safeguards: There must be strong procedural safeguards to counterbalance the remedial 
+powers with which the NCT is endowed. This requires safeguards on the rights of defense, as well 
+as safeguards which ensure the efficiency and objectivity of the investigative process.  
+
+•  Full judicial review: Clear and judiciable legal tests must be designed to allow for a full defense before 
+the European Courts, both in respect of findings of structural competition problems and the imposition 
+of remedies. 
+
+ Microsoft sets out its views on each of these in turn.  
+
+C. 
+
+Substantive Safeguards 
+
+Microsoft submits that the NCT needs to be designed to address gaps in existing enforcement with a robust 
+objective standard for intervention rather than a “catch all” policy instrument that would, in effect, supplant 
+the Commission’s existing powers. To this end, Microsoft sees two critical substantive safeguards, namely: 
+
+(i)  a clearly defined scope such that the NCT is sufficiently wide to capture the relevant concerns but 
+
+also delineate the boundaries of the tool (i.e. what issues the tool is not supposed to capture); and 
+
+(ii)  early  identification  of  plausible  remedies  such  that  the  Commission  evaluates  whether  there  are 
+
+suitable remedies to address the potentially harmful market features or conduct.  
+
+C.1 
+
+The right scope of the NCT 
+
+The NCT poses two questions as to its appropriate scope: one explicit (i.e. which of the four policy options 
+set  out  in  the  Consultation  is  the  right  one)  and  one  implicit  (i.e.  what  are  the  outer  limits  of  the  NCT’s 
+scope). 
+
+(i) 
+
+The optimal policy option for the NCT 
+
+The  four  policy  options  offered  by  the  Commission  in  the  Consultation  Process  are  defined  along  two 
+dimensions: (i) policy reach: a narrow dominance-based tool versus a wide market-structure tool; and (ii) 
+industry reach: a narrow tool for digital markets versus a wide tool which is universally applicable across all 
+industries.  
+
+As  outlined  in  Microsoft’s  submissions  on  the  inception  impact  assessment,  and  for  the  reasons  further 
+detailed below, Microsoft believes that the preferred NCT option should be a market structure-based tool 
+and should apply to all sectors (i.e. Option 3). 
+
+Dominance-based tool versus market-structure based tool 
+
+Microsoft believes that the dominance-based options are unlikely to cover comprehensively the structural 
+competition problems the NCT is intended to address, including markets that have not yet tipped but are 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+prone  to  tipping,  oligopolistic  markets  with  an  increased  risk  for  tacit  collusion,  and  more  generally, 
+competition concerns where an industry wide approach would be appropriate.  
+
+Indeed, the dominance-based  option itself betrays a  conflict underpinning  the  NCT: is the “problem” the 
+(in)effectiveness of Article 102 TFEU in addressing certain issues or a combination of issues including true 
+regulatory “gaps” where Article 101 and Article 102 do not apply at all?  
+
+If, however, the Commission concludes there is an insufficient regulatory gap to justify the introduction of a 
+market structure-based tool, Microsoft believes that reform of Article 102 TFEU would be more appropriate 
+than introduction of a purely dominance-based NCT. This would enhance legal certainty by ensuring that a 
+consistent,  single  standard  for  intervention  applied  to  dominant  firms  while  not  destabilizing  the 
+Commission’s existing competition instruments by introducing new powers in parallel.  
+
+Sectoral Tool versus Horizontal Tool  
+
+Microsoft also supports a horizontal rather than a sectoral approach for the NCT as this would be more 
+flexible to capture the issues it seeks to address, as well as fairer and more defensible under the rule of 
+law.  
+
+A  sector-limited  NCT  would  be  less  flexible,  failing  to  capture  structural  competition  problems  in  out-of-
+scope  sectors.  While  the  market  failures  particularly  associated  with  digital  markets  such  as  strong 
+economies of scale and network effects may be more prevalent in the platform economy, these issues are 
+not novel and go beyond the digital sector. Decades on, the VHS-Betamax “format wars” remain a textbook 
+example of how significant network effects can cause a market to “tip” to VHS even in the “analog” world.5 
+There  are  also  examples  of  network  effects  and  tipping  in  markets  ranging  from  financial  infrastructure 
+through to payment systems and telecommunications.  
+
+Furthermore, a sectoral-only tool raises the prospect of sterile disputes over “jurisdiction” rather than focus 
+on substance. As the impact of digitalization spreads, the line between markets that are and are not digital 
+is likely to become difficult to discern and arguably less relevant. When, for example, would the payment 
+system  sector  be  sufficiently  digitized  for  the  NCT  to  apply  and  would  it  then  only  apply  to  the  digital 
+challengers or also to the (non-digital) incumbents? And the NCT would risk becoming redundant or only of 
+narrow relevance as technology and industry advances if it is too narrowly drawn. 
+
+A sectoral-only tool would, finally, also be open to charges of discrimination by prejudging that structural 
+competition problems are likely to exist in certain sectors. If it is necessary to limit the scope of the NCT to 
+sectors “prone” to certain issues, one could infer that these issues cannot be easily identified on a case-by-
+case basis, and that it may be more appropriate to rely on ex-ante sectoral regulation. 
+
+(ii) 
+
+The outer limits of the NCT (Option 3) 
+
+While  Option  3  has  the  advantages  of  a  wide  reach  and  will  potentially  capture  many,  if  not  all,  of  the 
+competition concerns which cannot be addressed effectively with the existing Article 101/102 tool kit, it also 
+raises the question of what should be the outer limits of the NCT. This has two key dimensions:  
+
+5  H. Ohashi, 2004, The Role of Network Effects in the US VCR Market, 1978–1986, Journal of Economics & 
+
+Management Strategy. On the significance of those network effects, Ohashi considered that with a minor 
+strategic adjustment the market could have just as easily tipped in the other direction: “if Sony, the system 
+sponsor of Beta, had aggressively introduced its VCRs at the early stage of competition, Beta would likely have 
+dominated the market in 1985; instead, the format disappeared in 1989.” 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+•  Competition  /  consumer  policy:  should  the  NCT  solely  address  market  failures  stemming  from 
+competition problems (competition policy) or also those relating to other policy objectives (notably 
+consumer policy)?  
+
+•  Public  /  private  domain:  should  the  NCT  address  market  failures  stemming  from  EU  or  national 
+government intervention through legislation and decisions etc. (public domain) as well as from private 
+actors (private domain)?   
+
+To put this into context, it is instructive to look to the Market Investigation Regime (“MIR”) in the UK – which 
+on the surface – has potential similarities with Option 3 set out by the Commission. Under the MIR, the 
+CMA can address market failures stemming from both competition and consumer policy as well as those 
+stemming from the public as well as the private domain. In the first instance, the CMA has reviewed both 
+conventional  competition  issues  (e.g.  exclusionary  conduct  by  dominant  firms,  see  BSkyB  Market 
+Investigation (2012)) and unconventional competition policy (e.g. exploitative conduct by dominant firms, 
+see BAA Market Investigation (2009).6 The CMA has, however, also reviewed issues that stem from issues 
+of consumer policy (e.g. exploitative conduct where a proportion of customers do not switch due to inertia 
+UK Energy Market Investigation (2016)).7 In the second instance, the CMA has also identified where UK 
+regulation or legislation is hampering the effective operation of markets and put forward recommendations 
+for legislative and regulatory reform (e.g. UK Energy Market Investigation).  
+
+Competition policy vs consumer policy   
+
+First, Microsoft considers that, on balance, the NCT should solely focus on competition policy issues.  
+
+The distinction between competition policy and consumer policy is encapsulated in the question of whether 
+the NCT should solely protect the integrity of the market mechanism by intervening where necessary to 
+ensure “effective” competition takes place (competition policy) or whether it should also intervene to pursue 
+wider issues of consumer policy (e.g. fair distribution of the benefits of competitive process). If the former 
+holds, the NCT would only address structural competition problems that stem from the supply side (e.g. 
+where firms have sought to restrict multi-homing). If the latter holds, the NCT would also address structural 
+“competition” problems stemming from the demand side  (e.g. where consumer inertia  means that some 
+customers do not stimulate and do not benefit from the competitive process).8 That said, the line between 
+competition policy and consumer policy is not  always clear cut: firms may adapt practices which  exploit 
+consumer behavior. Such practices can however be addressed as part of extended competition policy (e.g. 
+where firms tacitly collude).   
+
+Microsoft  believes  there  are  strong  policy  and  economic  reasons  for  limiting  the  scope  of  the  NCT  to 
+competition policy issues.  
+
+•  The  NCT  would  be  based  on  a  single  well-understood  policy  objective  consistent  with  the 
+Commission’s existing competition powers. Were the NCT to embrace consumer policy issues, the 
+Commission’s mandate would expand to consumer policy in which it has no existing experience.  
+
+•  The  Commission  would  not  have  to  consider  more  complex  regulatory  trade-offs  generated  by 
+consumer policy considerations (e.g. whether some consumers should be protected to the longer-
+
+6  Competition Commission, Movies on Pay-TV, Final Report, 2012. 
+7 
+8 
+
+Energy market investigation, Final Report, 2016. 
+See contribution of BEUC in the OECD Summary of Discussion of the Roundtable on consumer-facing remedies 
+(available here: https://one.oecd.org/document/DAF/COMP/WP3/M(2018)1/ANN3/FINAL/en/pdf  
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+term  detriment  of  the  competitive  process)  for  which  it  is  currently  less  well  suited  given  its  core 
+competition policy mandate.  
+
+• 
+
+In a similar vein, the Commission would not be drawn into overtly political issues. Consumer policy 
+and,  more  broadly,  the  trade-off  between  competition  policy  and  consumer  policy  would  involve 
+issues  of  economic  distribution  within  European  societies  which  are  more  properly  the  remit  of 
+legislators.   
+
+The UK’s market  investigation regime  illustrates the complexity of trade-offs between competition policy 
+and consumer  policy. For example, the CMA’s energy market investigation, saw the CMA balancing the 
+protection of passive consumers’ interests against the long-term concern that intervention would undermine 
+the competitive  process (by disincentivizing consumers from driving competition).9 In deciding against  a 
+broader  price  cap  the  CMA  noted  that  “there  were  material  risks  of  adverse  consequences  from  the 
+introduction of a price cap for a large number of customers which outweighed the short-term reduction of 
+detriment” but that the dissenting opinion of one panelist represented a “difference in view [which] reflects, 
+in part, members’ respective judgements on the likelihood that better outcomes will be delivered through 
+competitive markets with more engaged customers over the next few years.”10 Such differences of opinion 
+highlight that these issues require circumspection as well as an ability to make complex policy trade-offs 
+and public value judgments which pure competition authorities are typically ill-suited to make. 
+
+Public domain and private domain 
+
+Second, the Commission will need to make the sensitive decision of whether to address market failures 
+stemming from legislation or regulation at either the Member State or EU level. Microsoft observes that the 
+Treaties already provide – to a limited degree – such powers. So-called “gap filling” means that national 
+legislation and regulation which axiomatically leads to an infringement of Article 101 TFEU or Article 102 
+TFEU  is  prohibited.11  Furthermore,  given  the  objective  of  the  NCT  to  address  “structural  competition 
+problems” in full, it would be appropriate for the Commission to be able to address concerns regardless of 
+whether they stem from private or public conduct. 
+
+C.2 
+
+Early identification of suitable remedies 
+
+The NCT also raises question of how and when the Commission will determine suitable remedies for an 
+instrument which would address a significantly wider range of potentially problematic conduct and market 
+features than the Commission’s existing powers.  
+
+Microsoft strongly suggests that the NCT would be more robust if the Commission is required to identify a 
+plausible remedy at an early stage of the investigation. There are two reasons why such an obligation is 
+justified: first, the potential benefits to intervention in terms of effectiveness of remedies must be sufficiently 
+concrete and likely to justify the significant costs of a market investigation (particularly in the absence of 
+any deterrent effect); and, second, for the NCT, more than for other competition mechanism, it is the remedy 
+which determines the relevant counterfactual. In other words, the remedy considerations are not a separate 
+workstream  following  the  competition  assessment,  they  are  an  integral  part  thereof,  setting  the  overall 
+framework in which the analysis takes place.  
+
+Energy market investigation, Final Report, 15.43-15.48.  
+
+9 
+10  Energy market investigation, Final Report, 15.48.  
+11  Julio Baquero Cruz, Between Competition and Free Movement: The Economic Constitutional Law of the 
+
+European Community, Hart Publishing, 2002. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(i) 
+
+Cost benefit considerations 
+
+A requirement to identify a plausible remedy at an early stage would be a simple insurance mechanism 
+against the risk that significant costs are incurred before the Commission is able to conclude that there are 
+no suitable remedies to address the relevant concerns.  
+
+The Commission’s existing powers require the identification of an anti-competitive act (e.g. an agreement 
+or  unilateral  conduct)  which,  in  turn,  typically  gives  a  straightforward  remedy:  prohibition  of  the  relevant 
+agreement  or  conduct.  Only  in  limited  circumstances  do  the  Commission’s  existing  powers  require 
+mandatory remedies (e.g. abusive refusal to supply requires the Commission to mandate access). This, in 
+turn,  means  that  the  costs  of  intervention  and  the  likely  availability  of  remedies  should  be  (relatively) 
+straightforward: the Commission need only evaluate the costs and ability to reverse the anti-competitive 
+act.   
+
+In  contrast,  the  NCT  would  have  a  significantly  wider  scope  and  thus  a  universe  of  potential  structural 
+problems. And while the NCT may in theory be capable of identifying a large number of market imperfections 
+and resulting concerns, not all of them can be effectively remedied nor are the countervailing costs of such 
+remedies  straightforward.  To  illustrate  this,  one  of  the  Commission’s  key  concerns  is  maintaining 
+competitive  pressure  on  market  “gatekeepers”  and  ensuring  that  markets  do  not  unduly  “tip”  towards  a 
+single platform. There are a range of theoretical remedies for such concerns: e.g. facilitating multi-homing. 
+These remedies carry, however, different costs (e.g. the differing  disincentive effects on investment from 
+such interventions) and may be more or less feasible depending on the circumstances.12  
+
+A requirement to identify a plausible remedy at an early stage would thus ensure that the costs of an in-
+depth  investigation  would  only  be  expended  if  there  is  a  reasonable  prospect  of  any  concern  (should  it 
+exist)  being  capable  of  being  remedied  (without  the  cost  outweighing  the  benefits  of  intervention). This 
+approach would be consistent with the UK market investigation regime which provides that the CMA should, 
+inter alia, only consider launching a market investigation where (i) the scale of the suspected problem, in 
+terms of its adverse effect on competition, is such that a reference would be an appropriate response; and 
+(ii) ‘there is a reasonable chance that appropriate remedies will be available.’13 This can also be seen in 
+practice. For example, the CMA opted not to take refer Online Platforms and Digital Advertising (2020) for 
+a market  investigation despite having identified  prima facie concerns because the CMA  did not,  in part, 
+have suitable remedial powers to address the relevant issues.14  
+
+(ii) 
+
+Remedy as determinant of the counterfactual 
+
+Furthermore, at a more technical level, it is important to define the correct counterfactual against which to 
+measure intervention under the NCT. 
+
+In  the  case  of  a  merger  control  and  the  control  of  restrictive  agreements,  the  identification  of  the 
+counterfactual is relatively straightforward: For merger control, this is a world in the absence of the merger 
+which  in  most  (but  not  all)  circumstances  means  the  continuation  of  the  status  quo;  for  restrictive 
+agreements, the counterfactual is the world without the restriction or, if the restriction is ancillary the world 
+
+12  See the “topsy-turvy principle” outlined first by Jean-Charles Rochet and Jean Tirole, Two-Sided Markets: An 
+
+Overview, 2004.   
+
+13  OFT, Guidance on Market Investigation References, 2006 (see here, original text has been adopted unamended 
+
+by the CMA). 
+
+14  Online platforms and digital advertising, Market study final report, 1 July 2020 (here), see 9.30. The CMA’s 
+
+decision rested “primarily on whether [a market investigation] is the most appropriate and effective mechanism 
+for delivering the kinds of interventions we are proposing”. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+without  the  agreement.  Because  the  factual  and  counterfactual  are  obvious  in  these  instances,  the 
+competitive analysis and the remedy considerations often appear separate from each other.15 This however 
+is not always the case. Some abuse of dominance cases, where the situation is more complex, provides 
+an  illustration:  while  it  still  holds  true  that  the  counterfactual  is  a  world  without  abuse,  the  nature  of  the 
+abuse is defined by the remedy. A remedy which imposes an obligation to sell products separately means 
+that the abuse was a tying abuse; by contrast, a “must carry” remedy (mandatory remedy) implies that the 
+dominant  firm  has  committed  an  unlawful  refusal  to  supply.  Both  remedies  lead  to  very  different 
+counterfactuals, namely a  world  in which products will be sold separately (in  the case of  an  unbundling 
+scenarios) versus a world in which the dominant players and its competitors bundle their products together 
+with the dominant product.   
+
+In the case of the NCT, the competitive analysis and the remedy are even more intertwined through the 
+counterfactual. Contrary to the other competition instruments, there exists no anticompetitive act (whether 
+anticompetitive  merger,  restrictive  agreement  or  abusive  behavior)  and  hence  there  is  no  “natural 
+counterfactual”; merely a list of potentially problematic market features and an even greater list of potential 
+remedies to address the problematic features. For an NCT investigation, the factual is the status quo, i.e. 
+the  world  as  we  know  it,  and  the  counterfactual  is  the  world  with  whatever  remedy  or  remedies  the 
+Commission may wish to impose.  
+
+For example, where the problem is perceived as a lack of interoperability is the appropriate counterfactual 
+a  scenario  where  partial  or  full  interoperability  is  permitted  and  are  all  firms  or  only  the  dominant  firm 
+deemed to be providing interoperability? Equally, in the context of the MIR, the Competition Commission 
+found,  inter  alia,  a  lack  of  competition  for  airports  around  London  due  to  BAA’s  dominant  position  for 
+operating such airports and required BAA to divest Gatwick and Stansted (while keeping Heathrow).16 The 
+counterfactual was thus defined by the divestment obligation as this set the counterfactual for evaluating 
+the costs and benefits of intervention.  
+
+Absent clarity on the nature of the remedies, the Commission will not be able to define the counterfactual 
+and hence not able to carry out its competition assessment.  
+
+D. 
+
+Consistency safeguard 
+
+Microsoft submits that the NCT must be consistent with the Commission’s existing competition powers so 
+as not to undermine the coherency of EU competition policy.   
+
+EU competition law has made significant strides to increase the consistency of treatment for similar conduct 
+in the application of its various policy instruments. The analytical framework between merger control, control 
+of restrictive agreements and abuse of dominance has converged, and competition law has been adapted 
+and applied  in a consistent yet  effective way in  new  markets.  Significant  progress has, for example, be 
+made  in  terms  harmonizing  the  definition  of  restriction  of  competition,  including  an  increasingly  aligned 
+distinction between “object” restrictions/conduct across Article 101 and 102 TFEU (i.e. acts which have no 
+plausible efficiencies justification and are presumptively harmful) and “effects” restrictions/conduct (i.e. acts 
+which  have  a  plausible  presumption  of  potential  efficiencies  and  no  presumptive  harm). Additionally,  a 
+common test for countervailing efficiencies under Article 101(3) and “Article 102(3)” has emerged, and at a 
+
+15  Pablo Ibanez-Colomo ‘Indispensability and Abuse of Dominance: From Commercial Solvents to Slovak Telekom 
+
+and Google Shopping’ 
+
+16  Case 1110/6/8/09 BAA Limited v CC, CAT 35, 2009. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+narrower level, the as efficient competitor standard has helped to bring consistency across different heads 
+of pricing abuse under Article 102 TFEU.  
+
+The benefits of internal consistency of competition law in the treatment of conduct with similar market effects 
+are twofold: first, consistency avoids market distortions; market participants will not be incentivized to adjust 
+their behavior in a purely technical way so as to benefit from a more lenient regime, for example, structuring 
+a  JV  in  such  a  way  as  to  benefit  from  concentration  privilege.  Second,  consistency  avoids  “regulatory 
+arbitrage” by the Commission; there is no temptation to characterize an arrangement in a particular way in 
+order to lower the burden for infringement.  
+
+While the NCT Consultation focuses on how to achieve a ‘smooth interaction’ between the NCT and sector 
+specific legislation (e.g. in financial services and telecoms), Microsoft submits that it is equally important 
+that the NCT fits into the existing  competition  law toolbox in  a  way which does not conflict with existing 
+tools.17  
+
+As  Microsoft  favors  Option  3  over  the  alternative  options,  this  submission  will  focus  primarily  on  the 
+consistency issues raised by the market-structure-based Option (see Section D.1); but we will also briefly 
+touch upon the consistency problems raised by the dominance-structure option (see Section D.2) 
+
+D.1  Consistency challenge for the market structure-based tool 
+
+As  outlined  in  the  Commission’s  inception  impact  assessment,  the  market  structure-based  tool  would 
+address problems  ‘which cannot be addressed (at  all or as effectively) under the EU competition rules’. 
+This is comparable to the rationale and scope of the UK MIR. However, under this type of regime, complex 
+consistency issues arise in relation to the identification and separation of the distinct problems that the tool 
+is intended to address. 
+
+(i) 
+
+Need for a priority rule 
+
+In the first instance, where the scope of the NCT overlaps with the Commission’s existing powers, Microsoft 
+believes there should be a priority rule for determining whether it is more appropriate to address the issues 
+with the NCT or the Commission’s existing powers.  
+
+While a market structure-based tool would cover issues outside of the scope of the Commission’s existing 
+powers,  the  NCT  would,  in  this  guise,  also  address  issues  which  ostensibly  fall  within  the  scope  of  the 
+Commission’s existing powers but where the NCT is the more appropriate policy instrument. In theory, the 
+legal doctrine of lex specialis derogat legi generali (a special law derogates from a general law)  already 
+provides a basis of priority. The principle holds that a law governing a specific subject matter – in this case, 
+existing application of Article 101 and 102 TFEU – should override a law governing more general matters 
+–  in  this  case,  the  broader  scoped  NCT.18  The  Commission  should  thus  only  use  the  NCT  where  the 
+Commission’s existing powers do not apply. 
+
+This  rule  is,  however,  too  black  and  white  for  the  NCT  which,  as  the  Commission  outlines  in  the  IIA,  is 
+intended  to  address  circumstances  where  the  existing  rules  do  not  ‘effectively’  deal  with  the  underlying 
+concerns (i.e. where there is a plausible overlap). Addressing similar concerns with multiple tools requires 
+a clear and predictable set of rules which dictate the circumstances in which one or another instrument is 
+applicable. Specifically, the priority rule must identify the scenarios where the existing competition rules are 
+
+17  Consultation Questionnaire, Question 29. 
+18  The doctrine is relevant in particular where two provisions pursue the same objective and have contradictory 
+
+elements. See Case C-199/11, Commission v Otis NV and others, Opinion of AG Cruz Villalón, 2012, para. 26.  
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+not “effective” and the NCT applies. This would be in keeping with the UK’s market investigation regime 
+which  provides  that  a  market  investigation  should  only  address  problems  within  the  scope  of  its 
+conventional competition tools where (a) it has ‘reasonable grounds to suspect’ that there are ‘features’ of 
+a market distorting competition but does not have sufficient grounds to establish a breach of its conventional 
+competition tools or (b) action under its conventional competition tools  ‘is likely to be ineffective.’19 More 
+specifically,  the  CMA’s  guidance  on  market  investigation  references  outlines  that  the  great  majority  of 
+references are likely to involve industry-wide market features or multi-firm conduct, for example, networks 
+of parallel vertical agreements, non-conduct based harm or tacit collusion, and that single-firm conduct will 
+generally be dealt with under existing competition rules, save for where the conduct is derived from certain 
+structural features of the market which themselves have adverse effects.20  
+
+In light of the above, Microsoft believes that legal certainty would be significantly enhanced by a priority rule 
+between the NCT and the existing competition rules (and whether there would remain a role for the Sector 
+Inquiry at all should be considered). To be effective, the priority rule must clearly outline the type of cases 
+where the NCT is more appropriate (e.g. where market-wide remedies are required).   
+
+(ii) 
+
+Application of consistent standard 
+
+Furthermore,  Microsoft  believes  that  the  NCT  must  also  apply  a  legal  standard  for  intervention  that  is 
+consistent with EU competition policy and, in particular, the Commission’s existing competition instruments.  
+
+Even  where  the  NCT  is  addressing  issues  within  the  scope  of  the  Commission’s  existing  powers,  it  is 
+important that a similar standard for intervention applies:  
+
+•  A  move  away  from  precedent  would  unjustifiably  disregard  the  Commission’s  and  the  EU  Courts’ 
+decades of experience and accumulated practice on the appropriate treatment of different types of 
+conduct  and  market  features.  EU  jurisprudence  applies,  for  example,  different  standards  for 
+intervening where a dominant firm is engaging in exclusive dealing (effects- standard) and where a 
+dominant  firm  is  refusing  to  deal  (indispensability-standard):  this  reflects  the  assessment  of  the 
+relative  merits  of  intervening  in  such  circumstances.21  If  the  NCT  is  intended  to  relax  existing 
+requirements under case  law, for  example, relating to the  essential facilities doctrine  or to  market 
+definition in dominance cases, it would be better to address these issues directly in a way which is 
+consistent with the existing framework. Otherwise, the creation of an alternative standard may create 
+a regulatory incentive to use the NCT over the Commission’s existing powers (or vice versa), which 
+would work to the detriment of legal certainty and deterrence value established under Articles 101 
+and 102 TFEU. 
+
+19  OFT, Guidance on Market Investigation References, 2006 (see here, original text has been adopted unamended 
+
+20 
+
+by the CMA).   
+Ibid, paras 2.2 to 2.8. Nevertheless, in some instances, UK market investigations have focused on concerns that 
+would also fall within the scope of the CMA’s conventional competition tools. For example, in Movies on Pay-TV, 
+the theory of harm was that access to movie content was a ‘significant’ factor in consumers selecting a pay-tv 
+provider and Sky’s control meant that other pay-tv providers could not compete effectively. The theory of harm 
+was thus a de facto abuse case pursuant to Article 102 TFEU whereby Sky was allegedly refusing to supply or 
+degrading supply of an essential input. 
+
+21  P. Ibanez Colomo, Indispensability and Abuse of Dominance: From Commercial Solvents to Slovak Telekom and 
+Google Shopping, Journal of European Competition Law & Practice, Volume 10, Issue 9, November 2019, 
+Pages 532–551. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+•  This calculus does not change materially due to the absence of fines or infringement decisions.22 The 
+standards  set  under  Article  101  and  102  TFEU  focus  primarily  on  the  costs  and  benefits  of 
+intervention without consideration for whether a fine will ultimately be imposed.23 Furthermore, Article 
+101 and Article 102 TFEU  are flexible instruments that permit both commitment  decisions (i.e.  no 
+infringement and no fine) and infringement decisions without a fine. As such, the fact that the NCT 
+would not involve an infringement decision should not affect the standard set for intervention under 
+the NCT. 
+
+Moreover,  an  approach  consistent  with  existing  precedent  would  not  undermine  the  aim  of  the  NCT  to 
+permit earlier intervention. It is possible to achieve this goal by creating rules which are complementary to 
+rather than conflicting with Articles 101 and 102 TFEU while expanding the scope of the NCT to address 
+conduct and market features (allowing intervention so that markets can “self-right” by improving the market 
+mechanism).  
+
+On the other hand,  even where the NCT  is addressing issues outside the scope of the  existing rules, it 
+remains important that similar standard for intervention is applied. This is to ensure the coherency of EU 
+competition policy. The NCT is, for example, expected to address structural competition problems stemming 
+from unilateral conduct of non-dominant firms (e.g. in relation to limitations on multi-homing). Such conduct 
+is – rightfully – presumed to be less likely to harm competition than conduct by dominant firms. It would be 
+paradoxical then if the NCT were to apply a lower standard of intervention to such conduct that Article 102 
+TFEU  applies  to  unilateral  conduct  by  dominant  firms.  More  practically,  it  would  also  create  a  perverse 
+regulatory incentive to prioritize investigations of conduct which in principle is less likely to be harmful due 
+to the lower standard for intervention (and thus the greater ease for successfully intervening).  
+
+(iii) 
+
+Remedies 
+
+Finally,  Microsoft  believes  that  the  NCT  should  be  equipped  with  remedial  powers  consistent  with  the 
+Commission’s existing powers and proportionate to the structural competition problems that are ultimately 
+within its scope.24  
+
+Ensuring consistency – in principle – with the Commission’s remedial powers for Article 101 and Article 102 
+TFEU would not unduly hamper the NCT. Indeed, the Commission’s existing remedial powers provide, in 
+principle,  the  ability  to  impose  any  form  of  structural  or  behavioral  remedy  on  private  actors.  Under 
+Regulation 1/2003, the Commission is entitled to impose ‘any behavioural or structural remedies which are 
+proportionate to the infringement committed and necessary to bring the infringement effectively to an end.’25 
+While the market structure-based tool would cover a significantly wider range of issues and thus inevitably 
+a wider set of regulatory solutions, the Commission’s existing powers already provide significant flexibility. 
+There is thus no need to expand or loosen the Commission’s already significant remedial powers under 
+competition policy. 
+
+Microsoft believes, however, that the Commission’s powers under the NCT should be limited to ending the 
+structural competition problem or the cause of a structural competition problem – but not the effects of that 
+problem.  In  other  words,  the  Commission’s  remedial  powers  should  be  restricted  to  improving  the 
+competitive process. Where it is unable to improve the competitive process, it should not have broad powers 
+
+22  Amelia Fletcher, Market Investigations for Digital Platforms: Panacea or Complement? Centre for Competition 
+
+Policy University of East Anglia, 6 August 2020. 
+
+23  Wouter Wils, Optimal Antitrust Fines: Theory and Practice, World Competition Vol 29, No 2, June 2006.  
+24  Consultation Questionnaire, Questions 30 – 32.  
+25  Article 7, Régulation 1/2003. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+to impose, for example, industry price regulation. Such measures are better left to sector specific regulators 
+and, if necessary, the Commission could make recommendations as such. This ensures consistency with 
+the Commission’s existing powers (which are limited to ceasing the infringement) as well as ensuring that 
+the Commission does not become a de facto sectoral regulator. 
+
+D.2  Consistency challenge for the dominance-based competition tool 
+
+As  outlined  in  our  response  to  the  inception  impact  assessment,  Microsoft  does  not  believe  that  a 
+dominance-based  tool  would  be  suitable  to  address  the  full  scope  of  the  concerns  outlined  by  the 
+Commission. Furthermore, Microsoft also notes that a dominance-based competition tool would also give 
+rise to an obvious and inherent issue of consistency.  
+
+In simple terms, the NCT would become an instrument to circumvent the higher standard imposed by Article 
+102 TFEU  (in  at  least  certain  circumstances). This  can  be  inferred  from  the  IIA  which  provides  that  the 
+dominance-based  tool  is  intended  to  enable  intervention  ‘before  a  dominant  company  successfully 
+forecloses competitors or raises their costs’. The overlap between Article 102 TFEU and the new tool is 
+thus  part  and  parcel  of  the  objective  of  enabling  earlier  intervention.  However,  the  corollary  to  “early 
+intervention” is that the NCT will carry a lower standard than Article 102 TFEU in order to permit intervention 
+where establishing the elements of an abuse under Article 102 TFEU presents too high a bar. Otherwise, 
+the  Commission  would have two  instruments (the NCT and Article  102 TFEU) that  largely achieved the 
+same policy objectives.  
+
+While a lower standard may of course be merited (delayed intervention may, for example, not be sufficient 
+to preserve effective competition  in some (fast-moving) markets), the Commission’s proposal  this would 
+result in conflicting legal standards which pursue similar objectives for the same conduct, creating a strong 
+regulatory incentive to bring cases under the new tool wherever possible. This would render nugatory the 
+deterrence value of Article  102 TFEU, essentially reducing  its practical scope to cases where harm has 
+already occurred, and  no remedial action is necessary or possible.  Where it is seeking remedies rather 
+than an infringement decision, the Commission will have little incentive to pursue the higher standard under 
+the traditional route given the likelihood that the NCT will carry enhanced remedies powers.  
+
+As set out above, Microsoft thus considers reform to Article 102 TFEU the more appropriate solution as it 
+avoids having two conflicting instruments to address the same conduct. More specifically, given that the 
+Commission’s principal charge seems to be the lack of administrative flexibility to intervene early in cases, 
+reform and expansion to the “interim measures” regime may be an alternative route to achieve the desired 
+purpose.  
+
+E. 
+
+Procedural safeguards 
+
+Procedural  safeguards  are  key  for  maintaining  the  objective  and  transparent  application  of  competition 
+policy  (and  ultimately  for  maintaining  support  for  the  system).  Procedural  safeguards  should  be 
+proportionate to the restriction of rights that the new powers entail and the costs which result from their 
+exercise. In particular, these must ensure that the rights of defense of the affected parties are protected 
+and that the process cannot be abused for political reasons or otherwise misused.  
+
+Some inspiration may be drawn from the UK market investigation regime which has an elaborate set of 
+procedural safeguards to ensure due process for these wide-ranging investigations, including a two-phase 
+process and separation of decision-makers between Phase I and Phase II. These ensure that the MIR is 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+not used or perceived as a “shortcut” to traditional competition enforcement, and that any remedial actions 
+considered are based on a detailed and thorough assessment.   
+
+E.1 
+
+The right structure for the investigative process  
+
+(i) 
+
+A two-stage procedure 
+
+Microsoft believes that the NCT investigative process should be subject to a two-stage process. The first 
+phase should be concerned with establishing whether a prima facie structural competition problem exists 
+and whether it can be remedied under the NCT, and the second phase should be primarily concerned with 
+determining which (if any) remedies are appropriate and proportionate.  
+
+The separation of these processes is appropriate for a few reasons. First, the two issues will be subject to 
+separate  substantive  assessments  which  will  require  differing  levels  of  information  gathering  and  rigor. 
+Second, the possibility of remedies will require affected parties to incur significant additional costs in order 
+to ensure fair treatment. Third, the Phase I / Phase II model has the advantage of being well known in the 
+context of existing EU competition law procedure, for example in the context of the EU merger regulation. 
+
+Furthermore, Microsoft considers that the proper implementation of a two-stage NCT process would require 
+the Commission’s Sector Inquiry tool either to be discarded, or for its use to time-bar the opening of an NCT 
+investigation. This will be necessary to avoid the Sector Inquiry tool being used as the de facto “Phase 0” 
+or “prenotification phase” of the NCT.  
+
+(ii) 
+
+A strict legal test for opening a Phase II investigation 
+
+Phase II investigations will generate significant costs, both administratively and for the market participants 
+involved. As such, they should not be used as a tool for the Commission to engage in “fishing expeditions” 
+where lengthy investigations are launched without a clearly defined theory of harm and without plausible 
+remedies in prospect.26  
+
+The Commission may currently open a sector inquiry where it considers that a market is not working as 
+well as it should and where breaches of competition rules may be a contributory factor. The Commission 
+may consider a similar test for the opening of a Phase I NCT investigation, adjusted to reflect a concern of 
+“structural  competition  problems”.  However,  stricter  legal  test  for  Phase  II  is  necessary  because  of  the 
+significant  additional  costs  associated  with  the  NCT’s  remedial  powers.  This  rationale  is  line  with  the 
+experience  in  the  UK  market  investigation  regime  where  over  time  the  (preliminary)  market  study  has 
+developed into a Phase I investigation which may (or may not) lead to a market investigation reference (de 
+facto, an in-depth investigation) if the requisite legal test is satisfied.  
+
+The  threat  of  market-wide  remedies  will  effectively  force  companies  subject  to  an  NCT  investigation  to 
+invest  significant  resources  to  make  their  case  why  significant  remedial  intervention  is  unnecessary. 
+Microsoft therefore submits that the legal test should require the Commission to outline potential remedies, 
+both to ensure that there are plausible remedies in contemplation (as discussed under section C) but also 
+
+26  This follows from the duty to give reasons which is a basic principle of EU law arising from Article 296(2) TFEU 
+
+and under Article 41(2)c) of the Charter of Fundamental Rights of the European Union. The obligation to give 
+reasons is specific to the legal basis of the action and must disclose in a clear and unequivocal fashion the 
+reasoning leading to the adoption of the decision so as to enable an affected party to challenge the decision by 
+judicial review. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+to provide the affected companies sufficient explanation of the nature of the investigation in order to properly 
+make their defense as to why remedies are not required.   
+
+(iii) 
+
+A “fresh pair of eyes” 
+
+Microsoft believes that the Commission should reflect the UK’s “fresh pair of eyes” approach in a way which 
+is compatible with the institutional and procedural set up at EU level, building on and strengthening the oral 
+hearing procedure under existing merger and antitrust investigations.  
+
+Under the UK market investigation regime, there is a division of powers between the decision to refer a 
+market investigation and the market investigation itself. This used to be split between the Office for Fair 
+Trading and the Competition Commission respectively, but even upon the on the creation of the CMA, the 
+split was maintained, with the first decision taken by the CMA Board, and the market investigation run by 
+independent  decision  makers.  No  overlap  of  personnel  between  the  two  is  allowed.  The  market 
+investigation is therefore a new independent investigation which looks at the market with a “fresh pair of 
+eyes”.27 
+
+The administrative model of antitrust in the EU has sometimes been criticized given the Commission’s role 
+as “judge, jury and executioner” of antitrust cases.28 While this criticism has been levied in the context of 
+the application of pure antitrust rules, where relatively consistent legal tests have been developed, Microsoft 
+considers that there is an even greater need for a “fresh pair of eyes” when considering new types of issues 
+(e.g.  “suboptimal”  market  structures)  under  the  NCT,  for  which  consistent  legal  tests  may  take  time  to 
+develop.  
+
+That  said,  while  the  panel  model  is  compatible  with  the  UK  competition  system  with  its  long  history  of 
+institutional separation (stemming from the previous split between the OFT and Competition Commission) 
+– it would be somewhat alien to  EU competition  law.  Over the years, the  Commission has developed  a 
+number of procedural safeguards which in some cases, have not had the full desired effect. In particular, 
+the oral hearing procedure has previously been criticized by the OECD which noted among other things 
+that neither the ultimate decision-maker – the College – nor the Competition Commissioner were required 
+to  attend  the  oral  hearing.29  The  NCT  may  present  an  opportunity  to  reinvigorate  existing  procedural 
+safeguards,  or  develop  new  safeguards,  in  the  context  of  a  new  process,  which  if  successful,  could  be 
+translated into existing merger control and antitrust procedures. For example, in the context of the current 
+EU competition law procedure, the oral hearing comes at a relatively advanced stage in the antitrust and 
+merger control procedure which arguably reduces its effectiveness as a procedural safeguard. Indeed, the 
+limited perception of effectiveness of the oral hearing as a right of defense is highlighted by the fact that 
+many affected parties decline the option to attend a formal  oral  hearing.  Instead, Microsoft submits that 
+given the significant cost associated with market investigations, the Commission should take the opportunity 
+to strengthen the oral hearing procedure, which could instead be used at an earlier stage to decide whether 
+or not to open a Phase II investigation, involving key decision makers at that point in the process. 
+
+27  See Competition Commission, Guidelines for market investigations: Their role, procedures, assessment, and 
+
+remedies, 2013, para. 22. The original text has been retained unamended by the CMA board. 
+
+28  For discussion of this point, see P. Marsden, Checks and balances: EU competition law and the rule of law, 22 
+
+Loy. Consumer Law Review 62, 2009. 
+
+29  OECD, European Commission – Peer Review of Competition Law and Policy, 2005.  
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+E.2 
+
+Timing safeguard 
+
+Microsoft considers that the legal tests in NCT investigations should be bound by strict deadlines by which 
+it  must  conclude  Phase  I  and  Phase  II  of  its  review.  This  follows  the  approach  from  the  UK’s  market 
+investigation regime, where the CMA must conclude a market study (de facto Phase I) within 12 months 
+and must then conclude any market investigation (de facto Phase II) within 18 months from the date that 
+the reference is made (extendable by six months exceptionally). 
+
+Given the potentially burdensome nature of an investigation (particularly where the firms are not alleged to 
+have infringed competition law), it is important that Commission’s powers of investigation  under the NCT 
+do not result in drawn-out investigations (with their deleterious effects on the businesses under scrutiny). A 
+time-limit will also help to ensure a focused nature to the investigation, ensuring that potential remedies are 
+considered (and market tested) at an early stage, promoting efficient use of public and private resources. 
+Moreover, in addition to avoiding the additional procedural costs of lengthy investigations, a time-limit on 
+the  market  investigation also has the  benefit of supporting the rationales that the NCT should allow the 
+Commission to intervene before consumer harm has occurred (or worsened).   
+
+Microsoft believes that there are two important elements to ensure that timing safeguards have the desired 
+effect on the NCT process.  
+
+Firstly, Microsoft submits that the NCT should impose a general time limit for the conclusion of a Phase I 
+investigation (and the decision whether to open a Phase II investigation), as well as a final deadline for the 
+conclusion  of  Phase  II  investigations  by  which  point  the  substantive  findings  must  be  made  and  the 
+remedies  (if  any)  imposed.  This  approach  would  be  broadly  in  line  with  the  UK’s  market  investigation 
+regime. The Commission may also consider shorter timelines for remedies that are recommendations to 
+governments/public  bodies  and  longer  timelines  for  actual  orders  to  undertakings  (given  the  need  for 
+additional scrutiny).  
+
+Secondly, the Microsoft submits that the NCT must have appropriate safeguards to prevent circumvention 
+of the timing safeguard. In particular, as outlined above, unless it is integrated into the time limits as “Phase 
+I” of the NCT process, the Commission should not be able to use a sector inquiry to de facto conduct a pre-
+NCT  investigation.  Equally,  the  Commission  should  not  be  able  to  abandon  an  NCT  investigation  and 
+restarting  anew to circumvent the time limits. As such, opening a new NCT investigation  must therefore 
+create a time-bar on the opening of another NCT investigation addressing the same issue or market. Finally, 
+unlike merger cases, the parties affected by the investigation are unlikely to have incentives aligned to have 
+the investigation concluded in a timely manner. Without a strict time limit on the Commission’s side, and 
+incentives for market participants to respond to information requests in a timely manner, NCT investigations 
+are likely to incur significant delays which would undermine the effectiveness of the tool.  
+
+F. 
+
+Judicial review safeguard 
+
+The final safeguard, and perhaps one of the most important for the legitimacy of the NCT, relates to  the 
+rights  of  affected  firms  to  challenge  the  Commission’s  findings  (and  remedies)  before  the  EU  Courts. 
+Microsoft draws attention to two important aspects of the right to judicial review. 
+
+F.1 
+
+Clear judiciable tests tailored to the remedy imposed 
+
+Firstly, Microsoft submits that the substantive legal tests for the NCT must be sufficiently clear and precise 
+to enable affected companies to challenge the Commission’s findings. To adequately safeguard the rights 
+of  defense,  this  must  allow  affected  firms  to  challenge  not  just  the  Commission’s  findings  of  structural 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+competition problems, but also to challenge the suitability and the proportionality of the imposed remedies. 
+This means that the appropriate legal test for the imposition of remedies should be linked to the nature of 
+the remedy (e.g. different standards for structural versus behavioral remedies). Otherwise, the Commission 
+would have free reign to impose any remedy it desires once it establishes a structural competition problem. 
+Microsoft therefore submits that separate, judiciable tests for remedies of different nature will be necessary 
+for the EU Courts to safeguard the rights of defense and represent an effective check on the Commission’s 
+power.  
+
+F.2 
+
+Intensity of judicial review 
+
+Secondly, Microsoft submits that the scope and intensity of judicial review of the EU courts should be the 
+same as for antitrust and merger control decisions.  
+
+Aside from unlimited jurisdiction on fines, the judicial review of the legality of competition decisions is limited 
+in scope, as the General Court is not entitled to substitute in its own judgment for that of the Commission. 
+However, the intensity and thoroughness of this legality review requires the General Court to scrutinize in 
+painstaking  detail  the  robustness  of  the  Commission’s  conclusions.  This  has  been  demonstrated  on  a 
+number of occasions, most recently in CK Telecoms UK v Commission, where the General Court annulled 
+the  Commission’s  decision  to  prohibit  the  merger  between  Three  and  O2  in  the  UK,  finding  that  the 
+Commission’s theories of harm were too vague did not demonstrate a “strong probability” of the existence 
+of significant impediments to effective competition.30  
+
+Microsoft submits that the NCT should be subject to the same high intensity of judicial review as for other 
+competition decisions, regardless of whether the NCT does not provide for  fines or infringements. It has 
+been consistently held in this regard, in both merger31 and antitrust32 cases, that the Commission’s margin 
+of appreciation in economic matters should be limited by the Court to ensure that “the evidence put forward 
+is factually accurate, reliable and consistent but must also determine whether that evidence contains all the 
+relevant  data  that  must  be  taken  into  consideration  in  appraising  a  complex  situation  and  whether  it  is 
+capable of substantiating the conclusions drawn from it”. Indeed, the intensity of the General Court’s review 
+of the legality of Commission decisions does not notably vary between  quasi-criminal antitrust decisions 
+and merger decisions (which similar to the NCT, have no fines or infringements attached).33   
+
+Moreover, it would be harmful to afford the Commission a greater level of discretion in NCT investigations 
+than it has in respect of other areas of competition law. Firstly, given the broad scope of (Option 3) of the 
+NCT, and more importantly its broad remedial powers, it would be counterintuitive to have less scrutiny of 
+Commission decisions given the significant potential impact on private interests. Secondly,  more intense 
+scrutiny  of  the  Commission’s  decisions  helps  rather  than  weakens  enforcement,  as  it  encourages  rigor 
+within the decision-making process and helps to sharpen its own internal decision-making process. In the 
+context of the NCT, which would create new administrative powers and where there is no clear precedent 
+to draw on, the Courts must have an active role in shaping the boundaries in order to ensure a consistent 
+
+30  Case T‑399/16, CK Telecoms UK Investments Ltd v European Commission, ECLI:EU: T:2020:217, para. 118.  
+31  Case C‑12/03 P, Commission v Tetra Laval, EU :C:2005:87, 2005, para. 39 ; Case T‑399/16, CK Telecoms UK 
+
+Investments Ltd v European Commission, ECLI:EU:T:2020:217, 2020, para. 76. 
+32  Case T-201/04 Microsoft Corp. v Commission, ECR II-3601, 2007, paras. 87-89.  
+33  Some have even argued that, in light of judgments in Airtours, Tetra Laval, and Schneider Electric, that the EU 
+Courts have been more prepared to comprehensively review the economic analysis in merger cases than in 
+antitrust cases. See Ian Forrester, A Bush in Need of Pruning: The Luxuriant Growth of Light Judicial Review, 
+European University Institute, Robert Schuman Centre for Advanced Studies, EU Competition Law and Policy 
+Workshop/Proceedings, 2009, p. 28. 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+application of EU law. In this regard, the NCT should avoid following the approach under the UK market 
+investigation  regime,  where  the  limited  intensity  of  judicial  review  has  resulted  in  few  substantive 
+challenges, having limiting effects on legal certainty and resulting in a lack of balance.  
+
+31 August 2020 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+

@@ -1,0 +1,234 @@
+Ref. Ares(2020)4625230 - 05/09/2020
+
+Statement 
+
+on the European Commission’s initiatives for a  
+
+New Competition-law tool 
+
+and the  
+
+Digital Services Act package 
+
+4 September 2020 
+
+1. 
+
+2. 
+
+Some large online platforms have reached gatekeeper positions in the In-
+ternet. For instance, websites need the services of Google Search to be 
+found on the Internet. Another example are online advertisements, which 
+are only widely visible when they are marketed through online platforms 
+such as Google Ads.  
+
+The importance of online platforms as gatekeepers in the Internet is com-
+parable to the importance of network carriers for accessing the Internet. 
+Network carriers are regulated by authorities. This suggests to subject pow-
+erful online platforms to regulatory authorities, too.  
+
+However, online platforms and network carriers differ in important ways. 
+The largest network carriers have achieved their market positions through 
+state monopolies. Online platforms with gatekeeper positions, however, 
+have achieved their positions by competition and superior products.  
+
+Under traditional economic doctrine, reaching a dominant position by 
+means of competition should not be sanctioned or stopped. This could dis-
+courage other companies from investing to reach a dominant position, too.  
+
+This argument assumes that the economic benefits from those other com-
+panies’ pursuit of a dominant position (or more precisely: their incentive 
+from the dominant company’s position being unassailable by competition 
+law) exceeds damage from the dominant position of that company which 
+has actually achieved it. When online platforms reach great importance not 
+only on their markets but for major parts of the economy, this assumption 
+could prove wrong.  
+
+3. 
+
+The markets of online platforms could require a different approach than un-
+der traditional economic doctrine. In the past 20 years, these markets have 
+
+1│4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+proven tipping-prone in their early stages: One or two online platforms pre-
+vail, and the others are pushed out. The online platforms’ markets have 
+also proven very stable in the stage of dominance. In most cases, the in-
+cumbent’s position could not be challenged successfully any more.  
+
+This raises the question whether attempts to achieve a dominant position 
+by means of competition should be considered harmful on the online plat-
+forms’ markets. If this question is answered positively, new competition-law 
+tools are necessary because the existing tools are based on traditional eco-
+nomic doctrine. They cannot prohibit or prevent pursuing a dominant posi-
+tion.  
+
+New competition-law tools would have to be developed which allow for in-
+tervention before a dominant position is established. Or they have to modify 
+the market environment so that a dominant position cannot be established 
+or remains challengeable.  
+
+Aside intervention before dominance, a major hurdle in the existing toolbox 
+is proving dominance. Online platforms’ actions are mostly unilateral and 
+thus can only be tackled by means of today’s competition law if the online 
+platform is proven to be dominant in the relevant market or to transfer dom-
+inance into the relevant market. This is unsatisfactory for several reasons: 
+First, a major online platform may use resources which are not directly re-
+lated to the concerned market. Existing competition law on dominance 
+hardly can deal with that. Second, proving dominance takes great re-
+sources from competition authorities. Accordingly, it limits the number of 
+cases they can handle. Third, market players often cannot prove domi-
+nance because they have no access to the required information. Therefore, 
+market players often cannot tackle abusive conduct of online platforms by 
+means of private enforcement.  
+
+For these reasons, new competition-law tools should not be based on dom-
+inance but on the role, online platforms take in the markets.  
+
+4. 
+
+Online platforms may try to make their customers dependent. A means 
+could be transferring know-how from the customer to the online platform. A 
+powerful online platform may be in the position to force its customers into 
+accepting that it takes over commercial decisions from the customer. When 
+the online platform takes over decision making from the customer, the 
+online platform will gain know-how. The customer, however, will lose know-
+how. He will increasingly become dependent on the online platform’s deci-
+sions. And he will be less and less able to switch to another service pro-
+vider. 
+
+The online platform may not even have to force the customer to transfer 
+commercial decisions. Large online platforms make great investments into 
+artificial intelligence (AI) to improve their products. Their AI is meant to 
+
+2│4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+make better decisions for the customers than the customers could make 
+themselves. In such cases, customers may transfer decision making volun-
+tarily to the online platform. The result is the same as above, the customer 
+will become more and more dependent on the online platform, and the 
+transfer of decision making my become irreversible.  
+
+This is another issue traditional economic doctrine has problems to deal 
+with. The online platform’s offer to let its AI make decisions for the cus-
+tomer is an offer made subject to competition and in a market environment. 
+A highly developed AI is a result of innovation competition and a product 
+which customers choose for its superior functions. And that is in line with 
+the goals of competition policy under traditional economic doctrine. Yet, it 
+may result in irreversible dependence and a loss of competition in the long 
+run.  
+
+In the end, this may be reduced to the core question if improving 
+knowledge and innovation are beneficial regardless of their distribution 
+(possibly even lying in the hands of a single entity) or if it is preferable to 
+have less knowledge and innovation overall but more evenly distributed.  
+
+Another example for transferring know-how from the customer to the plat-
+form is taking over the purchasing process from the retailer. The platform 
+gains direct access to the customer and the retailer loses it. The platform 
+gets to know the customer and his habits and preferences, and the retailer 
+is alienated from the customer.  
+
+Therefore, dominant online platforms should at least be required not to 
+“bundle” their services with the transfer of commercial decisions and pur-
+chasing process. Users should be able to choose if they use the service 
+making their own decisions and processing the purchase on their own or 
+transferring that to the online platform. Competition law would need appro-
+priate tools to ensure that.  
+
+5. 
+
+The extreme growth of some online platforms results to a significant extent 
+from using content of customers and third parties without remuneration. 
+The online platforms use this content for their own business purposes. 
+Sometimes, they even use no-cost content of customers to provide ser-
+vices to these customers’ competitors. This cost-free approach makes their 
+businesses very scalable and fuels their extreme growth.  
+
+One example are customers of the online marketplace Amazon who have 
+to share the site for a certain product. The first customer has to furnish the 
+site with information and pictures. Another customer may join the site and 
+offer a lower price; then, Amazon advertises primarily this customer’s offer 
+on the product site. This customer can freeride on the first customer’s in-
+vestment, and Amazon profits, too.  
+
+3│4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Another example are customers of Google Shopping. They have to accept 
+that Google Shopping uses their product pictures to advertise their compet-
+itors’ offers if they provide the better picture and the competitor offers a 
+lower price – or, in Google Shopping’s default display mode, pays Google a 
+higher price for top listing.  
+
+Such use of content for services provided to competitors stifles non-price 
+competition. Customers have no incentive to invest into the product site. 
+And users of the market place receive less information and information of 
+poorer quality on the product.  
+
+Online platforms also try to shift legal responsibility for content on their plat-
+form to their customers and third parties who (have to) provide the content. 
+This discourages customers from providing content, too, at least when they 
+are not adequately remunerated for taking the risk.  
+
+Therefore, one way to limit the power of online platforms may be prohibiting 
+to tap into customers’ assets without remuneration, especially where the 
+platform uses customers’ assets to provide services to their competitors. 
+New rules should entitle customers to a fair remuneration. The new rules 
+should be mandatory. Else, the online platforms would use their massive 
+bargaining power to exclude these rules by contract.  
+
+6. 
+
+Today, the forecast horizon of competition law is limited to a few years. 
+Some assume, that online platforms pursue strategies for consolidated 
+dominance over a much longer period.  
+
+One example are investments in AI which take much longer to turn into 
+marketable products. It is even believed that AI strategies aim at creating 
+advantages across markets so that the online platform can reach a domi-
+nant position on a new market more easily.  
+
+Amazon is accused of foregoing profits in favour of investing the money 
+into aggressive pricing – to achieve a consolidated dominant position in the 
+long run and to transfer it into a return on investment through monopoly re-
+turns (and possibly behavioural pricing).  
+
+The forecast horizon of competition law should be more flexible so that it is 
+able to adapt to the concerned markets and players and to deal with such 
+long-term strategies.  
+
+* 
+
+* 
+
+* 
+
+4│4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

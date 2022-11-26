@@ -1,0 +1,819 @@
+Ref. Ares(2020)4689600 - 08/09/2020
+
+September 8, 2020 
+
+European Commission’s public consultation on the proposed New Competition Tool 
+
+Position paper by the Italian Association of European Jurists (Associazione Italiana 
+Giuristi Europei) 
+
+The  Italian  Association  of  European  Jurists  (Associazione  Italiana  Giuristi  Europei, 
+“AIGE”), welcomes the opportunity to participate in the public consultation process launched 
+by  the  European  Commission  (the  “Commission”)  on  a  proposed  New  Competition  Tool, 
+providing feedback and responding to the related questionnaire.  
+
+Established in 1958, AIGE is affiliated to the International Federation for European Law 
+(Fédération Internationale pour le Droit Européen, “FIDE”) and, in accordance with its Statute, 
+promotes knowledge of European Union law through conferences, debates, cultural, training, 
+and research activities, also developing international relations with similar associations.1 
+
+AIGE’s  members  include  law  professors,  judges,  lawyers  and  legal  practitioners  in 
+general who wish to deepen and contribute to the knowledge and development of European 
+Union law.   
+
+The  opinions  expressed  herewith  are  attributable  to  AIGE  only  and  do  not  bind  the 
+
+individual members in relation to any positions held by them. 
+
+1.  INTRODUCTION 
+
+We refer to the public consultation that the Commission launched on 2 June 2020 on a 
+proposed New Competition Tool (“NCT”).2  According to the Inception Impact Assessment 
+(the  “Commission’s  NCT  Impact  Assessment”)  published  by  the  Commission,  the  NCT  is 
+aimed  at  addressing  purported  “gaps  in  the  current  EU  competition  rules  and  allowing  for 
+timely  and  effective  intervention  against  structural  competition  problems  across  markets.”3  
+The Commission’s NCT Impact Assessment differentiates between two forms of “structural 
+competition problems” depending on whether harm is about to affect or has already affected 
+the market:4 
+
+(i) 
+
+Structural risks for competition. Scenarios where certain market characteristics (e.g. 
+network  and  lock-in  effects)  and  the  conduct  of  the  companies  operating  in  the 
+markets concerned create a threat for competition (e.g., markets perceived as prone 
+to ‘tipping’); and 
+
+1  
+2  
+
+3  
+4  
+
+Further information on AIGE is available on its website: https://www.aige.it/. 
+Commission,  Proposal  for  a  Regulation:  Single  Market  –  new  complementary  tool  to  strengthen 
+competition enforcement, 2 June 2020, available at: https://ec.europa.eu/info/law/better-regulation/have-
+your-say/initiatives/12416-New-competition-tool  
+Commission’s NCT Impact Assessment, 4 June 2020, Section A. 
+Ibid. 
+
+ 
+ 
+                                                 
+(ii) 
+
+Structural lack of competition. Scenarios where a market is not working well and 
+not delivering outcomes due to its structure (e.g., an oligopolistic market structure 
+with an increased risk of tacit collusion). 
+
+Although the Commission’s NCT proposal was announced along with the Commission’s 
+Digital Services Act (“DSA”) package,5 its scope is not limited to digital or digitally enabled 
+markets.  The NCT proposal envisages a significant expansion of the Commission’s existing 
+powers, including potentially the power to impose extensive behavioral and structural remedies 
+absent  an  infringement  decision.    Against  this  background,  the  introduction  of  the  NCT  is 
+bound to have far-reaching implications – far beyond those of established investigation and 
+sector  inquiry  tools  –  and  is  likely  to  result  in  a  paradigm  shift  in  EU  competition  law 
+enforcement. 
+
+AIGE’s preliminary comments relating to the NCT concern: the questionability of the 
+need for a new tool in light of the sufficiency of the existing competition rules (Section 2); the 
+need for appropriate checks and balances (Section 3); the need for clear legal and evidentiary 
+standards for the imposition of remedies and for robust effects-based analysis (Section 4); and 
+the risk of proliferation of overlapping enforcement tools (Section 5). 
+
+As the NCT draft text is not available, AIGE’s specific comments are necessarily limited 
+to the Commission’s NCT Impact Assessment and the Questionnaire for the public consultation 
+on the NCT (the “NCT Questionnaire”).  These documents identify a range of policy measures 
+that  express  the  Commission’s  intention  to  address  concerns  about  the  operation  of  digital 
+markets and the Commission’s ability to intervene.  AIGE looks forward to expanding on these 
+ideas  and  continuing  to  engage  on  these  important  and  timely  topics  as  the  Commission 
+advances a draft text of the NCT.  
+
+2.  THE NEED FOR A NEW TOOL  
+
+The  Commission’s  Impact  Assessment  asserts  that  the  NCT  is  intended  to  address 
+“structural competition problems” that Articles 101 and 102 of the Treaty on the Functioning 
+of the European Union (the “TFEU”) “cannot tackle (e.g. monopolization strategies by non-
+dominant companies with market power) or cannot address in the most effective manner (e.g. 
+parallel leveraging strategies by dominant companies into multiple adjacent markets).”6  It is 
+therefore paramount to assess whether or not the NCT is actually needed and, if it is, to consider 
+carefully any potential ‘gap-cases’ that cannot be effectively addressed by existing rules.  
+
+On this point, the Commission refers to the current debate on the potential need to expand 
+the  Commission’s  current  toolkit  in  order  to  capture  potential  established  forms  of  anti-
+
+5  
+
+6  
+
+large  online  platforms  acting  as  gatekeepers,  2 
+
+Commission, Proposal for a Regulation: Digital Services Act package – ex ante regulatory instrument 
+June  2020,  available  at: 
+of  very 
+https://ec.europa.eu/info/law/better- 
+regulation/have-your-say/initiatives/12418-Digital-Services-Act-
+package-ex-ante-regulatory-instrument-of-very-large-online-platforms-acting-as-gatekeepers 
+Commission’s NCT Impact Assessment, 4 June 2020, Section A. 
+
+2 
+
+ 
+ 
+                                                 
+competitive conduct that allegedly fall within a gap in the law,7 and it acknowledges that no 
+clear consensus has been  established in this regard.8   
+
+As a general remark we believe that past cases demonstrate that Articles 101 and 102 
+TFEU  have  proven  to  be  sufficiently  broad  and  flexible to tackle  a  wide  range  of  new  and 
+sophisticated economic phenomena that have informed competition analysis and policy in the 
+last fifty years.  This is also the case with regard to the competition challenges that may arise 
+in relation to the digitization of the economy, such as two-sided markets, zero-price factors, 
+and innovation theories of harm, as emphasized by Commission Vice President Vestager.9  
+
+In particular, the existing competition law framework has proven extremely flexible in 
+refining the notion of ‘relevant market’ in sectors characterized by the emergence of data as 
+an asset for market players operating in the digital economy: instead of simply relying on 
+market shares, the Commission is increasingly taking into account ‘potential competition’ in 
+its assessment of dominance in dynamic markets.  This notion is particularly valuable because 
+it  highlights  that  potential  competition  may  serve  as  a  disciplining  device  for  dominant 
+firms.10  
+
+For  example,  in  relevant  markets  defined  around  data,  it  is  essential  to  identify  an 
+objective criterion to attribute value to data. The turnover generated by a provider through the 
+monetization of data, by licensing information to third parties, delivering targeted advertising 
+services or offering other paid products and services to customers on the basis of the collected 
+data,  may  provide  an  indication  of  its  competitive  strength  in  a  potential  market  for  a 
+particular  type  of  data.  Lacking  any  data-related  revenues,  ‘potential  competition’  may 
+represent an additional proxy to evaluate market power or even dominance. This enables the 
+Commission (and the CJEU) to assess a form of rivalry whereby market players do not only 
+compete  in  existing  relevant  markets  for  end  products  or  services  but  also  in  a  potential 
+market for data used as an input to launch innovative future products and services.11 
+
+Along these lines, in its Microsoft/Skype merger decision, the Commission contended 
+that market shares only offer an incomplete indication of competitive strength in the context 
+of the market for internet consumer communications services because of the dynamism of the 
+sector as a result of which market shares can change quickly within a short period of time.12  
+
+7  
+
+8  
+9  
+
+10  
+
+11  
+12  
+
+The Commission’s Special Advisers’ Report was a useful contribution to this debate. See Jacques Crémer, 
+Yves-Alexandre de Montjoye and Heike Schweitzer, Competition policy for the digital era, 4 April 2019, 
+available at: https://ec.europa.eu/competition/publications/reports/kd0419345enn.pdf  
+Commission’s NCT Impact Assessment, 4 June 2020, Section A. 
+See the  statement  of Executive  Vice  President  Vestager  which  underlined  the  sufficiency  of  existing 
+enforcement  tools  in  a  recent  speech,  noting:  ‘that’s  not  to  say  that  we  need fundamental changes 
+to the rules themselves. […] The fundamental motives, like greed and fear, that tempt companies to harm 
+competition are the same as they’ve ever been – and the competition rules are still well designed to deal 
+with them’. Executive Vice President Vestager speech, Defining markets in a new age, 9 December 2019, 
+available 
+https://ec.europa.eu/commission/commissioners/2019-
+2024/vestager/announcements/defining-markets-new-age_en  
+See generally, I. Graef, Market Definition and Market Power in Data: The Case of Online Platforms, 
+World Competition Law and Economics Review, 2015, Volume 38 Issue 4, pp. 473 – 506. 
+Ibid.. 
+Case No COMP/M.6281 – Microsoft/Skype, Commission Decision of 7 October 2011, para. 78. 
+
+at: 
+
+3 
+
+ 
+ 
+                                                 
+In its Cisco judgment – in which the legality of the decision of the Commission to approve 
+the Microsoft/Skype merger was evaluated – the General Court confirmed this finding of the 
+Commission and held that “the consumer communications sector is a recent and fast-growing 
+sector which is characterized by short innovation cycles in which large market shares may 
+turn  out  to  be  ephemeral”.13   The  Commission  and  the  General  Court  concluded  that  the 
+concentration would not raise competition concerns because of the dynamic character of the 
+sector and the existence of sufficient alternative providers to which consumers could easily 
+switch.14  In its Facebook/WhatsApp merger decision, the Commission referred to and relied 
+upon  the  statement  of  the  General  Court  that  high  market  shares  do  not  necessarily  point 
+towards market power in the market for consumer communications services.15   
+
+Arguably, an analogous reasoning may be applied in prospective matters concerning 
+
+online platforms, e.g.  e-commerce platforms, social networks, and search engines.16 
+
+Additionally, the existing competition law regime has successfully stood the test of time 
+in relation to the notion of dominance.  In particular, to the extent that the proposed NCT would 
+apply  to  unilateral  conduct,  no  evidence  that  existing  competition  law  tools  are  unable  to 
+address  these  issues  can  be  detected  at  all.    EU  competition  law  currently  bestows  the 
+Commission  with  clear  powers  to  tackle  two  distinct  scenarios:  agreements  and  concerted 
+practices between independent undertakings (Article 101 TFEU), and unilateral conduct which 
+may be caught by Article 102 TFEU.  The case-law developed by the Court of Justice of the 
+EU (the “CJEU”) has consistently held that unilateral conduct only falls within the scope of 
+EU competition law if the company at issue is dominant.17  To date, there has been no evidence-
+based claim that the EU competition law framework allows for a significant enforcement gap 
+with respect to anti-competitive unilateral conduct.  
+
+The Commission’s decision-making practice and the CJEU case law demonstrates that 
+the  current  framework  for  EU  competition  law  enforcement  is  flexible  enough  to  address 
+novel  theories  of  harm,  including  new  leveraging  strategies  (i.e.  better  positioning  and 
+
+13  
+
+14  
+
+15  
+16  
+
+17  
+
+Judgment  in  Case  T-79/12,  Cisco  Systems  Inc.  and  Messagenet  SpA  v.  Commission  [2013],  not  yet 
+reported, para. 69. 
+Case No COMP/M.6281 – Microsoft/Skype, Commission Decision of 7 October 2011, paras 120-132 
+and Judgment in Case T-79/12, Cisco Systems Inc. and Messagenet SpA v. Commission [2013], not yet 
+reported, paras 68-95.  
+Case No COMP/M.7217 – Facebook/WhatsApp, Commission Decision of 3 October 2014, para. 99. 
+See generally, I. Graef, Market Definition and Market Power in Data: The Case of Online Platforms, 
+World Competition Law and Economics Review, 2015, Volume 38 Issue 4, pp. 473 – 506. 
+Joined Cases C-2/01 P and C-3/01 P, BAI and Commission v Bayer, paras. 100-101 (“the existence of an 
+agreement [prohibited by Article 101(1) TFEU] […] can be deduced from the conduct of the parties 
+concerned. However, such an agreement cannot be based on what is only the expression of a unilateral 
+policy of one of the contracting parties, which can be put into effect without the assistance of others […] 
+[this] would have the effect of confusing the scope of that provision with that of Article [102 TFEU].”). 
+On this point, it should be remarked that there are solid legal and economic reasons why Article 102 
+TFEU primarily focuses on actual or potential harm caused by specific ongoing practices by dominant 
+firms:  (i)  competition  law  recognizes  that  acquiring  a  dominant  position  can  be  the  consequence  of 
+significant investments and innovative behavior, a reflection of the efficiencies, and value created and 
+shared with business partners and consumers; and (ii) undertakings in a dominant position can behave 
+independently of consumers and competitors and can as a result dictate the limits of competition. 
+
+4 
+
+ 
+ 
+                                                 
+display); 18  pre-installation  through,  e.g.,  tying; 19  exclusivity  requirements; 20  and,  most-
+favored-nation clauses.21  These precedents show that Article 102 TFEU already allows to 
+carry out a nuanced and evidence-based assessment, centered on the dominance framework. 
+Article 102 TFEU is enforced case-by-case, based on a careful valuation of the facts, and the 
+requirement to find an infringement guarantees that obligations to change market conduct are 
+grounded on established legal principles and thorough scrutiny.  Indeed, under Article 17 of 
+Regulation 1/2003, the Commission must initiate antitrust investigations in order to address 
+findings in a sector inquiry that competition in a particular sector is not functioning well. 
+
+The  Commission’s  NCT  Impact  Assessment  asserts  that  the  proposed  NCT  would 
+allow the Commission to address alleged structural market failures, or risks for competition 
+– in particular in ‘tipping markets’ – that despite being anticompetitive, do not amount to an 
+infringement of the current EU competition rules, and therefore cannot be tackled relying on 
+the  existing  competition  law  regime,  because  no  market  dominance  can  be  established. 
+However, this assertion is questionable:  
+
+(i) 
+
+(ii) 
+
+first,  dominance  has  been  interpreted  elastically  and  more  widely  than  the 
+Commission’s  NCT  Impact  Assessment  suggests:  the  thresholds  used  to  find 
+dominance are roughly those that are used under US antitrust law to run a case of 
+attempted monopolization under section 2 of the US Sherman Act, because under 
+the EU system, Article 102 TFEU applies to firms with the power to exclude, and 
+not just those who have the power to exploit;  
+second,  Article  102  TFEU  can  and  has  previously  effectively  been  applied  to 
+instances of economic dependency or relative market power (e.g. see cases C-26/75, 
+General Motors Continental NV v Commission and C-241/91 P and C-242/91 P, 
+Magill). 
+
+Moreover,  the  Commission  does  not  seem  to  offer  in  its  proposed  NCT  concrete 
+evidence of specific situations where existing competition law tools do not suffice. While we 
+are  aware  that  the  consultation  documents  are  preliminary  and  we  are  confident  that  the 
+Commission will spell out these specific situations in a future draft text of the NCT, it is worth 
+noticing that the Commission’s NCT Impact Assessment lists several types of conduct that 
+are  already  captured  under  Article  102  TFEU,  when  engaged  in  by  dominant  companies. 
+Given that such evidence is essential in order to demonstrate the need for and the scope of 
+any new enforcement tool, the Commission’s assessment is a particularly speculative basis 
+for the introduction of a new tool.  In particular, there is a lack of compelling evidence to 
+demonstrate  that  the  existing  competition  rules  and  instruments  cannot  efficiently  address 
+legitimate  competition  concerns,  or  that  these  cannot  be  reviewed  accordingly.    The 
+establishment of the NCT is therefore disproportionate.  
+
+18  
+19  
+
+20  
+
+21  
+
+Case AT. 39740 – Google Search (Shopping), Commission Decision of 27 June 2017. 
+Case  AT.40099  –  Google  Android,  Commission  Decision  of  18  July  2018;  Case  M.8124  – 
+Microsoft/LinkedIn, Commission Decision of 6 December 2016. 
+Case AT.40099 – Google Android, Commission Decision of 18 July 2018; Case AT. 40411 – Google 
+AdSense (Commission decision not yet published). 
+Case AT.40153 – E-book MFNs and related matters (Amazon), Commission Decision of 4 May 2017. 
+
+5 
+
+ 
+ 
+                                                 
+Irrespective  of  the  final  language  of  the  NCT,  and  assuming  it  will  be  adopted,  the 
+principle  of  proportionality  should  be  the  cornerstone  of  this  new  enforcement  tool,  as  it 
+represents  the  principle  “which  has  most  influenced  the  development  of  public  law  across 
+Europe”.22  It applies to most, if not all, actions taken by the Union, and constitutes a ground 
+for review of EU acts,23 as well as of acts by Member States within the scope of EU law,24 
+stemming from the common traditions of the Member States.25  
+
+In particular, in identifying specific situations where current competition tools do not  
+– allegedly – suffice, the Commission should build on the principle of proportionality as it 
+takes the role of a safeguard against the use of public powers in the system of competition in 
+the EU, by imposing limitations and procedural requirements upon competition authorities, 
+including the Commission.  Therefore, any measures introduced by the NCT should be fully 
+aligned with proportionality, which typically entails that (i) a legitimate objective is being 
+pursued by the measure concerned, and that the measure itself is i(i) suitable, (iii) necessary, 
+and (iv) proportional stricto sensu to achieve the objective.26   
+
+On a different note, the NCT also seems to suggest that the current competition law 
+framework does not provide a sound and sufficiently flexible basis for protecting competition 
+vis-à-vis  potential  competition  concerns  stemming  from  the  widespread  use  of  pricing 
+algorithms in the digital ecosystem. 
+
+Conversely, we  believe that the contemporary  legal framework,  in particular Art. 101 
+TFEU  and  its  accompanying  jurisprudence,  allows  competition  authorities  to  efficiently 
+address possible competitive concerns.  In fact, competition authorities already have dealt with 
+a  certain  spectrum  of  cases  involving  algorithms,  which  have  not  raised  specific  legal 
+difficulties.  Three different scenarios can be envisaged:27  
+
+(i) 
+
+(ii) 
+
+in the first scenario, pricing algorithms are used as mere facilitators of collusive 
+agreements that occur in person.  In this case, the involvement of an algorithm does 
+not raise specific concerns, as a prior agreement or concerted practice exists which 
+may  be  assessed  under  Article  101  without  requiring  further  analysis  of  the 
+algorithm; 
+in the second scenario, a third party provides market operators with an algorithm 
+that facilitates similar behaviors between competitors.  In this case, the third party’s 
+role might be assessed under the “hub and spoke” doctrine; 
+
+22  
+
+23  
+24  
+25  
+
+26  
+27  
+
+See  A.  Young  and  G.  de  Burca,  Proportionality,  in  S.  Vogenauer  and  S.  Weatherill  (eds),  General 
+Principles of Law: European and Comparative Perspectives (Hart 2017), p. 133. 
+T. Tridimas, The General Principles of EC Law (OUP 1999), p. 90. 
+Id., p. 124. 
+W. Sauter, Proportionality in EU Law: A Balancing Act?, (2013) 15 Cambridge Yearbook of European 
+Legal Studies, p. 442; Tor-Inge Harbo, The Function of the Proportionality Principle in EU Law (2010) 
+16(2) European Law Journal, p. 159. 
+P. Craig and G. de Burca, EU Law: Text Cases and Materials (5th edn OUP 2011), p. 526. 
+On this point, see Joint study on “Algorithms and Competition” by the Autorité de la concurrence and 
+the Bundeskartellam, November 2019, pp. 26-59. 
+
+6 
+
+ 
+ 
+                                                 
+(iii) 
+
+in  the  third  scenario,  competitors  use  individual  algorithms  that  facilitate  an 
+alignment in their market behavior.  In this case, it is not yet clear how and to what 
+extent the parallel use of algorithms can lead to collusive outcomes when there is 
+no prior or ongoing contact between firms.  Article 101 does not prohibit conscious 
+parallel behavior between undertakings, therefore, in order for this scenario to be 
+caught under Article 101, a certain degree of “algorithm communication” must be 
+found.    However,  it  currently  seems  to  remain  an  open  question  whether  an 
+alignment of two or more pricing algorithms can likely arise that can actually lead 
+to  perfect  parallel  behavior  between  companies  or  if  such  algorithm-organized 
+parallel  behavior  can  lead  to  supra-competitive  prices.28 On  the  contrary,  it  has 
+been shown that the increased market transparency caused by algorithms can favor 
+price competition and new entrants.29 
+
+Finally,  if  an  enforcement  gap  actually  existed,  the  creation  of  an  ad  hoc  regulatory 
+framework could, on the one hand, help close the gap without changing the applicable rules; 
+on the other hand, however, such a framework could also act as a barrier to entry and hinder 
+innovation.  Therefore, any additional intervention should be explored only following an in-
+depth understanding of the competition concerns caused by algorithms. 
+
+In sum, the open-textured language of the existing competition law rules afforded them 
+a ductility that has allowed competition law to address new economic learning and new market 
+contexts.    Therefore,  a  cautious  approach  when  taking  any  action  to  meaningfully  redraw 
+competition law is warranted and consistent with the principle of proportionality..   
+
+This  is  all  the  more  important  because  traditionally  the  CJEU  has  adopted  a  careful 
+approach  as  to  the  scope  and  intensity  of  its  own  review  of  the  Commission’s  decisions  in 
+complex economic matters.  In particular, the CJEU has always been most reluctant to replace 
+its own assessment of facts for the complex assessments of an economic nature made by the 
+Commission, and has never withdrawn from the strict conception of its powers of review on 
+appeal.30  However, as more sophisticated economic analysis has been developed to fully grasp 
+the impact of the conduct of undertakings on the market, the EU courts have progressively felt 
+the need to strengthen their scrutiny in competition cases. The recent judgment in Intel is an 
+important step, albeit limited, in this regard.31  
+
+3.   THE NEED FOR APPROPRIATE CHECKS AND BALANCES  
+
+The  proposed  NCT  advocates  wide-ranging  reforms  introducing  potentially  sweeping 
+
+discretionary enforcement powers.  In particular: 
+
+28  
+
+29  
+
+30  
+
+31  
+
+Ibid., p. 52. See also Pierre Honoré and Guillaume Fabre, Algorithmic Pricing under Article 101 TFEU, 
+Global Competition Review, 2019. 
+See  generally,  OECD,  Algorithms  and  Collusion  -  Background  Note  by 
+DAF/COMP(2017)4. 
+See  J.  L.  da  Cruz  Vilaça,  The  intensity  of  judicial  review  in  complex  economic  matters—recent 
+competition law judgments of the Court of Justice of the EU, Journal of Antitrust Enforcement, Volume 
+6, Issue 2, 2018, pp. 173–188. 
+Judgment in Case C-413/14 P Intel Corp. v Commission [2017]. 
+
+the  Secretariat, 
+
+7 
+
+ 
+ 
+                                                 
+- 
+
+- 
+
+the  Commission  would  not  have  to  establish  dominance  and/or  an  abuse  under 
+Article 102 TFEU in order to act against unilateral conduct, and it would have the 
+power to impose far-reaching structural and behavioral remedies; 
+
+the  Commission  would  have  mostly  unfettered  powers  to  intervene  not  only  in 
+“markets displaying systemic failures,” but also to make an “early intervention” on 
+a prognostic assessment in markets wherever it considers that there is a “threat [to] 
+competition.”32  
+
+In light of the potential implications of the Commission’s NCT proposals, investigated 
+parties’ procedural rights and their entitlement to judicial protection under the EU’s legal order, 
+pursuant to Article 6 of the European Convention of Human Rights and Articles 47 and 48 of 
+the EU Charter of Fundamental Rights, cannot be diluted.  This calls for careful consideration 
+of meaningful adequate procedural and substantive safeguards to provide oversight of how this 
+broad regulatory discretion is exercised in order to determine whether intervention is warranted 
+and how appropriate remedies will be designed, as well as reduce the burden imposed on the 
+undertakings involved to ensure their right to good administration, right of defense and their 
+right to judicial review.  
+
+On the contrary, the Commission’s NCT consultation documents leave undeveloped any 
+details  on  the  procedural  aspects  that the Commission will need to conform to and do not 
+contain any clear limiting principles or measures designed to ensure procedural fairness and 
+independence  of  the  decision-making  process.    In  fact,  the  Commission’s  NCT  Impact 
+Assessment  merely  refers  briefly  to  the  importance  of  “[taking]  into  account  the  rights  of 
+defense and the right to judicial review,”33 while the Questionnaire simply asks respondents to 
+provide  suggestions  on  whether  the  NCT  “should”  be  subject  to  “adequate  procedural 
+safeguards, including judicial review.”34 
+
+There  is  an  inescapable  need  to  identify  measures  that  would  be  appropriate  to 
+counterbalance  the  envisioned  new  enforcement  powers.    Robust  procedural  safeguards  are 
+essential  to  secure  a  fair  process  and,  ultimately,  better  decision-making.  As  noted  by  the 
+President of the General Court Marc van der Woude: “where the contested conduct of the public 
+authorities is repressive in nature, it is hard to conceive, at least in free democratic societies, 
+that citizens and firms can be condemned on the basis of estimates, approximations or guesses, 
+even if they are informed ones. Uncertainty must then be balanced against the requirements of 
+the presumption of innocence.”35  
+
+In detail, adequate checks and balances should be targeted at guaranteeing parties’ rights 
+
+to: 
+
+32  
+33  
+34  
+35  
+
+Commission’s NCT Impact Assessment, p. 2. 
+Commission’s NCT Impact Assessment, p. 4. 
+NCT Questionnaire, Section 39, p. 44. 
+Marc van der Woude, Judicial Control in Complex Economic Matters, Journal of European Competition 
+Law & Practice, Volume 10, Issue 7, September 2019, pp. 415–423. 
+
+8 
+
+ 
+ 
+                                                 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+
+(v) 
+
+transparency of the Commission’s decision-making process;  
+access the evidence collected by the Commission;  
+receive a fair hearing on the evidence of the case;  
+appropriate access to the decision-makers and sufficient time to respond to requests 
+for information and other intermediate steps throughout the investigation, such as 
+interim reports and statements of objections; and 
+judicial review, which is particularly important to ensure protection of rights where 
+remedies are imposed, but also whether the Commission would be required to issue 
+an appealable decision following complaints and/or at other preliminary stages. 
+
+By clearly delimiting the scope of the Commission’s powers and the regime of effective 
+judicial protection for parties subject to those procedures, such safeguards will strengthen the 
+legitimacy of the Commission’s actions under any new regime.  
+
+4.  THE  NEED  FOR  CLEAR  LEGAL  AND  EVIDENTIARY  STANDARDS  FOR  THE 
+
+IMPOSITION OF REMEDIES AND FOR ROBUST EFFECTS-BASED ANALYSIS 
+
+The  NCT  seems  to  envision  a  lowering  of  the  legal  and  evidentiary  standard  for 
+intervention  so  as  to  allow  the  Commission  to  intervene  and  impose  remedies  vis-à-vis 
+unilateral  conduct  “without  any  prior  finding  of  an  infringement  pursuant  to  Article  102 
+TFEU,”36 by undertakings that are not dominant on a relevant market.37  
+
+We understand that, to some extent, the justification for easing the legal and evidentiary 
+burden  appears  to  rest  on  a  supposed  ability  to  foresee  developments  in  ever-moving  and 
+dynamic markets, and in which outcomes are fundamentally unpredictable.  However, there 
+is  a  real  risk  that  the  Commission’s  proposals,  if  enacted,  would  result  in  a  significant 
+deviation  from  the  legal  and  evidentiary  standards  for  intervention  as  established  by 
+fundamental  European  Union  law  and  the  CJEU  case  law,  which  foster  an  evidence-led 
+approach that is subject to clear standards and judicial review.  
+
+On  this  point,  we  believe  further  analysis  is  needed  on  the  appropriateness  and 
+desirability of allowing the Commission to impose remedies on companies. An alternative 
+may  be  to  limit  the  Commission  powers  to  making  non-binding  recommendations  to 
+companies, as well as to inform and make recommendations and proposals to sectorial 
+regulators, and to make legislative recommendations.  Such an alternative could avoid or 
+reduce the risk of a disproportionate interference with the free market economy that could 
+have a detrimental effect on the EU economy and consumers, as it could potentially stifle 
+innovation, growth and investment. 
+
+This risk is heightened by the vagueness of the NCT’s proposal. For instance, the NCT 
+Questionnaire  makes  reference  to  an  imprecisely-defined  concept  of  “tipping  markets”  – 
+which constitutes one of the NCT’s key focus areas – and to cases where “a (not necessarily 
+dominant) company [is] relying on large amounts of data” “to extend its market position to 
+
+36  
+37  
+
+See NCT’s Options 1 and 2, Commission’s NCT Impact Assessment, p. 3. 
+See NCT’s Options 3 and 4, Id. 
+
+9 
+
+ 
+ 
+                                                 
+related  markets”. 38    However,  the  available  consultation  documents  do  not  contain  a 
+prescriptive list of scenarios for intervention.  Therefore, the notion that certain markets are 
+prone to ‘tipping,’ whereby the ‘winner takes most,’ appears to be a particularly speculative 
+ground  for  the  introduction  of  a  new  far-reaching  and  highly  invasive  enforcement  tool, 
+especially because there is scarcely any enforcement practice relating to ‘tipping,’ let alone 
+case law from the CJEU.  Conversely, the NCT seems to conflate ‘tipping’ with successful 
+organic growth as a result of competition on the merits and innovation.39  
+
+In light of this, imposing remedies to avoid markets tipping would seem unjustified and 
+premature, ultimately resulting in a reversal of the burden of proof that would fundamentally 
+change EU standards of due process and create legal uncertainty.  This in turn would reduce 
+companies’ incentives to compete, invest and innovate.  However, if, despite the described 
+shortcomings,  the  Commission  decides  to  move  forward  with  this  new  tool,  it  should  be 
+accompanied by appropriate safeguards, rights of defense and due process, as set out above40 
+and  by  a  robust  effects-based  analysis  ensuring  that  any  remedies  imposed  are  absolutely 
+necessary, proportionate, properly designed and capable of addressing any perceived issues. 
+
+Indeed,  despite  the  fact  that  “the  Commission  would  not  make  any  finding  of  an 
+infringement  of  the  EU  competition  rules,  nor  impose  fines  and  thus  not  generate  rights  to 
+launch damage claims”41 the Commission’s intervention through the NCT could have a vast 
+economic impact on the concerned undertaking.  Indeed, the imposition of behavioral and/or 
+structural remedies can have a much greater impact than a pecuniary fine, resulting in radical 
+changes to undertakings’ business models and/or the restructuring of entire industries.  
+
+Moreover, the Commission’s NCT Impact Assessment states that “the proportionality of 
+the  costs  incurred  would  be  ensured  by  the  fact  that  such  remedies  have  to  be  limited  to 
+ensuring the proper functioning of the market under scrutiny. Consumer benefits deriving from 
+the timely intervention under all policy options should outweigh those costs.”42  This calls for 
+a vigorous effects-based economic assessment in order to achieve a trade-off by weighing the 
+evidence  of  the  extent  and  nature  of  any  perceived  anticompetitive  effects  caused  by  the 
+“structural risks for competition” and/or “structural lack of competition,” against the impact 
+on various types of consumer benefits from a particular course of conduct, and then assessing 
+the costs/benefits of  any intervention.   A detailed analysis of this nature would sharpen the 
+identification  of  potential  areas  of  concern  and  ultimately  improve  the  legitimacy  of  any 
+enforcement intervention, also in light of the heightened standards prescribed by the CJEU on 
+
+38  
+39  
+
+40  
+41  
+42  
+
+NCT Questionnaire, Section 8.1, p. 19. 
+Conversely, as explained in our response to the NCT Questionnaire (see answers to Question 17.1), we 
+encourage  the  Commission  to  focus  on  markets  that  have  already  tipped,  ensuring  that  dominant 
+companies  in  those  markets  are  not  abusing  their  position  to  impose  unfair  conditions  or  extract 
+monopoly rents, as well as talking into account on a case-by-case basis the efficiency gains resulting 
+from network effects.  
+See Section 3. 
+Commission’s NCT Impact Assessment, 4 June 2020, Section B. 
+Ibid., Section C. 
+
+10 
+
+ 
+ 
+                                                 
+the robustness of the Commission’s effects analysis in the Intel43 and the recent Hutchison44 
+judgments.   
+
+5.  PROLIFERATION OF OVERLAPPING ENFORCEMENT TOOLS  
+
+In a press release on the proposed NCT, the Commission announced that the proposal 
+would  be  “without  prejudice  to  existing  sector-specific  regulation”  and  the  “existing 
+competition tools currently available to […] the national competition authorities of the EU 
+Member States” while being “complementary to the […] initiative on platform-specific ex ante 
+regulation.”45  Despite this wishful statement, the NCT seems to overlap with and, to a certain 
+extent even duplicate existing and expected enforcement tools at the EU and Member State 
+level. In particular the following three overlaying areas can be detected. 
+
+A.  Overlapping with the proposed Commission ex ante regulatory tool 
+
+On 2 June 2020, in parallel to the launch of the NCT public consultation, the Commission 
+launched a public consultation regarding a proposed “ex ante  regulatory instrument of very 
+large online platforms acting as gatekeepers” (the “Ex Ante Gatekeeper Regulation”) which 
+forms part of the DSA package.46 
+
+In spite of the fact that the Commission’s NCT Impact Assessment clarifies that the NCT 
+is “complementary to the Commission’s new initiative on platform-specific ex ante regulation, 
+which  seeks  to  provide  a  fair  trading  environment  for  the  platform  ecosystems,” 47 the  two 
+initiatives  appear  to  substantially  overlap.    In  detail,  the  proposed  Ex  Ante  Gatekeeper 
+Regulation  would  specifically  target  “large  online  platforms”  supposed  to  be  “acting  as 
+gatekeepers”  benefiting  from  “significant  network  effects.”48 The  NCT,  by  the  same  token, 
+ascertains market positions of “entrenched dominance,” “gatekeeper position[s]” and “network 
+and scale effects” among the structural anticompetitive issues to be tackled by the NCT.49  
+
+The parallel proposals as a result generate a risk of fragmentation and absence of clarity 
+as  to  competence,  legal  certainty,  inconsistent  enforcement  and  a  duplicative  compliance 
+burden for the businesses concerned.  Consequently, the Commission would need to carefully 
+manage the two tools – if adopted and in whatever form ultimately adopted – by defining the 
+scope of each prior to their adoption (if any) and regulating which tool will take precedence in 
+scenarios in which they could hypothetically apply in parallel. 
+
+43  
+44  
+45  
+
+46  
+
+47  
+48  
+49  
+
+Judgment in Case C-413/14 P Intel Corp. v Commission [2017]. 
+Judgment in Case T-399/16 CK Telecoms UK investments Ltd v Commission [2020]. 
+European Commission press release, Brussels, 2 June 2020; Commission’s NCT Impact Assessment, p. 
+2. 
+Commission, Proposal for a Regulation: Digital Services Act package – ex ante regulatory instrument 
+June  2020,  available  at: 
+of  very 
+https://ec.europa.eu/info/law/better- 
+regulation/have-your-say/initiatives/12418-Digital-Services-Act-
+package-ex-ante-regulatory-instrument-of-very-large-online-platforms-acting-as-gatekeepers 
+Commission’s NCT Impact Assessment, p. 2. 
+Ex Ante Gatekeeper Regulation, p. 1. 
+Commission’s NCT Impact Assessment, pp. 2-5. 
+
+large  online  platforms  acting  as  gatekeepers,  2 
+
+11 
+
+ 
+ 
+                                                 
+B.  Overlapping with expected national legislative initiatives 
+
+The Commission’s NCT Impact Assessment recognizes that “several EU Member States 
+have called for changes […] to the existing competition rules” and that some “have prepared 
+legislative proposals for amendments”50 to their national laws.  Nonetheless, the NCT does not 
+provide any practical guidance on how the division of competence between the Commission 
+and Member States will operate in practice.  Appropriate consideration should be given to this 
+aspect as several domestic initiatives feature a regulatory nature or aim at addressing unilateral 
+conduct beyond the scope of Article 102 TFEU and, as a consequence, would fall outside the 
+allocation of competence set forth in Regulation 1/2003.51   
+
+Moreover, according to the concept of subsidiarity,52 the Commission’s initiative should 
+recognize and address the central role of national competition authorities and sector-specific 
+national regulatory  agencies  as effective enforcers, since for some levels of the  market, the 
+national authorities are better placed to deal with the enforcement of EU rules while respecting 
+national specificities.  In this respect, cooperation between the Commission and the national 
+competition authorities in all EU Member States through the European Competition Network 
+(“ECN”)  is  central  in  order  to  create  an  effective  mechanism  to  counter  companies  which 
+engage in cross-border practices restricting competition.   
+
+C.  Overlapping with other initiatives and policies 
+
+To guarantee a coherent approach across all sectors, the Commission should also give 
+proper  consideration,  not  just  to  the  existing  legislative  framework,  but  to  the  process  of 
+revising competition law provisions, in particular adapting them to a digital environment (the 
+Horizontal and Vertical Block Exemptions Regulations and Guidelines, as well as the review 
+of the Market Definition Notice and the Merger Control Regulation), the ongoing review of 
+the E-Commerce Directive as part of the DSA, the Commission’s data strategy53 or additional 
+regulation  being  considered  concerning  Artificial  Intelligence54 as  well  as  assessing,  in  due 
+time,  the  effects  of  the  EU  Regulation  on  platform-to-business  relations  (the  so-called  P2B 
+regulation).55  
+
+In  sum,  the  multiplying  of  somewhat  duplicative  enforcement  tools  involves  a 
+considerable burden to business and intensifies the risk of inconsistent outcomes.  Given that 
+
+50  
+51  
+
+52  
+53  
+
+54  
+
+55  
+
+Ibid., p. 2. 
+Council  Regulation  (EC)  No  1/2003  of  16  December  2002  on  the  implementation  of  the  rules  on 
+competition laid down in Articles 81 and 82 of the Treaty. 
+See Article 5 TEU.  
+Communication from the Commission to the European Parliament, the European Council, the Council, 
+the European Economic and Social Committee and the Committee of the Regions, A European strategy 
+for data, Brussels, 19.2.2020, COM(2020) 66 final. 
+Communication from the Commission to the European Parliament, the European Council, the Council, 
+the European Economic and Social Committee and the Committee of the Regions, Artificial Intelligence 
+for Europe, Brussels, 25.4.2018 COM(2018) 237 final. 
+Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting 
+fairness and transparency for business users of online intermediation services, PE/56/2019/REV/1, OJ L 
+186, 11.7.2019, p. 57–79.  
+
+12 
+
+ 
+ 
+                                                 
+many market participants now have pan-EU business models, the NCT should aim at attaining 
+a degree of harmonization of the various Member State initiatives, thus effectively stimulating 
+a well-functioning Single Market. 
+
+6.  CONCLUSIONS  
+
+AIGE supports the Commission’s efforts to ensure competition in the Single Market can 
+properly work to the benefit of consumers.  In this respect, we favor a framework providing 
+the Commission and national competition authorities with robust enforcement powers, while 
+fostering coordination between the ex ante and ex post enforcement regimes as they operate 
+and interact within a unique institutional dynamic in the EU.   
+
+In  our  view,  potential  competition  concerns  are  sufficiently  addressed  via  existing 
+competition rules.  Given the current debate on the sufficiency of existing enforcement tools 
+and the absence of clear consensus that there is any real ‘gap’ in that regard, a cautious attitude 
+in taking any actions to reform competition law is warranted.  The recent track record of the 
+Commission  before  the  CJEU  suggests  that  the  Commission  has  an  adequate  room  for 
+intervention against properly defined dominant market players, including in markets that are 
+‘tipping’, or to impose restorative and positive remedies once it has thoroughly weighed the 
+effects of the conduct in question.  
+
+We  would,  therefore,  encourage  the  Commission  to  leverage  the  existing  tools  and 
+maximize them, rather than try to coordinate them with new ones.  In this context, our concrete 
+proposals are the following:  
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+updating  the  existing  guidance  on  abusive  exclusionary  conduct  by  dominant 
+players to adapt to the digital environment;  
+addressing some of the issues with establishing dominance and market power, by 
+further tightening the definition of markets and developing a methodology to assess 
+zero-price markets; and 
+relying on existing interim measures to guarantee that infringements of Article 101 
+and/or Article 102 TFEU are suspended or reversed while the Commission comes 
+to a final decision; 
+ensuring that any new competition law enforcement tool will be aligned with the 
+fundamental principles of EU law, especially proportionality of the intervention, 
+due  process,  procedural  check  and  balances,  legal  certainty,  subsidiarity  and 
+coordination  between  the  Commission  and  national  competition  authorities,  as 
+explained above.    
+
+AIGE therefore welcomes further discussion and reflection on the fitness of the Commission’s 
+enforcement powers, once the draft text of the NCT will be advanced.   
+
+*** 
+
+13 
+
+ 
+ 
+

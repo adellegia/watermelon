@@ -1,0 +1,4160 @@
+Operationalizing algorithmicexplainability in the context of riskproﬁling done by robo ﬁnancialadvisory appsDataGovernanceNetworkWorking Paper 07/datagovnetwork/datagovnetwork@datagovnetworkSanjana Krishnan, Sahil Deo, and Neha Sontakkedatagovernance.orgdgn@idfcinstitute.orgMarch 2020Breaking up Big Tech:Separation of its Data, Cloudand Intelligence LayersWorking Paper 09/datagovnetwork/datagovnetwork@datagovnetworkdatagovernance.orgdgn@idfcinstitute.orgJune 2020DataGovernanceNetworkAnchored by IDFC InstituteParminder Jeet SinghData Governance Network
+The Data Governance Network is developing a multi-disciplinary community of 
+researchers tackling India’s next policy frontiers: data-enabled policymaking and 
+the  digital  economy.  At  DGN,  we  work  to  cultivate  and  communicate  research 
+stemming from diverse viewpoints on market regulation, information privacy and 
+digital rights. Our hope is to generate balanced and networked perspectives on data 
+governance — thereby helping governments make smart policy choices which advance 
+the empowerment and protection of individuals in today’s data-rich environment.
+
+About Us
+IT for Change aims for a society in which digital technologies contribute to human 
+rights, social justice and equity. Our work in the areas of education, gender, governance, 
+community informatics and internet/digital policies push the boundaries of existing 
+vocabulary and practice, exploring new development and social change frameworks.
+
+Terms of Use 
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 
+International License.
+
+Disclaimer
+The views and opinions expressed in this paper are those of the authors and do not 
+necessarily represent those of the organization.
+
+Suggested Citation 
+Singh, P. J. (2020). Breaking up Big Tech: Separation of its Data, Cloud and Intelligence 
+Layers. Data Governance Network Working Paper 09.
+
+Supported by a grant from Omidyar Network
+
+Abstract
+
+Big Tech is seen to have become too powerful, and causing many economic, social and 
+
+political problems. But there still has hardly been any real challenge to its apparently 
+
+unstoppable march. Piecemeal efforts – from huge fines and sanctions to disallowing 
+
+platforms from competing with dependent businesses – have failed to make any sig-
+
+nificant dent on the dominant digital economy model, which is getting entrenched as 
+
+the ‘new normal’. The problem here may be that the regulators are trying industrial era 
+
+remedies on digital age problems.
+
+Digital economy paradigm must be understood in its significant discontinuities with 
+
+the industrial age. Regulation of digital economy needs to focus on the central role 
+
+of data and data-derived intelligence. Competition regulators either ignore these key 
+
+factors, or simply take a superficial view. A relatively better understanding about them 
+
+is developing in the somewhat distant realm of technology governance; with its new 
+
+focus on data sharing, data infrastructures, cloud neutrality, open digital ecosystems, 
+
+domestic AI competencies, and public interest AI. Technology governance, however, 
+
+normally does not have the enforcement teeth of competition regulators.
+
+Bringing together these two governance or regulatory traditions – about competition 
+
+and technology, the paper proposes a composite new regulatory framework for the 
+
+digital economy. Digital ecosystems are presented as the key new structural feature of 
+
+the digital economy, increasingly superseding IP firms led industrial value chains. The 
+
+focus is then drawn on the effective economic governance of data, cloud computing 
+
+and AI – the building blocks of these digital ecosystems.
+
+Considering data and cloud computing as infrastructural elements, with open and 
+
+equitable access for digital businesses, will ensure the greatest digital productivity. AI 
+
+based global power concentration can be addressed by models that adequately distrib-
+
+ute society’s digital intelligence in space and ownership. While behavioural remedies 
+
+have their role, the paper also presents a regulatory ideal-type of structural separa-
+
+tions between the four key functional layers of digital value chains; data layer, cloud 
+
+computing layer, intelligence layer and consumer facing intelligent services layer. The 
+
+paper concludes that any successful regulation of the digital economy will require a 
+
+new legislation and a separate digital economy regulator.
+
+Table of Contents
+
+Abstract 
+
+  1.  Introduction 
+
+  2.  Digital economic power and its concentration 
+
+  3.   Emerging regulatory responses to  
+
+digital dominance 
+
+  4. Why current approaches fail  
+
+  5. Regulators’ dilemma – To wait or to act now? 
+
+  6.  Digital economy as about data and intelligence 
+
+  7.  Going beyond the platform – Digital ecosystems 
+
+  8.   A framework for data-intelligence  
+
+centric regulation 
+
+  9.  Structural separation of the data layer  
+
+10.  Cloud neutrality and open digital ecosystems 
+
+11.  A distributed intelligence model 
+
+12.  Separate regulator for digital economy 
+
+Acknowledgements 
+
+About the Author 
+
+2
+
+4
+
+6
+
+10
+
+16
+
+25
+
+28
+
+33
+
+38
+
+46
+
+52
+
+58
+
+66
+
+71
+
+71
+
+1.  Introduction
+
+Big Tech is a term employed for global digital monopolies like Google, Amazon, 
+
+ Facebook, Apple and Alibaba. It is a common refrain nowadays in media, and among 
+
+politicians and people, in general, that Big Tech has become too powerful. It is  starting 
+
+to dominate our economy, society, culture and politics. As digital technologies become 
+
+integral to managing our personal lives, digital corporations are disrupting, and 
+
+ controlling, major parts of sectors like commerce (Amazon) and transport (Uber). 
+
+Early trends indicate that a similar fate may only be a matter of time for other sectors – 
+
+whether hotels, food, health and education or agriculture and manufacturing. A strong 
+
+view is emerging that such concentration of economic and social power with a very 
+
+few global digital corporations is both unprecedented and unsustainable.
+
+No effective framework exists for regulating such immense digital power. Current 
+
+responses, if any, are reactive and piecemeal, and not based on an adequate analysis 
+
+of digital power. Examples of such reactions are; asking digital platforms to share ad 
+ revenue with media houses,1 declaring ride-hailing platforms as employers of cab 
+ drivers,2 and, in India, using foreign investment laws to regulate e-commerce platforms.3 
+
+Digital economy comprises very new forms of economic relationships and structures, 
+
+representing a fundamental shift from industrial era economic organization. Existing 
+
+regulatory frameworks are built for the industrial era. Their failure in regulating a 
+
+digital economy is more and more evident. The digital economy has to be viewed as a 
+
+novel and distinct kind of economic system, involving key new factors of production 
+of data4 and digital intelligence.5 Based on such an understanding, new principles 
+
+  1  Packham, C. (2020, April 19). Australia plans law forcing Google, Facebook to share ad revenue with  domestic media 
+firms.  The  Globe  and  Mail.  https://www.theglobeandmail.com/business/international-business/article-australia-
+plans-law-forcing-google-facebook-to-share-ad-revenue-with/ 
+
+  2  Dillet,  R.  (2020,  March  4).  Uber  driver  reclassified  as  employee  in  France.  Tech  Crunch.  https://techcrunch.
+
+com/2020/03/04/uber-driver-reclassified-as-employee-in-france/
+
+  3  Press Note 2 (2018). FDI Policy Circular. https://dipp.gov.in/sites/default/files/pn2_2018.pdf
+  4  Why  ‘Big  Data’  is  the  fourth  factor  of  production.  Financial  Times.  https://www.ft.com/content/5086d700-504a-
+
+11e2-9b66-00144feab49a 
+
+  5  Accenture.  Artificial  Intelligence  is  the  Future  of  Growth.  https://www.accenture.com/in-en/insight-artificial-
+intelligence-future-growth  and  see  Digital  Economy  Report,  2019,  UNCTAD.  https://unctad.org/en/
+PublicationsLibrary/der2019_en.pdf 
+
+   4   
+
+of regulation need to be framed for the digital economy. This paper makes an initial 
+
+attempt in this direction. 
+
+The paper begins by pointing out a few strong indications of unsustainable digital 
+
+power concentration (section 2), and then examines how it is currently being addressed 
+
+by researchers, policy-makers and regulators (section 3). Next, it argues why current 
+
+approaches are failing, and how even the strongest among them are unlikely to be 
+
+effective (section 4). The paper proposes that a more pro-active regulatory frame-
+
+work is required that is specially designed for the new realities of a digital economy 
+
+(section 5). The following section discusses the unique nature of digital economy 
+
+and  important concepts required to understand it (section 6). Digital ecosystems, 
+
+in  contrast to  platforms, are then presented as the key structural feature of a digital 
+
+economy and society (section 7). The paper proposes a new regulatory approach based 
+
+on  structural separation between four important functional layers of data and digital 
+
+intelligence value chains (section 8). The following three sections discuss governance 
+
+of data  (section 9), governance of cloud services (section 10), and governance of soci-
+
+ety’s digital intelligence (section 11). Citing from emerging policy documents in some 
+
+countries, the closing section argues for new legislation to underpin digital economy 
+
+regulation, and a separate digital economy regulator (section 12). 
+
+The paper employs a political economy lens, examining the nature and location of 
+
+power in emerging digital economy systems, and ways to distribute it more equitably. 
+
+It attempts to interpret and analyse digital economy developments in non-business and 
+
+non-technical terms (with a fair amount of tech demystification), employing social, 
+
+economic and political economy vocabulary. To this end, the paper ventures into new 
+
+concepts and theory development where needed. It considerably leans on bringing 
+
+together two distinct regulatory traditions – market power regulation anchored in 
+
+competition authorities on one side, and technology regulation by telcom/IT regulators 
+
+on the other. Both have been trying to address digital dominance, but in different and 
+relatively unconnected ways.6
+
+  6  One example of it is the centrality of AI in most digital society discussions, but there being almost no economic 
+conception or approach around it. On the other hand, technology space driven ideas like data infrastructures tend 
+to skirt key issues regarding how resources related transactions actually take place in an economy.
+
+   5   
+
+2.  Digital economic power and its concentration
+
+The global list of top ten companies by market capitalization was dominated in 2009 
+
+by oil corporations, the industrial era giants. Ten years later, seven of the top ten 
+have data-centric business models.7 These digital corporations built their multi-billion 
+
+ fortunes in a fraction of the time taken by their predecessors. The Economist considers 
+
+such developments as possibly indicating an alarming concentration of economic and 
+political power in the near future.8 With many parts of the economy still to digitalize, 
+
+tech firms are expected to grow even bigger as they diversify into more industries.
+
+When Microsoft became the most valued company at the turn of the century, it was 
+
+genuinely a provider of technology. Computing was entering into everything, and most 
+
+personal computers ran Microsoft’s operating software. As applications on personal 
+
+computers needed to talk to one another, Microsoft tapped the network effect. Once a 
+
+clear lead over its competitors was developed, it had a free run, given the very low mar-
+
+ginal cost of producing software. Fast forward to 2015 when Microsoft gave its Windows 
+10 software upgrade for free.9 The company has become a big votary for free and open 
+source software,10 which its leaders had called a ‘new communism’ and a cancer in the 
+heydays of its software monopoly.11 Much of personal computing today is done on mobiles 
+
+and tablets, dominated by the free operating software Android provided by Google. If 
+
+technology is being given out for free, one must explore what is the real stock-in-trade 
+
+of dominant digital corporations that makes them so rich and powerful so quickly. 
+
+Google started as a service that organized information on the web and made it easily 
+
+searchable. Running such a platform, it developed expertise in managing and  exploiting 
+
+  7  Desjardins,  J.  (2019,  June  21).  A  Visual  History  of  the  Largest  Companies  by  Market  Cap  (1999-Today).  Visual 
+ Capitalist. https://www.visualcapitalist.com/a-visual-history-of-the-largest-companies-by-market-cap-1999-today/ 
+
+  8  How  to  make  sense  of  the  latest  tech  surge.  (2020,  February).  The  Economist.  https://www.economist.com/
+
+leaders/2020/02/20/how-to-make-sense-of-the-latest-tech-surge
+
+  9  Griffin, A. (2015, January 22). Windows 10 free: Why is Microsoft giving away its new operating system? And who’s 
+losing  out?  The  Independent.  https://www.independent.co.uk/life-style/gadgets-and-tech/news/windows-10-free-
+why-is-microsoft-giving-away-its-new-operating-system-and-who-s-losing-out-9995492.html 
+
+  10  Lunden, I. (2018, October, 26). Microsoft closes its $7.5B purchase of code-sharing platform GitHub. Tech Crunch.
+
+https://techcrunch.com/2018/10/26/microsoft-closes-its-7-5b-purchase-of-code-sharing-platform-github/
+
+  11  Penenberg, A. (2005, November 21). Red Herring. Slate. https://slate.com/technology/2005/11/the-open-source-
+
+movement-isn-t-communism.html
+
+   6   
+
+people’s data. Google’s approach to dominating various sectors comes from its  exceptional 
+
+data competencies. Google’s sister automobile company, Waymo, is tipped in ten years 
+to be bigger than Ford, GM, Fiat, Honda and Tesla combined.12 Didi in China began 
+
+by organising taxi drivers on a digital platform. It now advices global car-makers on 
+designing cars, since it holds the data about how cars get actually used.13 Apple, Google 
+and Amazon are getting into the health sector.14 Becoming the sector’s main technology 
+
+provider is not their real objective; it is to control its key data. And, based on the insights 
+or intelligence so obtained to fundamentally transform the health sector.15
+
+Digital corporations’ presence in various sectors is currently at different levels, but the 
+
+prognosis and trends are telling for almost all of them. In some places digital corpora-
+
+tions are entering into partnerships with traditional players; at others the traditional 
+
+players are themselves seeking to become data-centric. In any case, it is owning and 
+
+controlling data, and data-based intelligence, that is emerging as the main business 
+
+advantage. It is likely to exceed the advantage of owning key intellectual property in 
+
+any sector. It is this shift that can be considered as denoting the advent of a digital 
+
+economy. Major global car manufacturers are grumbling that digital corporations 
+
+may be pushing them to the lower rungs of automobiles value chains. Similar is the 
+emerging digital dependency of major news brands.16 In a digital economy, companies 
+
+that have a sector’s key data, and posses the highest data competencies, will digitally 
+
+re-organize every sector. Such digital corporations will thus lead the respective sector’s 
+
+value chains, hitherto led by companies holding important intellectual property or IP. 
+
+Modern IP-based firms tend to focus on their core competencies, preferring to out-
+
+source as much of the physical activities as possible. E-commerce value chains seem to 
+
+  12  Ibid. 
+  13  Horwitz, J. (2018, April 25). Cars designed for ride-hailing will be either super swanky or really uncomfortable. 
+
+Quartz. https://qz.com/1261415/chinas-didi-partners-with-carmakers-to-design-vehicles-for-ride-sharing/
+
+  14  Dyrda, L. (2020, February 10). 50 things to know about Amazon, Google and Apple in healthcare. Beckers’ Health IT. 
+https://www.beckershospitalreview.com/healthcare-information-technology/50-things-to-know-about-amazon-
+google-and-apple-in-healthcare.html
+
+  15  Mui, C. (2017, December 4). 5 Reasons Consumer Technology Companies Will Transform Health Care. Forbes. 
+https://www.forbes.com/sites/chunkamui/2017/12/04/5-reasons-consumer-technology-companies-will-
+transform-healthcare/#73b34b5c3b6c 
+
+  16  Bell, E. (2016). Facebook is eating the world. Columbia Journalism Review. https://www.cjr.org/analysis/facebook_
+
+and_media.php
+
+   7   
+
+be showing the opposite trend, of tighter vertical integration. E-commerce platforms 
+
+are going upstream, into manufacturing and trading, and downstream into logistics, 
+distribution and payments. This corresponds to how, around the advent of 20th cen-
+
+tury, the early ‘corporation’ was created through vertical integration of allied busi-
+
+nesses. (As section 4 of this paper explains, with digital corporations too this may be 
+
+a temporary, first-phase, phenomenon.) At another level, the IT industry used to be 
+
+most open. A corner-shop could assemble personal computers out of globally sourced 
+
+components. Software and applications were developed separate from the hardware, 
+
+and could be employed across hardware platforms. But such openness, it appears, 
+
+was for the  pre-digital and pre-data era. The dominant global digital players are now 
+
+developing their own computer chips, hardware, cloud computing infrastructure, data 
+
+lakes, and AI software, going right up to consumer facing digital services in different 
+
+sectors. Consolidation is also occurring horizontally, across sectors, with the same data 
+
+company getting into sectors as diverse as travel, employment, automobiles, health 
+and education.17 
+
+A key facet of digital power is in how digital corporations exercise deep and granular 
+
+real-time control over all activities and actors in a value chain. Such unprecedented 
+
+micro-control is mediated not so much by market power or legal contracts – as with 
+
+industrial era value chains, but through employing intelligence derived from data. 
+Uber plans to control the entire transportation sector and not just the cab business.18 
+It claims to be developing an operating system for everyday life.19 Uber’s new financial 
+
+services for drivers, based on their data, could trap them in never-ending loan cycles, 
+thus enslaving them forever.20 With Uber Money, consumption and expenditure by 
+
+Uber drivers could also be cycled within Uber’s systems. Caught in Uber’s 360 degree 
+
+data-based watch and control, drivers risk becoming a veritable appendage of the Uber 
+
+  17  Google, for instance, is in all these sectors.
+  18  Siddiqui, F. And Bensinger, G. (2019, May 10). Food delivery, freight and logistics: How Uber aims to move things 
+around the world. The Washington Post. https://www.washingtonpost.com/technology/2019/05/09/food-delivery-
+freight-logistics-how-uber-aims-move-things-around-world/ 
+
+  19  Khosrowshahi,  D.  (2019).  An  Operating  System  for  Everyday  Life.  Uber  Newsroom.  https://www.uber.com/
+
+newsroom/everyday-life-os/
+
+  20  Dubal, V. (2019, December 5). Uber’s new loan program could trap drivers in cycles of crushing debt. The Guardian. 
+
+https://www.theguardian.com/commentisfree/2019/dec/05/uber-loan-program-debt
+
+   8   
+
+corporation. This is quite unlike traditional employment or other economic relation-
+
+ships. (That is of course only until driverless cars are found more profitable to deploy.) 
+
+There is a marked geo-economic angle to digital consolidation. US and Chinese firms 
+
+account for ninety per cent of the market capitalization value of world’s seventy largest 
+digital platforms.21 These two digital super-powers are fast moving so ahead of the 
+
+rest of the world in digital terms that even an economic power-house like the EU is 
+threatened by digital colonization.22 This is a very dramatic shift, absolutely unthinkable 
+
+just two decades back. The current trajectory points to the digital layer of global value 
+
+chains in all sectors cornering the bulk of control and value in not-too-distant a future. 
+
+This digital layer is tightly concentrated in the hands of a very few global corporations, 
+
+almost all based in the US or China. The race between these two for digital supremacy 
+
+has become so intense that global technology value chains are splitting between them, 
+creating the fear that a ‘digital Berlin Wall’ might be emerging.23 All other countries 
+
+may find themselves forced to ‘choose a side’ in terms of whose digital technologies 
+to adopt, with potentially serious long-term economic and security ramifications.24
+
+If already not under-way, data-based transformation will take place in all sectors, as 
+
+surely as industrial revolution mechanized all sectors, structurally transforming them. 
+
+These digital transformations are attended with an unprecedented concentration of 
+
+power in the hands of a very few global digital corporations. As digital  transformation 
+
+matures in all sectors, digital power concentration of the current early digital era will 
+
+further intensify. The head of International Monetary Fund observes that “... this 
+ troubling trend is reminiscent of the early part of the 20th century – when the twin 
+
+forces of technology and integration led to the first gilded age…. There is no substitute 
+for high-quality regulation and supervision.”25 
+
+  21  Digital Economy Report, 2019, UNCTAD. https://unctad.org/en/PublicationsLibrary/der2019_en.pdf 
+  22  Gooptu, B., Chanchani, M & Barman, A. (2018, February 26). India should never be a digital colony like Europe: Naspers 
+CEO  Bob  van  Dijk.  Economic  Times.  https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/india-
+should-never-be-a-digital-colony-like-europe-naspers-ceo-bob-van-dijk/articleshow/63074511.cms?from=mdr
+  23  Georgieva,  K.  (2019).  Decelerating  Growth  Calls  for  Accelerating  Action.  https://www.imf.org/en/News/
+
+Articles/2019/10/03/sp100819-AMs2019-Curtain-Raiser
+
+  24  (2019).  The  Next  Digital  Superpower.  https://www.eurasiagroup.net/live-post/the-next-digital-superpower# 
+
+whitepaper 
+
+  25  Inman, P. (2020, January 17). IMF boss says global economy risks return of Great Depression. The Guardian. https://
+www.theguardian.com/business/2020/jan/17/head-of-imf-says-global-economy-risks-return-of-great-depression 
+
+   9   
+
+At  that  time,  powerful  new  industrial  technologies  and  economic  integration 
+
+were  relatively distinct phenomenon that were brought together through a new 
+
+ organizational form – the ‘industrial corporation’. Digital technologies, on the other 
+
+hand, are  themselves means of integration of economic activities as they also transform 
+
+the processes and outputs of production. Their integration and control feature, in fact, 
+
+is one of their most important values and roles in the new digital  economy  systems. 
+
+Data based intelligence helps integrate and closely manage economic  activities right 
+
+from the global level to micro-processes penetrating what people and machines do 
+
+at homes and at workplaces. The ‘digital corporation’ therefore is a very new  animal, 
+
+and the dangers of economic domination from it are likely to be much worse. 
+
+3.  Emerging regulatory responses to 
+digital dominance 
+
+Digital power concentration does not just impact the economy, but also media,  politics, 
+
+security, and more. It creates the basis for all-round economic, social, political and cul-
+
+tural power. There is a rising concern across the world that dominant digital corporations 
+
+need to be regulated, reining in their economic and social power. It is strongly evident in 
+
+the EU, which fears marginalization in the emerging bi-polar digital world led by the US 
+and China.26 Developing countries are worried about a new form of subjugation through 
+digital colonization.27 Even in the US, home to most global digital behemoths, academics, 
+politicians and regulators alike are seeking urgent action to address tech power.28
+
+Traditional economic governance perspectives are being brought to bear upon the 
+
+ digital economy phenomenon in its many novelties. Most dominant digital corporations 
+
+operate some kind of a platform that becomes the main space for online interactions 
+
+  26  Barker, T. (2020, January 16). Europe Can’t Win the Tech War It Just Started. Foreign Policy. https://foreignpolicy.
+
+com/2020/01/16/europe-technology-sovereignty-von-der-leyen/
+
+  27  Kwet, M. (2019, March 13). Digital colonialism is threatening the Global South. Al Jazeera. https://www.aljazeera.
+
+com/indepth/opinion/digital-colonialism-threatening-global-south-190129140828809.html
+
+  28  Newcomer,  E.  (2019,  October  25).  What  Big  Tech  Could  Look  Like  Under  President  Elizabeth  Warren. 
+https://www.bloomberg.com/news/articles/2019-10-25/how-elizabeth-warren-would-
+
+Bloomberg Businessweek. 
+break-up-big-tech
+
+   10   
+
+among economic actors in a sector. It is these digital platforms that are attracting most 
+policy and regulatory attention.29 
+
+Early regulatory approaches treated platforms as two sided markets. Facebook, for 
+
+instance, provides social networking services on one side, and advertisement services 
+
+on the other – to very different users. Such a ‘market’ tends to subsidize its users on 
+
+one side employing revenues from the other side. It is aimed at rapidly enhancing the 
+
+user base on the subsidized side. Such an increased user base enhances the value of the 
+
+platform for the other side as well, thus establishing a virtuous cycle. The platform seeks 
+
+to quickly establish a dominant, hopefully monopoly, position in a sector, as its default 
+
+‘go to’ place. Such cross subsidy, often resulting even in free services to consumers, can 
+
+create considerable entry barriers. This obviously has a strong anti-competitive impact. 
+
+But regulators have mostly taken a benign view of such cross subsidy considering it 
+
+consumer welfare enhancing. Platforms, it is argued, provide innovative services and 
+ensure conveniences, and do so at low costs or free, which is best not to interfere with.30 
+
+Due to network effect – i.e. more the number of actors already on a platform, more useful 
+
+it is to additional users – and economies of scale, such platforms tend to quickly become 
+
+a monopoly. Their online dominance, however, may not be considered anti-compet-
+
+itive if the market of online transactions of any goods or services is not taken to be a 
+
+distinct market, but a part of the larger market for those goods/services which includes 
+traditional offline channels.31 The Competition Commission of India (CCI) took this 
+view in relation to e-commerce in 2014.32 
+
+Later, in 2018, the CCI agreed to consider e-commerce as a distinct market, but held that 
+there were a number of platforms in it and therefore no dominance.33 In early 2020, the 
+
+  29  Gurumurthy,  A.,  Bharthur,  D.,  Chami,  N.,  Vipra,  J.  &  Anwar,  I.  (2019).  Platform  Planet:  Development  in  The 
+Intelligence  Economy.  https://itforchange.net/sites/default/files/add/Report-Platform%20Planet_Development_
+in_the_intelligence_economy.pdf. IT for Change.
+
+  30  Uberoi, N., Nanda, A. & Verma, T. (2019). India. In E-Commerce Competition Enforcement Guide (edition 2). 
+Global Competition Review. https://globalcompetitionreview.com/insight/e-commerce-competition-enforcement-
+guide-second-edition/1209657/india 
+
+  31  (2018). Amazon expected to contest competition case in Germany. https://www.pinsentmasons.com/out-law/news/
+
+amazon-competition-case-germany
+
+  32  In Re: Ashish Ahuja Case no. 17 of 2014. https://www.cci.gov.in/sites/default/files/172014.pdf 
+  33  Vaish Associates. (2019). India: CCI Holds Neither Flipkart Nor Amazon As Dominant In The Market For Online 
+
+   11   
+
+Appellate Tribunal overturned this CCI order and asked it to investigate allegations of 
+market dominance by the top e-commerce platform in India.34 The petitioner, an asso-
+
+ciation of sellers on online platforms, had argued that they are very strongly dependent 
+
+on e-commerce platforms. They asserted that inter alia user reviews and ratings create a 
+‘lock-in effect on sellers’.35 Just two months before the decision of the Appellate Tribunal, 
+
+CCI had admitted another complaint against top e-commerce platforms and this time 
+
+initiated an investigation. The CCI chair observed: “We will get to understand the entire 
+business model of the e-commerce sector through this investigation”.36 
+
+This investigation coincided with the CCI releasing a study of the e-commerce  market.37 
+
+It identified a lot of potential competition related issues with this market. The CCI 
+
+study observed that bargaining power imbalance and information asymmetry between 
+
+e-commerce marketplace platforms and their business users was at the core of such 
+
+issues. It argues that in the context of “economics of platform markets, where the 
+
+winner takes all or most, eliminating anti-competitive behaviour that further tilts the 
+
+scales or deters entry assumes utmost importance”. While maintaining that insights 
+
+from the study will inform future competition enforcement in these markets, the CCI 
+
+refrained at this stage from making any determination, or framing any ex ante rules. 
+
+The study advices that marketplace platforms should adopt self-regulatory measures in 
+
+five areas outlined by it, with some guidelines under each. These guidelines can be seen 
+
+as a preview of the kind of remedies that the Commission may impose on dominant 
+
+platforms in the future. Some of them may get formalized as ex ante rules for digital 
+
+platforms that meet certain threshold conditions.
+
+Marketplace Platforms- Hints At Considering Online Market As A Separate Market For Market Analysis. https://
+www.mondaq.com/india/Anti-trustCompetition-Law/807614/CCI-Holds-Neither-Flipkart-Nor-Amazon-As-
+Dominant-In-The-Market-For-Online-Marketplace-Platforms-Hints-At-Considering-Online-Market-As-A-
+Separate-Market-For-Market-Analysis 
+
+  34  NCLAT asks CCI to probe against Flipkart over allegations of unfair practices. (2020, March 4). Deccan Herald. 
+https://www.deccanherald.com/business/business-news/nclat-asks-cci-to-probe-against-flipkart-over-allegations-
+of-unfair-practices-810485.html
+
+  35  NCLAT asks CCI to investigate charges against Flipkart again. (2020, March, 5). Financial Express. https://www.
+
+financialexpress.com/industry/nclat-asks-cci-to-investigate-charges-against-flipkart-again/1889380/ 
+
+  36  Chitravanshi, R. (2020, January 14). CCI to probe Amazon, Flipkart for deep discounts, preferred sellers model. 
+Business Standard. https://www.business-standard.com/article/companies/cci-to-probe-amazon-flipkart-for-deep-
+discounts-preferred-sellers-model-120011301150_1.html 
+
+  37  Market Study On E-Commerce In India. (2020, January 8). Competition Commission of India. https://www.cci.gov.
+
+in/sites/default/files/whats_newdocument/Market-study-on-e-Commerce-in-India.pdf
+
+   12   
+
+UK’s Digital Competition Experts Panel (“UK Panel”) proposes establishing a  digital plat-
+form code of conduct, based on a set of core principles outlined by it.38 The code would 
+
+apply to those digital platforms that get designated to have a strategic  market status. The 
+
+UK Panel warns against the danger of relying solely on traditional  competition policy 
+
+tools for regulating the digital economy, advocating legislative changes as required. 
+
+An awareness is growing that digital platforms cannot be governed by traditional com-
+
+petition rules alone. Theirs are no ordinary services – not even ordinary marketplace 
+
+services, like provided by a shopping mall – operating in a market that they may or 
+
+may not dominate, which becomes a matter for case-to-case determination. Digital 
+
+platforms posses certain essential features that tend them towards dominating and 
+
+monopolistic positions. The CCI study and the UK Panel discuss at length many such 
+
+inherent tendencies of digital platforms. A European Union Report on ‘Competition 
+
+policy for the digital era’ (“EU Report”) makes an interesting observation that “to 
+
+protect competition on a dominant platform ...in many cases might be the same as 
+protecting competition “in” the market...”.39 “In this respect, we argue that platforms 
+
+play a form of regulatory role as they determine the rules according to which their 
+
+users, including consumers, business users and providers of complementary services, 
+
+interact, and, when they are dominant, have a responsibility to ensure that competition 
+
+on their platforms is fair, unbiased, and pro-users.” 
+
+Julie Cohen proposes that “platforms do not enter or expand markets; they replace 
+(and rematerialize) them”.40 This view corresponds to the EU Report comparing man-
+
+agement of platforms to market governance, with platforms acting as the regulators of 
+
+economic interaction spaces that they enclose. It also relates to the kind of regulatory 
+approaches for digital platforms being considered in India41 and the UK. Rather than 
+
+  38  (2019).  Unlocking  digital  competitionReport  of  the  Digital  Competition  Expert  Panel.  https://assets.publishing.
+service.gov.uk/government/uploads/system/uploads/attachment_data/file/785547/unlocking_digital_
+competition_furman_review_web.pdf
+
+  39  Cremer,  J.,  Montjoye,  Y.  &  Schweitzer,  H.  (2019).  Competition  Policy  for  the  digital  era-Final  report.  European 
+
+Commission. https://ec.europa.eu/competition/publications/reports/kd0419345enn.pdf
+
+  40  Cohen, Julie E., Law for the Platform Economy (June 22, 2017). UC Davis Law Review, Volume 51. Available at 
+
+SSRN: https://ssrn.com/abstract=2991261  
+
+  41  Draft  National  E-commerce  Policy.  (2019).  https://dipp.gov.in/sites/default/files/DraftNational_e-commerce_
+
+Policy_23February2019.pdf
+
+   13   
+
+competition ‘in’ the market of online marketplaces or digital platforms (which remains 
+
+a separate concern), the focus here is on ensuring competition ‘on’ a digital platform, 
+
+which is considered as a ‘market in itself ’. We can call this the ‘platform as market’ 
+
+paradigm of regulation.
+
+Coming from telecommunication regulation, the principle of net neutrality requires a 
+
+transmission network to remain agnostic or neutral to the content transmitted over it. 
+
+This principle has been extended to platforms in the form of ‘platform neutrality’. Also 
+
+employed by the referred CCI study on e-commerce market, this term first appeared 
+
+in a 2015 report of the French Digital Council. It observed: “The goals behind the 
+ neutrality principle should also be factored into the development of  digital platforms”.42 
+
+One way to regulate ‘Platform as market’ is through what in competition policy parlance 
+
+are called behavioural remedies. The dominant player is obligated to undertake a series 
+
+of actions or abstentions in order to improve competition. These could range from 
+
+simple transparency and information sharing to non-discrimination among products 
+
+and services traded on the platform. The EU Report observed that, since platforms 
+
+function as regulators, competition policy should focus on regulating and disciplining 
+the rules-setting power of digital platforms.43 
+
+A new EU regulation on B2B interactions on platforms seeks to ensure a fair, predictable, 
+sustainable and trusted online business environment.44 Its provisions address issues of 
+
+transparency and complaint redressal. Transparency requirements include information 
+
+about the basis for product ranking, any differential treatments to own products, and 
+
+use and access to data, and its sharing with third parties. Apart from putting many such 
+
+transparency requirements for e-commerce platforms, the draft e-commerce policy of 
+India proposes an outright ban on differential treatment.45 
+
+  42  (2014).  Opinion  no.  2014-2  of  the  French  Digital  Councilon  platform  neutrality.  https://cnnumerique.fr/files/
+
+uploads/2014/06/PlatformNeutrality_VA.pdf 
+
+  43  Supra n 39
+  44  Regulation  (EU) 2019/1150, 2019. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN
+  45  Draft  National  E-commerce  Policy.  (2019).  https://dipp.gov.in/sites/default/files/DraftNational_e-commerce_
+
+Policy_23February2019.pdf
+
+   14   
+
+The self regulatory code proposed by the CCI Study, and the UK Panel’s digital platform 
+
+code of conduct, also centre on behavioural remedies, as does the EU Report. Focus 
+
+is mostly still on market relationships between a platform and the sellers on it – like 
+exclusive agreements and preferential sellers, and price issues like deep discounting.46 
+
+But behavioural remedies are increasingly also about data – transparency about data 
+
+collection, data interoperability, and data access and sharing. The EU is investigating 
+
+the issue of rights to data about goods sold by traders on the Amazon platform from 
+a competition viewpoint.47 In the CCI Study restaurant owners working with food 
+
+delivery companies wanted the latter to share data about their customers with them.
+
+Interventions for regulating ‘platform as market’ try to monitor and check a platform’s 
+
+behaviour vis a vis economic actors using the platform. Promoting competition among 
+
+digital platforms, the original issue of their dominance, also remains important. These 
+
+two kinds of problems and corresponding remedies are connected. Reduced lock-in and 
+
+greater independence for economic actors on a platform both increase competition on 
+
+that platform as well as between platforms. On the other hand, a competitive field of 
+
+digital platforms in a sector tends to decrease the lock-in and increases the independ-
+
+ence of economic actors transacting on them. Interventions for ensuring competition 
+
+among digital platforms have hitherto been weak or non-existent. These mostly relate 
+
+to data portability and data sharing. Such obligations are very difficult to monitor and 
+
+enforce without specialized capacities among the regulators, including technical ones, 
+
+and have not been effectively applied in any jurisdiction so far.
+
+The problem with behavioural remedies is that they require constant close monitoring 
+
+and frequent action by the regulators. This issue is greatly aggravated in the digital context 
+
+which changes extremely fast and contains too many unknowns – or difficult-to-knows. 
+
+This renders enforcing behavioural remedies for digital platforms a very difficult task for 
+any regulator, much more so for a general cross-sectoral competition regulator.48 Herold 
+
+  46  (2020). CCI directs probe against Amazon, Flipkart for alleged malpractices. https://yourstory.com/2020/01/cci-
+
+directs-probe-amazon-flipkart
+
+  47  Lomas,  N.  (2019,  July  17).  Europe  is  now  formally  investigating  Amazon’s  use  of  merchant  data.  Tech  Crunch. 
+https://techcrunch.com/2019/07/17/europe-is-now-formally-investigating-amazons-use-of-merchant-data/
+  48  Stigler Committee on Digital Platforms. Stigler Centre for the Study of the Economy and the State.Final Report. 
+(September  2019).  University  of  Chicago.  https://research.chicagobooth.edu/stigler/media/news/committee-on-
+digital-platforms-final-report; Supra n 39 and Supra n 38
+
+   15   
+
+Feld of Public Knowledge, a US based non-profit, considers the nature of digital plat-
+
+forms, and their domination, to be unique enough to require specific sectoral regula-
+
+tions (for each digitalized sector) as well as a specialized cross-sectoral legislation and 
+
+supervisory body. He makes the case for a Digital Platforms Act and a Digital Platforms 
+Commission.49 A tool-kit of behavioural regulatory interventions is proposed. But deeper 
+
+structural remedies of forcing separation of platforms related businesses may also be 
+
+considered, if required. The criterion of ‘cost of exclusion’ can be employed to measure 
+
+platform  dominance. 
+
+In her paper ‘The Separation of Platforms and Commerce’, Lina Khan argues that, 
+
+apart from being difficult to undertake, behavioural remedies will not be adequate to 
+tackle the market power of platforms.50 Being an essential facility controlling access to 
+
+the market as well as regulating the behaviour of actors on them, she advocates struc-
+
+tural separation of platforms from the commerce taking place on them. The platform 
+
+owner is thereby not allowed to compete with actors trading on the platform. Khan 
+
+traces the history of successes of antitrust regulation in the US, in employing structural 
+
+separations in important sectors that exhibited market domination. Since the 1970’s, 
+
+regulators seem to have mostly avoided structural remedies but she feels that these 
+
+need to be brought back if the unprecedented market power of digital platforms is to be 
+
+successfully addresed. India already enforces structural separation between a platform 
+and the commerce taking place over it for foreign-funded e-commerce companies.51 
+
+4. Why current approaches fail 
+
+The digital economy is almost definitionally considered to be centred on data. In this 
+
+regard, there remains a fundamental contradiction and lag in current regulatory 
+
+approaches to digital economy, which, if not entirely industrial era, still only focus on 
+
+  49  Feld, H. (2019, May). The Case for the Digital Platform Act: Market Structure and Regulation of Digital Platforms. 
+Roosevelt Institute. https://www.publicknowledge.org/assets/uploads/documents/Case_for_the_Digital_Platform_
+Act_Harold_Feld_2019.pdf
+
+  50  Khan,  L.  The  Separation  of  Platforms  and  Commerce.  Columbia  Law  Review,  Volume  no.  119  (Issue  4).  https://
+
+columbialawreview.org/content/the-separation-of-platforms-and-commerce/
+
+  51  Press Note 2 (2018). FDI Policy Circular. https://dipp.gov.in/sites/default/files/pn2_2018.pdf
+
+   16   
+
+platforms as the key structural feature of a digital economy. Data’s role gets treated at 
+
+best in a secondary and piecemeal fashion, as an add-on to the functioning of platforms. 
+
+Lina Khan proposes the strongest regulatory intervention of structural separation of 
+platform businesses.52 But data is discussed by her only in terms of ‘appropriation by 
+
+platforms of information’ about businesses operating on the platform. Such information, 
+
+her paper holds, may have significant competition implications, including being used 
+
+to develop competing products by the platform. Khan argues that although appropri-
+
+ation of sensitive competitor information was always considered by competition reg-
+
+ulators, because of its sophisticated nature in digital markets ‘both the risk and cost of 
+
+information appropriation is heightened’. Herold Feld, who proposes strong action in 
+
+the form of a ‘Platform Act’, is most inspired by regulatory history of media and com-
+
+munication. He compares data with platforms to ‘sensitive commercial information’ 
+
+flowing on a third party telecommunication network, and calls for similar regulation 
+for data.53 Focussing on ‘information’ as traditionally understood in business and 
+
+regulation, both these perspectives miss the central, transformational, role that data 
+
+plays in a digital economy. They are therefore unlikely to ensure successful regulation 
+
+of a digital economy that is essentially organized around data.
+
+While still focussed on platforms, recent policy documents in Europe on digital  economy 
+
+regulation are increasingly more attuned to the central role of data. The referred EU 
+
+Report considers data as an important input for online services, production processes, 
+
+logistics, smart products, and AI. It recognizes that there will be cases “where duties to 
+
+ensure data access – and possibly data interoperability – may need to be imposed”. The 
+
+UK Panel argues strongly for data portability and data openness. The latter involves 
+
+data sharing, including of a mandated kind, where needed. 
+
+Being a kind of partial divestiture, mandatory data sharing comes closest to a  structural 
+remedy based on data. It has attracted much discussion in the EU.54 Some such regu-
+
+  52  Supra n 50
+  53  Supra n 49
+  54  A report of the German Ministry of Economic Affairs discusses a ‘data for all’ framework Schweitzer, H., Haucap, 
+J.,  Kerber,  W.,  &  Welker,  R.  Modernising  the  law  on  abuse  of  market  power.  https://www.bmwi.de/Redaktion/
+DE/Downloads/Studien/modernisierung-der-missbrauchsaufsicht-fuer-marktmaechtige-unternehmen-
+
+   17   
+
+latory intervention is now considered necessary by many policy reports to break the 
+dominance of US digital corporations in the EU market.55 EU’s recent data strategy 
+paper shows significant progress in its thinking about mandated data sharing.56 It 
+
+proposes a Data Act to be brought out by 2021. But details remain scanty on how data 
+
+sharing will actually be operationalized, and what kind of legislative support it requires.
+
+Effective implementation and enforcement of data sharing require significant polit-
+
+ical will that is taking time to build. It can represent a significant break with the 
+
+ dominant global digital economy paradigm. Such political will, however, is shaping 
+
+up, and may precipitate as digital power concentration causes more and more crises 
+in different sectors.57 
+
+Equally required meanwhile are new theoretical frameworks of what a digital society is, 
+
+and the central role of data in it. Sections 6 and 7 of this paper make an initial attempt 
+
+in this direction. The key proposition of this paper is that instead of treating networking 
+
+based platforms as the central structural feature of a digital economy, and data playing 
+
+a part in their functioning, we need to completely invert the paradigm. The central 
+
+structural feature of a digital society and economy is data and data-derived intelligence, 
+
+operating and interacting with various social and economic actors within techno-en-
+
+closures that may be termed as ‘digital ecosystems’. Platforms as networking-centric 
+
+forms are an early manifestation of digital economy changes. They get subsumed and 
+
+superseded by data-intelligence centric digital ecosystems. Any successful regulation 
+
+for the digital economy requires to be built upon this theoretical foundation. 
+
+The rest of this section explains why even the strongest remedy among the currently 
+
+proposed, of structural separation between a platform and the commerce over it, will not 
+
+be adequate to regulating digital power and preventing its monopolistic concentration. 
+
+zusammenfassung-englisch.pdf?__blob=publicationFile&v=3;  available  in  German  here:  https://www.spd.de/
+aktuelles/daten-fuer-alle-gesetz/
+
+  55  AI for Humanity. (2018). https://www.aiforhumanity.fr/en/
+  56  (2020). A European Strategy for Data. https://ec.europa.eu/info/files/communication-european-strategy-data_en
+  57  One such crisis is being witnessed in the media sector, where major media organizations are complaining of an 
+unsustainable situation in that they are heavily losing out ad revenue to digital platforms. For instance see, Duke, J. 
+(2017, December 4). ACCC to probe Facebook, Google over media disruption. The Sydney Morning Herald. https://
+www.smh.com.au/business/companies/facebook-google-set-for-accc-probe-over-media-disruption-20171204-
+gzxxow.html
+
+   18   
+
+At the heart of economic power of platforms is the network effects based monopolistic 
+
+tendency of any sectoral interaction space or market. This is true even for a physical 
+
+shopping mall as a marketplace. Monopolization by a shopping mall, however, gets 
+
+limited by physical elements of distance, constraints on stores space and therefore 
+
+offerings, and crowds and congestion. These physical factors do not operate for online 
+
+marketplace platforms. With some ingenuity and avoiding catastrophic mistakes, the 
+
+first mover can quickly monopolize any online marketplace. Thereon it can simply 
+
+extract rent from it. Such platform power is certainly a key ingredient of digital power 
+
+(but not the only, or even the most important, ingredient, as data power is discussed 
+
+later in this paper). Transparency and non-discrimination requirements can reduce 
+
+platform rents and power, but not to an adequate degree. These remedies are unlikely to 
+
+suffice for creating platform competition. Even disallowing platforms from competing 
+
+with businesses dependent on them constitutes a temporary remedy of slowing down 
+
+platform power concentration. It does not address it in the long run, because it leaves 
+
+untouched the principal factor of rent seeking arising from very high network effect 
+
+(not even considering, at present, the data factor). Network effect, and therefore the 
+
+rent, would keep rising for a platform that has achieved dominance. Undertaking own 
+
+commerce and self-discrimination are just spin-off benefits for platforms – a kind of 
+
+extra greed. (Although, as discussed a little later, it may be more of a strategy for dig-
+
+ital disruption of the entire ecosystem and rebuilding it in a manner better integrated 
+
+with the platform.) 
+
+E-commerce platforms like Amazon dealing in consumer goods represent the classic 
+
+case proposed for structural separation. Such platforms do tend to enter both the 
+
+upstream elements of the value chain – getting into manufacturing and trading – as 
+
+well as downstream ones of branding/marketing, and delivery. This however is not 
+
+much different from what offline retail chains like Walmart do as well.
+
+Venturing of e-commerce platforms especially in upstream activities of manufactur-
+
+ing and trading may in fact be temporary. Use of ICTs to maintain close process and 
+
+quality control over remote centres of manufacturing enabled IP based lead global 
+
+firms to outsource manufacturing. With even better remote controls possible through 
+
+   19   
+
+advanced data based digital technologies, there should prima facie be no reason for 
+
+digital  platforms to in-source manufacturing. The motivation, it appears, may be to 
+
+force the pace of digitalization of the whole ecosystem. This is undertaken by dis-
+
+rupting activities in different parts of the value chain by setting up own competing 
+
+businesses. The latter are designed to be much more data driven and, as importantly, 
+
+integrated into the data and intelligence systems of the platform company. Because of 
+
+the immense efficiencies of close data- and intelligence-based integration, platform 
+
+owned competing businesses are expected to out-perform the productivity of third-
+
+party businesses that are less data-fied and less integrated with the platform’s systems. 
+
+This puts competitive pressure on these other businesses (even without a platform 
+
+discriminating in favour of its own products in any obvious manner), forcing them 
+
+towards digitalization/datafication and integration into the platform’s data-intelligence 
+
+systems. As the whole ecology gets suitably datafied and integrated into the platform’s 
+
+data-intelligence systems, it may actually be better for platforms to pull out of the 
+
+physical elements of manufacturing (and perhaps also trading), as IP based firms do. 
+
+They would prefer to focus on their core competency of intelligent management of the 
+
+entire ‘digital ecosystem’ and extract profit and rent from it.
+
+This end-state of a fully datafied and integrated e-commerce ecosystem, as desired and 
+
+planned by dominant digital platforms, cannot be foreclosed by simply banning prefer-
+
+ential self-discrimination or even by structural separation, although progress towards 
+
+it may get slowed down. In such a situation, platforms will in any case provide various 
+
+kinds of data- and intelligence-based incentives to manufacturers (and traders) in a 
+
+manner that improves the latter’s productivity and allures them to integrate into the 
+
+platform’s data-intelligence systems. The platform may also create competitive pressures 
+
+for digital integration by first selectively providing such incentives to some manufactur-
+
+ers/traders and not others. Data and intelligence based incentives and relationships are 
+
+complex, and relatively easy to hide from the regulator’s eye. This incidentally speaks 
+against the effectiveness of data-related behavioural remedies.58
+
+  58  The referred CCI study wonders why sellers that are dominant on one platform make almost no sale on others, 
+
+which suggests hidden vertical integration. 
+
+   20   
+
+The above analysis applies both to manufacturers and traders on a platform. Data and 
+
+intelligence driven efficiencies among manufacturers and traders of goods and services 
+
+sold on a platform is beneficial to the latter because of reduced price and better quality 
+
+that increase overall sales. But integration of entire activities of actors dependent on 
+
+the platform into its data and intelligence systems is the more important motive in 
+
+the mid to long run. This enables the platform to closely control all such activities and 
+
+actors, and develop strong lock-ins. 
+
+Interpreted in data-intelligence terms, a digital platform undertakes two key functions; 
+
+(1) employ data-intelligence to squeeze new value from various economic processes, 
+
+and distribute a part of such digital surplus selectively among the actors involved, and; 
+
+(2) use data-intelligence to coordinate, organize and control the entire set of activities 
+
+and actors involved. (The paper will be using the term ‘digital ecosystem’ to represent 
+
+such an evolved form of digital platform.)
+
+The ultimate aim is to eliminate independent traders as mediators between producers 
+
+and consumers. They are to be rendered into wholly-dependent agents of the platform, 
+
+who help manage the physical elements of marketing, distribution and sales. Alibaba, 
+
+Amazon’s closest global competitor, in fact does not undertake vertical integration with 
+manufacturing and trading layers of the consumer goods value chain.59 It thus already 
+
+maintains a de facto structural separation between the platform and commerce over it. 
+
+But its digital power is no less for that. It accounts for 58% of the online sales in China, 
+
+and its user base is more than US’s total population. On one day alone, on the ‘Singles 
+Day’ in 2019, it recorded $38 billion worth of orders.60 Alibaba is among the top ten 
+global corporations by market capitalization, and the largest in China.61 It is making 
+
+huge investments in cloud computing and AI, showing what kind of integrations may 
+
+be more important to develop digital power.
+
+  59  Blystone,  D.  (2019,  October  20).  Understanding  the  Alibaba  Business  Model.  https://www.investopedia.com/
+
+articles/investing/062315/understanding-alibabas-business-model.asp
+
+  60  Horwitz, J. (2019, November 10). Alibaba’s Singles’ Day sales hit record $38 billion; growth slows. Reuters. https://
+www.reuters.com/article/us-singles-day-alibaba-sales/alibabas-singles-day-sales-hit-record-38-billion-growth-
+slows-idUSKBN1XK0HD
+
+  61  The 100 largest companies in the world by market value in 2019. Statista. https://www.statista.com/statistics/263264/
+
+top-companies-in-the-world-by-market-value/
+
+   21   
+
+After achieving considerable domination of national e-commerce, Alibaba realized 
+
+that China’s rate of growth of e-commerce, while quite sharp, was not good enough for 
+
+how fast Alibaba itself wanted to grow. It decided to expand its digital competencies to 
+
+offline retail. It approached mom-and-pop stores in China allowing them to retain the 
+shop-front but taking over their supply lines.62 Alibaba calls it ‘new retail’, an integra-
+
+tion of all retail channels. In this role, Alibaba does not own the consumer interaction 
+
+space or the consumer’s access to the market and therefore is not a B2C e-commerce 
+
+platform as typically understood. But in terms of key aspects of its business, there is 
+
+not much difference in what Alibaba does at the back-end of mom-and-pop stores 
+
+and what it otherwise does in e-commerce as directly a consumer-facing marketplace. 
+
+Reliance Industries in India entered the e-commerce sector without first developing 
+an e-commerce portal.63 Building over its dominance in data services, its subsidiary 
+
+Jio Platforms began by providing free or cheap applications that supported business 
+activities of even very small shopkeepers, including managing their supply lines.64 
+
+This is very similar to Alibaba’s strategy of supporting small shopkeepers. Much like 
+Alibaba’s ‘new retail’, Reliance calls this as ‘new commerce’.65 
+
+The core competency and business of Alibaba and Reliance-Jio here is evidently not 
+
+(necessarily) of directly controlling the consumers’ online access to the market and 
+
+therefore being an e-commerce platform as understood traditionally. The typically 
+
+advocated separation between platform and commerce makes little sense in such a 
+
+context. Things are simply not that linear in the digital economy. What digital plat-
+
+forms undertaking e-commerce really do is to employ the power of data and digital 
+
+intelligence to digitally orchestrate and control the whole consumer goods value chain. 
+
+  62  Hao, K. (2018, January 5). Alibaba is trying to reinvent China’s mom-and-pop stores. Quartz. https://qz.com/1171743/
+
+alibaba-is-trying-to-reinvent-chinas-mom-and-pop-stores/ 
+
+  63  It has now introduced one, called JioMart.
+  64  (2019, February 9). With RIL’s New E-Commerce Platform, Network of Mom-n-Pop Shops to Take on Likes of 
+Walmart.  News  18  News.  https://www.news18.com/news/business/with-rils-new-e-commerce-platform-network-
+of-mom-n-pop-shops-to-take-on-likes-of-walmart-1801783.html 
+
+  65  Jain, V. (2019, August 12). New Commerce will completely transform unorganised retail market: Mukesh Ambani. 
+Economic  Times.  https://retail.economictimes.indiatimes.com/news/industry/new-commerce-will-completely-
+transform-unorganised-retail-market-mukesh-ambani/70641276
+
+   22   
+
+Rather revealing, in the context of this discussion, is Reliance-Jio’s recent sale of around 
+
+10 percent of its stock to Facebook. E-commerce players with foreign investment in 
+
+India have to follow strict rules of platform-commerce structural separation, but not 
+
+those without such investment. With the financial backing of India’s richest business 
+
+group, it was thought that Reliance’s Jio will leverage this major advantage of being 
+
+allowed platform-commerce integration to pose great challenge to the leading e-com-
+
+merce platforms in India, Walmart backed Flipkart and Amazon. The latter being both 
+
+foreign-funded had to maintain platform-commerce separation. In making this deal 
+
+with Facebook, Reliance-Jio chose to forego that major advantage. Most commentators 
+
+think that the real benefit for Reliance-Jio here is some kind of vertical integration of 
+
+its e-commerce platform with Facebook-owned WhatsApp, which is a monopolistic 
+
+personal digital communication platform in India. Such forgoing of the advantage of 
+
+platform-commerce integration in favour of some kind of integration of the platform 
+
+with a key digital communication layer, with enormous data-related implications, tells 
+
+an eloquent tale. 
+
+Food delivery companies present an interesting case of going very quickly from being 
+
+delivery partners of restaurants into ‘manufacturing’/trading themselves. This is done by 
+developing ‘cloud kitchens’, where centralized ‘manufacturing’ takes place.66 In-house 
+
+branding may also get adopted. The longer term goal is to fundamentally disrupt the 
+food business, including by expanding into new unexplored markets.67 Once such a 
+
+system matures, it is likely, and makes business sense, for digital food companies to 
+
+outsource the kitchen or ‘manufacturing’ part to closely controlled partners. They will 
+
+focus on their cardinal role of data and intelligence based digital orchestration of the 
+
+entire food value chain. (Restaurants too will have a new role in this digitalized food 
+
+sector, while also preserving their traditional attractions.) This evidently is what the 
+
+dominant digital business, normally understood as platforms, is about.
+
+  66  Singh,  M.  (2019.  November,  20).  India’s  Swiggy  bets  big  on  cloud  kitchens.  Tech  Crunch.  https://techcrunch.
+
+com/2019/11/19/swiggy-cloud-kitchen-india/
+
+  67  (2019, November 12). How food tech startups are disrupting the industry. Economic Times. https://cio.economictimes.
+indiatimes.com/news/strategy-and-management/how-food-tech-startups-are-disrupting-the-industry/72019745 
+
+   23   
+
+Most emerging sectoral platforms are not in products but services segment, like Uber 
+
+and AirBnB. These platforms are generally not too keen on vertical integration. To 
+
+the limited extent that they have done so, it appears to be for the afore-discussed 
+ disrupt-and-withdraw strategy.68 Both these companies have fought legal battles to 
+
+be recognized as pure tech platforms and not primarily engaged in the business of the 
+sector that they service.69 This is the exact opposite of vertical integration. Uber has 
+resisted repeated attempts to be classified as the employer of cab-drivers in its network.70 
+
+When a court in California devised a test for such a relationship, Uber changed its 
+
+application to exhibit more independence for drivers so that it could retain its claim of 
+being at an arms-length.71 How would a regulatory framework focussed on separating 
+
+a platform from businesses offering services on the top of it address the dominance 
+
+issues with such services platforms? 
+
+One can force Uber to give back the power to drivers to fix the price, accept pick-ups or 
+
+not (which any way is generally illegal under most taxi licensing rules), and so on. But 
+
+so potent is the intelligence held by the platform, which the drivers do not have access 
+
+to, that the latter will ‘voluntarily’ accept the services of Uber to fix the price, pick-
+
+ups, etc. for them. That would work out more profitable for them instead of exercising 
+
+blind or ill-informed choices. The same applies to most economic actors organized by 
+
+digital platforms or ecosystems. Distributed intelligence picked from traditional clues 
+
+is mostly just not good enough as compared to data-based centralized intelligence of 
+
+a digital ecosystem. 
+
+Significant vertical, and other kinds of, integrations and consolidations are certainly 
+
+taking place in the digital economy. But these are not of the traditional kind that can 
+
+  68  Burch, M. (2018, December 5). Airbnb Will Start Building (And Selling) Its Own Homes In 2019. House Beautiful. 
+https://www.housebeautiful.com/lifestyle/a25415329/airbnb-building-houses-backyard/  and  Shrivastava,  A. 
+(2015,  September  15).  Ola  to  spend  Rs  5,000  crore  to  buy  cars,  will  form  separate  subsidiary.  Economic  Times. 
+https://economictimes.indiatimes.com/small-biz/startups/ola-to-spend-rs-5000-crore-to-buy-cars-will-form-
+separate-subsidiary/articleshow/48962951.cms?from=mdr 
+
+  69  Boffey, D. (2019, April 30). Airbnb should be seen as a digital service provider, ECJ advised. The Guardian. https://
+www.theguardian.com/technology/2019/apr/30/airbnb-should-be-seen-as-a-digital-service-provider-ecj-advised 
+
+  70  Sahar, O. (2017, November 15). Are Uber Drivers Employees? The Answer Will Shape The Sharing Economy. Forbes. 
+https://www.forbes.com/sites/omribenshahar/2017/11/15/are-uber-drivers-employees-the-answer-will-shape-the-
+sharing-economy/#5f8c9e275e55
+
+  71  Paul, K. (2020, February 7). Uber changing app to avoid reach of California’s new gig workers law. The Guardian. 
+
+https://www.theguardian.com/technology/2020/feb/07/uber-ab5-changes-drivers-california
+
+   24   
+
+be viewed and regulated either through the marketplace-commerce lens or consider-
+
+ing an employer-employee relationship. Regulatory interventions aimed at separating 
+
+platforms from commerce over it, or simplistically forcing an employer-employee rela-
+
+tionship, are both missing the point. Though perhaps temporarily useful, such measures 
+
+will not be effective in the long term to check digital power concentration. We need to 
+
+understand and focus upon the real nature of digital consolidations, and, before that, 
+
+of digital power, which is fundamentally structured around data and intelligence. 
+
+5. Regulators’ dilemma – To wait or to act now?
+
+The terms ‘digital’ and ‘digital economy’ have evolved over the last quarter of a century 
+
+or so. First it was about society-wide adoption of computers and software services, like 
+
+office productivity tools and enterprise planning suites. The network effect of software 
+
+services was good enough to make Microsoft the most valued global corporation at the 
+
+turn of the century. Then came the Internet companies like Google and Facebook that 
+
+employed the Internet and cloud software to network information and people. By the 
+
+middle of the first decade of this century, people were already excited about an Internet 
+
+revolution, in economic, social and political terms. Software power was superseded 
+
+by Internet or network power. Little did the world realize that the real wonders and 
+
+transformations were yet to come. In the second decade, attention shifted towards data 
+and AI. Data power was evident in calling data a new factor of production,72 and data’s 
+product AI as being comparable to what fire meant for the human race.73
+
+These heady developments were captured in a series of economic terms quickly  succeeding 
+
+the earlier one – from new economy in the 1990s, to internet economy, platform econ-
+
+omy, digital economy, data economy and now AI economy. Digital power can be con-
+
+sidered a sum and culmination of software power, network power and data power. Each 
+
+of these builds over the earlier kind and subsumes it. We will like to  consider ‘digital’ 
+
+as the techno-social phenomenon that represents this progression – from software to 
+
+  72  Supra n 4
+  73  AI will be more profound than fire or electricity: Pichai. (2020, January 23). Tech Central. https://techcentral.co.za/
+
+ai-will-be-more-profound-than-fire-or-electricity-pichai/95398/
+
+   25   
+
+network to data power – and its incorporation into our economic, social, political and 
+
+cultural systems. 
+
+We are evolving towards a digital society and digital economy, in which data based 
+
+intelligence is the key, and defining, resource and organising force. We call it digital 
+
+intelligence. It defines a digital society in the same manner as industrial society was 
+
+defined by mechanization, and its economic, social and political impacts. Mechani-
+
+zation can be considered as a process of disembodying physical power into machines. 
+
+Digital intelligence, correspondingly, is disembodying intelligence power into machines. 
+
+Its impact on organization and outputs of our society and economy will at least be as 
+
+transformational as that of industrialization. 
+
+It was mentioned how every few years there appears a new name for our changing 
+
+economic conditions; such is the ferment that we are witness to. Society’s economic 
+
+relationships, organization and outputs are undergoing a fundamental transforma-
+
+tion. In some sectors, at some places, these are already quite different from those of 
+
+the industrial age. Urban transportation, travel and consumer goods are a few areas of 
+
+advanced change. Other sectors will follow. Economic regulation therefore cannot just 
+
+be based on the industrial era paradigm. It needs to evolve with the shifting nature of 
+
+our economy; it has to be fit for the digital age. 
+
+How best to regulate an economy that is transforming from one paradigm to another, 
+
+from industrial economy to digital economy? A very conservative view is to wait out 
+
+the period of ferment, till things settle down. Other than the obvious defect of this 
+
+approach of mismanagement of the period and process of transition, the problem is 
+
+aggravated by the nature of digital power. It tends to congeal and concentrate very 
+
+quickly, developing strong lock-ins based on outsourced intelligence (as most activities 
+
+and actors in a sector obtain their intelligence centrally from its dominant platform). 
+
+Such outsourced intelligence based lock-ins are extremely hard to reverse. It may be 
+
+difficult, perhaps impossible, for regulation to impact digital systems to any appreciable 
+
+degree once they are mature and well-entrenched. The current difficulties with regu-
+
+lating Google and Facebook are just a forerunner for what are going to be even more 
+
+   26   
+
+complex and irredeemable situations, as data and digital intelligence become central 
+
+to our economic systems. 
+
+A second approach could be of taking a static, empirical view of how economic organ-
+
+ization and performance are actually visible at any given time, addressing any evident 
+
+problem with corresponding proportionate intervention. It is such an approach that 
+
+is currently most advocated, although actual regulation even as per it remains patchy. 
+
+There are two problems with this approach. One is that digital changes take place too 
+
+fast. And a lot of them are latent, involving building digital presence and power below 
+
+the surface, and therefore not easily visible nor their implications immediately evident. 
+
+This could even be a deliberate strategy by the dominant players. In any case, major 
+
+digital corporations take a considerably forward looking, long-term, view of disrupting 
+
+industrial age systems and building new digital ones in their place. Their visible impacts 
+
+(especially such as can get perceived in a negative light), full monetization, etc. are 
+
+often planned to come in later. This is behind the astronomical investments into digital 
+
+corporations that make little profit or may even be running huge losses, while offering 
+
+free or subsidized services. Such a long-term approach of dominant digital businesses 
+
+blindsides regulators looking to address only immediately visible issues. Considerably 
+
+aggravating this problem is a second one. The regulatory thinking, frameworks and 
+
+tools employed by this still conservative approach are of an industrial age vintage. They 
+
+either render key digital developments even more invisible to the regulators (often more 
+than what is visible to the plain eye, not employing the regulatory lens,)74 or make them 
+
+see and address such developments in a manner that is not effective. The stickiness of 
+
+outdated regulatory theory in changed times is most conspicuous in the scarcity of 
+
+appropriate academic work on digital economy regulation. Policy-makers themselves 
+
+are getting relatively more aware of the uniqueness of digital realities around them, 
+
+and their considerable insularity to existing regulatory approaches. They however are 
+
+expectedly not up to new economic and regulatory modelling that requires consider-
+
+able theoretical underpinning. 
+
+  74  Which is perhaps why popular outcry against digital power concentration has far out-paced regulatory responses. 
+
+   27   
+
+This paper proposes a third, new, approach. Our current economic systems still mostly 
+
+exhibit features of industrial age, but what is important to understand is the often 
+
+invisible but very forceful digital logic that is transforming them. Such transformation 
+
+is more rapid in some sectors than others. But it is inevitable in all sectors, as surely 
+
+as mechanization and industrialisation transformed the economy and society. New 
+
+regulatory theories, frameworks and interventions must be designed to address the 
+
+digital logic and its transformational force. These interventions have to be applied side 
+
+by side along with those arising from industrial age regulatory frameworks. The right 
+
+mix will be pragmatic as well as bold and forward-looking. This requires developing 
+
+new concepts, definitions and models of digital economy, an exercise attempted briefly 
+
+and indicatively in the following two sections.
+
+6.  Digital economy as about data and 
+intelligence
+
+In examining the transformational nature of digital changes, we can begin with a clear 
+
+empirical fact. Seven out of the top ten companies by market value globally are digital 
+corporations, as mentioned earlier.75 Investors evidently believe that the future is  digital, 
+
+and are ready to put their money on it. Every one of these corporations focusses on data 
+
+and AI as their key strategy. Their strengths in hardware, software and/or  platforms are 
+
+all increasingly oriented to this cumulative purpose. They are even ready to subsidize 
+
+these contributing services to acquire dominance in the data and AI layers. Mobile 
+
+hardware is subsidized to hook one onto a telecom service network, telecom service gets 
+
+offered for free or is subsidized to get one on certain applications, and applications are 
+free or subsidized to get one’s data.76 Both by the global valuation of companies, and 
+
+in digital practices on the ground, the centrality of value of data to emerging  economic 
+
+systems is very evident. 
+
+  75  Supra n 7
+  76  Free handsets for telecom service contracts is the main telecom service model in the US. Facebook sought to 
+provide free connectivity for accessing its Free Basics application. So many applications are free because they 
+collect valuable data.
+
+   28   
+
+Although still positioning themselves as technology companies, almost all dominant 
+
+digital corporations aim for lead roles in different non-technical sectors. Their plan is 
+
+not just to provide technology services to existing dominant players in these sectors; 
+
+they challenge them through strategies aimed at disrupting the sector and leading its 
+
+value chains through control over its data and AI. Commerce, transport, hotels and 
+
+finance are some front-runner sectors for such disruption and capture, but others 
+
+will follow. 
+
+If not old-fashioned technology support, what exactly do these digital corporations 
+
+bring to a sector, so much so that they aim to lead its value chains? The CEO of 
+
+Daimler – German auto-mobile company that makes Mercedes cars – observed in 
+
+2015 that, more than each other, traditional car-makers fear Google and Apple as 
+competitors.77 Traditional car manufacturers have all the industrial expertise and 
+
+IP capital for the auto-mobile sector, neither do they lack in finance. What is it 
+
+that Google and Apple have but traditional car-makers do not, which is so valuable 
+
+in the new era that its possession can take one right to the top of the value chain? 
+
+Technology support simply cannot be that resource of the highest value. This highest 
+
+value resource is the data related competencies of Google and Apple, which can be 
+
+generalized across sectors. 
+
+Daimler’s CEO put it very well when he said that the contest is to be the ‘brain’ of the 
+
+car, not its physical components. Alphabet’s auto-mobile company, Waymo, sources 
+
+cars from Fiat and Jaguar and installs its own computing hardware and software in 
+them.78 This quite fits the ‘brain’ analogy. A favourite quote of Waymo’s CEO is: “We’re 
+not building cars; we’re building better drivers”.79 This ‘driver’ being built by Waymo is 
+
+machine intelligence replacing human intelligence. Evidently, Waymo’s business is to 
+
+develop mobility related digital intelligence. Similar is the main and defining business 
+
+  77  Daimler CEO Rants that they Won’t be the Foxconn of Car Makers for Apple. (2015, September 17). Patently Apple. 
+https://www.patentlyapple.com/patently-apple/2015/09/daimler-ceo-rants-that-they-wont-be-the-foxconn-of-car-
+makers-for-apple.html 
+
+  78  McGee, P. (2019, January 31). Robotaxis: can automakers catch up with Google in driverless cars?. Financial Times.
+
+https://www.ft.com/content/dc111194-2313-11e9-b329-c7e6ceb5ffdf
+
+  79  Welch, D. & Bergen, M. (2018, June 1). Why GM and Waymo Rely on Allies in Self-Driving Race. Bloomberg News. 
+
+https://www.ttnews.com/articles/why-gm-and-waymo-rely-allies-self-driving-race
+
+   29   
+
+of other digital corporations; building the digital intelligence for the traditional sector 
+
+that they seek to dominate. It has been estimated that, in ten years, Waymo may be 
+
+valued at more than the combined value of Ford, GM, Fiat-Chrysler, Honda and elec-
+tric carmaker Tesla.80 This shows what the business of owning the digital intelligence 
+
+of a sector is worth, and how it comes to lead the value chains in an emerging digital 
+
+economy context. 
+
+A digital economy can be considered to have arrived when the digital intelligence 
+
+components of an economy become most valuable, more than the physical and even 
+
+the IP components. (A corresponding parameter could be used to mark the shift from 
+
+agrarian to industrial society.) This is not the intelligence of humans or their organi-
+
+zations, the knowledge capital. This is the disembodied intelligence that is digital and 
+
+inside machines. It has its own (new) economics – with its unique new forms and 
+
+processes of production, distribution and consumption. What is driving much of the 
+
+current social and economic change therefore is the economics of digital intelligence, 
+
+as it was economics of industrialisation and economics of IP in an earlier era (and not 
+
+yet fully superseded).
+
+Without comprehending the economics of industrialisation it was neither possible to 
+
+understand the larger social and political processes, nor – more to the point of this 
+
+paper – develop necessary frameworks of economic regulation. To regulate the  digital 
+
+economy we therefore need to first examine the economics of digital intelligence. 
+
+This requires understanding how control and management of the resource of digital 
+
+intelligence constitute the key logic and force of digital economy changes. And how 
+
+the owner of digital intelligence comes to be at the top of emerging digital economy 
+
+value chains in every sector. 
+
+Rather than digital or even data economy, a more appropriate term for the current eco-
+
+nomic form is ‘intelligence economy’. The needed mental shift to comprehend the new 
+
+paradigm of a digital society and economy is aided if we focus less on data and more on 
+
+digital intelligence. Data and digital intelligence are of course intrinsically connected. 
+
+  80  Supra n 78
+
+   30   
+
+Digital intelligence is insights derived from data; and data may be considered as unre-
+
+fined, or potential, intelligence. An intelligence-centric thinking and vocabulary can 
+
+better help understand the value of key digital economy resources, and how they are 
+
+applied to constitute a digital economy.
+
+People tend to be somewhat blasé about their data being taken. It is much more 
+
+difficult to maintain a similar attitude of nonchalance to intelligence about oneself 
+
+being collected. Intelligence has this necessary actionable element, including of con-
+
+trol, which evokes immediate concern. Data is taken for no other purpose than to 
+
+derive intelligence from it, about the person or the group whose data it is. Shoshana 
+
+Zuboff ’s term ‘surveillance capitalism’ well captures the deeper implications of cul-
+ture, power and exploitation with regard to the dominant digital economy model.81 
+
+But the general economic aspects and processes of digitalization may get better 
+
+represented by ‘intelligence economy’. This term is more neutral, and focusses on 
+
+the central resource of a digital economy. ‘Surveillance capitalism’ is an appropriate 
+
+term if the main purpose is to examine and expose problematic digital changes; 
+
+‘intelligence economy’ is preferable if planning to control and divert digital changes 
+
+for the greatest public good. Both terms serve different important objectives. This 
+
+paper’s focus is economic. 
+
+Economic value of intelligence is much more self evident than that of data, as are the 
+
+logic and means of its application in economic processes. One major problem with 
+
+understanding the contemporary digital economy shifts is the invisibility in economic 
+
+and regulatory texts of its key resources, data and intelligence, and how they interact 
+
+with economic processes, reorganising them. Those beginning to look at the role of 
+
+data and its derivatives still largely treat them as a kind of a separate, super-imposed 
+
+layer over existing economic operations and models. This is very inadequate, and also 
+
+misleading, as the role of data and intelligence becomes increasingly structural and 
+
+transformational. 
+
+  81  Naughton, J. (2019, January 20). ‘The goal is to automate us’: welcome to the age of surveillance capitalism. The Guardian. 
+https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-
+facebook
+
+   31   
+
+AI as denoting the intelligence factor in a digital economy is also not most suited to our 
+
+purposes. AI gets seen in technology terms (as a basket of human intelligence simulating 
+
+technologies), whereas here we are interested in disembodied intelligence as a socio-eco-
+
+nomic resource and factor, even if doubtlessly a product of digital technologies. The term 
+
+‘digital intelligence’ fits this requirement much better. It stands for digitally disembodied 
+
+intelligence in its social and economic role, as it plays out in the relevant socio-economic 
+
+processes and systems. 
+
+The ‘brain’ analogy employed by Daimler’s CEO can help understand the nature of 
+
+digital economy systems, and the key resource and factor of production behind them. 
+
+‘Brain’ happens to be the name of Google’s Machine Intelligence team since 2010. 
+
+ Alibaba’s cloud intelligence platform is also called ‘Brain’. Its smart city project in Kaula 
+Lumpur, and a few other cities, is called ‘City Brain’.82
+
+Key digital corporations are basically aiming to be the ‘brain’ or the central intelligence 
+
+of any economic system. What is Uber to transportation and AirBnB to short-term 
+
+accommodation? It is simplistic to consider them just interaction platforms, which no 
+
+doubt is what they started as. They still depend on that structural position as the means 
+
+of interacting with users, and for mining all the valuable data. But their key economic 
+
+role is increasingly to be the ‘brain’ or the central intelligence of their respective sector. 
+
+Employing such intelligence to organize and orchestrate the sector’s actors and activities 
+
+is what makes them such valuable companies. 
+
+Apple seeks to leverage its wearable devices, as well as mobile phones, to become the 
+
+main health data collecting platform, aiming thereby to be the ‘brain’ of the digital 
+heath ecosystem.83 Google is approaching the same goal from the side of generic data 
+
+and AI competencies, partnering with traditional health players to help them organize 
+their health data and obtain insights from it.84 Google is also entering into wearable 
+
+  82  City Brain Now in 23 Cities in Asia. (2019, October 28). Alibaba Cloud. https://www.alibabacloud.com/blog/city-
+
+brain-now-in-23-cities-in-asia_595479 
+
+  83  Evans,  J.  (2019,  September  30).  How  Apple  is  building  a  world-class  digital  health  ecosystem.  Computer  World. 
+https://www.computerworld.com/article/3442099/how-apple-is-building-a-world-class-digital-health-ecosystem.
+html 
+
+  84  Comstock, J. (2016, February 25). Google’s UK AI subsidiary DeepMind partners with NHS to develop medical 
+apps. Mobi Health News. https://www.mobihealthnews.com/content/googles-uk-ai-subsidiary-deepmind-partners-
+
+   32   
+
+devices,85 apart from benefiting from its control over Android software running on 
+
+most mobiles globally. Apple is improving its general AI competencies and also part-
+nering with traditional health service providers.86 The ultimate objective of key digital 
+
+corporations is to own and control the intelligence of any sector’s socio-economic 
+
+activities, in this case of the health sector. 
+
+Intelligence as a resource has a uniquely centralising quality. On the input side, a combined 
+dataset is many times more productive of intelligence than two or more separate datasets.87 
+
+On the output side, since the main function of intelligence is to coordinate and organize, 
+
+one integrated ‘brain’ performs better for any system than it being split into two or more. 
+
+This inherent characteristic of intelligence is the main reason behind digital economy’s 
+
+evident tendency towards rapid concentration of economic power. The intelligence factor 
+
+is even more centralising than the network effect, which, somewhat erroneously, continues 
+
+to be considered as digital economy’s primary monopoly inducing element. (Although it 
+
+does remain a very important one. Also, the two factors of networking and intelligence 
+
+interplay and work together.) Intelligence based  centralization – whereby most actors in 
+
+an economic system draw their digital intelligence from one centrally owned source – is 
+
+much more difficult to reverse than one based just on ordinary network effect.
+
+7.  Going beyond the platform – Digital 
+ecosystems
+
+Cloud computing software and applications form the technology enclosures within 
+
+which data is collected and digital intelligence is deployed to orchestrate various 
+
+ economic actors and activities of a sector. They provide the rules of interaction among 
+
+nhs-develop-medical-apps
+
+  85  Bensinger,  G.  (2019,  November  5).  Why  Google,  a  software  giant,  is  spending  billions  to  get  into  gadgets.  The 
+Washington  Post.  https://www.washingtonpost.com/technology/2019/11/04/googles-hardware-dreams-havent-
+yet-yielded-home-run/ 
+
+  86  Institutions that support health records on iPhone and iPod touch.Apple. https://support.apple.com/en-in/HT208647, 
+The 5 ways Apple wants to transform health care. (2019, January 22). Advisory Board. https://www.advisory.com/
+daily-briefing/2019/01/22/apple
+
+  87  Customer value increases through combination of data sets. (2018, November 20). Telia. https://www.telia.fi/en/
+
+yrityksille/article/junction-telia-crowd-insights-data 
+
+   33   
+
+various actors and activities. Command over the system’s intelligence remains central, 
+
+but next in importance is owning these techno-processes and the rules inscribed in 
+
+them. The two roles are of course connected and mutually reinforcing.
+
+With data and intelligence flowing through them, these digital techno-processes 
+
+encompass huge swathes of socio-economic activity in any sector; going right down 
+
+to  micro-processes  of  production  (tapping  Internet-of-Things  data  along  with 
+
+ enterprise data), surveilling intimate personal behaviour of consumers and other actors 
+
+ (picking data from personal devices), and managing everything in-between (logistics, 
+
+ intermediaries, payments, etc.). All socio-economic actors and activities of a sector 
+
+digitally enclosed and connected in this manner together constitute a ‘digital ecosystem’, 
+a term increasingly in vogue.88 
+
+Digital ecosystems represent a very new form of economic organization that penetrates 
+
+much deeper into our social and personal spheres – also controlling them much more 
+
+strongly, even as outwardly it is presented as a set of loosely held arrangements – than 
+
+has been the norm in industrial economic systems (think, huge factories, retail and 
+
+hotel chains, public transport system, and so on). Uber, Amazon and AirBnB are good 
+
+examples of corporations leading digital eco-systems in their respective areas. 
+
+Every corporation desires to be the sole provider of technology and data-intelligence 
+
+processes of a sectoral digital ecosystem. Both digital intelligence, and software based 
+
+rules-of-play, have strong tendencies towards centralising power. However, as digital 
+
+eco-systems are gradually taking shape in different sectors, digital corporations often 
+
+have to enter into partnerships for this purpose. Such partnerships can be oriented 
+
+to complementing competencies; like the Walmart-owned Indian e-commerce giant, 
+
+Flipkart, partnering with Google for the latter’s AI based Personal Assistant, in order 
+
+to counter Amazon’s advantage of linking its Personal Assistant Alexa with its e-com-
+
+  88  Gartner Research defines digital ecosystem as “an interdependent group of enterprises, people and/or things that 
+share  standardised  digital  platforms  for  a  mutually  beneficial  purpose,  such  as  commercial  gain,  innovation  or 
+common interest”. Bennett, M. (2017, April 12). What is a digital ecosystem, and how can your business benefit 
+from one?. The Telegraph. https://www.telegraph.co.uk/business/ready-and-enabled/what-is-a-digital-ecosystem/
+
+   34   
+
+merce platform.89 Partnerships may include traditional dominant actors in a sector. 
+
+The Chinese company Baidu has developed a smart transport platform, ‘Apollo’, that 
+is being partnered by Ford, Daimler, Volvo and Microsoft.90 The threat of domination 
+
+of transport intelligence by Alphabet’s Waymo seems to be a common and unifying 
+
+concern. Waymo has its own partners in the auto industry. After spending consider-
+
+able time trying to develop its own industrial applications platform, General Electric 
+
+brought in Microsoft as its partner, given the latter’s well-established competencies in 
+cloud computing and business applications.91 Internal power struggles among part-
+
+ners would no doubt continue, but such partnerships are seen as important to cement 
+
+control over the dominant digital ecosystem in any sector. 
+
+The key structural feature of the digital economy, in terms of its organization, therefore 
+is neither the uni-dimensional value chains, led by IP firms, of the late 20th century 
+
+industrial economy, nor the two dimensional cloud based interaction platforms pio-
+
+neered by Internet companies in the 2000’s, that are the subject of some regulatory 
+
+attention of late. It is three dimensional digital ecosystems. The body of such digital 
+
+ecosystems is composed of cloud computing infrastructure and applications, with the 
+
+rules of interaction and performance inscribed in them. And its key flows, and the 
+
+main resources, are data and digital intelligence. Such digital ecosystems will enclose, 
+
+reorganize and intelligently manage economic activities in all sectors, defining what a 
+
+digital society is essentially about. 
+
+The nature of such digital ecosystems – their tight integration, as well as jostling for key 
+
+structural advantages within and across them – is made evident by some significant 
+
+contemporary developments. 
+
+  89  Singh, J. (2018, April 12). Google Home in India: Why Google and Flipkart Believe the Time Is Right. Gadgets 360. 
+https://gadgets.ndtv.com/smart-home/features/google-home-in-india-why-google-and-flipkart-believe-the-time-
+is-right-1836753 
+
+  90  Statt, N. (2017, July 5). Baidu partners with Ford, Nvidia, and others to boost its self-driving car platform. The Verge. 
+
+https://www.theverge.com/2017/7/5/15923966/baidu-apollo-self-driving-car-platform-ford-intel-nvidia 
+
+  91  GE  and  Microsoft  enter  into  their  largest  partnership  to  date,  accelerating  industrial  IoT  adoption  for  customers. 
+(2018). Microsoft News Centre. https://news.microsoft.com/2018/07/16/ge-and-microsoft-enter-into-their-largest-
+partnership-to-date-accelerating-industrial-iot-adoption-for-customers/
+
+   35   
+
+The ICT industry has traditionally been a uniquely open one; ‘openness’ being a strong, 
+almost ideological, value in this sector.92 Hardware was separate from software, and the 
+
+network from applications that run over it. Those times seem to be ending. So high is 
+
+the economic prize in becoming the dominant digital actor in any sector, and across 
+
+sectors, that, as far as possible, no serious player wants to risk dependence on another 
+
+company for any key component or service. Erstwhile pure application companies like 
+Google and Facebook are getting down to manufacturing their own computing chips.93 
+
+The ICT value chain right from computing chips to AI engines is being consolidated by 
+
+many key global digital corporations. It is not just that the supply chain is integrated, 
+
+but components and services are increasingly designed for best optimality within a 
+corporation’s own or partners’ technology systems.94 
+
+A strong geopolitical dimension has arisen to this race for dominating and leading 
+
+emerging sectoral digital ecosystems. The US not only banned Chinese telco Hua-
+
+wei’s 5G technology from its networks, it is also putting pressure on its allies to keep 
+it out.95 After the US stopped supply of chips for some Chinese companies, China is 
+investing big time in chip manufacturing.96 The US embargo on Huawei is recognized 
+
+by many as a tipping point in the US-China tech war, which was building up for quite 
+some time.97 In response to the withdrawal of Google’s applications from its phones, 
+
+including Android, Huawei is developing its own mobile operating software, and other 
+basic services like applications store and search engine.98 
+
+  92  Girard, B. & Perini, F. (Eds.). (2013). Enabling Openness:The future of the information society in Latin America and 
+
+the Caribbean. IDRC. https://www.idrc.ca/sites/default/files/openebooks/578-6/index.html 
+
+  93  Welch, C. (2018, April 18). Facebook is building a team to design its own chips. The Verge. https://www.theverge.
+
+com/2018/4/18/17254236/facebook-designing-own-chips-ai-report 
+
+  94  Vincent, J. (2018, July 26). Google unveils tiny new AI chips for on-device machine learning. The Verge. https://
+
+www.theverge.com/2018/7/26/17616140/google-edge-tpu-on-device-ai-machine-learning-devkit 
+
+  95  Bing, C. & Stubbs, J. (2019, April 16). U.S. to press allies to keep Huawei out of 5G in Prague meeting: sources. 
+Reuetrs.  https://www.reuters.com/article/us-usa-cyber-huawei-tech/u-s-to-press-allies-to-keep-huawei-out-of-5g-
+in-prague-meeting-sources-idUSKCN1RR24Y
+
+  96  China  to  Funnel  $29  Billion  Towards  its  Chip  Ambitions.  (2019,  October  29).  Bloomberg  News.  https://www.
+
+bloomberg.com/news/articles/2019-10-29/china-to-funnel-29-billion-towards-its-chip-ambitions
+
+  97  Stewart,  E.  (2019,  August  19).  The  US  government’s  battle  with  Chinese  telecom  giant  Huawei,  explained.  Vox. 
+
+https://www.vox.com/technology/2018/12/11/18134440/huawei-executive-order-entity-list-china-trump 
+
+  98  Rahman, M.Huawei is testing its own Search app for its smartphones. XDA Developers. https://www.xda-developers.
+
+com/huawei-search-mobile/ 
+
+   36   
+
+The US and China are said to be engaged in an AI race. Such a description may be 
+
+amiss in pitching it primarily as a technology race. Digital technologies in themselves 
+
+are not that difficult to replicate – relatively speaking, certainly less than industrial 
+technologies.99 This is definitely so for a region like the EU with its world-beating 
+
+industrial and scientific base. What then explains EU’s exclusion from this ‘AI race’ 
+
+if it was primarily technological? After all, China has (nearly) replicated US’s digital 
+
+strength in just over a decade and a half, starting from software capabilities that were 
+
+perhaps less than India’s. The more important competence that China developed was 
+
+in running digital ecosystems (cloud applications enclosed data and intelligence flows) 
+
+in live socio-economic settings. Appropriate policy conditions for development of 
+
+domestic computing and data enclosures is what made such live digital ecosystems 
+
+possible. They started small but scaled up fast, quickly reaching a critical mass due to 
+
+China’s large upwardly mobile middle-class. After gaining sufficient size and might, 
+
+Chinese digital corporations successfully went global. Technology developments took 
+
+place largely as backward linkages from such policy enabled business achievements, 
+
+arising from rapid feedback loops and spirals (while not discounting the very high 
+
+technology investments that China made). The failure of EU (and others) therefore 
+
+may be related more to economic policy than to technology. 
+
+Appropriate economic concepts and vocabulary should be employed to present dig-
+
+ital economy issues, reducing reliance on technology based descriptions. The race 
+
+between the US and China is not of AI as much as to be the home of key centres of 
+
+globe spanning digital economy ecosystems – that are configured and led by digital 
+
+intelligence. All other countries face the imminent danger of having only, low value, 
+
+physical economic activities left to them, with their intelligence outsourced to one 
+
+of these two global digital power centres. The economic and political consequences 
+
+of this should be self evident; fears of digital colonization are no exaggeration. Out-
+
+sourced intelligence based dependencies will be much stronger, and therefore more 
+
+exploitative, than those based on industrial value chains. Kai-Fu Lee, AI scientist, 
+
+99  There are many reasons for this; the basic open architecture of digital technologies, they being social and collaborative 
+artefacts, and so on. Compare a local enterprise developing the software platform for a ride hailing operation in a 
+developing country to the technical requirements for manufacturing cars.
+
+   37   
+
+businessman and commentator, says that all other countries will be “forced to negoti-
+
+ate with whichever country supplies most of their AI software — China or the United 
+
+States — to essentially become that country’s economic dependent, taking in welfare 
+
+subsidies in exchange for letting the ‘parent’ nation’s AI companies continue to profit 
+from the dependent country’s users”.100
+
+For pressing economic, social, cultural, political and geopolitical reasons, it is important 
+
+to devise ways to effectively decentralize digital power through new digital economy 
+
+models. This requires new frameworks for regulating the digital economy which proceed 
+
+from an understanding of how digital businesses and ecosystems aggrandize power 
+
+causing its concentration in a few hands. The focus of such new regulatory frameworks 
+
+has to be on flows of data and digital intelligence in digital ecosystems.
+
+8.  A framework for data-intelligence centric 
+regulation
+
+This section develops a simple model of key activity layers of data and digital  intelligence 
+
+value chains or digital ecosystems, from the point of view of their effective regulation. 
+
+A common way to begin developing a digital ecosystem is by establishing a digital 
+
+interface with consumers through a platform or application that provides attractive 
+
+services in a given sector. These services could be informational or interactive, putting 
+
+consumers in touch with different service providers. Any such platform is sought to 
+
+be scaled up as rapidly as possible. This generally involves inexpensive or free services 
+
+made possible by cross-subsidizing across a two-sided market and/or the support 
+
+of deep-pocketed venture capital. In a winner-takes-all kind of a situation, the idea 
+
+is to very quickly get way ahead of any possible competition. As interacting actors 
+
+leave digital traces of their online activities, the platform in time becomes a  monopoly 
+
+(or duo- or tri-poly) data mine for that sector. Such data is stored and processed over 
+
+cloud computing infrastructure, and insights derived from it, including AI based ones. 
+
+100  Lee,  K.  (2017,  June  4).  The  Real  Threat  of  Artificial  Intelligence.  The  New  York  Times.  https://www.nytimes.
+
+com/2017/06/24/opinion/sunday/artificial-intelligence-economic-inequality.html
+
+   38   
+
+Other sources of relevant data may also be accessed in this process, including through 
+
+partnerships or buying it off data markets. The ensuing digital intelligence gets employed 
+
+to first coordinate, then reorganized, and finally control all or most actors and activities 
+
+in the sector, creating a digital ecosystem. 
+
+Such an intelligence based management of a sector’s activities releases a lot of new value. 
+
+A part of this economic surplus can be passed on to different actors, suppliers as well 
+
+as consumers, to ensure their stickiness. Simultaneously, through gradual tweaking of 
+
+platform rules, and intelligence based allurements, both suppliers and consumers are 
+
+induced to shift their behaviour and activities to sync more and more with the digital 
+
+ecosystem operator’s model. There are behavioural and technical lock-ins involved in 
+
+such syncing, but, in time, the lock-in based on centralized intelligence about the entire 
+
+operations far exceeds all other kinds. Such a lock-in through intelligence-dependence 
+
+becomes nearly irreversible. Accumulation of data and accretion in system intelligence 
+
+keep going up infinitely in quick loops. This is what causes immense concentration 
+
+of economic power with the digital business that operates any digital ecosystem, and 
+
+owns its intelligence.
+
+Amazon, Uber, Facebook and Google are some examples of such consumer facing 
+
+digital initiatives. Another strategy to become the key intelligence player in a sector is 
+
+a B2B one. Here major traditional actors in a sector holding access to consumers, as 
+
+well as to their data, are targeted for data-based partnerships. Alphabet’s DeepMind 
+
+partners with health organizations like the UK’s National Health Service, and some 
+hospitals in the US.101 Apple, IBM and Microsoft have entered into similar partnerships 
+
+with hospitals across the world. Both data collection and application of intelligence to 
+
+sectoral activities in such a B2B strategy is done through the partners. The effort is to 
+
+develop deep sectoral intelligence through such means, and then explore ways to use 
+
+it to disrupt the sector and gain pivotal controlling position in its digital ecosystem. 
+Alphabet is now also developing direct health data interfaces with consumers.102 
+
+101  Boyd, C. (2019, October 21). Google gets green light to access five years’ worth of sensitive patient data from NHS, 
+sparking privacy fears. Mail Online. https://www.dailymail.co.uk/health/article-7588337/Google-gets-green-light-
+access-FIVE-YEARS-worth-sensitive-patient-data-NHS-trust.html
+
+102  Through the acquisition of fitness tracking company FitBit. 
+
+   39   
+
+The  key  activity  segments  or  layers  of  data  and  intelligence  value  chains  are;   
+
+(1) collection of data, (2) data’s processing over cloud computing infrastructure,  
+(3) development of digital intelligence and its centralization or networking,103 and  
+
+(4) application of such intelligence to socio-physical activities and actors in the 
+
+ relevant sector. Digital power is built and entrenched by digital corporations through 
+
+vertical integration (including partnerships based) of these four kinds of digital activ-
+
+ities. This logic of digital domination is largely sector independent. In fact, digital 
+
+consolidation of these activities often extends across sectors. Collection of useful 
+
+data may be cross-sectoral; people’s mobility data or commerce data, for instance, 
+
+may contribute important health intelligence. As intelligence is created, it can also be 
+
+applied cross sectorally in many ways. AI in visual, voice, natural language process-
+
+ing, and many other such areas, is of a generic kind, employed in almost all sectors. 
+
+There could also be more specific cross applications, for instance between mobility 
+
+intelligence and that related to consumer goods, or health. This explains why digital 
+
+corporations are able to develop digital presence and power across sectors. Such pres-
+
+ence and power can be strengthened through partnerships with existing traditional 
+
+players in a new sector, at least initially as an entry strategy.
+
+In order to check concentration of digital power, competition regulators, and economic 
+
+policy makers, need to understand and work on the four key segments of digital value 
+
+chains involving sourcing of data, its cloud-based processing, data’s conversion into 
+
+digital intelligence, and application of intelligence to real world systems.  Various kinds 
+
+of regulatory interventions and remedies are possible that aim at these key  segments 
+
+of the value chain, including behaviourial ones that force certain actions or absten-
+
+tions on key actors. These would be oriented to ensuring transparency, openness, 
+
+competition and fairness in each of the key segments of digital value chains. Interven-
+
+tion could be regarding access to data, something that regulators in many countries 
+are actively considering.104 It could involve expectations of transparency, openness 
+
+ (providing  non-discriminatory access and services) and contractual fairness from 
+
+103  Digital  intelligence  may  all  be  pooled  in  one  place,  or  it  can  operate  as  a  distributed  network,  but  mostly  with 
+
+considerable centralized control. 
+
+104  Supra n 56
+
+   40   
+
+cloud service operators, who provide the infrastructure for data storage and process-
+
+ing. The  processes and economics of how digital intelligence gets developed and then 
+
+applied to socio-physical systems in different sectors is yet an under-examined area. 
+
+But this layer is most important as the source of real digital power in any sector. How 
+
+to make the processes of development and application of intelligence more transparent, 
+
+open, competitive and fair, needs to be explored.
+
+Some such governance and regulatory thinking has begun. It is most visible in relation 
+
+to the layer of data collection and provisioning. There is an increasing accent on eco-
+
+nomic rights over one’s personal data and its portability, and the need for dominant 
+
+firms to share important non personal data with other businesses. In the cloud comput-
+
+ing layer, some work is being undertaken towards open standards, and interoperable 
+platforms.105 Promotion of domestic cloud computing infrastructure, including public 
+infrastructure, is also advocated.106 As mentioned earlier, economic governance of the 
+
+intelligence layer is much less discussed. Although the general alarm about concentra-
+
+tion of power in and through this layer is the highest; represented in the considerable 
+
+rhetoric around an ‘AI race’ and ‘AI supremacy’. AI governance is still in the ‘harm 
+
+prevention’ phase, as was data governance till very recently. It has not moved into eco-
+
+nomic governance mode. Economic governance of digital intelligence should however 
+
+soon become extremely important as it is at the root of digital power. There is some 
+
+emerging work towards AI transparency, and open AI models. Public involvement in 
+the intelligence layer is also being considered.107 
+
+Current explorations around economic governance of data, computing and intelligence 
+
+will be greatly benefited if brought under a coherent framework of defining a digital 
+
+economy, laying out the central role of data and intelligence in it, and examining the 
+
+key logic and nodes of digital economic power concentration. Such a framework can 
+
+105  Project GAIA-X. A Federated Data Infrastructure as the Cradle of a Vibrant European Ecosystem. Federal Ministry 
+for  Economic  Affairs  and  Energy.  https://www.bmwi.de/Redaktion/EN/Publikationen/Digitale-Welt/project-
+gaia-x.pdf?__blob=publicationFile&v=4
+
+106  (2016). European Cloud Initiative -Building a competitive data and knowledge economy in Europe. https://eur-lex.
+
+europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016DC0178&from=EN
+
+107  Launch of first European Artificial Intelligence platform coordinated by Thales. (2019). Thales. https://www.thalesgroup.
+
+com/en/group/journalist/press-release/launch-first-european-artificial-intelligence-platform-coordinated 
+
+   41   
+
+provide a set of regulatory principles and tools for the digital economy, better predicting 
+
+what kinds of regulation of digital economy are likely to be successful as well as their 
+
+possible intended and unintended effects. 
+
+All the above discussed are behavioural remedies imposing conditions of specific action 
+
+and/or abstention on firms that are dominant, or may tend towards domination. In an 
+
+increasing order of depth of intervention, these could require certain kinds of trans-
+
+parency, non-differentiation, and/or resource sharing. All these are very important 
+
+regulatory tools to be contextually employed as found useful. However, as discussed 
+
+earlier, certain inherent features of the emerging digital economy greatly limit the effec-
+
+tiveness of behavioural remedies since they require constant evaluation of conditions, 
+
+behaviour monitoring, and fine-tuning of interventions. 
+
+Firstly, digital economy changes occur far too rapidly, and in directions and manners 
+
+that are difficult to anticipate. Second, the role of data and intelligence, and changes 
+
+related to them, tend to be rather invisible. They are in the intangible realm in any case, 
+
+but also no forms of denominating, accounting and auditing have yet been devised for 
+
+them, as for instance done for finance or intellectual property. Data and intelligence 
+
+operate behind impenetrable technical walls fully in control of the firms whose dom-
+
+inance is to be checked. Third, dominance entrenchment and lock-ins in the digital 
+
+realm are very quick as they are intense, often irreversibly so. It will be very difficult, 
+
+if not impossible, for regulators to closely monitor what is happening and continually 
+
+attune appropriate remedial measures, all in right time before irreversible dominance 
+develops. Various regulatory decisions against Google108 and Facebook109 involving 
+
+fines and directives for behaviourial change, especially in the EU, hold testimony to 
+
+the ineffectiveness of such interventions. These generally are too little too late, serving 
+
+perhaps more to assuage regulatory guilt – or at best prevent some extremely egregious 
+
+behaviour – rather than have any real impact on the ever-increasingly dominance of 
+
+108  Antitrust: Commission fines Google €4.34 billion for illegal practices regarding Android mobile devices to strengthen 
+dominance of Google’s search engine. (2018). European Commission. https://ec.europa.eu/commission/presscorner/
+detail/en/IP_18_4581
+
+109  Mergers: Commission fines Facebook €110 million for providing misleading information about WhatsApp takeover. 
+
+(2018). European Commission. https://ec.europa.eu/commission/presscorner/detail/es/IP_17_1369
+
+   42   
+
+global digital corporations. Dominant digital corporations quickly make small shifts 
+
+in their business models, skirting what is completely to be off-limit, but this does 
+
+not affect their pivotal position as controlling the intelligence of the emerging digital 
+ economic and social systems.110
+
+Behavioural remedies therefore are unlikely to succeed in containing digital power 
+
+concentration. Regulators must also consider structural interventions that enforce 
+
+permanent ex ante structural changes on economic operations of dominant firms. 
+
+Regulators should have at hand a whole suite of data and intelligence value chains 
+
+related regulatory possibilities – both behavioural and structural. These can then be 
+
+contextually applied in appropriate mixes to effectively regulate the digital economy, 
+
+towards sufficiently diffusing economic power across the economy. 
+
+A recent UNCTAD document on competition in digital economy cites the US tech-
+nology law expert, Tim Wu, as suggesting:111 
+
+“...(since) ex post intervention is unsuited to the information industry, a 
+constitutional approach may be used to deal with the concentration of power 
+in the information economy... “a regime whose goal is to constrain and 
+divide all power that derives from the control of information”, based on the 
+separations principle, that is, “the creation of a salutary distance between 
+each of the major functions or layers in the information economy” . ”
+
+Wu has been an adherent advocate of net neutrality, implying structural separation 
+
+between the data transporting telecom layer and applications that work on such data. 
+
+It was earlier mentioned how, based on this principle, the French Digital Council 
+
+developed the notion of platform neutrality applying neutrality obligations to higher 
+
+digital layers as well. 
+
+110  Bhardwaj, P. (2018, May 12). Eight weeks after the Cambridge Analytica scandal, Facebook’s stock price bounces 
+back to where it was before the controversy. Business Insider. https://www.businessinsider.in/tech/eight-weeks-after-
+the-cambridge-analytica-scandal-facebooks-stock-price-bounces-back-to-where-it-was-before-the-controversy/
+articleshow/64130658.cms
+
+111  TD/B/C.I/CLP/54. Trade and Development Board.Trade and Development Commission. Intergovernmental Group 
+of Experts on Competition Law and Policy. Eighteenth session. Geneva, 10–12 July 2019. Competition issues in the 
+digital economy. Note by the UNCTAD. https://unctad.org/meetings/en/SessionalDocuments/ciclpd54_en.pdf
+
+   43   
+
+Governance of information and communication technologies has traditionally 
+
+ followed, as far as possible, a norm of separating key technology function layers; 
+whether unbundling the backhaul network from retail connectivity in telecom,112 
+
+and the application layer from data transport layer (net neutrality); or the Open 
+Systems Interconnect (OSI) model for working of Internet technologies;113 or sep-
+aration of hardware from software;114 or, lately, employing open Application Pro-
+
+gramming Interfaces (API) to separate data based enabling services from business 
+operations that use them.115 As digital technologies become the bedrock for global 
+
+domination across  sectors, such wholesome practices are increasingly given a short 
+shrift, or get deformed and co-opted in captive technology models.116 Digital tech-
+
+nologies are intermingling with very powerful economic and social processes, in a 
+
+manner that may often render it difficult to see them apart. Governance of digital 
+ technologies, especially since the 1990’s, has been largely based on soft law117 and 
+
+self-regulation practices that are anchored in tech community’s ideological openness 
+and  collaborative spirit.118 In the current circumstances, upholding public interest 
+
+in this all-important area requires such soft approaches to be buttressed by hard 
+
+law, and its strict enforcement. It is here that the competencies and legal strength of 
+
+market regulators can come to the rescue of technology governance. 
+
+The dominant digital economy model is based on integration into a single entity, or 
+
+through close partnerships, the four key functional layers of data collection, cloud 
+
+infrastructure, digital intelligence development, and its application to various sectoral 
+
+activities. The resultant digital behemoth is what is causing so much consternation 
+
+112  Also called open access network, see Cohill, A. (2019). The Economics of Local Transport Services over Open Access 
+
+Networks. https://www.isemag.com/2019/03/municipal-broadband-open-access-broadband-networks/
+
+113  What  is  the  OSI  Model.  (2018).  https://www.inetdaemon.com/tutorials/basic_concepts/network_models/osi_
+
+model/what_is_the_osi_model.shtml
+
+114  B. Grad, (2002). A personal recollection: IBM’s unbundling of software and services. IEEE Annals of the History of 
+
+Computing, vol. 24 (1), doi: 10.1109/85.988583.
+115  About India Stack. https://www.indiastack.org/about/
+116  Amadeo, R. (2018, July 21). Google’s iron grip on Android: Controlling open source by any means necessary. Ars 
+https://arstechnica.com/gadgets/2018/07/googles-iron-grip-on-android-controlling-open-source-by-
+
+Technica. 
+any-means-necessary/
+
+117  Hagemann,  R.,  Huddleston,  J.  & Thierer,  A,  (2018).  Soft  Law  for  Hard  Problems: The  Governance  of  Emerging 
+Technologies  in  an  Uncertain  Future.  Colorado  Technology  Law  Journal.  Available  at  SSRN:  https://ssrn.com/
+abstract=3118539 
+
+118  Yeoman,  S.  (2018).  Will  self-regulation  fix  the  Internet?.  https://www.datacenterdynamics.com/en/opinions/will-
+
+self-regulation-fix-the-internet/
+
+   44   
+
+among people, politicians and regulators alike. Such an integrated digital corporation 
+
+is an unsustainable economic and social form. Left to itself, it will suck away economic, 
+
+social, political and cultural power from all sides concentrating it with itself, by owning 
+outsourced intelligence about everything.119
+
+Regulators should consider structurally separating the four main functional layers 
+
+of the digital value chain, with a view to check concentration of digital power. Such 
+
+ separation will ensure a fair play for a competitive field of digital businesses in each 
+
+layer. It will mean a plurality of sources and management of digital intelligence of 
+
+our society, providing a variety of options for enterprises, as well as for consumers 
+
+and citizens. 
+
+The tool of digital structural separation should be available to digital economy 
+
+ regulators to employ contextually as required, considering the conditions and require-
+
+ments of different sectors, size of digital businesses, and so on. The objective would 
+
+be to anticipate and pre-empt sector-wide vertically-integrated monopolistic  digital 
+
+ecosystems. The actual forms of structural separations that are mandated may depend 
+
+on many factors. It is possible that separation between some of these four layers is 
+
+sought and not others. Partial structural separation between two layers is also  possible. 
+
+The model of requiring full separations across all the four layers is presented as a 
+
+regulatory ideal-type. 
+
+Some kinds of digital structural separations are beginning to be considered, even if 
+
+not yet formally going under the name of economic regulation. The following three 
+
+sections discuss some such emerging developments, respectively in the data,  computing 
+
+and intelligence layers. It is proposed that these be subsumed under a holistic new 
+
+regulatory framework for the digital economy, underpinned by appropriate digital 
+
+economy theory.
+
+119  See for instance the amount of power Google-Alphabet – the archetypical vertically integrated digital corporation – 
+is drawing away from traditional players in the automobile and media industry. And it is foraying domineeringly 
+into other sectors like travel, health, employment, and so on. 
+
+   45   
+
+9.  Structural separation of the data layer 
+
+A primary driver of digital regulation has been concerns about people’s control over 
+
+their personal data. Recognising the limits of technical and other kinds of expertise that 
+
+an individual can command, the function of personal data management is being insti-
+
+tutionalized in specialized trustee organizations. Personal Information Management 
+
+Services enable individuals to retain their data and allow specific purpose based access 
+to it for companies offering data-based services.120 The concept of consent managers 
+proposed in India’s Personal Data Protection Bill, 2019 has a similar application.121 
+
+Japan’s Information Banks, set up following government guidelines, not only allow 
+
+individuals to control how their personal information is used for targeting services, 
+but also to monetize such use.122 This initiative also promotes use of data by local 
+
+businesses as against data exploitation by world’s ‘Big Four’ digital firms — Amazon, 
+Apple,  Facebook and Google.123 
+
+Such an arrangement can be viewed as structural separation of the function of personal 
+
+data collection and management from that of processing data for providing digital 
+
+services. Information Banks, for instance, can be viewed as independent personal data 
+
+infrastructures that provides personal data to a wide range of digital service providers 
+
+rather than such data getting monopolized by the initial collector. Trusted information 
+
+or data utilities have been envisaged, working independently from the firms that use the 
+data.124 Some of these are proposed to be run by city authorities.125 Use of such services 
+
+is optional at present, both for data subjects and data-using digital service providers. 
+
+But the viability of any optional arrangement is suspect, such is the all-round power 
+
+of vertically integrated digital corporations (they have many a digital carrot and stick 
+
+120  Loayza, A. (2019, March 21). Personal information management systems: A new era for individual privacy?.IAPP. 
+
+https://iapp.org/news/a/personal-information-management-systems-a-new-era-for-individual-privacy/
+
+121  Personal Data Protection Bill, 2019 (s. 23)
+122  Japan grants certification for first time to ‘information banks’. (2019, July 9). The Japan Times. https://www.japantimes.
+
+co.jp/news/2019/07/09/business/japan-grants-certification-first-time-information-banks/#.XkjZrXUzZ7g 
+
+123  Ibid 
+124  Kumar, P. (2016, June 11). What Will Spur the Adoption of Financial Data Utilities?. Golden Source Blog. https://
+
+www.thegoldensource.com/will-spur-adoption-financial-data-utilities/
+
+125  Boorsma, B., Khoong, H., Rantanen, T. & Slembrouk, S. Should cities turn to special utilities to manage data?. Smart 
+Cities Association. https://thesmartcityassociation.org/should-cities-turn-to-special-utilities-to-manage-data/
+
+   46   
+
+in their hands). Mandatory structural separation of the personal data collection and 
+
+management layer from data’s downstream processing for developing digital services 
+
+has therefore to be considered, where required.
+
+With consent of the individuals concerned, personal data intermediaries or managers 
+
+may also anonymize data and provide it to digital businesses in a use specific manner. 
+
+In an AI-based digital economy, anonymized group data is increasingly almost as val-
+
+uable as personal data. Privacy rights and economic rights over one’s data do not lapse 
+with the act of anonymization; they continue to abide in anonymized data.126 Such data 
+
+should only be used for purposes sanctioned by the data subjects, individually and/or 
+
+collectively. Personal data managers should be able track the use of anonymized data, 
+
+and, if appropriate, also monetize it, distributing the profit among the original data 
+
+contributors.
+
+Significant issues arise about whether personal data managers or trustees should be 
+
+private services, or community or public services. These services certainly require close 
+
+regulation to protect data subjects. This paper will not get into these issues, but they 
+
+are important to undertake further work on. 
+
+Data subjects are not the only sources of anonymized personal data. Many organizations 
+
+may hold it in various forms. Many kinds of data from entirely non personal sources are 
+
+also very useful and valuable. This could be data from machines and infrastructure, or 
+
+other artefacts, or data from the natural environment. Data infrastructures as special-
+
+ized third party institutions are emerging for managing and sharing non personal data 
+needed for digital businesses.127 Employing the imperative of structural separation, it 
+
+may be required that businesses that themselves use such data may not also manage data 
+infrastructures.128 All those who collect various data – at least the designated important 
+
+kinds – may be obligated to contribute it to data infrastructures. This may have to be 
+
+126  As per the Japanese Act on the Protection of Personal Information (ss. 36-39), the rights of data subjects continue to 
+abide in data subjects; Mittal A. (2020, January 14). Has India’s Privacy Bill Considered the Dangers of Unrestricted 
+Processing of ‘Anonymised’ Data?. The Wire. https://thewire.in/government/privacy-bill-anonymous-data
+
+127  Broad,  E.,  Tennison,  J.,  Starks,  G.  &  Scott,  A.  (2015).  Who  Owns  Our  Data  Infrastructure.  Open  Data  Institute. 
+
+http://theodi.org/wp-content/uploads/2019/12/266889068-Who-Owns-Our-Data-Infastructure-1.pdf
+
+128  Third party data trusts are emerging as such an institutional form, Hardinges, J. (2018). Defining a ‘Data Trust’.
+
+Open Data Institute. https://theodi.org/article/defining-a-data-trust/
+
+   47   
+
+done for free or on FRAND terms129 or through regulated data markets, depending on 
+
+the nature of data, its criticality for important economic and other functions, specific 
+costs incurred in collecting such data, and other relevant conditions.130 
+
+Data collection is often intrinsically linked to provision of digital services and it may 
+
+not be easy to separate them. Digital service providers’ access to data infrastructures 
+
+(including personal data services), as well as that of data infrastructures to various 
+
+data collection processes, have to be in real time, effective and secure. APIs can be 
+
+employed to appropriately structure such ongoing access, as per predefined rules. For 
+
+instance, an API of personal data manager can be integrated into the application of 
+
+digital service provider. Personal data coming from an individual goes directly to the 
+
+personal data manager, as per the provided consents, who in turn ensures protected 
+
+use-specific access to the digital service provider in real time. Regulators will need to 
+
+lay down the basic necessary processes and protocols for such purposes, and actively 
+
+monitor them. 
+
+Some basic conceptualizations are required around the nature of data, rights to its 
+
+value, and data sharing. Data is neither technology nor created knowledge or con-
+
+tent. But it has technical aspects, as well as an essential relationship to specific human 
+
+subjects (the most important data being personal or social). The latter, however, are 
+
+normally not the ones who hold and control the data, and may not even have access 
+
+to it. If data is to be shared, how widely should it be shared; just inside the social 
+
+group that is the source and subject of the data concerned, or openly? Should data 
+
+sharing follow the tradition of free and open source software that can then require all 
+subsequent derived data-sets also to be openly shared,131 or adopt the model of open 
+
+content sharing whereby various discriminations may apply, like between commercial 
+use or non-commercial use?132 Data is different from both technology and content in 
+
+that no creative element is involved. But this by itself cannot mean that data becomes 
+
+129  Fair, reasonable and non discriminatory terms. 
+130  Supra n 54, 56; Building a European data economy. (2017). European Commission. http://ec.europa.eu/newsroom/
+
+dae/document.cfm?doc_id=41205
+
+131  Gnu General Public License. (2007). https://www.gnu.org/licenses/gpl-3.0.en.html
+132  Share your work. Creative Commmons. https://creativecommons.org/share-your-work/
+
+   48   
+
+an unencumbered resource, for anyone to partake, and that no particular economic 
+
+rights exist for the human subjects of such data. It remains inexplicable why no clear 
+
+efforts have gone into developing the basis, norms and laws for sharing data, even as 
+
+it has today become the most important resource, with strong collective and public 
+
+interest aspects. 
+
+There hardly exist any data-related legal economic rights for the data source and sub-
+
+ject, whether individual or collectively as a group. In default, apart from a few privacy 
+
+obligations, data collecting digital corporations face almost no constraint in using 
+
+the data as they wish, and appropriating its entire economic value. Providing legal 
+
+economic rights to data subjects – individually and collectively – can be key to tem-
+
+pering the power of digital corporations. Within such primary economic rights of data 
+
+subjects, various kinds of privileges may be contextually allowed to those who collect 
+and process data. Europe had floated the idea of data producers rights,133 and India is 
+considering a group’s or community’s economic rights to its data134. Such rights can 
+
+provide the legal basis for structural separation of the data collection and provisioning 
+
+layer (under control of data subjects or their trustees) from the higher layers of data 
+
+and intelligence value chain. Targeting economic rights around key business resources 
+
+that cause dominance has traditionally been a part of structural remedies in regulation. 
+
+Beyond consumers of digital services, such rights of data sources and subjects have 
+
+significant implications for the power of various small economic agents in digital value 
+
+chains. Such actors could be traders on an e-commerce platform, drivers working 
+
+with a ride-hailing company, restaurant owners organized by a food delivery com-
+
+pany, or workers in a datafied manufacturing plant. Access to and rights over data 
+
+about the segments of economic activities directly connected to them can significantly 
+enhance their control over their own activities, and their overall bargaining power.135  
+
+133  Peter K. Yu. Data Producer’s Right and the Protection of Machine-Generated Data. 93Tul. L. Rev.859 (2019). https://
+
+scholarship.law.tamu.edu/cgi/viewcontent.cgi?article=2302&context=facscholar
+
+134  Draft  National  E-commerce  Policy.  (2019).  https://dipp.gov.in/sites/default/files/DraftNational_e-commerce_
+Policy_23February2019.pdf; Committee of Experts under the Chairmanship of Justice B.N. Srikrishna. (2018). For 
+a  detailed  treatment  of  the  concept  of  ‘community  data’  and  common  property  rights  frameworks  for  data,  see 
+Singh, P. J. (2019). Data and Digital Intelligence Commons (Making a Case for their Community Ownership). Data 
+Governance Network Working Paper 02.
+
+135  White,  A.  (2020,  January  17).  Amazon  faces  EU  antitrust  probe  over  use  of  data  from  smaller  traders.  Business 
+
+   49   
+
+Collective data rights of such groups vis a vis the platform concerned can perhaps have 
+
+even more impact on diffusing digital power, especially if supported by appropriate laws 
+
+and regulation. Such data rights can provide the basis for effective collective bargaining 
+
+as well as, possibly, such groups’ co-ownership of digital businesses whose main asset 
+after all is the localization developed from data contributed by these groups.136 
+
+Data localization has been advocated in many national jurisdictions, ostensibly mostly 
+
+for privacy and security concerns. Behind these more-publicized reasons, (legitimate) 
+national economic interests are often at play.137 But these are either not articulated 
+
+at all or presented in very broad and vague terms, without clarifying their basis and 
+
+practical implications. Seen in an economic governance framework, data localization 
+can be considered as a legitimate form of structural separation.138 Here, a national 
+
+community asserts its collective economic rights over its data to mandate storing and 
+
+processing of data within its borders. Taking forward the earlier discussion on man-
+
+dating third party data infrastructures, in control of data sources and subjects, it goes 
+
+to reason that such data infrastructures remain close to the data sources/subjects and 
+
+within the same jurisdiction as them. It allows data subjects to effectively exercise 
+
+their economic and other rights over data, employing the power of law if required. 
+
+Data localization reduces the vertical integration of data and intelligence processes 
+
+of global digital giants. The structural separation here is physical, and jurisdictional, 
+
+without necessarily a separation of economic control (which also is mostly needed as 
+
+per the earlier discussion, and is facilitated by such physical/jurisdictional separation). 
+
+It can have significant implications of digital power diffusion in favour of domestic 
+
+industry. This is especially so if accompanied by other elements of digital industrial 
+
+policy like economic data rights, enabling data infrastructures, supporting domestic 
+
+digital industry, and so on. 
+
+Standard.  https://www.business-standard.com/article/companies/amazon-faces-eu-antitrust-probe-over-use-of-
+data-from-smaller-traders-119071701636_1.html
+
+136  Singh, P. (2020, January). Economic Rights In A Data- Based Society. Public Services International. Friedrich Ebert 
+
+Stiftung
+
+137  Silber, T. (2019, February 28). GDPR Gives European Tech Companies A Major Advantage, Two EU-Based CMOs 
+Say.  Forbes.  https://www.forbes.com/sites/tonysilber/2019/02/28/gdpr-gives-european-tech-companies-a-major-
+advantage-two-eu-based-cmos-say/#62a07710713f 
+
+138  Singh, P. (2018 September). Data Localization, a matter of rule of law and economic development. IT for Change. 
+
+https://itforchange.net/sites/default/files/1584/Data_localisation.pdf
+
+   50   
+
+Physically distributed architectures of data storage and processing, keeping these 
+
+ activities close to the points of data’s origin, is an emerging computing concept that is 
+taking a strong hold.139 It can better protect data, safeguard the rights of data subjects, 
+
+and have a considerable impact on digital power concentration. Edge computing is one 
+
+such data processing architecture where data is processed close to the points of origin 
+instead of its centralized accumulation.140 Addressing concerns about excessive per-
+
+sonal data collection through mobiles, Google provides federated learning model on 
+
+its Android platform; instead of data travelling to Google’s central servers, it is insights 
+from data that are periodically picked up.141 
+
+Such a distributed and federated data architecture can also be employed for  institutions, 
+say schools or hospitals.142 Personal data stays within the institution and gets  processed 
+
+there, but it can still benefit from centralized intelligence services that pick periodic 
+
+insights from data stored locally at multiple similar institutions. A private sector initi-
+
+ative in the US offers a platform for collaborative research that is powered by federated 
+
+learning; “a framework for AI model development that enables us to train ML (Machine 
+
+Learning) models on distributed data at scale across multiple medical institutions with-
+out centralizing the data”.143 “Hospitals and research institutions retain control and 
+
+governance over patient data and can access a full and unforgeable record of which data 
+
+has been used for what purpose.” India’s National Digital Health Blueprint recommends 
+
+distributed institution-based storage of health data from where it can be temporarily 
+accessed as per need, and with consent.144 Country based data localization can also 
+
+be viewed as a special case of distributed data systems. 
+
+139  National Digital Health Blueprint. (2019). 
+140  Shaw,  K.  (2019,  November  13).  What  is  edge  computing  and  why  it  matters.  Network  World.  https://www.
+
+networkworld.com/article/3224893/what-is-edge-computing-and-how-it-s-changing-the-network.html
+
+141  McMahan,  B.  &  Ramage,  D.  (2017,  April  6).  Federated  Learning:  Collaborative  Machine  Learning  without 
+Centralized  Training  Data.  Google  AI  Blog.  https://ai.googleblog.com/2017/04/federated-learning-collaborative.
+html
+
+142  Rhodes, C. (2020, January 7). Federated Learning delivers AI to hospitals. Tech Radar. https://www.techradar.com/
+
+in/news/federated-learning-delivers-ai-to-hospitals 
+
+143  Owkin Manifesto. Owkin AI for Medical Research. https://owkin.com/manifesto/, Federated Learning. Owkin AI for 
+
+Medical Research.https://owkin.com/federated-learning/ 
+
+144  Supra n 139 
+
+   51   
+
+Overall, the principle of structural separation of the data collection layer manifests in 
+
+the need to develop distributed architectures and independent institutions for data 
+
+collection, storage, curation and provisioning in a manner that (1) strongly protects 
+
+privacy and other interests of data subject individuals and groups, and (2) ensures 
+
+that data required to effectively run a productive digital economy is available in an 
+
+adequate and equitable manner to various businesses and other data users, and is not 
+
+monopolized by a few dominant digital corporations collecting such data. 
+
+10.  Cloud neutrality and open digital ecosystems
+
+Cloud computing infrastructure is what supports data storage and processing. A recent 
+
+article in Wired observed that rather than the Internet – which is based on public pro-
+
+tocols and public interest governance – it is the cloud today that is digital economy’s 
+essential infrastructure.145 Clouds, unfortunately, are all privately owned, and extremely 
+
+non-transparent in their operations. On the lines of net neutrality, the article calls for 
+
+cloud neutrality, citing how digital corporations are employing dominance over this 
+
+vital infrastructural layer of digital economy to develop and entrench their power in 
+
+the higher layers. 
+
+A cloud computing infrastructure should prima facie be an inert technical service of 
+
+data storage and computing facilities. But the reality is much more complex, and getting 
+
+further so. The line between an ostensibly inert infrastructure and the valuable processes 
+
+of data and intelligence that run over it is increasingly diffused, and malleable. Strong 
+
+competitors in the higher layers of digital economy therefore try to avoid dependence 
+on a rival’s cloud infrastructure.146 It would not be so if cloud infrastructure was just 
+
+like a road on which all vehicles can ply (perhaps with toll payment), or a container 
+
+service providing global shipment, or a telecom network neutrally transporting 
+
+data around. 
+
+145  Wood,  M.  (2020,  October  2).  We  Need  to  Talk  About  ‘Cloud  Neutrality’.  Wired.  https://www.wired.com/story/
+
+we-need-to-talk-about-cloud-neutrality/ 
+
+146  Walmart  asked  its  suppliers  to  pull  away  from  Amazon  Web  Services  Unglesbee,  B.  (2017,  June  21).  Report: 
+Walmart  asking  suppliers  to  quit  Amazon  cloud.  Retail  Dive.https://www.retaildive.com/news/report-walmart-
+asking-suppliers-to-quit-amazon-cloud/445509/
+
+   52   
+
+The kinds of benefits a cloud provider can obtain from another party’s data processed 
+
+over its infrastructure remains a vague area. Strictly speaking, such a computing  service 
+
+should have no access at all to other party’s data, or – very importantly – to any of its 
+
+derivatives. There being no clear economic rights around data, its storage and  processing 
+
+is managed through private contracts. Such contracts may not be able to cover all 
+
+ elements of value that can be picked up from data being stored and processed on a cloud. 
+
+The contract may even be deliberately kept vague to allow room for the cloud provider 
+to obtain some data and intelligence related benefits.147 Such contracts depend on the 
+
+relative power of the involved parties, and a lot of services get offered on a ‘take it or 
+
+leave it’ basis. Cloud providers may also make available alluring subsidized (or even 
+
+free) applications to those whose data is processed in exchange for being able to derive 
+
+some benefits from their data. These services can be especially attractive when such 
+uses of data appear not to impact short-term interest of those bringing in the data.148 
+
+For example, a cloud provider offering a data-storage facility linked free or subsidized 
+
+application for industrial data of small and medium enterprises, or for business data 
+of small traders.149 
+
+Cloud computing providers are integrating AI software into their infrastructure. All 
+
+the top cloud providers, Amazon, Microsoft, Google, Alibaba and IBM, have their 
+
+own AI engines. These are available, often for free, for users to employ them to gain 
+
+AI-based insights from their data. While most free AI engines can also be downloaded 
+
+and independently operated on-premises, the computing power required for intelligent 
+
+operations of even ordinary businesses is increasingly likely to be so huge that access 
+
+to cloud computing infrastructure may become necessary. Additional top-up services 
+
+like security, explainablity, data bias removal, etc. get offered, that may become indis-
+
+pensable at least for small to medium users. This ensures stickiness of cloud users. 
+
+But such services generally need access to the underlying data, which means that the 
+
+147  Higgin, B. (2018, January 31). When It’s Your Data But Another’s Stack, Who Owns The Trained AI Model?. Artificial 
+Intelligence Technology And The Law. http://aitechnologylaw.com/2018/01/who-owns-cloud-trained-ai-model/ 
+148  This  is  not  much  different  from  how  the  business  of  providing  personal  free  or  subsidized  personal  Internet 
+
+applications and data collection through them
+
+149  Jio MS to give data storage to traders Rel Jio, Microsoft join hands to offer cloud infra for businesses. (2019, August 
+12).  Economic  Times.  https://m.economictimes.com/markets/stocks/news/rel-jio-microsoft-join-hands-to-offer-
+cloud-infra-for-businesses/articleshow/70639952.cms
+
+   53   
+
+computing service provider can very likely gain some insights from the data being 
+processed.150 The cloud provider will employ the old refrain of ‘we will only use such 
+
+data as is essential to provide a service and to improve it’ which is too familiar from 
+
+the terms of services for various personal digital applications. In sum, a dominant 
+
+computing service provider seems to have many ways of deriving benefits from the 
+
+data processed using its services.
+
+The first wave of data businesses arose from personal Internet applications like those 
+
+of Google and Facebook. Their free services attracted millions of people whose per-
+
+sonal data, after a while, became the main stock-in-trade. Amazon and Uber took this 
+
+model to physical sectors, where along with consumer data, supply side data was also 
+
+important. The economy is getting into its second wave of datafication with a greater 
+
+focus on intensive collection and deep processing of enterprise and business data. It is 
+
+here that integrated offers of cloud computing and AI will be key. As most enterprises 
+
+and businesses get datafied and interested to develop insights from their data for more 
+
+effective functioning, they will have to depend largely on such integrated cloud services. 
+
+This is a key piece of the puzzle towards developing captive digital ecosystems. To be 
+
+able to comprehensively command and digitally orchestrate most economic actors in a 
+
+sector, having them on ones own cloud computing and AI infrastructures is extremely 
+useful.151 If not among a select few players who own cloud/AI infrastructure, dominant 
+
+digital corporations take great care in choosing their cloud and AI platforms, relying 
+
+generally on very close partnerships.
+
+Such muddying of the separation between the cloud computing layer and data and 
+
+intelligence processes running on its top is a very important emerging means of digital 
+
+power consolidation. Employing free or subsidized computing and AI services, cloud 
+
+150  Amazon  Sagemaker.  AWS.  https://aws.amazon.com/sagemaker/,  Sarkar,  T.  (2019,  November  25).  Google’s  new 
+‘Explainable AI” (xAI) service. Medium. https://towardsdatascience.com/googles-new-explainable-ai-xai-service-
+83a7bc823773, Sagar, R. (2020, February 7). Google’s New ML Fairness Gym Has A Clear Mission — Track Down 
+Bias  &  Promote  Fairness  In  AI.  Analytics  India  Magazine.https://analyticsindiamag.com/machine-learning-
+fairness-bias-google-open-ai-gym/
+
+151  Primarily e-commerce companies, both Amazon and Alibaba are investing heavily in cloud infrastructure, AI and 
+
+services.
+
+   54   
+
+computing infrastructures are likely to become enclosures for extracting intelligence 
+
+value from the data of most enterprises and businesses.
+
+At the very least, there will the problem of self-discrimination by the player owning 
+
+the computing service layer while also competing, at another level, with businesses 
+
+dependent on its computing infrastructure. This is akin to the issue of digital platforms 
+
+and businesses dependent on them, resulting in calls for structural separation between 
+
+the two. The structural position of cloud computing services is quite like that of the 
+
+providers of essential infrastructures of transportation and telecommunication in the 
+industrial economy, which required regulatory interventions including break-ups.152
+
+All this make a strong case for cloud neutrality. A clear distinction, and regulatory 
+
+separation, has to be enforced between the inert pure technology layer of cloud com-
+
+puting service and the data and intelligence systems working over it. 
+
+The recent EU initiative called GAIA-X well illustrates the implications of cloud com-
+
+puting governance and architecture on the higher layers of data and intelligence, and 
+
+thus on the power of digital corporations. Considered to be a direct response to the 
+
+dominance of American and Chinese service providers, this project proposes a federated 
+cloud computing infrastructure for the EU.153 With ‘data sovereignty’ as the driving 
+
+motivation behind the project, the GAIA-X initiative is based on the idea that ‘geogra-
+phy of the cloud matters’.154 What this essentially means is that if a country or a region 
+
+does not have its own cloud infrastructure it cannot really own its data, underlining 
+
+the nature of vertical digital integrations that this paper focusses on.
+
+GAIA-X project’s approach to addressing vertical digital integrations is to support 
+
+ distribution of cloud infrastructure across many players with common, open and 
+
+public, protocols of interoperability, migration, privacy, security and data sharing. 
+
+ Dominant cloud services and applications thus get deprived of their key power to set 
+
+152  In this same analysis we can also add platform applications like Android and Alexa, and sectoral ones like Baidu’s 
+
+Apollo which proposes to be the Android of transportation. 
+
+153  Bedingfield,  W.  (2020,  January  27).  Europe  has  a  plan  to  break  Google  and  Amazon’s  cloud  dominance.  Wired. 
+
+https://www.wired.co.uk/article/europe-gaia-x-cloud-amazon-google 
+
+154  Supra n 145
+
+   55   
+
+the rules-of-digital-interactions, which is handed over to neutral third parties. A series 
+
+of such neutral institutions in the form of industry associations and community/ public 
+
+bodies is envisaged in a EU wide architecture. These neutral institutions will, inter alia, 
+
+take up certification. Enforcement of such common rules of engagement ensures that 
+
+cloud operators provide neutral technical services and cannot unduly appropriate value 
+
+from other parties’ data and intelligence processes. 
+
+Cloud services and applications provide the software inscribed rules of digital inter-
+
+action for various actors. We discussed how, apart from command over the system’s 
+
+intelligence, it is control of these rules that ensures dominance over digital ecosystems. 
+
+Such rules may be entirely proprietary of a single player, like for Amazon’s e-com-
+
+merce ecosystem. Or they could be partnership oriented, like for Baidu’s Apollo smart 
+transportation platform155 and Facebook’s digital currency Libra.156 Such governance 
+
+structures can be expected to remain closely attuned to the commercial interests of the 
+
+principals. The GAIA-X project seeks to hit at this power of dominant digital corpo-
+
+rations to set the rules for digital ecosystems and govern them. 
+
+Bringing a society’s overall – and sector-wise – digital rules and means of interac-
+
+tion under public interest control, through public and/or neutral bodies, is one of 
+
+the most important imperatives to check digital dominance. Appropriate public/
+
+community roles have to be reclaimed in the new digital institutional ecology, sepa-
+
+rating them from those roles that legitimately belong to the private sector. It requires 
+
+working at two fronts. One is to develop and enforce frameworks of common rules 
+
+and protocols, through suitable governance bodies. The GAIA-X project proposes 
+an EU-wide cooperative body for this purpose.157 Second, is to go further, where 
+
+required, putting in public efforts to set up technical and basic services platforms for 
+
+digital enablement and interoperability of all actors, big and small. Such platforms 
+
+155  Apollo Governance. Apollo. https://apollo.auto/docs/manifesto.html
+156  Berenzon, D. (2019, July 17). Libra: A Governance Perspective. Bollinger Investment Group. https://medium.com/
+
+bollinger-investment-group/libra-a-governance-perspective-d1c2d9c87f65 
+
+157  Supra n 105
+
+   56   
+
+can be general or sector-specific. The EU is developing platforms of this kind for 
+logistics and health ecosystems.158
+
+India has been developing public/community platforms for interoperability and 
+basic digital services support.159 It has also been working on frameworks of rules 
+
+and protocols for digital interaction among actors in specific sectoral ecosystem like 
+health.160 Indian government has put up a white paper on National Open Digital 
+
+Ecosystems (NODE) as a general framework to regulate, enable and support digital 
+
+interactions and collaboration in any sector. It is based on similar principles as EU’s 
+
+GAIA-X project (which also employs a ‘digital ecosystems’ vocabulary) – openness, 
+interoperability, privacy, security and data sharing.161 NODE rules of engagement 
+
+will follow some common principles, which include inclusiveness, participatory 
+
+design and co-creation. Like GAIA-X, it too has a strong accent on accountable and 
+
+transparent, public interest governance for digital ecosystems, that “ensure(s) fair 
+
+value sharing while keeping stakeholder behaviours in check, with both preventive 
+
+and corrective measures laid out”. 
+
+These EU and Indian frameworks represent a very different design for digital  ecosystems 
+
+than the currently dominant model discussed throughout this paper. At its heart is a 
+
+set of public interest rules of digital interactions for all players, anchored in suitable 
+
+ governance structures that are participatory, transparent and accountable. However, 
+
+good intentions, or even project level efforts, including building of a few enabling 
+
+platforms, will not suffice to move the very powerfully entrenched dominant digital 
+
+ecosystem model in the desired direction. Whether the transport instance of GAIA-X in 
+
+the EU, or the transport NODE in India, will govern the transport digital  ecosystem in 
+
+the respective places, or it will be controlled by Uber, Waymo or Baidu’s Apollo platform 
+
+158  AEOLIX: The first harmonised platform for logistics information sharing in Europe. Co-gistics. http://cogistics.eu/
+aeolix-the-first-harmonised-platform-for-logistics-information-sharing-in-europe/  and  Our  Mission.  The  Global 
+Connector. https://echalliance.com/our-mission/ 
+
+159  An example of a general platform for basic enabling digital services, like digital identity, consent for data processing, 
+e-authentication,  etc.,  is  IndiaStack  [https://www.indiastack.org/about/].  A  sector  specific  platform  is  National 
+Urban Innovation Stack [https://smartnet.niua.org/sites/default/files/resources/national_urban_innovation_stack_
+web_version.pdf]
+
+160  National Digital Health Blueprint. (2019). 
+161  White  Paper  on  National  Open  Digital  Ecosystem.  (2020).  https://www.medianama.com/wp-content/uploads/
+
+mygov_1582193114515532211.pdf
+
+   57   
+
+remains an open question. Yochai Benkler was rather prescient to, more than a decade 
+back, call it “the battle over the institutional ecology of the digital environment”.162 
+
+A concerted and holistic national and international approach is required, backed by 
+
+necessary laws, with new digital economy specific regulatory frameworks and strong 
+
+public sector initiatives. 
+
+Since infrastructural capacities are necessary to have the independence of  managing 
+
+one’s digital ecosystems, also required are considerable investments in building 
+
+domestic data centres and strong cloud computing capabilities. Some countries are 
+
+now  focussing on this imperative, seeing it as an important step towards building 
+
+national digital power and lowering dependence on vertically integrated global  digital 
+corporations.163 
+
+Some digital corporations like Microsoft and IBM have less vertically integrated business 
+
+models – focussing more on technology support than leading and managing sectoral 
+
+value chains. They may have a relatively more open approach to globally distributed and 
+
+less vertically integrated cloud services than those like Amazon and Google whose main 
+interest often lies in higher, non-technical, digital economy layers.164 Such  significant 
+
+differences in digital business models are important to understand for appropriate regu-
+
+lation of digital economy, and undertaking other policy initiatives. Technology support 
+
+business should in general be kept separate by regulation from various sectoral businesses. 
+
+11.  A distributed intelligence model
+
+Whether governing data or computing, the real implicit target is of diffusing control 
+
+over digital intelligence. Being digital economy’s key economic resource, and factor of 
+
+production, it is the main basis for digital power concentration. Governance in the area 
+
+162  Benkler, Yochai. (2006). The wealth of networks : how social production transforms markets and freedom. Yale 
+
+University Press.http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf
+
+163  Draft  National  E-commerce  Policy.  (2019).  https://dipp.gov.in/sites/default/files/DraftNational_e-commerce_
+
+Policy_23February2019.pdf
+
+164  Strategic interests and directions of companies do change, and thereby also their business models. We mention such 
+differences of business approaches only to underline that different digital economy models are indeed possible, even 
+while working with large digital companies.
+
+   58   
+
+of digital intelligence is still in a very early phase. ‘AI openness’ is a term  beginning to 
+
+be used. However, openness of AI currently relates mostly to the input side of develop-
+
+ing digital intelligence, being mainly about open scientific research and open sourced 
+
+AI software. It is such openness of AI that has been embraced by digital majors, with 
+suspicious-looking enthusiasm.165 They have taken their lessons from how open source 
+
+ software was found to be key for building Internet platforms, whereby even the king of 
+
+proprietary software, Microsoft, now evangelizes open source. With a much larger set of 
+
+data/AI scientists and techies getting devoted to collective improvements in this field, 
+
+open sharing of AI research and basic AI tools quickly scales-up general AI knowledge. 
+
+Rapid enhancement in AI science, and general methodologies and tools, is obviously 
+
+most beneficial to those digital corporations that are in the best position to apply AI 
+
+to large-scale social and economic activities, and are closest to supremacy in AI. This 
+
+is why dominant digital corporations are foremost in facilitating such openness of AI. 
+
+While not at all discounting the importance of technical breakthroughs in the  science 
+
+and technology of AI – and dominant players do safeguard some key technology 
+ developments for their exclusive use, now or in the future,166 the real contest may lie 
+
+elsewhere. It is in the areas of (1) how much, and what kinds of, data one can bring 
+
+to these AI tools, and, (2) next in importance, how much computing power one can 
+
+muster. Perhaps even more than these, the real trophy comes from embedding such 
+
+AI into real world socio-physical systems in any sector, and dominating them by con-
+
+trolling their intelligence. We mentioned in an earlier section how what is termed as 
+
+the global AI race may really be about commanding globe-spanning sectoral digital 
+
+ecosystems, and not mastering AI technologies per se. 
+
+Two conclusions may be drawn from this discussion. One, on the input side of AI, ‘AI 
+
+openness’ cannot just be about openness of AI related technical developments and 
+
+tools – while no doubt it is very important. It has at least equally to be about open and 
+
+equitable access to (1) data, and (2) computing power. Thus, on the input side, it is 
+
+165  Shafto, P. Why Big Tech Companies Are Open-Sourcing Their AI Systems. IFL Science. https://www.iflscience.com/
+
+technology/why-big-tech-companies-are-open-sourcing-their-ai-systems/
+
+166   Simonite, T. (2018, July 31). Despite Pledging Openness, Companies Rush to Patent AI Tech. Wired. https://www.
+
+wired.com/story/despite-pledging-openness-companies-rush-to-patent-ai-tech/
+
+   59   
+
+really ‘open AI’ only when AI technologies and tools, data, and computing power, are all 
+
+openly shared, or at least equitably accessible. This is the basis of our earlier arguments 
+
+for regulating the data collection/provisioning and computing layers; and perhaps their 
+
+structural separation from the AI layer being the only effective way to ensure open and 
+
+equitable access to these key inputs for AI. Second, as much as openness on the input 
+
+side of AI, or perhaps even more, attention needs to be devoted to openness and fair-
+
+ness on the output side of AI, which is what has direct economic and social impacts. 
+
+On the output side of AI, openness discussions are mostly about bias in AI and explaina-
+
+bility and auditability of AI. We are still in the ‘harm prevention’ phase of AI governance, 
+
+as it was earlier with data governance (privacy and security). It is only lately that economic 
+
+governance of data has begun to be considered. Even dominant digital corporations 
+appear keen on ‘harm prevention’ based regulation of AI.167 What has not appeared on 
+
+the radar is how the gains of AI or digital intelligence get distributed, and who controls 
+such distribution.168 The policy and regulatory question that arises is who governs those 
+
+who control the distribution of benefits from AI or digital intelligence, and how? It is 
+
+time for economic regulation of digital intelligence to begin moving centre-stage.
+
+What is economically most valuable are not AI software tools, but trained AI models, 
+
+that have crunched enough data, employing huge computing power, to actually be mak-
+
+ing intelligent predictions and ‘decisions’, acting in relation to real world socio-physical 
+
+systems. It is to denote such systemic operational form, function and impact of AI that 
+
+we employ the socio-economic term of digital intelligence as being the real resource 
+
+and factor of production in a given economic context. 
+
+OpenAI is an organization committed to ensuring safe and beneficial AI that is made 
+available to all of humanity.169 It is such distributional aspect of the output side of ‘AI 
+
+167  Why  Google  thinks  we  need  to  regulate  AI.  Financial  Times.  https://www.ft.com/content/3467659a-386d-11ea-
+
+ac3c-f68c10993b04 
+
+168  The concentration of economic power in the hands of whoever emerges the winner in the AI race is feared to be so 
+high that there is a proposal for a windfall clause binding such a winner to donate a portion of their profits O’Keefe, 
+C., Cihon, P., Flynn, C., Garfinkel, B., Leung, J., and Dafoe, A. (2020). The Windfall Clause: Distributing the Benefits 
+of AI. Centre for the Governance of AI Research Report. Future of Humanity Institute, University of Oxford. https://
+www.fhi.ox.ac.uk/windfallclause/
+
+169  About Open AI. Open AI. https://openai.com/about/ 
+
+   60   
+
+openness’ that requires urgent focus. When pressed to answer how this will actually 
+
+be ensured in practice, the CEO of OpenAI said, “a utility is the best analogy for the 
+vision that we have”.170 This a remarkable approach, as is the overall OpenAI initiative. 
+
+However, AI is not a kind of resource that an philanthropic initiative can just put on 
+
+a free pipe or wire to be consumed directly like water or electricity. AI is a variegated, 
+
+systems-embedded resource operating in complex contextual combinations, differ-
+
+ently for various elements of the digital society and economy. In general, though, AI 
+
+is indeed the single most valuable resource whose possession enables considerable 
+
+control over one’s physical and social environment. Some kind of utility model for 
+
+generic AI services is certainly needed, but also required is to build downstream 
+
+capacities for their systemic adoption and use. 
+
+Any AI utility model throws up important issues of governance of AI or digital intel-
+ligence, both harms related171 and distributional. Is AI more like software, and should 
+
+be distributed on the model of free and open source software, requiring all further 
+
+derived products to also be shared on a similar basis? Or, is it more like open content, 
+
+whereby protective discriminations may be applied, for instance, between commercial 
+
+and non-commercial uses, or among different kinds of users? (Many utilities adopt 
+
+protective discrimination, like pricing and distribution of electricity in India.) Or, do 
+
+we need entirely new concepts and models for distributing AI in ways that are most 
+
+beneficial and just? What are the rights in this regard of sources and subjects of data 
+
+on which AI is built? Who decides such issues? And very importantly, who decides 
+
+which kind of AI to spend effort on and which not?
+
+Can a philanthropic approach to managing distribution of AI and its benefits be good 
+
+enough and sustainable? OpenAI has already run into many problems that point to the 
+need for larger public governance of AI and its outputs.172 OpenAI realized that being 
+
+170  Hao, K. (2020, February 17). The messy, secretive reality behind OpenAI’s bid to save the world. MIT Tech Review. 
+https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-
+messy-secretive-reality/
+
+171  Having committed to open source its outputs, OpenAI got so concerned about ‘fake news’ related harm potential of 
+its natural language processing AI, that it initially refused to open source it. Hopping, C. (2019, February 18). OpenAI 
+refuses to make its AI writer open source over fake news fears. IT Pro. https://www.itpro.co.uk/technology/33017/
+openai-refuses-to-make-its-ai-writer-open-source-over-fake-news-fears 
+
+172  Ibid 
+
+   61   
+
+on the AI vanguard requires mind-boggling amounts of computing power, which is 
+very expensive.173 This made OpenAI go back on its plans to be fully a non-profit; it has 
+
+now established a for-profit arm. This move expectedly encountered much criticism. 
+
+OpenAI has also taken in a billion dollar investment from Microsoft, part of which is 
+
+as service from Microsoft’s cloud computing platform, Azure. We discussed earlier the 
+
+problems with such vertical integration. 
+
+OpenAI does not seem to consider that appropriate distribution of an important socio-eco-
+
+nomic resource like AI or digital intelligence requires participatory decision-making. 
+OpenAI is in fact a very secretive and closed organization.174 Such depoliticization of 
+
+what are mistakenly taken to be just neutral technical resources (not that technology is 
+
+apolitical) is commonplace in the digital arena. It is perhaps no wonder that OpenAI is 
+
+trying to develop Artificial General Intelligence, as a kind of all-problems solving panacea. 
+
+This underplays context and variability, and is a relatively centralized solution to digital 
+
+intelligence needs of the economy and society. Both technical as well as socio-economic 
+
+feasibility of such an all-encompassing digital intelligence approach is suspect. 
+
+OpenAI is a commendable initiative, especially in highlighting the distributional issues 
+
+relating to digital era’s most important resource. But its limitations underscore the 
+
+urgent need for public initiatives and economic governance frameworks in this area. 
+
+Section 9 of this paper on data governance discussed how federated learning can ena-
+
+ble, say, hospitals to retain their data but share periodic insights from it to build the 
+required AI.175 To extend this illustration; the AI generated from such federated datasets 
+
+can be collaboratively owned by the hospitals concerned, and independently applied 
+
+by each as per its needs. In such a model, not just data-based learning is federated for 
+
+developing AI, but also the resultant AI is jointly owned by the distributed sources of 
+
+learning. This may require a third party AI trust, on the lines of data trusts. Such an AI 
+
+trust will employ the needed processes to develop, curate and provide contextual AI 
+
+services, entirely as per the respective needs and demands of the subscribing hospitals. 
+
+173  Computing power used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling 
+time (by comparison, Moore’s Law had a 2-year doubling period, Amodei, D. & Hernandez, D. (2018, May 16). AI 
+and Compute. Open AI. https://openai.com/blog/ai-and-compute/ 
+
+174  Supra n 169
+175  Supra n 142
+
+   62   
+
+This represents an important structural separation between development of digital intel-
+
+ligence and its distributed self-determined use. Traditional sectoral actors –  hospitals 
+
+in this case – will thereby be able to retain considerable independence and power in 
+
+the new digital context rather than being dictated by a monopoly digital intelligence 
+
+owner, as is the case with existing digital economy models. 
+
+In the above illustration, a co-owned institution received periodic data-based insights 
+
+from, and provided the required AI or digital intelligence to, a set of organizations 
+
+undertaking similar economic and social functions. It is possible for the AI developing 
+
+organization to be an independent private business providing highly contextual AI 
+
+as a service. Its sources of data/insights could be the client AI users, as well as others. 
+
+The only regulatory bar on such a core AI business has to be that it cannot enter into 
+
+downstream sectoral services having a direct interface with consumers (like hospitals, 
+
+trading, cab services, etc.). What is being proposed here is a structural separation 
+
+between the AI development layer and AI application (to real world systems) layer – 
+
+with or without co-ownership of sector-related AI by the actors who run the real world 
+
+socio-physical systems in a given sector. 
+
+Such a separation between AI development and application may not be absolute so 
+
+as to completely bar a direct sectoral service provider from developing any AI at 
+
+all. With edge computing, even IoT devices can create and work on their own local 
+
+AI. Sectoral service providers can develop local AI for their operations, but retain it 
+
+internally. Or, they can provide it for a consideration to upstream specialized intelli-
+
+gence businesses – in a transparent and non-discriminating manner. The bar would 
+
+be against such a sectoral business itself entering into the business of specialized AI 
+
+provider for its own sector, or to any other. 
+
+It may be useful to illustrate the practical implications of these discussions: Con-
+
+sider Google to be a developer of generic mobility AI; employing the extensive loca-
+
+tion-based mobility data with it, collecting driving data directly or through partners 
+
+with vehicles on the roads, developing and integrating various mobility related gen-
+
+eral AI like those in the areas of vision, sound, etc., and so on. It would provide such 
+
+mobility AI services to car manufacturers and car fleet operators (like Uber) – on a 
+
+   63   
+
+facilitated, non-discriminatory open access model,176 but it cannot itself enter these 
+
+businesses. Uber, on the other hand, can develop such AI as may be needed internally 
+
+for managing its business of urban transportation (perhaps in a city or region specific 
+
+manner). But it cannot itself become a specialized AI provider to other ride-hail-
+
+ing companies, or to car manufacturers. Although it may supply data/insights/AI to 
+
+upstream specialized AI providers, working in its own sector or others. (There may 
+
+be a separate bar on a sectoral service provider like Uber employing its data/AI to 
+expand into another sectoral service,177 but our focus here is on vertical separation 
+
+between AI development and sector-based AI application layers.)
+
+Putting in such circuit-breakers against intelligence power consolidation will be key 
+
+for a competitive, fair and just digital economy and society. Some may argue that such 
+
+measures will reduce the overall AI potency and availability in the society. This may 
+
+even be true to some extent (although an open, competitive ecology may actually be 
+
+more productive of various forms of ‘socially needed intelligence’ than a closed on). 
+
+Society has to make the required efficiency versus distribution trade-offs, much more 
+
+so for such an extremely powerful and inherently centralising resource like AI and 
+
+digital intelligence. Highly concentrated AI power is in any case unsustainable, and 
+potentially destructive for all.178 
+
+In fact, in the presented model of separating AI development from its application, it is 
+
+feared that specialized AI service providers may still become too powerful, and monop-
+
+olistic, in owning everyone’s intelligence; even if they are prevented from being able to 
+
+directly apply such intelligence to various social-economic contexts and are obliged to 
+
+176  Employed in telecommunication regulation, also called unbundled access. In telecommunication regulation, both 
+the backhaul provider and local competitors can provide consumer services. But here we are proposing that the 
+‘backhaul’ AI provider is barred from offering consumers services due to the unique nature of how AI operates. 
+177  Using  its  expertise  to  manage  drivers,  Uber  has  expanded  into  on-demand  staffing.  Sawers,  P.  (2019,  October 
+3). Uber’s push into on-demand recruitment is a natural progression for the gig economy. Venture Beat. https://
+venturebeat.com/2019/10/03/ubers-push-into-on-demand-recruitment-is-a-natural-progression-for-the-gig-
+economy/
+
+178  People as diverse as Late Stephan Hawking and Elon Musk have feared such annihilating destruction. Jones, R> 
+(2014, December 2). Stephen Hawking warns artificial intelligence could end mankind. BBC News. https://www.bbc.
+com/news/technology-30290540; Kettley, S. (2019, November 14). Elon Musk’s AI warning: Artificial Intelligence 
+is  a  ‘potential  danger  to  the  public’.  Express.  https://www.express.co.uk/news/science/1204119/Elon-Musk-AI-
+warning-Artificial-Intelligence-danger-Neuralink-Elon-Musk-latest
+
+   64   
+
+provide it instead to intermediary sectoral businesses.179 To that extent, we may have to 
+
+move to the model of co-owing of such specialized sector AI business through a third 
+
+party trust by sectoral businesses on the ground (the hospitals example above). Or, to 
+
+provide such sectoral (and general) AI through a public utility like arrangement, as was 
+
+suggested by the CEO of OpenAI, but with an appropriate, context sensitive, public 
+
+governance model, that takes into consideration all the complexities of AI provisioning. 
+
+How structural separations are actually sought, for digital intelligence and other layers, 
+
+will depend on the context and need of the specific sector, and perhaps also on the 
+
+nature (including size) of particular businesses. Some kinds of structural separations 
+
+along with behavioural remedies may be preferred in one context, and others in a dif-
+
+ferent one. It is also possible to design partial structural separations. 
+
+The idea is to have a socio-economic model where a society’s digital intelligence is 
+
+adequately distributed, in space and ownership. Such distributed digital intelligence 
+
+can, however, be contextually joined-up and organized through suitable techno-eco-
+
+nomic means to address specific economic and social needs. The system has to ensure 
+
+sufficiently high productivity, as well as fair distribution. Digital businesses have to 
+
+be ordered within such a framework. The system will be designed to have adequate 
+
+interface with regulators, and levers of intervention for them. This will ensure keeping 
+
+it to the canons of public interest, as determined from time to time through democratic 
+
+political processes at different places. This is an entirely different design for digital 
+
+ecosystems than what exists today. (Although one can see considerable shades of it in 
+
+the discussed European GAIA-X and the Indian NODE models of digital ecosystems.)
+
+Market forces by themselves will not take the world towards such a distributed AI or 
+digital intelligence model, with diffused digital power; rather the exact opposite.180 
+
+Taking comfort simply from many key actors embracing openness in the lower layers of 
+
+179  Their  key  disadvantage  in  this  of  course  is  of  losing  the  data  mining  interface,  which  problem  though  effective 
+data  infrastructures  can  remedy  for  them  to  some  extent.  This  shows  the  complexity  of  digital  regulation,  and 
+ineffectiveness of tunnel-view measures. 
+
+180  A distributed AI and digital economy model also best addresses some wicked problems in non-economic areas. For 
+instance only a federated social media architecture may be able to suitably address issues of freedom of  expression, 
+media  concentration  and  political  interference,  escaping  the  tyranny  of  both  state’s  overlordship  and  private 
+ censorship.
+
+   65   
+
+digital value chains, like net neutrality in the telecom layer, open source software, and 
+
+open AI tools, is based on an inadequate understanding of the digital economy. Such 
+
+openness in lower layers is actually useful for top-of-the-value-chain digital corpora-
+
+tions, whereas seeking open access to their main resource of digital intelligence hits 
+
+at the very heart of their digital power. Although currently opposed by major digital 
+
+corporations, even open sharing of society’s data will eventually be most beneficial to 
+
+them once they establish a good enough worldwide lead in various kinds of AI. They 
+
+will ravenously feed on data from all sources – closed and open (more data the better), 
+
+to become ever more intelligent, powerful, and in control. The formidable advantage 
+
+of their large AI lead, and the ever increasingly requirement of computing power for 
+data/AI processing,181 would be sufficient entry barriers for any new competitors, even 
+
+if the latter had all the access to required data. On another count, edge computing, 
+
+which is commended for its distributed data and computing architecture, may in fact 
+
+substantially increase the extent of incursion by dominant digital corporations into our 
+personal, work and social spaces.182 All this testifies to the need for adopting a holistic 
+
+view for effective regulation of digital economy, which can ensure mutual compatibility 
+
+and reinforcement between different regulatory measures. 
+
+12.  Separate regulator for digital economy
+
+Being based on industrial economy perspectives, current economic governance and 
+
+ regulatory frameworks are unlikely to suffice for effective regulation of a digital  economy. 
+
+New analyses, concepts, legislations and regulations are needed, and also a new body 
+
+devoted to understanding and regulating the digital economy. 
+
+Backgrounded against an analysis of what a digital economy is, how it functions, 
+
+and how digital economic power gets concentrated, this paper described four main 
+
+functional layers of a typical digital economy value chain. These pertain to (1) data 
+
+181  Supra n 173
+182  Miller,  P.  (2018,  May  7).  What  is  edge  computing?.  The  Verge.  https://www.theverge.com/circuitbreaker 
+
+/2018/5/7/17327584/edge-computing-cloud-google-microsoft-apple-amazon
+
+   66   
+
+collection and provisioning, (2) cloud computing infrastructure for data processing, 
+
+(3) development of digital intelligence, and its centralization or networking, and (4) 
+
+application of such intelligence to socio-physical activities and actors in any sector. 
+
+Checking concentration of digital economic power requires adequate openness and 
+
+competition at every interface between these four layers. It is understood that, at times, 
+
+vertical integration can have some efficiency benefits, and reducing integration would 
+
+result in losing them. Firstly, such gains of integration may be short term and out-
+
+weighed by losses even of efficiency in the long term as digital competition, and thus 
+possibly innovation, get foreclosed.183 Second, digital intelligence contributes such 
+
+hyper efficiencies that it may be reasonable to sacrifice some parts of them for the sake 
+
+of mitigating major harms that digital power concentration is causing all around us, in 
+
+economic, social, political and cultural terms. This is an important political decision 
+
+for our societies to make. 
+
+The model developed in this paper of four key functional layers of a digital econ-
+
+omy can help shape appropriate political responses to undue digital domination. 
+
+Some of these responses may be at a policy level, for instance, making public invest-
+
+ments in all these layers of important digital economy functions and activities, and 
+
+helping develop domestic competencies in them. Openness in each layer can be 
+
+improved by  appropriate policies and programs; like supporting data and  computing 
+
+ infrastructures, ensuring open standards and interoperability frameworks, and public 
+
+provisioning of important or essential services in each layer. 
+
+This paper is more concerned about regulatory frameworks and measures. At the first 
+
+level, behavioural remedies can be developed and enforced for fostering openness and 
+
+competition in each of the four layers. Many current regulatory proposals and efforts 
+
+discussed in this paper can be subsumed and reinterpreted in this four layers approach. 
+
+Developing additional ones based on this framework will also be required. 
+
+183  Stifling  innovation  by  acquiring  or  killing  start-ups  is  a  pronounced  feature  of  dominant  digital  corporations. 
+American tech giants are making life tough for startups. (2018, June 2). The Economist. https://www.economist.
+com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups
+
+   67   
+
+We remain of the opinion however that behavioural remedies may not suffice and 
+
+regulators will have to move towards enforcing some kinds of structural separations 
+
+along these four functional layers. Mandating data sharing, being contemplated in 
+
+many places, is partly in the nature of a structural intervention since it modifies prop-
+
+erty regimes around the key resource of data. It can be interpreted in the four layers 
+
+framework as structural separation of the data collection and provisioning layer from 
+
+the higher layers. Different kinds of structural seperations across other layers must 
+
+also be considered.
+
+A new body is required, in our view, for effective digital economy regulation. It should be 
+
+able to manage the relatively specialized tasks of gathering the needed knowledge about 
+
+a digital economy, helping develop a new regulatory framework for it, and undertak-
+
+ing digital economy regulation. Appropriate institutional developments for regulating 
+
+the digital economy are increasingly being recommended. Quoting the final report of 
+
+University of Chicago’s Stigler Committee on Digital Platforms:
+
+“The  strongest  indication  emerging  from  the  four  (sub-)reports  is  the 
+importance of having a single powerful regulator capable of overseeing all 
+aspects of digital platforms. Digital platforms generate several concerns across 
+different fields, all linked to the power of data. To address these concerns 
+in a holistic way, there needs to be a single regulator able to impose open 
+standards, to mandate portability of and accessibility to data, to monitor 
+the use of dark patterns and the risks of addiction, and to complement the 
+FTC and the DoJ in merger reviews. Countries like the UK are considering 
+the set-up of a Digital Markets Unit. The United States and other nations 
+should follow their example.”184
+
+A Digital Markets Unit for the UK is among the recommendations of the earlier 
+
+referred UK’s Digital Competition Expert Panel. This new Unit is to be “given a remit 
+
+to use tools and frameworks that will support greater competition and consumer 
+
+choice in digital markets, and backed by new powers in legislation to ensure they 
+
+are effective”.
+
+184  Stigler Committee on Digital Platforms. Stigler  Centre  for  the  Study  of  the  Economy  and  the  State. Final Report. 
+(September  2019).  University  of  Chicago.  https://research.chicagobooth.edu/stigler/media/news/committee-on-
+digital-platforms-final-report 
+
+   68   
+
+Legislation to enable the required new kinds of digital economy regulation is certainly 
+
+needed. Many of the envisaged regulations in this area will not be possible to undertake 
+under existing laws, rooted that they are in the industrial economy paradigm.185 The 
+
+earlier referred EU report on ‘Competition policy for the digital era’ also suggests, in 
+
+context of data governance, the need for new legislation, regulatory regime, and reg-
+
+ulatory mechanisms:
+
+“This, and the concomitant necessity to monitor, may be feasible when dealing 
+with a setting in which (data) access requests are of a relatively standardized 
+kind and where the conditions of access are relatively stable. Where this is not 
+the case, a regulatory regime may be required. This may be true in particular 
+where a dominant firm is required to grant access to continuous data, i.e. to 
+ensure data interoperability. … A competition authority’s oversight will not 
+suffice in such a case.”
+
+“…  A  good  legal  framework  will  take  much  of  the  pressure  away  from 
+competition law.”
+
+In addition to cross-cutting regulation, like competition law, some sectors also get sub-
+
+ject to sector-specific regulatory regimes. This happens for sectors considered to be of 
+
+particular socio-economic importance – like transportation, telecommunication, health 
+
+and education. The sector-specific regulation addresses a sector’s peculiar public interest 
+
+context and requirements. Though the digital sector is a  cross-cutting one, it is also 
+
+very special in the way digital power strongly impacts most economic, social,  political 
+
+and cultural activities. It is for the reason of such extra-ordinary  socio-economic sig-
+
+nificance that the digital sector requires a sector-specific regulatory regime – with 
+
+separate legislation and regulator.
+
+Calls for new legislation and regulatory body currently come from analyses that 
+
+have only considered platforms and data related issues in a digital economy. They 
+
+have not yet gone into governance of society’s digital intelligence. Recognition of 
+
+latter’s singular importance is, however, beginning to come about. In such a  context, 
+
+185  It is unclear for instance whether mandating of data sharing will be possible without laws defining economic rights 
+
+around data. 
+
+   69   
+
+new legislation186 and a separate body for digital economy regulation become even 
+
+more necessary.
+
+For the proposed Digital Markets Unit, the UK Expert Panel suggests:
+
+“The role of the unit would have important links to functions and expert 
+skills within the Competition and Markets Authority (CMA) and The Office 
+of Communications (Ofcom). The unit could be an independent body linking 
+to both, or it could be a function of either.”
+
+An independent digital economy regulator is preferable, linking suitably to the tra-
+
+ditional competition regulator, on one side, and communication/IT regulators or 
+
+departments, on the other. Both these sides undertake vital functions, and contribute 
+
+important governance perspectives, that are required for regulating a digital economy. 
+
+These agencies currently tend to operate in silos, addressing digital dominance in 
+
+quite different and unconnected ways. One side focuses on market power, structures 
+
+and bottlenecks in the new digital context, and employs sanctions and prohibitions 
+
+against market players as required. The other side concerns itself with openness, 
+
+interoperability, protocols for separating key technology function layers, open licens-
+
+ing for sharing software and building applications, and technology infrastructures 
+
+like for computing, data, enabling digital services, etc. Market regulation is based 
+
+on strong legal enforcement whereas technology governance has hitherto mostly 
+
+depended on standards development, soft law, and practice. Combining these two 
+
+approaches under a composite new framework for digital economy regulation will 
+
+provide much synergy. It should be the first step towards an effective response to 
+
+digital power concentration, and thus taming the Big Tech. This paper contributes 
+
+some efforts in this direction. 
+
+186  Due to the evolving nature of digital economy, such legislation can be in the form of a ‘framework law’. The term 
+‘framework law’ refers to a legislative technique used to address cross-sectoral issues; framework legislation lays 
+down general principles and obligations, and leaves it to implementing legislation and competent authorities to 
+determine specific measures to be taken to realize such obligations. Guide on Legislating for the Right to Food. 
+(2009).  Food  and  Agricultural  Organisation.  http://www.fao.org/fileadmin/templates/righttofood/documents/
+RTF_publications/EN/1_toolbox_Guide_on_Legislating.pdf
+
+   70   
+
+Acknowledgements
+
+The author will like to recognize the role of the entire IT for Change team in this 
+
+work. At IT for Change, knowledge production is a collective enterprise. But for it, 
+
+this work would have been impossible. The extensive research assistance provided 
+
+by Anushka M. is especially appreciated.
+
+The author expresses gratitude to the members of the Data Governance Network, 
+
+some of those who attended its research meetings, and an anonymous peer reviewer, 
+
+for very valuable comments on the draft of the paper.
+
+About the Author
+
+Parminder is executive director of IT for Change. His engagements have been in 
+
+the area of ICTs for development, Internet governance, e-governance, and digital 
+
+ economy. He has been a special advisor to the UN’s Internet Governance Forum 
+
+(IGF) and to the UN Global Alliance for ICTD. He was a part of UN working 
+
+groups on IGF improvements and on enhanced cooperation on international 
+
+Internet policies. Parminder has been a co-coordinator of the global Civil Society 
+
+ Internet Governance Caucus, and a founding member of Just Net Coalition and of 
+
+Internet Rights and Principles Coalition. In India, he is a part of Ministry of Elec-
+
+tronics and Information Technology (MeitY) Expert Group on Data Governance 
+
+Framework, and has been a member of the group that framed India’s first Draft 
+
+E-Commerce Policy, and a member of Working Group on Cyber-Security of the 
+
+National Security Council Secretariat.
+
+   71   
+
+Operationalizing algorithmicexplainability in the context of riskproﬁling done by robo ﬁnancialadvisory appsDataGovernanceNetworkWorking Paper 07/datagovnetwork/datagovnetwork@datagovnetworkSanjana Krishnan, Sahil Deo, and Neha Sontakkedatagovernance.orgdgn@idfcinstitute.orgMarch 2020Breaking up Big Tech:Separation of its Data, Cloudand Intelligence LayersWorking Paper 09/datagovnetwork/datagovnetwork@datagovnetworkdatagovernance.orgdgn@idfcinstitute.orgJune 2020DataGovernanceNetworkAnchored by IDFC InstituteParminder Jeet Singh

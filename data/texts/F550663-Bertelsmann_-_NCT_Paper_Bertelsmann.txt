@@ -1,0 +1,139 @@
+New Competition Tool – Consultation 
+
+Bertelsmann 
+
+Bertelsmann SE & Co. KGaA (Bertelsmann) is a media, services and education company that 
+operates in about 50 countries around the world. It includes the broadcasting and production 
+company RTL Group, the trade book publisher Penguin Random House, the magazine pub-
+lisher Gruner + Jahr, the music company BMG, the service provider arvato, the Bertelsmann 
+Printing Group, the Bertelsmann Education Group, and the international network of funds Ber-
+telsmann Investments. 
+
+Bertelsmann is confronted with structural problems in a broad variety of digital markets where 
+it is active. Through its divisions, Bertelsmann provides digital services in particular related to 
+media products such as e-books, music, magazines, audiovisual entertainment and advertis-
+ing services in a number of channels. 
+
+Structural  risks  for  competition  in  digital  markets  result  from  network  effects,  economies  of 
+scale,  single-homing  and  lock-in  effects.  This  applies  in  particular  to  markets  where  digital 
+platforms are active and successful.  
+
+A large user base of a digital platform leads to strong network effects and the accumulation of 
+valuable and diverse data. This gives the platform the potential to leverage market power into 
+new areas of activity (and become a competitor of their customers) and often times users/con-
+sumers don’t have alternative services available and will eventually be locked-in with that dig-
+ital platform. 
+
+Digital platform markets have a strong tendency to “tip”, successful platforms can likely become 
+gatekeepers and use their power gained for further monopolization. 
+
+As experienced in the past, once the tipping point has been exceeded or a gatekeeping posi-
+tion has been achieved, it is often too late to secure the remainder of competition on digital 
+markets. Recent cases enforced under Art. 102 TFEU have proven that the development to-
+wards  monopolization  cannot  be  stopped  after  tipping  or  gatekeeping,  inter  alia  due  to  the 
+length of the proceedings and the reluctance to issue interim measures. Even during  those 
+proceedings digital platforms can profitably grow further. 
+
+Therefore, Bertelsmann definitely sees a need to complement Art. 101 and Art. 102 TFEU in 
+digital platform markets:  
+
+  On  the  one  hand  a  new  enforcement  tool  is  required  that  enables  the  authorities  to 
+prevent  structurally  endangered  markets  from  a  foreseeable  tipping,  gatekeeping  or 
+monopolization scenario.  
+
+  On the other hand there is a need for other market participants (not operating a digital 
+platform) to collaborate and join forces to be better able to compete with the large digital 
+platforms (be it search engines, e-commerce platforms, social networks or other digital 
+platforms). From a competition law perspective more flexibility in allowing cooperation 
+will  be  required  and  parties  should  be  provided  with  more  legal  certainty,  e.g.  via  a 
+general horizontal block exemption. 
+
+Bertelsmann is aware that Competition tools will not stand-alone be sufficient to create a real 
+level playing field in digital markets and therefore also refers to the Bertelsmann response on 
+the open public consultation regarding the Digital Services Act package. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bertelsmann does not see a need for another tool regarding monopolistic or oligopolistic struc-
+tures  outside  of  digital  platform  markets.  Typical  oligopolistic  effects  can  sufficiently  be  ad-
+dressed by merger control. 
+
+For Bertelsmann digital platforms are not only intermediaries, distributors or e-commerce ser-
+vice  providers,  but  also  competitors,  in  particular  in  advertising  markets  or  in  markets  they 
+leverage their power into.  
+
+Bertelsmann notices that third-party digital platforms act as closed ecosystems, which do not 
+make the data available to media companies that is necessary for them to target advertising 
+outside of the respective platform ecosystem. Digital platforms have more data about media 
+companies' services than the companies themselves.  
+
+In the marketing of digital content, technologies and methods for targeted and target group-
+relevant  advertising  (“targeting”)  are  market  standard  and  form  a  business-critical  ability  of 
+media companies in the context of refinancing content via the advertising market. There is no 
+targeting on market level possible for media companies without access to cross-platform, con-
+tent-related user and usage data. This also includes cases where digital platforms (technically) 
+are in the exclusive position to obtain consent from the user for the usage of data. 
+
+This also applies for Bertelsmann’s music activities. Digital platforms only grant limited access 
+to data about how music is consumed via digital platforms and inhibit the ability of the creators, 
+recording artists and songwriters, to reach and connect with their fan-bases. 
+
+Also in the book business Bertelsmann does not have access to its individual consumer data 
+via digital retail platforms, who do benefit from that information. 
+
+Therefore, from a Bertelsmann perspective the main issues to be addressed by the New Com-
+petition tool are: 
+
+  Access to data, including consent management 
+  Winner takes it all: economies of scale and tipping of markets 
+  Gatekeeping 
+  Network effects (both direct and indirect) 
+  Leveraging into other markets 
+
+Since the New Competition Tool only looks at market structure and does not refer to any mis-
+conduct to be applicable, the tool requires some legal safeguards: 
+
+ 
+
+It needs to be clearly defined, when the New Competition Tool shall be applicable. First, 
+a determination of structurally critical situation is necessary. 
+
+  Once determined, behavioral orders to limit the scope of action of certain platforms can 
+be issued: e.g. prohibit self-preferencing , granting access to data, limit leveraging po-
+tential 
+
+  Only ultimately, structural remedies, e.g. divestitures, shall be possible. 
+
+  A flexible system to issue interim measures is required to address issues before it is 
+
+too late. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

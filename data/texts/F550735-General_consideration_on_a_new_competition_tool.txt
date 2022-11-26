@@ -1,0 +1,513 @@
+Ref. Ares(2020)4722019 - 09/09/2020
+
+General considerations about a new EU competition tool 
+strengthen competition enforcement 
+
+This consultation offers a valuable opportunity to provide views on whether there is a need for 
+a new competition tool to ensure fair and competitive markets with a view to delivering lower 
+prices and higher quality, as well as more choice and innovation to European consumers.  
+
+In the context of accelerated digitalization in the maritime sector, the creation of a new market 
+investigation  tool  aimed  at  addressing  structural  competition  problems  across  markets  is 
+necessary. There is a compelling need to finally find a concrete response to the the recent 
+developments in the area of Big Data and BI&A systems, and their potential anti-competitive 
+effects in the market of containerized liner shipping services. 
+
+Over  the  last  decade,  the  maritime  sector  has  been  subject  to  major  transformations, 
+especially due to the ever-rising use of business intelligence and analytics (BI&A) systems, 
+which  store  and  process  Big  Data.  This  technology  has  led  container  and  logistic  services 
+revisit their strategic and commercial policies.  
+
+Big data and its application in the maritime sector 
+
+Big  data  is  the  term  used  to  indicate  the  large  volume  of  data  –  both  structured  and 
+unstructured – that is generated in our personal and professional lives. The analysis of this 
+big data is extremely useful as it allows businesses to monitor and make the best use of market 
+trends and other useful information in real time. 
+
+Traditional technology has been serving organizations’ analytics needs for decades, allowing 
+them to analyse large data sets from traditional sources such as warehousing and distribution 
+systems.  
+
+Big data has now the potential to transform the maritime sector by creating new opportunities 
+to drive innovation and deliver tangible operational efficiencies across the maritime logistics 
+chain.  
+
+For the past few years, most industries have been leveraging the power of Big data to increase 
+their pace of innovation and efficiency.  
+
+The  advent  of  Big  Data  and  the  consequent  widespread  use  of  BI&A  systems  have 
+encouraged numerous shipping lines to revise their commercial strategies and turn to global 
+end-to-end  services.1  The  use  of  the  BI&A  systems  will  allow  for  the  control  of  the  entire 
+logistics  chain  of  these  services  and,  where  possible,  will  protect  these  systems  and  their 
+improvements  by  IP  rights.  For  this  same  purpose,  Maersk  and  IBM  have  entered  a  joint 
+venture creating TradeLens, a company owned 51% by Maersk and 49% by IBM. 
+
+TradeLens is a profit-orientated business that provides a platform connecting all actors which 
+implement  a  stage  of  the  global  end-to-end  services,  helping  companies  move  and  track 
+goods  digitally  across  borders.  To  that  end,  the  platform  will  allow  participants  to  share 
+
+1 August Braakman in Splash, https://splash247.com/digitalisation-globalisation-and-monopolisation-lines-create-trinity / 
+
+1 
+
+ 
+  
+ 
+ 
+information and ease collaboration across the shipping industry’s supply chain. TradeLens is 
+now supported by 6 of the world’s largest lines.  
+
+In  order  to  offer  global  end-to-end  services,  shipping  lines  need  a  common  foundation  for 
+technical interfaces and data and to develop common information technology standards. For 
+this purpose, the Digital Container Shipping Association (DCSA) has been established. 
+
+DCSA  aims  at  paving  the  way  for  digitalisation  and  standardisation  in  the  industry  and  its 
+standards have been and will be further developed and managed by lines exclusively.  
+
+At the moment, apart from COSCO-OOCL, all major container lines that are involved in one 
+of the three global alliances are members of the DCSA, thus representing 70% of the global 
+market. Furthermore, as all DCSA members support TradeLens, this means that the DSCA 
+standards have become signatory for the industry.  
+
+Antitrust  concerns  may  emerge  from  the  need  for  these  new  actors  to  have  access  to  the 
+technical data underlying the DCSA standards in order to be able to research and develop 
+new  standards.  Particularly  if  the  DCSA  standards  are  protected  by  IP-rights,  lines  may 
+impose royalties or licensing terms. This behaviour may have severe antitrust implications 
+that could be fostered in a situation where DCSA standards cover topics outside the 
+legitimate standard-setting activity. 
+
+These developments have a huge impact on the proper assessment of antitrust issues on this 
+market,  particularly  in  the  following  areas:  (i)  scope:  the  market  has  undeniably  become  a 
+global  market;  (ii)  structure:  the  ever-increasing  use  of  the  digital  technology  and  the 
+establishment of companies like TradeLens which gather (iii) dominance: the majority of the 
+big carriers. 
+
+The tools the Commission currently possesses for measuring, evaluating and neutralizing anti-
+competitive conduct were formulated in an era when Big Data and BI&A systems were still a 
+vision for the future. These tools are far from adequate and effective for dealing with antitrust 
+concerns in relation with these developments.  
+
+Some  of  these  concerns  were  raised  in  the  framework  of  the  consultation  regarding  the 
+Consortia  BER  for  liner  shipping2  and  it  was  stressed  upon  the  fact  that  digitalization, 
+globalization and concentration in the container shipping may lead to anti-competitive effects 
+due  to the  fact  that  the  provisions  of  the  Consortia  BER  are  lacking  clarity  about  do’s  and 
+don’ts with respect to the exchange of information and that more and more container shipping 
+lines  are  offering  door  to  door  services  and  using  of  Big  Data  and  BI&A  systems  to  their 
+advantage.  
+
+The absence of tools that are sufficiently adequate and effective for enabling EU and national 
+antitrust authorities to measure, evaluate and neutralize the anticompetitive effects that may 
+derive  from  the  above  mentioned  evolution  in  the  containerized  sector  is  becoming  a  real 
+threat  for  a  number  of  actors  which  compete  with  shipping  lines  on  a  number  of  land  and 
+logistics related services. 
+
+2 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0436&from=EN 
+
+2 
+
+ 
+ 
+ 
+ 
+The weaknesses of the Consortia BER for liner shipping 
+
+On the 24th of March 2020, in spite of strong reserves expressed by the majority of customers 
+and  services  providers  of  the  liner  shipping  sector,  the  European  Commission  decided  to 
+extend without modification the Consortia Block Exemption Regulation (CBER), granting the 
+exemption by another 4 years. 
+
+The  Consortia  BER  provides  for  an  exemption  from  the  cartel  prohibition  for  agreements/ 
+arrangements  that  restrict  freedom  but  that  have  the  sole  effect  of  promoting  competition. 
+Within the present context, the exemption relates to the following activities: 
+
+1. 
+
+the joint operation of liner shipping services including: 
+
+(a) 
+
+the coordination and/or joint fixing of sailing timetables and the determination 
+
+of ports of call; 
+
+(b) 
+(c) 
+
+the exchange, sale or cross-chartering of space or slots on vessels; 
+the pooling of vessels and/or port installations; 
+
+and 
+
+4. 
+
+any  other  activity  ancillary  to  those  referred  to  above  which  is  necessary  for  their 
+implementation, such as: 
+
+(a) 
+
+the use of a computerized data exchange system. 
+
+The Consortia BER contains a per se prohibition for “hard core” restrictions of competition. 
+These restrictions include activities, which, directly or indirectly, in isolation or in combination 
+with other factors under the control of the parties, have as their object: 
+
+1. 
+
+2. 
+
+the fixing of prices when selling liner shipping services to third parties; 
+
+the  limitation  of  capacity  or  sale  except  for  capacity  adjustments  in  response  to 
+fluctuations in supply and demand. 
+
+3. 
+
+the allocation of markets or customers. 
+
+Application of Article 101(1) TFEU presupposes that the prevention, restriction or distortion of 
+competition is an “object or effect”.3   
+
+The “hard core” prohibition of the fixing of prices when selling liner shipping services to third 
+parties  laid  down  in  the  Consortia  BER  only  refers  to  arrangements  that  have  this  as  their 
+object. Pursuant to the established case law of the ECJ, the circumstances surrounding its 
+attainment  may  also  be  used  in  interpreting  the  wording  of  arrangements  for  those  areas, 
+which are unclear.  As a result, not only the fixing of prices but also price recommendations 
+and tariff impositions, by any per person on transport users, fall within the scope of the “hard 
+core” prohibition of the consortia BER, provided they have a similar anticompetitive impact. 
+
+Arrangements that do not have a restriction on competition as their object may also be caught 
+by the prohibition on cartels because they have it as their effect. This effect does not need to 
+have  actually  occurred.  It  is  sufficient  for  it  to  appear  likely  in the  near  future.  This  second 
+
+3 August Braakman in Splash, https://splash247.com/digitalisation-globalisation-and-monopolisation-lines-create-trinity / 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+alternative for application of the prohibition therefore permits the Commission to intervene to 
+prevent distortions of competition at an early stage.  
+
+The  competition-limiting  effect  of  an  arrangement  may  be  the  result  of  it  alone  or  of  the 
+interaction  between  it  and  the  accompanying  economic  circumstances.  Special  importance 
+may, in particular, be attached to the fact that an agreement is part of a network of similar 
+agreements that the party has also completed with other undertakings and the fact that the 
+market  contains  other  networks  of  agreements  which  have  been  build  up  by  other 
+undertakings.  
+
+In view of the above, it should be assessed whether the  prohibition of Article 101(1) TFEU 
+catches the competition-limiting effects of the above-mentioned activities that are exempted 
+from the cartel prohibition in combination with the computerized data exchange system that is 
+being used. This assessment should focus on whether the prohibition of Article 101(1) 
+TFEU  applies  or  is  likely  to  apply  in  the  near  future,  once  BI&A  systems  with  their 
+current 
+existing 
+agreements/arrangements that benefit from the exemption under the Consortia BER.  
+
+features  have  been 
+
+state-of-the-art 
+
+incorporated 
+
+into 
+
+the  semantic 
+This  assessment  should 
+interoperability of these systems with the computer programs of other actors that have been 
+engaged for the implementation of the agreements/arrangements. 
+
+include  possible  anticompetitive  effects  of 
+
+Alliances are using vessel-sharing agreements and consider that those agreements will not 
+affect mutual competition. The basic rationale for alliances is the facilitation of low rates and 
+broad service coverage.4 The deployment of data that is allowed to be exchanged under the 
+Consortia BER gives a line the possibility of attaining these objectives in a way that seriously 
+threatens fair and undistorted competition if the exchange takes place within the context of a 
+BI&A system with current state-of-the-art features which is semantically interoperable with the 
+computer programs used by the parties that have been engaged for the implementation of its 
+services.  
+
+All  lines  that  participate in  one  of  the  three  mega-alliances  -  2M,  Ocean  Alliance  and  THE 
+Alliance  -  also  participate in  one  or more  of  the vast  number  of  conference and  discussion 
+agreements  that  exist  worldwide.5  These  agreements  serve  as  vehicles  for  exchanging 
+strategically sensitive data. They are exempt from the application of antitrust laws in 
+the  United  States  and  some  Asian  countries,  like  Singapore,  but  they  were  never 
+exempt from application in the EU.6 In light of the global coverage of global end-to-end 
+services  there  can  be  no  doubt  that  the  data  exchanged  between  members  of  an 
+alliance on the key parameters of the rates for the non-EU leg of the route provides an 
+important indicator, indeed if not the basis, for the pricing policy adopted for the global 
+services inclusive of the EU-leg of the route. BI&A systems with their current state-of-the-
+art features offer a major improvement for analyzing this data. As a result, the deployment of 
+these systems may seriously aggravate the anticompetitive effects of the data exchanged.  
+
+4 The impact of alliances in container shipping. OECD/ITF 2018, p.11. 
+5 August Braakman in Splash, https://splash247.com/digitalisation-globalisation-and-monopolisation-lines-create-trinity / 
+6  See  Competition  issues  in  liner  shipping:  Note  by  the  Secretariat.  Document  DAF/COMP/WP(2015)3.  Organisation  for 
+Economic Cooperation and Development, Paris, 10 June 2015.   
+Available http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DAF/COMP/WP2(2015)3&docLanguage=En. 
+
+4 
+
+ 
+ 
+The above anticompetitive effects are particularly apparent if the exchange of data takes place 
+within the context of services that are being implemented by a line together with other actors 
+and  the  BI&A  system  used  by  the  line  has  been  made  semantically  interoperable  with  the 
+computer programs of the latter.  
+
+The  deployment  of  BI&A  systems  with  their  current  state-of-the-art  features  on  the 
+market of containerized liner shipping services7 may well result in pushing exchanges 
+of  information  that  conform  to  the  exemption  conditions  of  the  consortia  BER  in  its 
+current version into the area of hard core restrictions.  
+
+This may be illustrated by the following, hypothetical example: An alliance, either directly or 
+indirectly  through  one  of  the  participating  lines,  acquires  exclusive  rights  on  a  new  BI&A 
+product protected by IP rights.  
+
+This  product  substantially  improves  the  joint  coordination  of  sailing  timetables  within  the 
+alliance and thereby the determination of ports-of-call. As such, these activities fall within the 
+exemption of the Consortia BER. However, the alliance offers the new product to third parties 
+as part of its liner shipping services at a price that was fixed by the parties to the alliance who 
+conjointly  own  the  product  in  mutual  consultation.  In  doing  so,  the  alliance  and  the 
+participating lines violate the hard-core restriction of Article 4 sub 1 of the consortia 
+BER. Furthermore, if other lines or alliances cannot come up with a timely response by 
+bringing up a product that “leapfrogs” the new BI&A product, this may cause shippers 
+to disproportionally  opt  for  the services  offered  by  the  alliance  that  disposes  of this 
+latter product. As a result, other lines and alliances lose their competitiveness for the duration 
+of the validity of this new product’s IP rights. This will give the alliance that disposes of the 
+new product entrenched market power 8 which, in turn, may well encourage it to raise the price 
+of its services, arguing that it has the right to do so in order to recoup the investments that had 
+to be made.  
+
+In the above hypothetical situation, the new BI&A product transforms the coordination 
+of sailing timetables within the alliance disposing of this product into conduct that has 
+immediate,  substantial  and  foreseeable  anti-competitive  effects  on  the  EU  market9. 
+Such conduct falls within the prohibition of Article 101(1) and Article 4 sub 1 of the current 
+consortia BER and/or 102 TFEU, at least during the validity of the IP rights. 
+
+It has been argued above that an effective and smooth implementation of a global end-to-end 
+contract requires a line/alliance to be made privy to confidential data - possibly protected by 
+IP  rights  -  owned  by  actors  that  have  been  engaged  for  the  implementation  thereof.  Thus, 
+within the framework of these contracts the free pass for exchanges of information as provided 
+by  the  current  Consortia  BER  extends  to  data  that  has  been  developed  and  protected  by 
+actors  whose  activities  relate  to  sections  of  the  shipping  industry  where  market  and 
+competitive  conditions  fundamentally  differ  from  those  that  lines  are  confronted  with  in  the 
+context of their core business.  
+
+7 The Impact of alliances in container shipping, OECD/ITF 2018, p. 88. 
+8 This example is based on the decision of the Commission of 4 September 2012 in the case named Telefonica, Vodafone and 
+Everything Everywhere, case No COMP/M.6314 (JV). 
+9 August Braakman in Splash, https://splash247.com/digitalisation-globalisation-and-monopolisation-lines-create-trinity / 
+
+5 
+
+ 
+ 
+The  inclusion  of  this  data  in  a  new  BI&A  product  that  substantially  improves  the 
+coordination  of  sailing  timetables  will  further  reinforce  the  market  position  of  the 
+alliance that disposes of this product, as well as anticompetitive issues.  
+
+Self-assessments  from  the  perspective  of  the  global  market  in  which  lines  operate 
+should  also  relate  to  data  on  issues  that  are  allowed  under  some  jurisdictions  but 
+prohibited under EU antitrust law. Thus, the possibilities for the Commission to monitor 
+distortions of competition from the perspective of the extra-territorial application of EU 
+antitrust law and the qualified effects doctrine would be improved. This could facilitate 
+other  actors  in  the  maritime  transport  in  their  attempts  to  challenge  agreements 
+implying undesirable market effects.10  
+
+The legal vacuum 
+
+As  yet,  the  EU  Commission  does  not  dispose  of  tools  that  are  sufficiently  adequate  and 
+effective  to  guarantee  fair  and  undistorted  competition  and  a  level  playing  field  to  all  the 
+stakeholders in the competitive environment of containerized liner shipping services that has 
+been unlocked by Big Data and BI&A systems. The ensuing legal vacuum creates a complex 
+legal border area 
+
+The present circumstances, however unfortunate they may be, do not absolve undertakings 
+from the obligation to assess whether the agreements/arrangements to which they are party, 
+directly or indirectly, in isolation or in combination with other factors under their control, have 
+as  their  object  or  effect  distortions  of  competition  that  emerge  in  the  realm  of  the  major 
+parameters that govern the BI&A systems which underlie the logistics chain of their services.  
+
+This implies that, apart from prices, account should be taken of common information 
+technology  standards,  engagement  of  actors  in  the  implementation  of  services, 
+implementation of services as such and trust. Irrespective of the Consortia BER being 
+now prolonged in what manner, this assessment should be made in light of the impact 
+BI&A systems with their current and anticipated state-of-the-art features together with 
+the surrounding Big Data have on the promotion of competition that must be generated 
+in  order  for  agreements/arrangements  to  be  considered  for  an  exemption  from  the 
+prohibition of Article 101(1) TFEU.  
+
+EU  antitrust  law  as  laid  in  Articles  101  and  102  of  the  Treaty  on  the  Functioning  of  the 
+European  Union  (TFEU)  is  addressed  to  undertakings.  Article  101  TFEU  also  applies  to 
+associations of undertakings, insofar as their own activities or the activities of the undertakings 
+of  which  they  are  composed  have  as  their  object  the  prevention,  restriction  or  distortion  of 
+competition.  
+
+The  definition  of  the  term  undertaking  includes  all  natural  or  legal  persons  engaged  in  an 
+independent  commercial  activity,  either  as  suppliers  or  customers  of  goods  or  commercial 
+services. Such activity must have a certain regularity and duration. The pursuit of profit is not 
+essential. 
+
+10 The Impact of alliances in container shipping, OECD/ITF 2018, p. 88. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With the introduction of Regulation 1/200311 on May 1, 2004, the general procedure applicable 
+to antitrust investigations is fully applicable to the maritime sector.  Under this new system, 
+not  only  the  prohibition  of  cartels  contained  in  Article  101(1)  TFEU  but  also  the  possible 
+exemptions to this prohibition contained in Article 101(3) TFEU are directly applicable. This 
+implies that self-assessment by companies and their advisor constitutes the true cornerstone 
+of the system. The block exemption regulations and the notices by the Commission on the 
+substantive criteria for the application of the EU antitrust rules provide guidance. 
+
+For different contract types the EU Commission has adopted the Consortia BER which should 
+be interpreted in close conjunction with the Horizontal Guidelines.12 
+
+The relevant market 
+
+The relevant market within which to assess a given competition issue is established by the 
+combination of the product and geographic market. 
+
+“The relevant product market comprises all those products and/or services which are regarded 
+as interchangeable or substitutable by the consumer, by reason of their characteristics, their 
+prices and their intended use.”13 
+
+The Commission and the ECJ held that the relevant product market comprises containerized 
+liner shipping services.14 The decisions and judgements relate to maritime transport in deep-
+sea trades.  
+
+The above case law on the definition of the relevant product and geographic market relates to 
+a  time  when  lines  could  not  yet  avail  themselves  of  BI&A  systems,  certainly  not  of  BI&A 
+systems with the current level of technical sophistication. The current definition of the relevant 
+product and geographic market is not valid anymore as the relevant product market is the 
+market of containerized liner shipping global end-to-end services.15 
+
+This implies that in the geographic market of containerized liner shipping global end-to-end 
+services the EU-end of the market is not a range of ports either in Northern Europe or in the 
+Mediterranean, but the inland terminal where the customer takes possession of the cargo. 
+
+The  proposed  definition  of  the  relevant  product  and  geographic  market  entails  that,  in 
+assessing  competition  issues,  no  distinction  can  be  made  between  the  deep-sea  and  the 
+inland  leg  of  the  services.  Both  services  relate  to  one  and  the  same  relevant  market. 
+Therefore, assessment of competition issues must be made from the perspective of one and 
+the  same  legal  regime.  This  implies  that  the  judgement  of  the  General  Court,  making  a 
+
+11  Council  Regulation  (EC)  No  1/2003  of  16  December  2002  on  the  implementation  of the  rules  on  competition  laid  down  in 
+Articles 81 and 82 of the Treaty (Text with EEA relevance). 
+12 Guidelines on the applicability of Article 101 TFEU to horizontal cooperation agreements, OJ C11/1 of 14 January 2011 
+13 Commission Notice on the definition of relevant market for the purposes of Community competition law, OJ C 372, 9.12.1997 
+14 Commission Decision 1999/485/EC of 30 April 1999 (Case IV/34.250 — Europe Asia Trades  Agreement) (OJ L 193, 26.7.1999, 
+p. 23); TAA decision, Commission Decision 94/980/EC of 19 October 1994 in Case IV/34.446 — Trans-Atlantic Agreement (OJ 
+L 376, 31.12.1994, p. 1) and the TACA decision, Commission Decision 1999/243/EC of 16 September 1998 (Case IV/35.134 — 
+Trans-Atlantic Conference Agreement) (OJ L 95, 9.4.1999, p. 1) paragraphs 60-84. The market definition in the TACA decision 
+was confirmed by the General Court in its Judgment in Joined Cases T-191/98, T-212/98 to T-214/98, Atlantic Container Line AB 
+and Others v Commission ECLI:EU:T:2003:245, paragraphs 781-883. 
+15 See e.g. The impact of alliances on container shipping, OECD/ITF 2018, p. 89. 
+
+7 
+
+ 
+ 
+ 
+distinction between the legal regimes that govern deep-sea and inland services, has become 
+obsolete with regard to containerized liner shipping global end-to-end services. 
+
+Considering the above, the definition of the relevant market should be completed by an 
+assessment of the interconnection between the services that are offered and the Big 
+Data and BI&A systems that are used for their implementation. In that way the logistics 
+areas  can  be  identified  where  conditions  of  competition  are  sufficiently  homogenous  for  a 
+customer  to  regard  the  services  that  are  offered  as  interchangeable  because  of  their 
+characteristics.  
+
+Managing the impact on competition brought about by the proposed definition of the relevant 
+market is a crucial issue that will guarantee fair and undistorted competition and a level playing 
+field for all stakeholders. It should be a priority for the EU Commission with a new tool.  
+
+The  definition  of  the  relevant  market  as  provided  by  the  Commission  Notice  of  1997  has 
+become  obsolete,  particularly in  regard to  the market  of  containerized liner  shipping  global 
+end-to-end contracts.16 This Notice should be amended by including a definition of the 
+temporal market as an independent dimension, and by tailoring the definitions of the 
+relevant product, geographic and temporal market to the developments in the field of 
+Big Data and BI&A.  
+
+From the perspective of the proposed definition of the relevant market, the qualified effects 
+doctrine should provide the Commission with an adequate and effective tool for acting against 
+distortions of competition that originate from conduct outside the EU, even if such application 
+of EU antitrust law were to be in conflict with antitrust laws of other jurisdictions.17  
+
+Common standards 
+
+Common information technology standards lie at the heart of the interoperability of the BI&A 
+system that a line/alliance uses for governing containerized liner shipping global end-to-end 
+services  and  the  computer  programs  of  the  actors  that  have  been  engaged  for  the 
+implementation  thereof. It  is  important  to assess  whether common  industry-wide  standards 
+and the way in which they are deployed would raise antitrust concerns. 
+
+Antitrust concerns are among those that may emerge if common standards are developed and 
+managed  exclusively  by  lines.  Other  actors  on  the  market  of  containerized  liner  shipping 
+services can register for the purpose of receiving the data required for using the standards, 
+but they will have no say in the further development of the underlying technology.  
+
+This  will  increase  their  dependence,  particularly  if  new  standards  have  been  developed  in 
+which  valuable  data  and  processes  have  been  encoded  that  were  used  in  standards  that 
+governed previous global end-to-end contracts. If the latter standards had defects and quirks 
+and/or technical limitations, new forms of industry actors will be obliged to replicate them  to 
+maintain interoperability.  
+
+16 See A.J. Braakman, Brexit and its consequences for containerized liner shipping services, (2017) 23 JMIL, pp. 1-12. 
+17 Guidelines on the application of the EC Treaty to maritime transports services, OJ C 245/2 of 26 September 2008. 
+
+8 
+
+ 
+ 
+ 
+Antitrust concerns may also emerge from the need for other industry actors to have access to 
+the  technical  data  underlying  the  common,  industry-wide  standards  in  order  to  be  able  to 
+research  and  develop  new  standards.  This  will  be  particularly  difficult  if  industry-wide 
+standards are protected by IP-rights, lines may prevent access by demanding unreasonable 
+royalties or expensive licensing terms.  
+
+Finally, antitrust concerns may emerge from the fact that common, industry-wide standards 
+progressively increase the dependence of their users on one and the same eco-system.  
+
+Conclusion 
+
+Big Data and BI&A systems are here to stay. The ways in which shipping lines deploy them 
+pose  a  serious  threat  to  fair  and  undistorted  competition  and  a  level  playing  field  to  all 
+stakeholders on the market of containerized liner shipping global end-to-end services.  
+
+The  tools  the  Commission  possess  for  measuring,  evaluating,  and  neutralizing  the 
+anticompetitive effects of Big Data and BI&A systems have been formulated in an era when 
+these phenomena were still a vision for the future. Therefore, the current tools are unfit to do 
+the job.  
+
+There is a need for the regulator to take into account the impact of Big Data and the ensuing 
+BI&A systems on the competitive environment of containerized liner shipping global end-to-
+end services.  
+
+9 
+
+ 
+ 
+ 
+ 
+

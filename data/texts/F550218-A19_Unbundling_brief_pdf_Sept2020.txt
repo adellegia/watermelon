@@ -1,0 +1,127 @@
+Ref. Ares(2020)4664683 - 08/09/2020
+
+Unbundling of hosting and content moderation: a draft proposal to help fix competition and
+freedom of expression challenges in social media markets
+
+September 2020
+
+The problem
+
+Social   media   platforms   have   revolutionised   the   way   people   access   and   share   content.  They   have   acted   as
+tremendous enablers for individuals’ right to freedom of expression and information. However, they have also
+built users’ profiles through the accumulation of traces of online navigation and drawn them in with targeted
+advertising. They have accelerated the dissemination of various kinds of problematic content such as some forms
+of ‘hate speech’ and ‘disinformation’.
+
+In addition, the major social media platforms act as gatekeepers in the social media markets.  They control
+economic  actors’ access  to  the  users  and  are  able   to  raise  barriers   to  entry   for  competitors.  As  such,  they
+determine the competition dynamics in the market and in the aftermarkets. On the one hand, economic actors
+that want access to the users have to accept the conditions imposed by the gatekeepers; on the other hand,
+gatekeepers deprive users of viable alternatives.
+
+ARTICLE 19 is particularly concerned by the fact that social media gatekeepers act not only as “economic”
+gatekeepers, but also as “human rights” gatekeepers, with particular impact on the right freedom of expression
+and information, and the right to privacy. This manifests itself in two ways. First is the companies' ability to
+dictate standard terms of service (ToS) for their users and to implement content moderation policies that are
+critical in terms of freedom of expression standards. Second, it also raises concerns where governments are able
+to pressure these gatekeepers into changing their ToS or policies in way which is not compliant with human
+rights.
+
+Moreover, at a community level, social media platforms with high market power can exert decisive influence on
+public debate, which raises issues in relation to diversity and pluralisms in the online environment. It is of
+utmost importance that media freedom and media pluralism are guaranteed online as they are offline.
+
+Our proposal
+
+The proposal ARTICLE 19 puts forward has its roots in the assumption that high concentration in social media
+markets1, coupled with consistent barriers to entry for competitors, plays a fundamental role in the structural
+competition problems and freedom of expression challenges we need to address in those markets. Therefore, our
+proposal aims to fix challenges with content curation by diminishing concentration of power in the market and
+by lowering barriers to entry for alternative curation services.
+
+Although hosting and curation activities are currently provided as a bundle by the vast majority of social media
+platforms, this does not need to be the case, and it is not something irreversible. The bundle has a strategic
+economic value, and it contributes to lock in users and to raise barriers to entry to the market for potential
+
+1  The high level of concentration in digital platforms markets has been identified by, among others, by the CMA Study as well as by
+Furman review. See:  CMA, Online Platforms and Digital Advertising,  Market Study Final Report, (2020);  Furman et al.,  Unlocking
+Digital Competition (2019).
+
+competitors. In other words, by offering both services together, dominant social media platforms manage to
+protect themselves from competitive pressure and deprive users from alternatives; they are able to hold their
+gatekeeping position safely.
+
+This scenario is undesirable from a number of perspectives, and has an impact on competition, innovation,
+individuals' rights and, to a certain extent, also broader public objectives such as media plurality and diversity.
+As mentioned earlier, it also results in a number of market failures such as excessive concentration in the market,
+barriers to entry, and other externalities created by the dominant platforms' behaviors that are not internalised
+and thus fall on individual users and on society, who pay the costs.
+
+ARTICLE 19 calls for an ex ante remedy to address this situation. This would oblige social media platforms with
+significant market power to unbundle hosting and content curation activities, and allow third parties to offer
+content curation to the platforms’ users. As a way of example, what we envisage is that a user that creates or has
+a profile on Facebook would be asked by the platform whether they want the content  curation  service to be
+provided by Facebook itself, or by other players to be freely selected. The option to stay with the dominant
+platform   should   be   presented   as   opt-in,   rather   than   opt-out.   We   believe   that   opt   in  default   is   more   pro-
+competitive and reduces switching costs (and therefore also  avoid that platforms undermine the effects of the
+unbundling by making the switching hard for users and by nudging them towards a locked-in situation).
+
+Designing the unbundled access to content curation
+
+ARTICLE 19 calls for an asymmetric remedy. We believe that such remedy should be imposed on platforms that
+have a gatekeeping position or a position of market strength that, irrespective of whether it can be defined as
+dominance under competition rules,  it  allows   the  platform  to  raise  barriers  to entry,  determine   competition
+dynamics in the market, and deprive users of viable alternatives.
+
+We recommend a form of functional separation, not a structural one. In addition, the platform that provides the
+hosting should remain free to offer content curation too. What changes is that the platform should keep the two
+services   separate   and   provide   competitors   the   possibility   to  offer  the  curation  service   on   its  platform;  the
+platform must also allow users to freely choose among service providers.
+
+The unbundling remedy should be designed to address the contractual layer (contractual agreements between the
+platforms with significant market power and the alternative players that provide content curation services to the
+platforms' users) and the technical layer (how to make this technically possible while ensuring data protection,
+consumer protection and security).
+
+For   the   contractual   layer,   we   suggest   that   platforms   provide   access   to   competitors   based   on   fair,
+
+reasonable, transparent and non-discriminatory grounds. We also suggest platforms should not be allowed to
+change the access conditions unilaterally in a way that nullifies competitors’ efforts and investments.
+
+ For the technical layer, we believe the more efficient solution to be that platforms should open a curation
+Application Programming Interface (API) to potential competitors. As such, the efficacy of the unbundling
+remedy   is   based   on   the  adoption   of   interoperability   solutions,   whose  details   should   be   defined   by   the
+regulator, guided by independent experts with the relevant knowledge and in cooperation with the platform
+in   order   to   deal   with   the   substantial   information   asymmetries   in   the   market.   Indeed,   as   explained   by
+distinguished  academic experts,  various  types  of   interoperability  exist, and  each of  them   could best   fit
+different situations and needs2.
+
+2 See, in particular: Ian Brown, Interoperability as a tool for competition regulation, preprint of 31 July 2020; Vittorio Bertola (2020), A
+Technical and Policy Analysis of Interoperable Internet Messaging.
+
+What the unbundling could achieve
+
+ARTICLE 19 suggests that unbundling is  a  highly pro-competition  remedy:  it opens the market for content
+curation and relies on competition among players to deliver more choices and better-quality services to users.
+Therefore, the unbundling is also capable of addressing the market failures mentioned above. Furthermore, the
+remedy we suggest is not a novelty in the history of economic regulation; on the contrary, it has been often used
+in network industries, and especially in the telecom sector, in order to enhance competition and stimulate market
+entry.
+
+Moreover, the unbundling is less invasive or paternalistic than other instruments to address challenges related to
+content curation, such as imposing specific curation policies or establishing ‘must carry’ obligations. It interferes
+only limitedly on  digital platforms' freedom of economic activities and  it empowers users to make their own
+choices, rather than imposing strict standards on the market.
+
+Our Recommendations:
+
+We call the European Commission to impose the unbundling of hosting and content curation activities on social
+media platforms, and in particular:
+
+ We suggest  an asymmetric obligation, to  be imposed  on social  media platforms  with  a gatekeeping
+position or a position of market strength;
+ The unbundling should  be coupled  with  the   obligation  to  provide   access  based  on  fair,  reasonable,
+transparent and non-discriminatory grounds, and with the necessary interoperability requirements;
+ The remedy should allow users to freely select the content curation provider of their choice.
+
+

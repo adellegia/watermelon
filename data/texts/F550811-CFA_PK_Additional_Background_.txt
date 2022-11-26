@@ -1,0 +1,177 @@
+Ref. Ares(2020)4723185 - 09/09/2020
+
+Once we recognize that economies of scale and scope on the supply and demand side of the 
+market create efficiencies, we must accept the proposition that there will be small numbers of 
+firms supplying the functionalities that consumers want because their costs and prices will be 
+lower. This is an infrastructure problem that has existed since the birth of capitalism. The answer 
+has always been to design a structure that provides the shared infrastructure and makes it 
+available to all users on fair, reasonable, and nondiscriminatory (FRAND) terms. There have 
+been a variety of solutions, from regulated, private, franchise provision (common carriers, 
+turnpike trusts) to state ownership.  Unregulated private provision has been a disaster for well 
+over a century because the economic interests of the private actors conflict with the public 
+good.  The question is not whether to regulate the behavior, but how.   
+
+Regulated competition is the answer, where the goal is to promote competition in decentralized 
+capitalist markets along two dimensions—the core infrastructure market and markets that rely on 
+such infrastructure—both of which require constraints on market power, which is “inefficient.” 
+Inefficiency can be measured by prices and profits above costs, diseconomies of scale and scope, 
+or artificial barriers to entry.  Thus, along the first dimension, because we do not know the 
+precise limits of the economies of scale and scope, we hold out the hope that there can be 
+competition for the core infrastructure services.  Along the second dimension, we are much more 
+confident that there can be competition for the complements that ride on the 
+infrastructure.  Anticompetitive behavior that limits potential competition along either dimension 
+must be regulated and eliminated or diminished.  
+
+Sometimes, we break the infrastructure into pieces, either horizontally (considering economies of 
+scale) or vertically (considering economies of scope).  However, that is not always the best 
+answer.  Sometimes it is better to ensure FRAND access to the infrastructure, which, above 
+all,  addresses the problem for the competition from complements, but which can also lower the 
+barriers to entry for head-to-head competition for the provision of infrastructure (i.e., competitors 
+combine FRAND access to parts of the infrastructure with other parts that they self-supply). 
+The answer is complicated but so too is the digital economy.  Anticompetitive conduct is 
+generally easy to define, but may be difficult to prove.  Clearly identifiable complements that 
+should not have been integrated with the infrastructure may be easy to see, but identifying 
+whether the right solution is divestiture or structural separation is more 
+challenging.  Encouraging the entry of competitive supply of complements is always the right 
+thing to do, but response to the removal of entry barriers may be too slow without action against 
+vertical integration.        
+
+The high degree of concentration among big data platforms is reinforced by three other factors 
+that create a “tight oligopoly on steroids,” which the commission highlights in its discussion of 
+tacit collusion. High concentration is reinforced by multi-market contact, technological 
+specialization, product segmentation, and geographic separation (for Big Broadband Networks) 
+or must-have bundles (for Big Data Platforms). As shown in the following table, our working 
+papers show that the tight oligopoly on steroids afflicts both the communications networks (Big 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Broadband Networks) and the information system (Big Data Platforms). The tight oligopoly on 
+steroids results in the classic harms of lack of competition: denial of consumer choice, 
+insufficient innovation, higher prices, and lower quality. 
+
+THE TIGHT OLIGOPOLY ON STEROIDS: 
+BIG BROADBAND NETWORKS AND BIG DATA PLATFORMS 
+
+Tight Oligopoly on 
+Steroids 
+Characteristic 
+
+High concentration 
+& multi-market 
+contact 
+
+Big Broadband Networks 
+
+Big Data Platforms 
+
+Franchise, economies of scale 
+Telco Basic Data Service (BDS), 
+Wireless Cable Multichannel Video 
+Programming Distributor (MVPD) , 
+Broadband Internet Access Service 
+(BIAS) 
+
+Economies of scale & scope, 
+zero marginal cost, winner-take-
+most 
+Google Search, Facebook 
+connectivity, Amazon 
+distribution 
+
+Technological 
+Specialization 
+
+Point-to-point (landline) 
+Cell Networks 
+Star Video 
+
+Google algorithms and network 
+value, Facebook network value, 
+Amazon distribution efficiency 
+
+Product 
+Segmentation 
+
+Voice, wireless 
+Video, BIAS  
+
+Search, Social media, 
+distribution 
+
+Unique Product 
+Traits 
+
+Geographic Separation 
+Local network 
+Franchise origin  
+
+All: “must have” content 
+protected by lock-in supply-side 
+foreclosure and demand-side 
+bundling and behavioral 
+manipulation 
+
+Gatekeeper control of chokepoints, reinforced by steroids, gives the small number of firms that 
+dominate the digital communications sector immense market power. They have demonstrated 
+time and again that they have the willingness and ability to abuse that market power. Specific 
+areas where policy can move forward in spite of the complexity include: 
+
+•  Concentration: Public policy must not only deal with the high level of concentration, it 
+
+must also address the steroids to restore competition for Big Data Platforms.   
+
+•  Excessive horizontal or vertical concentration should be prevented 
+•  Anticompetitive bundling: Take action to avoid anticompetitive bundling, banning unfair 
+
+rates terms and conditions, requiring open access to APIs. 
+
+•  While collusion is clearly illegal, tacit collusion and parallel exclusion should also be 
+
+prevented. 
+
+•  Exclusionary practices:  should be banned, including predation (with a new standard for 
+anticompetitive pricing), foreclosure, denial of access to customers, and self-dealing  
+
+•  Transparency: Fair Information Practices 
+
+ 
+ 
+ 
+ 
+•  Privacy: Effective consumer choice. One of the great challenges is access to data and the 
+solution cannot be to just force data to be shared. There must be a stronger regime for 
+consumer sovereignty over data.    
+
+While some of these policies should apply to all firms in the market and may be addressed by 
+general policies – e.g., a structure of supply side transparency and demand side consumer choice 
+(sovereignty) – others should focus on dominant firms. A “traditional” measure of dominance 
+should be used.  A tight oligopoly exists where the top four firms have a 60% (or more) market 
+share, and all firms that could constitute this market share should be well regulated. While action 
+against anticompetitive structures and conduct should be taken against firms who constitute the 
+tight oligopoly, scrutiny should not stop there. The empirical evidence we have reviewed shows 
+that “four is few, six may be enough, and ten are many.”  Scrutiny of higher numbers of firms 
+(4–10) should be subject to complaint and might shift the burden to complaining firms. 
+
+While dual jurisdiction (antitrust and regulation) has been essential to oversight over the 
+communications sector, and should remain so, it is important to have clear regulatory 
+responsibility vested in specific agencies (we prefer a new digital regulatory agency). Because of 
+the large benefits, the approach should be to achieve the desired pro-competitive, pro-consumer 
+outcomes with the least amount of intervention necessary.   
+
+Subject to agency expertise and practice, no remedies should be taken off the table, and the threat 
+of extreme action is a useful prod to corrective action. However, no remedies should be 
+mandated before careful consideration has been given to the costs and benefits of more extreme 
+actions. In order to accomplish its goals with the least intervention necessary, the regulatory 
+agency must have full investigative authority, power and resources and it must be subject to 
+deadlines to avoid foot dragging by firms under investigation.  
+
+ 
+ 
+ 
+ 
+ 
+

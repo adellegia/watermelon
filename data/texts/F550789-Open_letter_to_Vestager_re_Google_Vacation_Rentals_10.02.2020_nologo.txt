@@ -1,0 +1,308 @@
+Ref. Ares(2020)4722937 - 09/09/2020
+
+SIGNATORIES 
+
+Asociación Española de Plataformas 
+Digitales de Alquiler Temporal (PAT) 
+
+Deutscher Ferienhausverband e.V. (DFV) 
+
+Digital Economy Network, z.s. (DEN) 
+
+Syndicat des Professionnels de la Location 
+Meublée (SPLM) 
+
+Verband Deutscher Ferienhausagenturen 
+(VDFA) 
+
+Verband Internet Reisevertrieb e.V. (VIR) 
+
+10 February 2020 
+
+Commissioner for Competition M. Vestager 
+European Commission 
+margrethe-vestager-contact@ec.europa.eu  
+
+AKENA Technologies 
+
+Awaze Group 
+
+Belita GmbH 
+
+cc:    Olivier Guersent (Director-General DG Comp) 
+Nicholas Banasevic (Head of Unit COMP.C.3)  
+
+BestSearch Media GmbH 
+
+Bungalow.Net Netherlands BV 
+
+Re: 
+
+Casamundo GmbH 
+
+Chalet.nl B.V.  
+
+dk-ferien Aps 
+
+Our concerns about Google’s preferencing and 
+tying of its new product Google Vacation Rentals 
+within general search results pages 
+
+eDreams ODIGEO Group 
+
+Eiderstedter Immobilien Appartement-
+Vermittlung Reisedienst GmbH 
+
+Escapada Rural Servicios Para  
+Propietarios S.L. 
+
+EverStay Limited 
+
+Expedia Group/HomeAway 
+
+fejo.dk ApS 
+
+FERIES S.r.l. 
+
+Gites B.V.  
+
+Holiday Home AG & Interholiday AG 
+
+HomeToGo GmbH 
+
+Istria home d.o.o. 
+
+Location Bretagne GbR 
+
+Location Vacances Express SAS 
+
+Metatravel Service GmbH 
+
+Naron d.o.o.  
+
+Ostsee-Ferienhausvermietung Gosch  
+
+Provacances ApS 
+
+resido GmbH 
+
+SARL VIVAWEB 
+
+SARL Web Emeraude 
+
+Silka Holiday Rentals bv 
+
+TravelMeta GmbH 
+
+Tripadvisor LLC  
+
+Tripping GmbH  
+
+Dear Commissioner Vestager, 
+
+You were one of the first who correctly identified the 
+competitive threats arising from digital platforms such as 
+Google that act as both a referee and a player to “use that 
+power to harm competition, by helping their own 
+services”.1  
+
+The undersigned trade associations and companies 
+(hereinafter we) would like to make you aware of another 
+case of self-favouring by Google. We are either providers of 
+specialised vacation rental intermediation services or 
+associations representing the interests of the Internet 
+travel industry. The members include multi-national 
+enterprises as well as medium and small sized businesses 
+(SMBs) from around the globe. 
+
+Akin to other sectors such as comparison shopping or 
+online recruitment, we are currently witnessing an 
+attempt, by Google, to expand its dominance in the 
+markets for general search services into the separate 
+markets for vacation rental intermediation services by 
+favouring its own service in general search results pages.  
+
+Vintage Spain Ltd  
+
+Wimdu Meta GmbH 
+
+1  
+
+(in alphabetical order) 
+
+Digital Summit, Dortmund, Germany, 29 October 2019. 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As officially announced on 5 October 2019,2 Google expanded its “search experience 
+to include a wider assortment of vacation rental properties worldwide”.3 This means 
+that Google started displaying vacation rentals from a variety of partners, some of 
+which signed this letter. These offers for vacation rentals can be seen, searched for 
+and compared within Google’s new product Google Vacation Rentals. With a few 
+clicks the offers can then also be booked. Accordingly, Google advertises its new 
+service as a tool to “[f]ind and book vacation rentals, with help from Google”.4  
+
+The competition concerns arise from the fact that Google features its new product in 
+a visually-rich OneBox at the top of its general search results pages – a ranking and 
+display that Google reserves only for its own specialised search service. The 
+prominent feature includes pictures, a map preview, ratings and prices – a user 
+experience like any other vacation rentals search service. As the Commission 
+established in its Google Search (Shopping) decision5, such favourable ranking and 
+display secures Google’s service more user attention and clicks than any competing 
+service may acquire, even if these are more relevant for the user’s search query. 
+
+Google Vacation Rentals is a direct competitor to our specialised services. There may 
+be some form of cooperation but ultimately both Google Vacation Rentals and our 
+platforms compete on all fronts for the intermediation between vacation homes and 
+holiday seekers. We all compete for the attention of the same users. We also all 
+compete – sometimes on different levels of this market – for either original content 
+providers such as property/channel managers or providers of vacation rentals such as 
+home owners or real estate companies. But none of us Google rivals is capable of 
+resorting to a favouring within the results pages of the standard Internet search 
+engine to bundle these two user groups of consumers and properties. 
+
+We see strong indications of a competitive strategy for Google to reduce us and our 
+industry to mere content providers for the “one-stop-shop” of Google’s new product:  
+
+2  
+
+3  
+
+4  
+5  
+
+See Schaal, Google Elevates Vacation Rentals With Hotel-Like Treatment in Search, 5 October 
+2019 (https://skift.com/2019/10/05/google-elevates-vacation-rentals-with-hotel-like-treatment-in-search/). 
+Google, The Keyword, Find and book vacation rentals, with help from Google, 26 March 2019 
+(https://www.blog.google/products/flights-hotels/find-and-book-vacation-rentals-on-google/).  
+Id. 
+The 1st position on a given Google search results page usually attracts 32.5% of clicks, the 2nd 
+position 17.6% of clicks, the 3rd position 11.4% and any further position attract 8.1% and less 
+clicks (see https://www.wikiweb.com/google-ctr/). On mobile devices, this tendency is even stronger, 
+with the top three results on average accounting for more than 70% of the total clicks, see the 
+findings in Commission, Case AT.39740 – Google Search (Shopping), footnote 541. 
+
+2 
+
+ 
+  Technical tying: Google is technically tying its general search service, Google 
+Search, with the distinct vacation rental search service, Google Vacation 
+Rentals. Attracted and trapped by the visual prominence of the OneBox for 
+this specialised service, users are induced to click on it irrespective of its 
+quality and relevance. Users cannot use Google’s general search service 
+anymore without also being displayed the results of Google Vacation Rentals 
+when they enter a related search query. There is no option to obtain Google 
+Search without Google Vacation Rentals. 
+
+  Self-preferencing: Google is consistently positioning and displaying OneBoxes 
+for its vacation rental search service above all competing services. This diverts 
+the majority of the user attention and traffic to Google Vacation Rentals and 
+away from its more relevant competitors. As a result, competing services are 
+de facto cut-off from their customer base, at least from the majority of those 
+consumers who only use Google Search to find their way round the Internet.  
+
+  Anti-competitive foreclosure: Google’s conduct will have a massive 
+
+detrimental effect on the industry. Due to Google’s general search service 
+being the first port of call for most Internet users, almost all specialised search 
+service providers are dependent on being findable in Google Search. By 
+pushing, at no costs, its own service above those of its rivals in general search 
+results pages, Google can convey its service an economic advantage that none 
+of us can compete with or outbalance through other investments or 
+innovations. Google is increasingly providing the relevant vacation rental 
+intermediation service directly within its results pages. This will ultimately 
+render any click through to a competing intermediation service unnecessary. 
+These services will be reduced to mere content providers for Google’s rival 
+service. This disables them from gathering the data required to enhance their 
+search and matching algorithms, to identify user needs and to improve the 
+user experience. 
+
+To make matters worse, Google discriminates amongst competitors regarding a 
+participating in Google Vacation Rentals: At the moment, only a few big companies 
+have been approached by Google to share their content. Google argues that a lack of 
+staff and technical issues do not allow to involve all businesses immediately. As a 
+result, SMBs suffer twofold. They are excluded from the traffic generated by Google 
+Vacation Rentals and the OneBox severely reduces the traffic from organic or paid 
+search results to their sites. 
+
+3 
+
+We have witnessed the same conduct in the hotel intermediation industry and 
+understand that this conduct may still be investigated by the Commission. However, 
+our case has different dimensions. Firstly, Google operates a separate product in the 
+national markets for vacation rental intermediation services. Secondly, in our 
+markets Google’s abusive conduct just started. This allows the Commission to 
+address the leveraging practice before it has irreversible effects. As you rightly 
+pointed out in the past, in digital markets we “need to act quickly. Because, once a 
+market has tipped, it becomes very hard to bring competition back to the market”.6  
+
+  Google Search (Shopping)7 and the Microsoft (Tying)8 cases are strong 
+precedents that may even allow the finding of a prima facie abuse. Most 
+experts agree with the economic rationale of theses decisions. Not just the 
+Commission’s advisory board encouraged more vigorous steps because “self-
+preferencing by a dominant firm can be abusive even below [the threshold of 
+essential facility] where it is not justified by a pro-competitive rationale and is 
+likely to result in a leveraging of market power.”9 We do not see any pro-
+competitive rationale in Google’s favouring and tying of Google Vacation 
+Rentals. On the contrary, it restricts competition and will ultimately lead to 
+less choice and higher prices for consumers.  
+
+  Risk of irreversible “tipping” towards Google. As of today, Google does not 
+charge its rivals for being included in Google Vacation Rentals. However, 
+considering Google’s successive switches to paid-inclusions in the areas of 
+shopping, flight and hotel searches, such payment system appears to be only 
+a short matter of time. By then intermediaries, original content providers and 
+vacation home owners will have become so dependent on Google’s broad and 
+single-homing user base that they will have no option left but to bid their 
+revenues away in auctions for paid-inclusions in the OneBoxes. In addition, 
+already today the conduct strengthens Google’s dominance in general search. 
+
+Considering the above, the undersigned strongly encourage the Commission to 
+launch an investigation into Google’s favouring and tying of its service Google 
+Vacation Rentals and to consider all possible steps to bring this conduct to an end.  
+
+Sincerely, 
+
+6  
+7  
+8  
+9  
+
+Speech, Digital Summit, Dortmund, Germany, 29 October 2019. 
+Commission, Case AT.39740 – Google Search (Shopping). 
+Commission, Cases AT.37792 – Microsoft I and AT.39530 – Microsoft II. 
+Crémer/de Montjoye/Schweitzer, Competition policy for the digital era, April 2019, page 66. 
+
+4 
+
+ 
+Annex 
+
+Google Vacation Rentals embedded on Google SERPs 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+Google Vacation Rentals OneBox 
+
+on mobile (left) and desktop (right) 
+
+6 
+
+ 
+ 
+ 
+ 
+

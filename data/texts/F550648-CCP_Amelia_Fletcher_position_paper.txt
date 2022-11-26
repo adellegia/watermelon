@@ -1,0 +1,1139 @@
+Market Investigations for Digital Platforms: 
+Panacea or Complement? 
+
+Amelia Fletcher 
+Centre for Competition Policy 
+University of East Anglia1 
+
+Abstract 
+
+There is a growing international consensus that standard competition law is inadequate for 
+addressing the panoply of competition problems arising in digital platform markets. 
+Alongside a proposal for ex ante regulation in this arena, the European Commission is 
+considering the introduction of a ‘New Competition Tool’ which is broadly modelled on the 
+UK Market Investigation instrument.  
+
+This paper abstracts from the specifics of the EU situation and considers the pros and cons 
+of market investigations in the context of the UK regime. It concludes that the tool is a 
+valuable addition to the standard competition law toolkit, and that this is likely to be true 
+also at EU level, both for digital platforms and more widely. However, because the tool is 
+potentially so powerful and flexible, it merits strong procedural checks and balances, to 
+guard against confirmation bias or politicisation. The tool also has important limitations and 
+thus should not be viewed as a full solution to the issues raised by digital platforms, but 
+rather as a valuable complementary tool alongside new ex ante regulation. 
+
+1 The author is also a Non-Executive Board Member at the Competition Markets Authority. She was also a 
+member of the UK Government-commissioned Digital Competition Expert Panel which published Unlocking 
+Digital Competition in March 2019. The author would like to thank Martin Cave, Steve Davies, Alexandre De 
+Streel, Paul Dobson, Richard Feasey, Adam Land, Liza Lovdahl Gormson, Bruce Lyons, Philip Marsden and 
+Massimo Motta for useful comments. However, all views expressed here are her own.  
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Introduction 
+
+There is a growing international consensus that standard competition law, while valuable, is 
+inadequate for addressing the panoply of competition problems arising in digital platform 
+markets. In 2019 alone, there were a wide array of policy reports published, across many 
+different jurisdictions, all identifying concerns with existing powers in this area and the need 
+for reform.2 A number of jurisdictions are currently considering legislative changes to 
+address these issues, with Germany proposing to amend its competition law to play a more 
+regulatory role3, while the UK, Australia and Japan are all taking practical steps towards 
+introducing pro-competitive ex ante regulation.4 
+
+In its own quest to address these concerns, the European Commission is currently 
+considering the potential introduction of two new legal powers: a ‘New Competition Tool’ 
+and an ‘ex ante regulatory instrument for large online platforms’.5 A menu of different 
+variants of both are offered up for comment.  
+
+A likely runner for ‘New Competition Tool’ (Option 3) appears to be broadly modelled on 
+the UK’s Market Investigation (MI) powers under the Enterprise Act 2002. These enable the 
+UK Competition and Markets Authority (CMA) to identify and remedy situations in which 
+there are ‘features of a market’ that create an ‘adverse effect on competition’.  
+
+2 The three most prominent reports are those from the EC (J. Crémer, Y-A. de Montjoye and H. Schweitzer, 
+Competition policy for the digital era, Report to the European Commission, 2019); UK (J. Furman, D. Coyle, A. 
+Fletcher, D. McAuley and P. Marsden, Unlocking Digital Competition, 2019); US (F. Scott Morton, Bouvier, P., 
+Ezrachi, A., Jullien, A., Katz, R., Kimmelman, G., Melamed, D. and J. Morgenstern, Committee for the Study of 
+Digital Platforms, Market Structure and Antitrust Subcommittee, Stigler Center for the Study of the Economy 
+and the State, 2019). In addition, there have been reports from Australia (ACCC, Digital Platforms Enquiry: 
+Final Report, 2019); Benelux (Joint memorandum of the Belgian, Dutch and Luxembourg competition 
+authorities on challenges faced by competition authorities in a digital world, 2019); BRICS (BRICS in the digital 
+economy: Competition policy in practice, 2019); France (G. Longuet et al., Report at the French Senate on 
+digital sovereignty, 2019); Germany (M. Schallbruch, H. Schweitzer and A. Wambach, A new competition 
+framework for the digital economy: Report by the Commission ‘Competition Law 4.0’, 2019); Italy (AGCM, 
+AGCOM, AGPDP, Big Data Joint Survey, 2019); Japan (FTC, Report regarding trade practices on digital 
+platforms, 2019); Netherlands (Ministry of Economic Affairs and Climate Policy, Future-proofing of competition 
+policy in regard to online platforms, 2019); Portugal (Autoridade da Concurrencia, Digital Ecosystems, Big Data 
+and Algorithms, 2019); UNCTAD (Competition issues in the digital economy, 2019). 
+3 For an unofficial English translation, see: https://www.d-kart.de/wp-content/uploads/2020/02/GWB10-Engl-
+Translation-2020-02-21.pdf. 
+4 See for Australia (Government Response and Implementation Roadmap for the Digital Platforms Inquiry, 
+2019, https://treasury.gov.au/publication/p2019-41708 and for the UK (Digital markets taskforce: terms of 
+reference, 2020 (https://www.gov.uk/government/publications/digital-markets-taskforce-terms-of-
+reference/digital-markets-taskforce-terms-of-reference--3). For Japan, an English language description of 
+Government proposals can be found at: White and Case (2020) The Japan Cabinet proposed Direction of Bill for 
+Digital Platform Transparency Act, https://www.whitecase.com/sites/default/files/2020-01/the-japan-cabinet-
+proposed-direction-of-bill-for-digital-platform-transparency-act.pdf. 
+5 See: https://ec.europa.eu/commission/presscorner/detail/en/ip_20_977 and 
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12418-Digital-Services-Act-
+package-ex-ante-regulatory-instrument-of-very-large-online-platforms-acting-as-gatekeepers.  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What should we think about such an introduction of a MI tool in this context? Is it likely to 
+be a valuable complement to the Commission’s existing competition powers? Will it be a 
+panacea for digital competition concerns?  
+
+This article reflects on these questions, based on recent UK experience of market 
+investigations. It concludes that the tool has major positives and would be a valuable 
+addition to the Commission’s toolkit, in digital markets and more widely. However, as was 
+concluded in the 2019 UK Unlocking Digital Competition report, the MI tool also has 
+limitations and should not be viewed as a full solution to digital platform issues. In 
+particular, although it has huge flexibility in designing and implementing remedies, the 
+process of monitoring, enforcing and revisiting these remedies over time has some 
+important limitations. 
+
+In focusing on the UK situation, this article does not endeavour to consider the complexities 
+of introducing this tool at EC level. Nevertheless, certain aspects of the UK system may well 
+be relevant to its effectiveness. The fact that the CMA has both competition and consumer 
+powers is valuable, since many market studies effectively address issues that would 
+otherwise ‘fall through the cracks’ between these two areas of law. The UK’s system of 
+concurrency between the CMA and sector regulators is also important, at least for the 
+monitoring and enforcement of MI remedies in these sectors.  
+
+The statutory requirements around governance within the UK process are also relevant, and 
+specifically the need for separation between the decision-makers who decide to commence 
+an MI, following an initial market study, and those reach findings at the end of an MI. 
+Finally, the international context for intervention may of course be different at EC level than 
+for the CMA as a UK-focused authority.  
+
+2.  Positives of the Market Investigation tool  
+
+In the UK, MIs are used as a complementary instrument alongside other competition 
+powers, and this would also be the case at EU level. So what advantages does this tool have 
+in this context? What can it do that existing EC competition law cannot? The remarks below 
+consider some key benefits in relation to scope, remedies and procedure.  
+
+(i) 
+
+Scope 
+
+While standard competition powers and MIs are both focused on improving competition, 
+there are number of subtle but important differences between them in terms of scope. 
+
+A proactive role in promoting competition 
+
+Most competition law provisions are primarily focused on preventing competition from 
+becoming worsened, for example through mergers, collusion or abuse of dominance. A 
+valuable contribution of MIs is that they can play a more proactive role in promoting 
+increased competition. So, for example, they can introduce market opening measures that 
+are intended to shift the whole nature of competition. The Open Banking measures which 
+arose from the UK Retail Banking MI are a good example, in that they were designed to 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+open up the potential for disruptive and innovative competition from new technologies and 
+business models. 
+
+A broader and more holistic approach 
+
+Standard competition law is primarily focused on the conduct of firms, albeit this conduct is 
+considered within its market context and thus wider market characteristics can play a role. 
+By contrast, MIs are designed more broadly to tackle any and all ‘features’ of markets which 
+are found to adversely affect competition. While such features can include firm conduct, 
+they can also comprise factors such as economies of scale and scope, network effects, 
+regulatory and structural barriers, and consumer behavioural factors. Remedies are 
+frequently targeted at addressing these other factors, as opposed to restricting 
+anticompetitive conduct by firms. 
+
+MIs also allow for the investigation of a far wider set of competition concerns than the 
+abuse of dominance and explicit collusion that are core target of standard competition law. 
+Indeed, neither dominance nor explicit collusion have been found to be concerns in the 
+CMA’s most recent MIs.6  
+
+On the supply side, for example, they can examine subtle complexities in the nature of 
+strategic interdependence between firms, including the potential for tacit coordination. 
+Indeed, the ability to examine ‘tight oligopolies’ is a key benefit of the regime. The 2014 
+Aggregates, Cement and Ready-mix Concrete MI is a good example. The Competition 
+Commission (the CMA’s precursor) identified a combination of structural and conduct 
+features that were leading to coordination and higher prices. These were addressed through 
+clear structural measures (divestment and market transparency reduction), rather than via 
+more direct, but arguably harder to police, behavioural requirements on firms to cease 
+colluding. MIs can also consider the implications for firm incentives of factors such as 
+vertical integration, principal-agent issues or regulatory barriers. 
+
+On the demand side, meanwhile, MIs can consider firm conduct that might dampen or 
+distort competition through making consumer decision-making difficult. Examples might 
+include failing to provide clear and comparable information, refusing to deal with price 
+comparison website services, including contractual terms that make switching costly or 
+making the process of switching cumbersome. Firms can be required to make changes to 
+their conduct in these areas. While such factors may seem to have more in common with 
+consumer law than competition law, they are not typically covered by consumer law and 
+can have very significant implications for competition, even in relatively non-concentrated 
+markets.  
+
+MIs are especially well designed to carry out the holistic analysis of markets where problems 
+are market-wide and there are a variety of interwoven factors – structural and behavioural 
+– creating competition concerns. By contrast, in standard competition cases, authorities 
+
+6 These have examined Energy (final report, 2016), Retail Banking (2016), Investment Consultants (2018) and 
+Funerals (ongoing). 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tend to be funnelled into focusing more narrowly on one issue and (in abuse cases) one 
+firm.  
+
+MIs can also address markets can which have become ‘stuck’ in bad equilibria, which are 
+good for neither firms nor society, but where some form of intervention is required to make 
+the shift to a better equilibrium. For example, it may not be in the interest of any individual 
+energy company to make it easier for their own consumers to switch supplier, even if the 
+whole market would work more effectively and consumer trust would be increased if 
+switching was generally easier.   
+
+No role for culpability or intent 
+
+Even to the extent that firm conduct is relevant, the focus of MIs is firmly on anti-
+competitive effects. It is not relevant for MIs whether conduct it is deliberately anti-
+competitive or whether firms are otherwise culpable for the harm. Indeed, even if the 
+conduct in question creates efficiency benefits for consumers over the short term, and thus 
+may well reflect a short run pro-consumer focus on the part of firms, it could still be found 
+to create an adverse effect on competition if there is likely to be a consequent loss of 
+competition that would harm consumers over the medium to long term. By contrast, while 
+the role of intent in abuse of dominance cases is somewhat ill-defined, it is typically 
+considered hard to sanction a firm that can show it is acting in its own short-run interest, 
+with no strategic anti-competitive intent, or at least a finding of culpability.  
+
+No need to fit within antitrust precedent or policy 
+
+The targeted market-specific nature of MI analysis and remedies, and the lack of any need 
+to show culpability, means that only limited consideration is given to wider deterrence and 
+precedence. This could be seen as a negative, given the important role that wider 
+deterrence plays in competition law generally and in providing legal certainty for firms. 
+However, it does provide for more freedom to carry out economic analysis without being 
+unduly constrained by the policy approaches and precedent from past cases.  
+
+For example, while the MI process does involve a market definition exercise, this is not 
+given the same weight as it is in abuse of dominance cases. The focus is quite properly on 
+the analysis of competitive constraints. (This should of course also be the case in 
+competition law more widely but in practice is not).  
+
+It also means that MIs are better able than standard competition law to consider the wider 
+context, and in particular the complex interplay between competition and other policy areas 
+such as privacy, consumer policy and fairness, and environmental issues. The CMA is 
+especially alert to these links, given its dual role as a competition and consumer authority, 
+and the UK system of concurrency with sector regulators.  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implications for digital markets 
+
+This ability to look at a panoply of interrelated issues across a market, or markets7, without 
+any need to demonstrate culpability, is likely to be especially useful in digital platform 
+markets. As was highlighted in the 2019 Unlocking Digital Competition report: “The 
+challenges to effective competition in digital markets do not come about solely because of 
+platforms’ anti-competitive behaviour and acquisition strategies.”  
+
+In these markets, the issues frequently arise from a combination of complex interleaving of 
+firm conduct, consumer behaviour, economic characteristics, technological factors, and 
+various aspects of regulation. Promoting competition in this sector will therefore not be 
+purely about limiting anti-competitive conduct, important as that is. It will also require more 
+proactive measures.  
+
+The Commission’s Inception Impact Assessment for its proposed New Competition Tool 
+highlights the potential to use the tool in relation to (i) markets displaying systemic failures 
+going beyond the conduct of a particular company with market power or (ii) oligopolistic 
+market structures with an increased risk for tacit collusion. Both of these objectives fit well 
+with past experience of the MI regime. 
+
+The Commission’s Impact Assessment also emphasises the potential use of the tool to 
+intervene early to prevent markets from tipping, an issue of particular relevance in markets 
+that exhibit strong network effects, such as digital platform markets. It is entirely true that 
+such interventions may be difficult to make under standard competition law, given the 
+absence of existing single firm dominance. However, it should be admitted that the UK has 
+limited experience of using MIs to this particular end. 
+
+The ability to consider carefully the synergies and tensions between interrelated policy 
+objectives is likely to be important in digital markets, for example given the importance of 
+consumer data and thus the relevance of privacy policy. 
+
+The reduced role played by market definition may also be valuable in digital markets, given 
+the complexities involved in a formal market definition process in this context. These largely 
+arise from the wide spectrum of organisational types and relations we observe. We know 
+that digital players can compete despite some having closed ecosystems while others have 
+open; despite some acting only on one side of a market, while others are multi-sided; 
+despite some being integrated into interface activities, while others are stand-alone. These 
+factors are important to examine carefully when assessing competition, but it is unhelpful to 
+unduly constrain this analysis by forcing it into a narrow market definition exercise. Indeed, 
+it could be argued that a weakness of competition law – and especially abuse of dominance 
+provisions – is that the legal framework requires the boundaries of firms and markets to be 
+defined in unrealistically black-and-white terms. 
+
+7 The scope of MI powers was extended to allow the investigation of cross-market practices (as opposed to 
+specific defined markets) by the Enterprise and Regulatory Reform Act 2013. This wider scope has, however, 
+not yet been used. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii)  
+
+Remedies 
+
+The discussion above focused on comparing MIs with standard competition law. However, 
+the European Commission is of course already able to carry out Sector Inquiries, which have 
+significant similarities with MIs. So what incremental benefits do MIs bring? 
+
+Traditionally, an important aspect of the UK MI regime was that it included powerful 
+information gathering powers, which could be used to ‘shine a light’ into markets in order to 
+understand the barriers to competition that may exist. Since 2014, however, the CMA now 
+has the same powers in respect of its market studies. Market studies can precede an MI, as 
+a form of first stage review, but they can also be stand-alone reviews. As such, they are 
+similar to the European Commission’s own Sector Inquiries, albeit the Commission has the 
+additional ability to carry out dawn raids, a power which is not available to the CMA for 
+either market studies or MIs. Like EC Sector inquiries, UK market studies can also be useful 
+for generating recommendations for legislation, advocacy, or enforcement.  
+
+As such, the primary additional benefits of MIs – over both UK market studies and EC Sector 
+Inquiries – derive from its formal remedy-making powers. 
+
+A broad remedy toolkit 
+
+If an adverse effect on competition is identified, the CMA is required to achieve as 
+comprehensive a solution as is reasonable and practicable. The toolkit of potential MI 
+remedies is extremely broad, so long as they are effective and proportionate to the 
+identified concerns.8 The main limitations are the requirement to target Orders at identified 
+firms, which limits the potential to  introduce non-firm-specific horizontal regulation9, and 
+(to date at least) the need to respect EC Modernisation and EC maximum harmonisation 
+provisions.10   
+
+This breadth of opportunity could be viewed negatively, as allowing excessive scope for 
+intervention. Indeed, the sorts of interventions imposed through MIs can be similar to those 
+more typically imposed in other jurisdictions though legislation, but without any process of 
+parliamentary review.11 This reflects a wider UK focus on enabling competition-focused 
+interventions, free of political consideration, but is also partly why there are tight checks 
+and balances within the MI process, as discussed further below. 
+
+8 Remedies can be agreed with firms through undertakings or imposed on firms through Orders. While the 
+provisions that can be imposed through Orders are formally constrained by legislation, the wording is 
+sufficiently broad to allow most options. (See Enterprise Act 2002, Schedule 8). There is no constraint on what 
+can be imposed through undertakings.  
+9 Although note that MIs can also lead to recommendations to Government to introduce such regulation. 
+10 EC Modernisation provisions limit the ability of the CMA to impose remedies in relation to agreements 
+which would be exempt from EC competition law, most relevantly vertical restraints which fall under the 
+vertical restraints block exemption. EC maximum harmonisation provisions, such as within consumer 
+protection or financial services regulations, may limit the ability of the CMA to impose more intrusive 
+remedies than already required by law in some areas. 
+11 Some MIs have in fact been followed by domestic and/or EU legislation that supersedes the original 
+remedies, and the CMA has an ongoing programme of reviewing and sometimes revoking old Orders, partly 
+for this reason. See: https://www.gov.uk/cma-cases?case_type%5B%5D=review-of-orders-and-undertakings. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+However, the breadth of potential remedies also brings clear benefits. While standard 
+competition law remedies tend to be narrow and backward-looking, MI remedies can be 
+forward-looking and market-wide, with remedies frequently applying across the market, 
+irrespective of individual firm market power. A package of remedies may be used to address 
+different aspects of market failure. Supply-side measures may be utilised to reduce market 
+power directly or to limit the potential for its exploitation, for example through tacit 
+collusion or exclusionary behaviour. Demand side remedies are designed to enhance 
+consumer engagement and decision-making, through improved disclosure requirements 
+and facilitating consumer search and switching, or to protect consumers against unfair 
+treatment.  
+
+Table 1, setting out a non-exhaustive selection of MI remedies, provides a flavour of the 
+range of different remedies that may be utilised in market investigations. 
+
+Table 1: A Selection of MI Remedies, 2003-2016 
+
+Regulatory 
+remedies 
+
+Changes to regulatory 
+framework  
+
+Airports, Groceries, Local Buses, Audit, 
+Energy 
+
+Improved info for regulators 
+Price regulation 
+
+Demand-side 
+remedies 
+
+Disclosure requirements 
+
+Measures to facilitate/ 
+enhance search  
+
+Measures to improve 
+consumer engagement or 
+switching 
+
+Fair terms for consumers 
+
+Airports 
+Classified Directories, Energy (pre-
+payment customers) 
+
+Liquified Petroleum Gas (LPG), Home 
+credit, Store Cards, Private Healthcare, 
+Motor Insurance, Banking 
+
+Home credit, Payment Protection 
+Insurance (PPI), Audit, Payday, Extended 
+warranties, Banking 
+LPG, Extended Warranties. Home Credit, 
+Banking, Energy 
+
+Home Credit, Extended Warranties, 
+Store Cards, Banking 
+
+Point-of-sale prohibition 
+Data portability 
+
+PPI 
+Banking (Open Banking)  
+
+Supply-side 
+remedies 
+
+Access to key inputs 
+
+Local buses 
+
+Transparency reduction 
+
+Aggregates 
+
+Unbundling  
+Limits on restrictions in 
+agreements 
+Limits on referral incentives  
+Divestment 
+
+PPI, Store Cards, LPG 
+Groceries, Audit, Motor Insurance 
+
+Private Healthcare 
+Airports, Aggregates 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Structural  
+remedies 
+
+Market share/expansion 
+limits 
+Market redesign 
+
+Classified Directories, Groceries 
+
+Energy (settlement market)  
+
+MI remedies can potentially also extend beyond a specific example of an issue that has been 
+analysed, so long as this can be justified through the economic analysis. Again, this is 
+potentially relevant to digital platforms. At the completion of the Google Shopping case, DG 
+Competition was only able to impose a remedy relating to Google Shopping. It could not 
+extrapolate from its findings and impose rules relating to analogous behaviour by Google in 
+other vertical search markets such as job search, hotel search or local search. It is true that 
+follow-on cases are easier to bring once an initial decision has been reached, but each case 
+still needs to be assessed and proven individually. By contrast, an MI in this area might 
+potentially have led to Orders which restricted Google from engaging in this sort of 
+behaviour more generally, beyond the specific example of Google Shopping, so long as it 
+could be shown that the same conclusions were likely to apply. 
+
+It is worth noting that, where the Orders arising from MIs are behavioural, they effectively 
+constitute a form of ex ante regulation in that they govern future firms’ behaviour. This is 
+true for both supply-side remedies such a transparency reduction requirements and 
+demand-side remedies such as disclosure requirements.  
+
+This ability to introduce small-scale ex ante regulation can be especially valuable in markets 
+which require intervention in order to work more effectively, but which are not covered by 
+a sector regulator. It can also be a valuable complementary tool in regulated markets, 
+where the issue in question is not within the scope of the regulation, or where the regulator 
+does not otherwise have the requisite powers to address it.  
+
+Finally, while interventions are typically designed to enhance competition, they can also be 
+used to protect consumers from the harm arising from limited competition. For example, 
+the CMA introduce a safeguard price cap for pre-payment energy customers following the 
+MI into the energy market. These customers were found to be frequently vulnerable, 
+relatively unlikely to switch provider, and at risk of exploitation.  
+
+Structural remedies: A brief comment 
+
+As is clear in the above table, the UK MI regime also allows for structural remedies to 
+market problems. This power is much touted, but it is utilised rarely in practice. It can be 
+difficult to demonstrate that such an interventionist remedy is required, as the CMA found 
+to its cost in 2016 when it was forced to abandon its attempts to require hospital 
+divestments, following an appeal and remittal in relation to its private healthcare MI. 
+
+Divestment is arguably most likely to be required in situations where firms have effectively 
+found to be single-firm dominant (albeit that terminology is not used), such that it might 
+have been feasible to extract similar remedies under existing EC competition law. However, 
+it can be applied where a lack of competition is harming consumers, even if there is no clear 
+abuse. An example might be the divestiture of London and Scottish airports which resulted 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+from the BAA airports MI. Here, the concerns related to weak investment and poor user-
+responsiveness, resulting from very high market shares and barriers to entry alongside 
+inadequacies in the regulatory system. It is far from clear whether this would constitute 
+abuse under Article 102. 
+
+That said, structural remedies can potentially be imposed in a wider set of circumstances, 
+following an MI, if existing market structure if found to be contributing to an adverse effect 
+on competition. The 2014 report requiring structural remedies in the UK aggregates sector 
+was based on a careful economic analysis of the complex vertical oligopoly situation in the 
+UK. It is not obvious that single firm dominance would have been found. 
+
+However, it is important that the existence of MIs is not viewed as a rationale for weakening 
+(or even not strengthening) the merger regime. While it is theoretically true that an MI 
+could be used to unwind an anticompetitive merger, this would be bad public policy given 
+the high costs involved in ‘unscrambling’ mergers post-integration. In a different but 
+analogous context, this is shown by the difficulties experienced in trying to address 
+breaches of state aid law in the UK banking sector through structural remedies. 
+
+Implications for digital markets 
+
+There are limitations to use the of MIs in a digital context, as will be discussed further 
+below. As such, the 2019 Unlocking Digital Competition report argued for the introduction 
+of pro-competitive digital platform regulation rather than relying purely on the MI tool. The 
+alternative – addressing concerns through a series of MIs – would lead to a series of 
+behavioural remedies that would require ongoing monitoring, and thus effectively turn the 
+CMA into a mini-regulator by default anyway, but with the risk that such regulation would 
+take a somewhat piecemeal and imperfect form.12  
+
+However, even with the introduction of pro-competitive digital platform regulation, it 
+remains likely that MIs will still have an important role to play in digital markets, with its 
+likely focus depending partly on the powers and scope of the new regulation. 
+
+The breadth of potential remedy types, and the ability to develop a package of remedies, is 
+likely to be especially valuable, given the complex set of drivers for the issues arising in 
+many digital markets. For example, data portability provisions, such as those introduced 
+through the CMA’s Open Banking remedy, may well be valuable for opening a number of 
+digital platform markets, including social media. Other valuable supply-side remedies might 
+include interoperability provisions, non-discrimination requirements, a ban on paying for 
+default position, requirements to deal, or requirements to provide data access. 
+
+The demand-side is also very important in digital markets. As such, there may also be 
+potential for remedies that improve consumer decision-making. For example, in its recent 
+market study into Online Platforms and Digital Advertising, the CMA identified a number of 
+possible remedies designed to given consumers greater control over their own data, 
+
+12 There are also funding implications. In the UK, sector regulators are typically funded by industry participants, 
+so a specialist digital regulator would likely be funded by levies on designated firms. By contrast, the CMA is 
+funded by UK taxpayers, with no powers to levy firms to fund its work in monitoring and enforcing remedies.  
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+including requiring the major platforms funded by digital advertising to be more transparent 
+with consumers about the data they are providing and to ensure that the associated choice 
+architecture really acts to facilitate informed consumer choice.13 One could also envisage 
+more general remedies, applying to all platforms with very substantial market shares, to 
+ensure that they do not unfairly utilise the choice architecture on their platforms, or unfairly 
+design their algorithms, to steer consumers towards additional services or towards their 
+own products.   
+
+Of course, as discussed above, structural separation through divestment is also a possibility. 
+This could be a valuable option in certain digital markets, as could less intrusive forms of 
+separation such as operational separation or requirements that are directly targeted at 
+addressing conflicts of interest arising from integration.  
+
+(iii) 
+
+Procedure 
+
+Two-stage process with separate decision-making 
+
+The independence and robustness of MIs is bolstered by the associated governance. There 
+is a clear split of decision making between the decision to refer a market for investigation, 
+which is taken by the CMA Board, and the final MI decision, which are made by a Group of 
+independent decision-makers, drawn from the CMA Panel. CMA Panel members are all 
+highly experienced, non-political, and bring a diversity of expertise and viewpoints. They are 
+not CMA staff. The Group members for each MI are named publicly.  
+
+MIs effectively constitute the second phase of a two-stage process. The first stage, which 
+takes the form of a 12-month market study, carries out initial market analysis and considers 
+whether a market investigation ‘reference’ is warranted.14 Prior to the creation of the CMA, 
+the two phases occurred in two separate bodies; the market study and referral decision 
+were taken by the Office of Fair Trading and the investigation was carried out by the 
+Competition Commission. To limit the risk of confirmation bias within the CMA, post-
+merger, rules require that there is no overlap of people between the Board members who 
+take the reference decision and the Group members taking the final MI decision.  
+
+As well as limiting confirmation bias, this two-stage process is also valuable for avoiding the 
+MI process becoming a depository for unpopular political issues that no one else wants to 
+tackle. These will typically be considered through a market study instead. This affords the 
+CMA the same investigatory powers as an MI, but none of the formal remedial powers.  
+
+The two-stage process can also be utilised to extract formal undertakings from parties at the 
+end of a market study in lieu of a MI reference. For example, the UK telecoms regulator has 
+utilised this process to extract undertaking from telecoms infrastructure provider, 
+Openreach. Like the European Commission’s own Sector Inquiries, market studies can also 
+lead to recommendations to Government or sector regulators, advocacy, guidance or 
+enforcement action, without any MI reference being made. 
+
+13 CMA, Online Platforms and Digital Advertising: Market Study Final Report, 1 July 2020.  
+14 MIs are sometimes known as MIRs (or Market Investigation References) for this reason. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transparency 
+
+An important positive of MIs is that the overall procedure is very transparent. During the 
+process, the CMA will publish: an initial issues statement; working papers and an annotated 
+issues statement; provisional findings and possible remedies notice (if relevant); provisional 
+decision on remedies (if relevant); and a final report. Any interested party can comment on 
+the intermediate documents. While confidential information will be redacted, sufficient 
+information will typically be made public to allow effective consideration of the issues. 
+Responses from parties are typically also published. There are hearings with parties at key 
+stages, attended by the full decision-making Group.  
+
+A more participative approach 
+
+This level of transparency is substantially greater than that in standard competition law and 
+allows for a robust and participative approach. Indeed, while market investigations clearly 
+need to be well-evidenced and robust and issues are hard-fought, the engagement between 
+the CMA and parties nevertheless tends to be more open, less adversarial and less legalistic 
+in MIs than in standard competition law cases relating to abuse of dominance or anti-
+competitive agreements.  
+
+As well as transparency, this less adversarial approach may reflect the economic focus of the 
+analysis, the very limited role played by legal precedent, and also the fact that market 
+investigations can end up anywhere – including a finding of no adverse effect on 
+competition – so parties have much to gain from engaging openly with the process. 
+Remedies can even turn out to be unexpectedly positive for firms. The early (1993) 
+requirement on British Gas to divest its distribution business is a case in point. The 
+combined valuation of the two separate companies quickly exceeded that of the original 
+vertically integrated incumbent. Moreover, good remedies can make the market work 
+better, and firms will understand this even they don’t necessarily like it. 
+
+MIs also seem to be less subject to appeal and standard competition law cases. This 
+difference of approach may partly reflect the different appeal standard in the UK; MI 
+findings can be appealed on a Judicial Review (JR) basis only, while Competition Act 1998 
+cases receive a Full Merits review. In the context of such a JR, the high levels of 
+transparency and other procedural safeguards could also play a role. Certainly, appellants 
+have rarely been successful in challenging MI decisions, and from the authority’s successes, 
+it is clear that the CMA has a wide margin of appreciation with its diagnosis of problems and 
+judgement as to which remedies are effective and proportionate. 
+
+Another relevant factor is that there are no fines, and thus no quantum of penalty to be 
+challenged on appeal. Perhaps less positively, an alternative explanation for the low number 
+of appeals is that, with several companies involved, each one faces a free-rider problem in 
+choosing whether to appeal; the appeal costs fall to the individual firm while the benefits of 
+any appeal success would typically go to all.  
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Limitations of the Market Investigation tool 
+
+The above discussion, while focussed on the UK experience, clearly suggests that an MI 
+regime could also have merit at EU level. However, it is also important to highlight some 
+important limitations of the tool, not least because these might be useful when determining 
+its precise design. 
+
+Timetables and remedy testing 
+
+MIs must be completed within 18 months, albeit with the potential for extension by another 
+six months. The final report, at the end of this period, must include not only the substantive 
+findings but also any remedies to be imposed, together with the underlying evidence for 
+both.  
+
+There are some positives from a tight timeline. It helps to engage minds; early intervention 
+can reduce extent of consumer detriment; and it can be especially important to intervene 
+quickly if competition concerns are worsening over time, for example because a market is 
+quickly – but avoidably – tipping towards monopoly. It has also proven to be possible to 
+complete a reasonably robust analysis of the substantive market issues within this 
+timeframe, greatly aided by the initial market analysis that is carried out at the market study 
+phase of the process which can take up to a year and occurs prior to reference.  
+
+What has proven harder is to carry out effective remedy design on such a tight timetable. In 
+the past, this issue was exacerbated by a policy approach which determined that remedies 
+should not be considered until adverse findings had been identified. While such an 
+approach might appear reasonable, it is simply impracticable. Remedy design is complex, 
+and it is easy to get it wrong. As such, potential remedies are now considered from the start 
+of the process, and sometimes even (informally) before the formal MI launch.  
+
+While this is a positive change, the available time is still frequently insufficient for designing 
+complex remedies or properly piloting remedies, for example through the use of 
+randomised controlled trials. That said, creative solutions may be available. For the 
+consumer engagement remedies arising in the recent energy and banking MIs, the final 
+remedy design, testing and implementation was left to the relevant sector regulators, who 
+could take the required time to do this properly. The CMA imposed on the parties a 
+requirement to engage with such trials. Likewise, due to the complexity and likely time and 
+resources involved in its Open Banking remedy, the CMA required that a new entity be set 
+up and tasked with the detailed design and implementation of the remedy. 
+
+Limited flexibility to revisit remedies 
+
+A more serious problem with the MI regime is that remedies cannot be revisited once they 
+have been formally imposed, if they are found to be imperfectly designed or ineffective. 
+There is only a provision for parties to request that remedies be altered or removed if they 
+can demonstrate that there has been a ‘material change in circumstances’ since they were 
+imposed.  
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In considering the impact of this inability to alter a remedy package, it is interesting to note 
+the parallel experience of market studies carried out by the UK Financial Conduct Authority. 
+These can also give rise to remedies, but because this is done through changes to regulatory 
+rules, there is flexibility to trial remedies and revisit. In some cases, the FCA has completely 
+abandoned specific remedy proposals, following testing, and the remedy package has been 
+(or is being) substantially revised to make it more effective.  
+
+Such flexibility is arguably in the interest of both firms and consumers; no one gains from 
+costly, ineffective regulation. The CMA recently highlighted that there may be potential for 
+a change in its powers which would enable it, within a fixed period of time, to revisit its 
+remedy package while continuing to rely on its substantive findings on competition.15  
+
+The inability to flex remedies may be especially problematic in dynamic markets which are 
+subject to significant change. In such markets, the identified concerns may be fairly 
+persistent (although this is not a given), but the appropriate remedies may well require 
+flexing as the markets and technologies change. This was one reason why the Unlocking 
+Digital Competition report took the view that market investigations, while potentially useful, 
+were unlikely to provide a complete solution in digital platform markets. 
+
+Limitations to remedy enforcement 
+
+Since the majority of MI remedies are behavioural and quasi-regulatory, there needs to be 
+some process for monitoring and enforcing them. In markets which are overseen by sector 
+regulators, this task can potentially be passed to them, to be carried out alongside other 
+monitoring and enforcement activity.  
+
+In other markets, the CMA has an experienced and expert remedy monitoring team to 
+manage this process. The ability to impose reporting requirements as part of a remedy can 
+be valuable for facilitating this process and maximising the impact of the CMA resources 
+involved. In a number of instances, the CMA has also used a third-party implementation or 
+monitoring body, funded by the companies involved. For example, the Open Banking 
+Implementation Entity was funded by the nine major UK banks and able to draw in technical 
+expertise on standard-setting and implementation of APIs.  
+
+However, the resources and expertise required to carry out quasi-regulatory remedies 
+monitoring in a complex environment should not be understated. In a digital context, with 
+the potential for market interventions relating to highly complex areas such as 
+interoperability, standard-setting and algorithmic design, the required monitoring could 
+quickly start to look more like that carried out by the telecoms and financial regulators, 
+rather than that typically done within the CMA’s remedies team. This was another reason 
+why the Unlocking Digital Competition report took the view that market investigations, 
+while potentially useful, an ex ante regulator was also required. 
+
+15 See letter to then Secretary of State Greg Clark MP from CMA Chair Lord Andrew Tyrie, 21 February 2019, 
+footnote 27. 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781151/
+Letter_from_Andrew_Tyrie_to_the_Secretary_of_State_BEIS.pdf.  
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+A further limitation of the CMA’s enforcement powers is that it has no direct ability to 
+impose sanctions for breach. It can only go to Court to obtain a court order, breach of which 
+could then be penalised. Even then the penalties are typically low. This is unlikely to provide 
+effective enforcement mechanism for breaches, especially for large firms such as the major 
+digital platforms. The CMA has written to Government requesting that this situation be 
+changed.16  
+
+A final challenge arises where parties’ assets are located outside the UK, or integrated into 
+other parts of their global business. While the CMA can always impose Orders where they 
+are relevant to the UK market, the monitoring and enforcement of compliance in such 
+circumstances may be complex and entail legal proceedings in another jurisdiction. This may 
+well be a relevant issue in digital markets, especially if different authorities take conflicting 
+approaches to the same issues, creating a clear need for discussion and collaboration with 
+international counterparties. In this regard, activity at European level – through a new 
+competition tool - may prove rather easier than national-level interventions. 
+
+Unduly high public expectations 
+
+A final negative of MI is arguably more political than substantive. It is the corollary of one of 
+the major positives; the ability to impose very significant remedies. Unless expectations are 
+very carefully managed, this can lead to the build-up of unduly high expectations around 
+MIs, which can in turn generate intense dissatisfaction with the CMA’s performance when it 
+concludes that only moderate remedies are justified. The CMA faced substantial criticism of 
+this sort in 2016, at the conclusion of two major market investigations into retail banking 
+and energy. 
+
+There can also be a need to manage expectations about the likely speed and scale of impact 
+for MI remedies. In some markets, while remedies can reduce the extent of competition 
+problems, they may not be able to overcome them entirely. Meanwhile, some remedies – 
+indeed, often the better remedies such as Open Banking – can take some time to be 
+effective. 
+
+4.  A Complementary role for MIs and ex ante regulation in digital markets 
+
+The UK experience suggests that market investigations would be a valuable addition to the 
+Commission’s competition toolkit, in digital markets and more widely. However, given the 
+limitations discussed above, in particular around the flexibility, monitoring and enforcement 
+of remedies, they are unlikely to be a panacea for competition concerns in digital platforms. 
+Indeed, at the conclusion of its market study in Online Platforms and Digital Advertising, the 
+CMA decided not to commence a formal market investigation. It did so on the basis that the 
+UK Government was likely to be introducing ex ante regulation in this area and that it would 
+be preferable to intervene via that route so far as possible.  
+
+16 Ibid, page 16. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is therefore to be welcomed that the Commission is also consulting on the potential for a 
+new ex ante regulatory instrument for large digital platforms. But this leaves a residual 
+question. In the context of digital platforms, would there be merit in the EU also introducing 
+the New Competition Tool as a complement to such ex ante regulation? 
+
+MIs in the context of regulation? 
+
+The incremental value of MIs in the context of regulation will clearly depend on the powers 
+to be incorporated within such any ex ante regulatory framework. Option 3 is the key option 
+in the European Commission’s proposals, and it has two potential elements. Sub-option 3a 
+would involve the ‘prohibition or restriction of certain unfair trading practices by large 
+online platforms acting as gatekeepers (“blacklisted” practices)’. Sub-option 3b would 
+enable the adoption of ‘tailor-made remedies addressed to large online platforms acting as 
+gatekeepers on a case-by-case basis where necessary and justified’.  
+
+While either type of intervention could potentially emerge from an MI, Sub-option 3b is 
+clearly the more similar in that it would involve reviewing specific market issues and 
+imposing proportionate tailored remedies. 
+
+However, there are at least two substantive areas where there is a potential gap in the 
+Commission’s proposals for ex ante regulation, and which could the New Competition Tool 
+could usefully fill.  
+
+The first relates to the power to impose structural interventions. These are apparently 
+envisaged as a possible outcome in relation to the New Competition Tool, but are not 
+mentioned in the consultation on ex ante regulation.  
+
+As mentioned above, structural interventions have in fact been imposed only rarely in MIs. 
+However, it is noteworthy that the CMA Online Platforms and Digital Advertising market 
+study identified a serious conflict of interest associated with Google’s strong position at 
+various levels in the advertising intermediation value chain. It concluded that the proposed 
+UK regulator should have the power to introduce different forms of separation, from 
+operational separation to full ownership separation. The CMA’s findings thus confirm that 
+the power to impose structural remedies may well prove valuable but also highlight that this 
+power could potentially be given to a regulator, rather than reserved for MIs.  
+
+The second gap relates to the need for market-wide interventions to promote competition. 
+It would clearly be possible to impose certain ex ante regulations symmetrically to all 
+market participants, as indeed occurs under the EU Regulatory Framework for 
+communications. However, the ex ante regulation instrument that is currently proposed 
+would allow requirements to be placed only on the largest digital platforms. Since 
+interventions will be best applied to all firms across a market, this may provide a valuable 
+role for an MI.  
+
+Market-wide interventions can be important even where there is a single firm with a 
+dominant position. Consider the simple example of telephone number portability. This is 
+now a standard element of telecommunications regulation, but it was first imposed in the 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UK in 1995, following an MI-like review. Making this a market-wide requirement, rather 
+than simply imposing it on the incumbent supplier British Telecom, was important for giving 
+consumers confidence that they could keep their phone number not only if they switched 
+away from the incumbent but also if they later switched back.  
+
+This was a situation where a market-wide intervention was required in order to open up 
+competition to a strong incumbent supplier, but – as the discussion above highlights – 
+market-wide interventions can also be valuable for enhancing competition when there are 
+multiple players in a market. Indeed, number portability itself is today required in mobile 
+telephony markets, where there are typically multiple players. It is important for facilitating 
+the switching required for effective competition and it has been shown to have a substantial 
+impact in reducing prices.17 The majority of the MI interventions in the Table 1 above were 
+applied to multiple firms across the market, and designed to enhance competition generally 
+rather than specifically to open up monopolised markets. 
+
+As is emphasised in the Commission’s Inception Impact Assessment, market-wide 
+interventions can also be valuable in preventing markets from tipping. Again, the 
+telecommunications sector offers a useful example, with the rules around interconnection 
+being valuable in ensuring a level playing field for competition that overcomes the tendency 
+towards concentration that would otherwise exist. Consider an alternative world in which 
+there were no ability to interconnect across mobile telephony networks. In that world, the 
+natural consumer desire to access as wide a network of contacts as possible would likely 
+result in the market tipping to monopoly.  
+
+Thought experiment: The case of interoperability 
+
+The complementary role that the two proposed tools might play can be considered through 
+a thought experiment. Consider the thorny issue of interoperability. Like number portability, 
+interoperability can be valuable both in opening up a monopolised market to competition 
+and also in facilitating effective competition within a non-monopolised market. In the 
+former case, it may potentially be sufficient to impose interoperability only on the 
+monopoly firm, but in either case it may also be valuable to impose it more widely. 
+
+Interoperability can also work to prevent currently non-monopolised digital markets from 
+‘tipping’ to monopoly, for much the same reasons as interconnectivity in telecoms. This has 
+an important implication: it may be valuable to impose interoperability at an early stage in 
+the development of a market.18 A current example might be the market for self-driving cars, 
+where such a requirement may be important for generating effective competition, and 
+indeed maximising safety. 
+
+Given these competition benefits of interoperability, there have been many demands that 
+the digital platforms should make their systems interoperable. But what does this really 
+mean? It presumably cannot mean that every element of their systems is made fully 
+
+17 Park, M. (2011), The Economic Impact of Wireless Number Portability. Journal of Industrial Economics, 59: 
+714-745. doi:10.1111/j.1467-6451.2011.00471.x 
+18 Absent interoperability, multi-homing by users can have a similar effect, and it can equally be important to 
+protect or promote that. 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+interoperable; this would not be justified by the competition concerns, even if made sense 
+as a concept. 
+
+One could, however, imagine the following three-pronged regulatory approach being taken 
+to interoperability, which would draw upon both the ex ante regulatory instrument and the 
+New Competition Tool proposed by the Commission: 
+
+1)  Under Option 3a of the proposed ex ante regulatory instrument: Blacklisted 
+
+practices for designated major platforms such as: 
+
+•  where a designated digital platform offers interoperability to one or more third 
+
+parties, failing to offer the same functionality to all other third parties or doing so 
+on a discriminatory basis; 
+
+•  where a designated digital platform has previously provided interoperability to a 
+third party, later withholding, withdrawing or deprecating this, where doing so 
+would have an adverse effect on platform users; or 
+
+• 
+
+failure to ensure that the core technologies of any designated digital platform 
+interoperate effectively with third party technologies, where this would bring 
+user benefit. 
+
+2)  Under Option 3b of the proposed ex ante regulatory instrument: Specific 
+
+requirements on designated platforms to provide interoperability in relation to 
+particular areas, designed to open up competition. An example might be a 
+requirement on a designated social media platform to enable cross-posting, as 
+proposed by the CMA in its Online Platforms and Digital Advertising market study. 
+
+3)  Under the proposed New Competition Tool: Requirements for cross-market 
+
+interoperability, which apply to all market participants, not just designated digital 
+platforms. This may also require cross-industry coordination on standards and 
+protocols, a process which can itself raise competition concerns and which may 
+benefit from careful oversight.  
+
+In theory, all of these interventions could be achieved through MIs. However, the issues of 
+flexibility and monitoring described above mean that the design and enforcement of the 
+first and second are likely to be better suited to the application of an ex ante regulatory 
+framework.  
+
+5.  A final word 
+
+In 2002, the UK sent a delegation19 to DG Competition to present and promote the UK’s 
+Market Investigation regime. They failed to convince their hosts of the advantage of this 
+tool relative to standard competition law, and they were sent packing.  
+
+19 The delegation included the author in her then role as Chief Economist at the Office of Fair Trading 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the intervening 18 years, we have all learned a lot. The potential of MIs has been more 
+thoroughly tested, while the limitations of standard competition law, and especially abuse 
+of dominance provisions, have become more apparent. The Commission’s consultation on a 
+New Competition Tool is therefore both welcome and timely. There are lessons to be drawn 
+from the UK experience of MIs for the implementation of such a regime at EU level. For 
+example, because the tool is potentially so powerful and flexible, it merits strong procedural 
+checks and balances, to guard against confirmation bias or politicisation. At the same time, 
+there is significant room for improvement within the current UK regime in relation to the 
+powers around remedy flexibility and enforcement.   
+
+Nonetheless, the UK experience also confirms that the New Competition Tool has the 
+potential to be hugely helpful, both in the digital sphere and more widely. But the tool also 
+has inherent limitations and thus should not be viewed as a full solution to the issues raised 
+by digital platforms, but rather as a valuable complementary tool alongside new ex ante 
+regulation. 
+
+19 
+
+ 
+ 
+ 
+

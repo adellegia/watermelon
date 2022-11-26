@@ -1,0 +1,480 @@
+Ref. Ares(2020)4722911 - 09/09/2020
+
+Response to European Commission Open Public Consultation  
+
+New Competition Tool  
+
+We  welcome  the  opportunity  to  provide  feedback  to  the  European  Commission’s  Open  Public 
+Consultation (‘Consultation’) on the proposed New Competition Tool (‘NCT’).  
+
+A)  EXECUTIVE SUMMARY 
+
+We do not believe that there is a need for the NCT instrument to ensure fair and competitive markets 
+with  a  view  to  delivering  lower  prices  and  higher  quality,  as  well  as  more  choice  and  innovation  to 
+European  consumers,  because  the  existing  instruments  in  the  European  Commission’s  toolbox 
+(enforcement of Articles 101 and 102 TFEU) are sufficient for this purpose. If at all, a smarter and more 
+efficient application of the existing tools is required. 
+
+The introduction of the NCT instrument bears the inherent risk of creating legal uncertainty and causing 
+unwanted  side-  and  spillover  effects  which  could  have  a  chilling  effect  on  the  competitiveness  of 
+European companies.  To the extent that digitalization really raises additional concerns that cannot be 
+adequately dealt with by existing tools, these should at most be supplemented by measures focused on 
+and  tailored  to  very  large,  dominant  digital  platforms  while  maintaining  and  providing  sufficient  legal 
+certainty for potentially affected companies.   
+
+B)  No gap in current EU competition rules 
+
+In  Section  A  of  the  Consultation,  the  European  Commission  notes  that  “[t]he  proposal  for  a  New 
+Competition Tool is one of the measures aimed at fulfilling this task [Commissioner Vestager’s tasks in 
+the mission letter] by addressing gaps in the current EU competition rules and allowing for timely and 
+effective  intervention  against  structural  competition  problems  across  markets.”  The  European 
+Commission  goes  on  to  state  that  “[t]he  Commission’s  enforcement  experience  in  both  antitrust  and 
+merger cases in various industries points to the existence of structural competition problems that cannot 
+be tackled under the EU competition rules while resulting in inefficient market outcomes.” 
+
+The European Commission’s further explanation of the types  of situations that in its view require the 
+introduction  of  the  NCT  instrument  are  clearly  focused  on  digital  markets,  in  particular  those 
+characterized by large platforms who become or have become gatekeepers for digital- and non-digital 
+products  and  services.  To  justify  the  extension  of  the  NCT  instrument  more  widely,  the  European 
+Commission merely states that “[w]hile these characteristics are typical for digital markets, they can also 
+be found in non-digital markets”, with only the thinnest of arguments that the increasing digitalization of 
+the economy requires the NCT instrument to cover the whole economy.  
+
+In our view, this is manifestly not a sufficient basis on which to introduce such a profound change to the 
+EU  competition  rules.  We  agree  with  the  characterization  of  the  NCT  instrument  by  a  well-known 
+commentator: “The impact of this “tool” on competition law and policy would be impossible to overstate. 
+It would be likely to change competition law as we know it, and as developed over decades of thinking, 
+debate, precedent and experience1.”  
+
+Most importantly, we do not see a gap in the current EU competition rules as argued by the European 
+Commission and thus no justification for the immense impact that the introduction of an NCT would have 
+on EU competition law and for companies affected by these rules. 
+
+1  Chillin’Competition  Blog,  Alfonso  Lamadrid,  „Can  This  Be  the  New  Normal?  10  Questions  on  the 
+Proposed 
+2020 
+June 
+(https://chillingcompetition.com/2020/06/11/can-this-be-the-new-normal-10-questions-on-the-
+proposed-new-competition-tool/).  
+
+Competition 
+
+accessed 
+
+Tool“, 
+
+New 
+
+last 
+
+on 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+The currently existing tools (enforcement of Articles 101 and 102 TFEU) are sufficient to tackle abusive 
+practices of very large online platforms. Complaints and the sense of an underenforcement against large 
+technology companies is not so much related to the available tools but rather to the lengthy proceedings. 
+
+In addition, the  European  Commission’s current power to conduct sector inquiries  already allows the 
+European Commission to conduct deep probes into specific industries. Even though the instrument of 
+the sector inquiry per se does not give the European Commission the possibility to impose remedies, 
+such remedies of course can be imposed if breaches of the competition law rules are revealed in the 
+course of a sector inquiry. This shows that the current instruments are sufficient since there would not 
+be any justification to impose remedies on companies that are not in breach of competition law. 
+
+For these reasons, we do not believe that there is a gap in current EU competition rules. 
+
+C)  No sufficient legal basis 
+
+Articles 103 and 114 TFEU which are mentioned in the Roadmap are no adequate legal basis for the 
+introduction of a NCT.  
+
+Article 103 TFEU allows the enactment of legislation to “give effect to the principles set out in Articles 
+101 and 102”. However, the NCT, instead of giving effect to the principles set out in Articles 101 and 
+102 TFEU rather provides for an ex ante intervention without the requirement for a prior infringement of 
+competition law. It therefore creates new competition enforcement powers for which Art. 103 TFEU is 
+not a sufficient legal basis. 
+
+Article 114 TFEU is the legal basis for a harmonization of national laws of the Member States in order 
+to avoid a fragmentation of the internal market. However, according to the Roadmap, the NCT does not 
+aim at removing distortions of competition law but rather at eliminating structural deficits and risks that 
+are below the thresholds of competition law. Therefore, also Article 114 TFEU is no adequate basis for 
+the introduction of a NCT. 
+
+D)  NCT instrument would be disproportionate 
+
+In Section A of the Consultation, the European Commission notes that the current EU competition rules 
+enable it to enforce against anticompetitive agreements under Article 101 TFEU and against abuses of 
+a dominant position under Article 102 TFEU. It then goes on to say that “[t]he enforcement experience 
+of the Commission and national competition authorities, and the reflection process on the fitness of the 
+existing competition rules have helped identify certain structural competition problems that these rules 
+cannot tackle (e.g. monopolisation strategies by non-dominant companies with market power) or cannot 
+address in the most effective manner (e.g. parallel leveraging strategies by dominant companies into 
+multiple adjacent markets)”.  
+
+It is not obvious what the European Commission means by monopolisation strategies by non-dominant 
+companies with market power – traditional competition law analysis would indicate that such strategies 
+would be doomed to failure, and if the concerns relate to digital platforms, we refer to our comments in 
+Section E below. Moreover, also from a competition law perspective, it is a legitimate interest of a non-
+dominant company to strive to attract as many customers as possible and thus to become dominant. 
+Parallel leveraging strategies by dominant companies into multiple adjacent markets also appear to be 
+primarily a concern relating to very large, dominant digital platforms.  
+
+The reason for, and the focus of, the current discussions and suggested changes to EU competition law 
+are certain behaviors of very few, very large and dominant companies, that all have direct relations to 
+consumers. This is a very specific area – best dealt with under the current 102 TEUF tool box - and the 
+issues arising in this setting cannot readily be transferred to other scenarios, and in particular not to the 
+B2B  scenario  where  customers  are  significantly  more  sensitive  about  their  data,  often  insisting  on 
+retaining control over their data and have considerable countervailing bargaining power. 
+
+New  digital  business  models  and  platform  solutions  are  continuing  to  emerge  in  Europe,  and  this 
+innovation and development should not be limited by restrictive regulations. The introduction of a NCT 
+instrument  would  create  a  lot  of  legal  uncertainty  and  likely  lead  to  a  limitation  of  development  and 
+innovation, in particular if highly innovative companies could later be “punished” for their success via 
+such  NCT  instrument.  This  would  be  counterproductive  for  competition  and  thus  for  customers’ 
+
+ 
+ 
+opportunity  to  receive  the  best  and  most  innovative  products.  In  addition,  it  would  further  impede 
+European  platforms  from  closing  the  gap  to  their  big  US  and  Asian  incumbents  which  do  not  face 
+similarly strict regulations in their home markets thus hampering the desired level playing field which is 
+so important for the competitiveness of European players. 
+
+Taking  into  account  the very dynamic environment  and development  in the area of platforms,  it  is in 
+addition very likely that the NCT instrument cannot be defined specifically enough to ensure that it will 
+only apply to „very large online platforms”. Thus, there will likely be spill-over effects to smaller players 
+and emerging innovators and to traditional industries. The example of the market investigation tool in 
+the UK and recent comments from Commissioner Vestager show that the application of such tools will 
+hardly be limited in practice to the very large, dominant digital players but to all sort of companies. This 
+is also shown by the Commission’s quote mentioned above. 
+
+Therefore, the introduction of the NCT instrument bears the inherent risk of creating legal uncertainty 
+and  causing  unwanted  side-  and  spillover  effects  which  could  have  a  chilling  effect  on  the 
+competitiveness of European companies.     
+
+Furthermore,  we  believe  it  is  important  that  the  NCT  instrument  should  not  be  used  to  lessen  the 
+procedural  or  evidential  burden  that  the  European  Commission  is  subject  to  in  proceedings  under 
+Articles 101 and 102 TFEU. We note with concern that the European Commission seems to suggest 
+that the upside of the introduction of the NCT instrument would be to deal with some of the “problems” 
+in traditional competition law enforcement: “The Commission would continue to enforce Articles 101 and 
+102 TFEU on a case-by-case basis against anti-competitive conduct of individual companies. It would 
+also  continue to conduct  sector inquiries,  which, however,  only empower the Commission  to  request 
+information  necessary  for  giving  effect  to  Articles  101  and  102  TFEU  and  also  do  not  allow  the 
+Commission to impose remedies outside the scope of individual infringement proceedings.” We would 
+consider that the above-mentioned situation is not a “problem” to be dealt with by the introduction of a 
+new instrument with extensive remedy powers without the need to show illegal conduct, but rather the 
+reflection of the rule of law as it applies to EU competition law enforcement.  
+
+Finally, it is important to note that, despite comparisons being drawn between the NCT instrument and 
+e.g. the UK market investigation regime, we are not aware of any jurisdictions that have both ex ante 
+(mandatory merger control) and ex post (e.g. Article 102 TFEU) enforcement of competition law and an 
+NCT-type tool. Therefore, any attempt to justify the NCT instrument as reflecting similar instruments at 
+national level is not accurate.    
+
+E)  If at all, any additional tool beyond Art 102 needs to be very limited 
+
+If  despite  the  lack  of  a  regulatory  gap  as  well  as  a  legal  basis  and  the  potential  negative  impact  on 
+business, innovation and market growth the European Commission still wishes to address the above-
+mentioned root cause of the concern, namely very large digital platforms, a very cautious and careful 
+approach is key. 
+
+In our view it would be more appropriate to deal with these through the existing  Art. 102 TFEU. If an 
+additional instrument was to be introduced at all, it should be very limited in its application. 
+
+Either, the European Commission should consider following the German model of § 19a GWB-E (draft) 
+and introduce specific rules for companies of paramount significance across markets. As in the German 
+model, such additional rules should only apply to a company if the European Commission previously 
+stated via a formal decision that the relevant company is such a “company of paramount significance 
+across markets”. In addition, any such specific rules should be clearly defined and limited as much as 
+possible. This would help to create legal certainty for the affected companies.   
+
+An  alternative  could  be  an  ex  ante  regulatory  instrument  focused  on  and  tailored  only  to  very  large, 
+dominant  digital  platforms.  This  means  that  the  scope  of  application  of  such  regulatory  instruments 
+should be clearly and narrowly defined to very large, dominant digital platforms with significant market 
+power only. In addition, if such ex ante regulations were to be introduced at all, they should in any case 
+be strictly limited to platforms with a strong focus on B2C relationships and therefore mere B2B platforms 
+or industry platforms should in any case be exempted from such regulations. If one wants to opt for this 
+path, we view the European Commission’s Digital Services Act Package and related activities to be the 
+
+ 
+ 
+proper (and only appropriate) forum. Please see also our attached submission in relation to the Digital 
+Services  Act  package  –  ex  ante  regulatory  instrument  of  very  large  online  platforms  acting  as 
+gatekeepers.  
+
+8 September 2020  
+
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+
+Response to European Commission Open Public Consultation 
+
+Digital Services Act package – ex ante regulatory instrument of very large online platforms 
+acting as gatekeepers  
+
+We welcome the opportunity to provide feedback to the European Commission’s (“EC”) Open Public 
+Consultation on the proposed Digital Services Act package – ex ante regulatory instrument of very large 
+online platforms acting as gatekeepers.  
+
+A)  EXECUTIVE SUMMARY 
+
+We do not believe that there is a need for an ex ante regulatory instrument to ensure fair and competitive 
+markets with a view to delivering lower prices and higher quality, as well as more choice and innovation 
+to  European  consumers,  because  the  existing  instruments  in  the  European  Commission’s  toolbox 
+(enforcement of Articles 101 and 102 TFEU) are sufficient for this purpose. If at all, a smarter and more 
+efficient application of the existing tools is required.  
+
+Any ex ante regulation bears the inherent risk of creating legal uncertainty and causing unwanted side 
+and  spill-over  effects  which  could  have  a  chilling  effect  on  the  digital  efforts  and  competitiveness  of 
+European companies.  
+
+In  case the introduction  of  such ex ante regulations  is  considered  nevertheless,  a very  cautious and 
+careful approach is key. A clear distinction between B2C- and B2B-relationships must be included. Any 
+ex ante regulations must be strictly limited to platforms with a strong focus on B2C relationships and 
+therefore  mere  B2B  platforms  or  industry  platforms  must  in  any  case  be  exempted  from  such 
+regulations. Moreover, ex ante regulations should be clearly defined and tailored as much as possible 
+to very large, dominant  online platforms with gatekeeper function in order to be  proportionate, to not 
+create legal uncertainty and to avoid harmful side and spill-over effects.  
+
+B)  General Comments 
+
+The high-level goals of the EC’s intended proposal for a new Digital Services Act are “to reinforce the 
+internal  market  for  digital  services,  to  lay  down  clearer,  more  stringent,  harmonised  rules  for  their 
+responsibilities in order to  increase citizen’s safety online and protect their fundamental rights, whilst 
+strengthening  the  effective  functioning  of  the  internal  market  to  promote  innovation,  growth  and 
+competitiveness, particularly of European digital innovators, scale-ups, SMEs and new entrants.” While 
+many of these goals are generally to be welcomed, it is noteworthy that very different aspects (some 
+rather  content-focused,  others  more  directed  towards  consumer  protection  and  others  towards  the 
+functioning of the market) are brought together in this Digital Services Act. 
+
+Considering the fast developing and growing digital business, we support the EC’s intention to update 
+the current legal framework in the B2C area, especially the E-Commerce Directive (issued almost 20 
+years  ago).  There  is  a  need  for  clear  and  proportionate  rules  to  create  safe  and  sustainable  digital 
+environments  for  consumers  who  usually  lack  the  necessary  information  and  choices  to  take  an 
+informed “consent” decision.  
+
+For  example,  consumers  should  be  able  to  refuse  the  use  of  e.g.  cookies  without  experiencing  any 
+disadvantages regarding the use of services. Consumers’ rights to delete  online footprints should be 
+strengthened. Furthermore, platforms should more efficiently tackle illegal content. 
+
+However, in our  main  theses set  out below,  we will  focus exclusively  on  the  proposed  ex ante rules 
+aimed at ensuring that markets characterised by large platforms with significant network effects acting 
+as gatekeepers, remain fair and contestable for innovators, businesses, and new market entrants. 
+
+ 
+ 
+ 
+ 
+C)  Main theses 
+
+1.  No gap in current EU competition rules 
+
+  Considering the immense impact that the suggested changes will have on EU competition law 
+and policy and for companies affected by these rules, the most important question should be 
+whether there is really a need to complement competition law enforcement through ex ante 
+regulations.  
+
+  Generally, we do not see a necessity for an ex ante regulation of very large online platforms 
+at this point in time (neither on EU level nor on national level) apart from the abovementioned 
+consumer  protection  amendments  to  the  existing  E-Commerce  Directive.  The  currently 
+existing  tools  (enforcement  of  Articles  101  and  102  TFEU)  are  sufficient  to  tackle  abusive 
+practices of very large online platforms. Complaints and the sense of an underenforcement 
+against large technology companies are not so much related to the available tools but rather 
+to the lengthy proceedings.  
+
+  The  description  of  the  “critical”  platforms  included  in  the  summary  of  the  initiative  is  the 
+following:  “A  few  very  large  online  platforms  account  for  a  very  large  share  of  the  digital 
+economy  in  the  EU.  Their  role  as  gatekeepers  between  businesses  and  consumers,  with 
+economic power and control over entire platform ecosystems, makes it all but impossible for 
+rivals or new market entrants to compete.” This shows that the measures should be targeted 
+at dominant or even very large, dominant companies to which – without any doubt - the current 
+tools in Art. 102 TFEU could be applied. Therefore, the current toolkit is sufficient. For example, 
+if “gatekeepers” abuse their power (e.g. via unfair commercial platform-to-business practices 
+including  in  the  view  of  the  EC  self-preferencing,  data  leveraging  and  distortion  of  fair 
+competition and fair-trading conditions within online  platform ecosystems) we regard Article 
+102 TFEU as an appropriate tool to discipline such behavior. 
+
+ 
+
+In addition, it seems to be early for such a massive intervention as the underlying legal and 
+economic  questions  are  still  very  controversial  and  by  far  not  mature  enough.  Also,  some 
+member states, e.g. Germany, are in the process of significantly extending the scope of their 
+dominance legislation to adapt them to the digital world.  It would be  wise for the  European 
+legislator to wait for the first results from these national “experiments” before acting.  
+
+2.  An ex ante regulatory instrument will not solve the problem but create more problems 
+
+  The  reason  for,  and  the  focus  of,  the  current  discussions  and  suggested  changes  to  EU 
+competition law are certain behaviors of very few, very large and powerful companies, that all 
+have  direct  relations  to  consumers. This is  a  very specific area –  best dealt with under the 
+current 102 TEUF tool box - and the issues arising in this setting cannot readily be transferred 
+to other scenarios, and in particular not to the B2B scenario.  
+
+  Any “ex-ante” intervention in markets (even via a broad list of restrictive Dos and Don’ts) could 
+have a significantly negative impact on companies (e.g. slowing down innovation, giving wrong 
+incentives and make so-called “free-riding” more attractive).   
+
+  New digital business models and platform solutions are continuing to emerge in Europe, and 
+this  innovation  and  development  should  not  be  limited  by  restrictive  regulations.  The 
+introduction of ex ante regulations in this area would create a lot of legal uncertainty and likely 
+lead to a limitation of development and innovation, in particular if highly innovative companies 
+could  later  be  “punished”  for  their  success  due  to  these  regulations.  This  would  be 
+counterproductive for competition and thus for customers’ opportunity to receive the best and 
+most innovative products.  
+
+  Taking into account the very dynamic environment and development in the area of platforms, 
+it is very likely that the suggested ex ante regulations cannot be defined specifically enough to 
+ensure that they will only apply to „very large online platforms”. Thus, there will likely be spill-
+over  effects  to  smaller  players  and  emerging  innovators  and  to  traditional  industries.  The 
+example of the market investigation tool in the UK and recent comments from Commissioner 
+Vestager show that the application of such tools will hardly be limited in practice to the very 
+large, dominant digital players but to all sort of companies.  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+In this context one should also bear in mind that there are many platform providers which do 
+not have a significant market share and which operate in a way that neither has a negative 
+impact on the market nor raises any other concerns and which might nevertheless be affected 
+by  the  suggested  ex  ante  regulations.  At  least  in  relation  to  such  platform  providers,  the 
+introduction  of  ex  ante  regulations  would  be  disproportionate.  This  applies  all  the  more  for 
+other traditional industries. 
+
+In addition, such ex ante regulations might further impede European platforms from closing 
+the gap to their big US and Asian incumbents which do not face similarly strict regulations in 
+their  home  markets.  This  would  be  hampering  the  desired  level  playing  field  which  is  so 
+important for the competitiveness of European players. 
+
+In addition, it is very questionable whether the suggested ex ante regulation could really lead 
+to the changes intended by these regulations. Many customers of the “very large platforms” 
+are satisfied with the services and possibilities these platforms offer. Therefore, they will often 
+have  no  intention  to  switch  to  other  platform  providers  unless  those  other  platforms  offer 
+innovative  features  that  distinguish  them  from  existing  platforms.  It  is  unlikely  that  ex  ante 
+regulations would have any impact on customer preferences and loyalty. 
+
+  A new legal framework would face several problems: 
+
+  First – even stated by Commissioner Vestager – the term “gatekeeper” is tremendously 
+tricky  to  define.  If  the  term  is  defined  too  widely,  it  will  hinder  new  entrants  as  well  as 
+smaller players from innovating and growing. 
+
+  Secondly,  how  should  a  process  be  designed  to  implement  measures  against 
+gatekeepers  efficiently.  It  goes  without  saying  that  the  respective  players  should  have 
+rights to defend and argue against any kind of ex-ante regulations.  
+
+  Thirdly, even a generally  applicable  list of Dos  and  Don’ts  needs to  be  very clear and 
+understandable to avoid legal uncertainty (e.g. scope and extent of measures). However, 
+digital  business  and  “connected  market  disruption”  are  usually  case-specific,  so  that  a 
+generic list of Dos and Don’ts would most likely not be of much help. 
+
+3.  Minimum safeguards for potential ex ante regulatory effort 
+
+ 
+
+If despite the lack of a regulatory gap and the potential negative impact on business, innovation 
+and market growth, such an ex ante regulation was introduced nevertheless, several important 
+factors need to be considered in the drafting of such ex ante regulation: 
+
+  Any regulation should be drafted very carefully and in a light-touch manner. It should be as 
+clearly defined and as limited as possible in order to catch only specific behavior of very large, 
+dominant digital companies and to ensure legal certainty.  
+
+  The definition of very large online platforms must at least be made in a very narrow, clear and 
+distinct way. It must ensure that the application of potential ex ante regulations is limited to 
+very  large,  dominant  online  platforms  with  gatekeeper  function  in  order  to  avoid  legal 
+uncertainty and harmful side and spill-over effects. If IoT platforms in B2B-relationships qualify 
+as very large online platforms subject to ex ante regulation (which even though a significant 
+number  of  machines are  connected to them,  may  still have  a negligible market  share),  this 
+would have no justification from a competition point of view. 
+
+  A clear distinction between B2C- and B2B-relationships should be included. B2C relationships 
+function  very  differently  from  relationships  in  the  B2B  field.  For  B2B,  customers  are 
+significantly more sensitive about their data, often insisting on retaining control over their data 
+and  such  customers  have  considerable  countervailing  bargaining  power.  Therefore,  the 
+application of potential ex ante regulations must be strictly limited to platforms with a strong 
+focus on B2C relationships. Mere B2B platforms and industry platforms must in any case be 
+exempted from such ex ante regulations. 
+
+ 
+
+It is unclear what ex ante regulation would mean in practice. Would “only” certain practices be 
+blacklisted for very large online platforms, or could that new flexible framework amount to full 
+blown ex ante regulation as e.g. in the telecoms sector, where also the prices charged to the 
+other market participants, particularly competitors seeking access, are subject to regulation? 
+We do not see any justification for such an extensive framework, since data is duplicable, the 
+relevant  infrastructure  is  freely  accessible  and  there  are  no  natural  monopolies  as  in  the 
+telecoms sector. 
+
+ 
+ 
+  Even dominant companies should generally be able to treat their own services differently in 
+
+comparison to third party services. 
+
+  Particularly with regard to the very large, dominant online platforms which are in the focus of 
+the  current  discussions  one  needs  to  bear  in  mind  that  data  is  generally  replicable  and  is 
+provided by users voluntarily and free of charge. 
+
+  Any obligation to grant access to (machine) data would cause a chilling effect on innovation 
+and investments and foster anticompetitive free-riding. This is not the case with data which is 
+generated by public authorities and therefore could be shared.  
+
+  Requirements regarding data portability must acknowledge that the pure format in which data 
+(e.g. machine data in the B2B relationship) is collected may already reveal business secrets 
+and relevant IP or know how. In addition, no obligation to edit data in a specific format at the 
+will of the requesting party must be imposed. 
+
+8 September 2020  
+
+ 
+ 
+ 
+ 
+ 
+ 
+

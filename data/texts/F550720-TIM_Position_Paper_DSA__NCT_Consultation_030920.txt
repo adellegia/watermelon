@@ -1,0 +1,139 @@
+TIM Position Paper on the Digital Services Act and New 
+Competition Tool  
+European Commission Consultations – 8 September 2020 
+
+TIM welcomes the EU Commission’s consultations on the Digital Services Act (DSA) and the 
+New  Competition  Tool  (NCT),  which  are  both  aimed  at  introducing  rules  to  address  the 
+challenges brought about by the large digital players.  
+
+Digital  business  models  have  become  complex  and  multi-layered,  especially  due  to  the 
+critical  role  of  the  big  online  platforms  governing  the  relationship  between  the  different 
+parties  in  the  whole  ecosystem.  Large  gatekeepers  hold  the  key  to  the  online  user 
+experience and they are the strategic partners for all actors along the value chain who want 
+to participate in economic and social activities. Gatekeeper platforms should consequently 
+exert their essential role in a manner that promotes fairness, competition and innovation 
+for all their users, competitors and partners. 
+
+Due to the global dimension of the issues at stake, TIM believes that an enforcement of the 
+new  rules  at  EU  level  would  be  the  most  appropriate  way  to  be  effective  and  reach  a 
+harmonized approach. 
+
+Digital Services Act 
+
+In  order  to  make  digital  market  contestable  (and  contested),  TIM  deems  it  a  priority  to 
+introduce  an  ex-ante  regulatory  framework.  This  framework  should  include  asymmetric 
+rules  targeted  only  at  large  gatekeepers,  clearly  identified  according  to  specific  and 
+cumulative  thresholds  (e.g.  number  of  subscribers  of  the  relevant  platform,  presence  in 
+several  products  and  geographical  markets),  in  order  not  to  prevent  the  emergence  and 
+development of start-ups and smaller players. 
+
+Large  gatekeepers  in  the  scope  of  the  new  regulatory  framework  should  refrain  from 
+carrying out certain behaviours (blacklist) and, at the same time, perform others in order to 
+ensure a fair competition (white list). 
+
+We  propose  the  following  blacklist  of  activities/behaviours  that  large  online  digital 
+gatekeepers should be forbidden to carry out: 
+
+•  Self-preferencing; 
+•  Leveraging;  
+•  Use of unfair contractual terms or unfair practices; 
+•  Prohibiting business users from using a competing online intermediation service. 
+
+Such black list should be complemented by the following white list: 
+
+•  Data Access, interoperability and portability: 
+
+ volunteered data (directly provided by the user) 
+
+o 
+o  observed data (e.g. telematics, observed online usage behaviour) 
+
+•  Access and interoperability of certain key facilities (software/hardware, ) which are 
+
+critical to compete; 
+
+•  Transparency and non-discrimination; 
+
+  
+ 
+ 
+•  Prohibition of bundling/tying with ‘must have’ services; 
+•  Prohibition of unfair terms and conditions of a contract (e.g. predatory pricing, non-
+
+price terms,  restrictions on use, exclusivity clauses etc.…); 
+
+•  Separation (accounting and functional); 
+•  Responsibility  for  possible  illegal  activities  (such  as  selling  online  illegal/harmful 
+goods e.g. dangerous products, counterfeit goods, prohibited and restricted goods, 
+protected  wildlife,  pet,  trafficking,  illegal  medicine  or  misleading  offerings  e.g.  on 
+food supplements); 
+
+•  Responsibility  for  activities  that  can  cause  harm  to  users  online  (which  are  not 
+necessarily illegal) such as the spread of online disinformation or harmful content to 
+minors. 
+
+These lists are not to be considered as static, but can be adapted according to the specific 
+challenges posed by the platforms in specific markets. 
+
+In  addition,  we  would  like  to  point  out  some  relevant  aspects  of  the  review  of  the  2003 
+eCommerce  Directive,  which  will  be  part  of  the  DSA.  In  our  opinion,  the  review  should 
+preserve  the  fundamental  principles  of  the  eCommerce  Directive  such  as  the  ones  of  no 
+liability described in articles 12, 13 and in Artcle14 and of no general obligation to monitor 
+described in Artcle15.  
+
+Nonetheless, due to the technical, market and judicial developments, an update to the legal 
+framework may be needed on the responsibilities of some hosting services as new business 
+models have emerged. We believe the provisions of Artcle14 of the eCommerce Directive 
+should be amended consistently with the jurisprudence of the CJEU, which introduced the 
+crucial distinction between active and passive hosting service providers. While the liability 
+exemption of Artcle14 is still needed for passive hosting providers, it is essential to redefine 
+the categorization and the responsibilities of online services that play an “active” role in the 
+dissemination of content online. 
+
+New Competition Tool 
+
+Articles 101 and 102 of the Treaty on the Functioning of the European Union are in principle 
+suitable  to  tackle  anticompetitive  behaviours.  However,  their  enforcement  should  be 
+improved  to  better  reflect  the  dynamics  of  the  digital  markets,  both  in  terms  of  market 
+definition and in terms of speed of intervention. In-fact, according to TIM, competition law 
+alone  has  proven  over  the  years  to  be  insufficient  to  provide  effective  rapid  solutions  to 
+behavioural problems arising from market power in digital markets.  
+
+Therefore,  TIM believes that  a  revised  competition  framework,  addressing  the  need for a 
+quick  intervention  on  fast-moving  markets  would  be  necessary.  As  such  the  following 
+measures should be considered:  
+
+•  adapting the horizontal and vertical guidelines which would allow European firms to 
+
+gain scale through cooperation;  
+
+•  correctly revising the market definition notice to take into account the characteristics 
+
+of the digital market (as per the ongoing public consultation);  
+reviewing the European Merger Regulation to account for pre-emptive mergers.  
+
+• 
+
+  
+ 
+On top of that, and as a second priority, the introduction of a NCT may be useful to tackle 
+“residual” competition  risks  caused  by  gatekeepers  operating  at  EU level  (not  just  purely 
+national players) and limited to digital markets. The NCT should be in any case structured 
+as a complement to the DSA  in order to avoid an overlapping of rules and a  situation of 
+overenforcement. 
+
+EU Supervision and Enforcement 
+
+Supervision and enforcement of both the DSA and NCT should be undertaken at EU level, 
+since large online platforms operate in global ecosystems and competition concerns, arising 
+in digital markets, have by definition an important cross-border dimension.  
+
+The  EU  body  should  be  primarily  responsible  for  monitoring  markets  and  enforcing 
+dedicated rules for major digital gatekeepers. This body (whether new or existent) should 
+be vested with adequate resources and investigative powers, as well as with oversight and 
+monitoring powers that would enable it to collect relevant information from digital firms, to 
+fully appreciate the competitive dynamics of digital markets. 
+
+  
+ 
+
