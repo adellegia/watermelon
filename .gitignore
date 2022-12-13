@@ -1,2 +1,2 @@
 data/glove.6B.zip
-saved_weights.pt
+*.pt
