@@ -8,10 +8,10 @@ Whenever new legislation is proposed, the EC opens **public consultations** wher
 
 By the end of this tutorial you will understand how to:  
 
-> 1. Extract, clean, and pre-process information from unstructured PDF documents
-> 2. Use the pre-processed text as input to machine learning/deep learning models
-> 3. Build a text/document classifier with BERT 
-> 4. Compare BERT with text classifiers built using other models
+1. Extract, clean, and pre-process information from unstructured PDF documents
+2. Use the pre-processed text as input to machine learning/deep learning models
+3. Build a text/document classifier with BERT 
+4. Compare BERT with text classifiers built using other models
 
 
 ## Contributors
