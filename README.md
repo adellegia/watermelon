@@ -13,6 +13,8 @@ By the end of this tutorial you will understand how to:
 3. Build a text/document classifier with BERT 
 4. Compare BERT with text classifiers built using other models
 
+## Tutorial
+This tutorial is implemented using Python>=3.6 and all software requirements and dependencies can be installed using [environment.yml](https://github.com/adellegia/watermelon/blob/main/environment.yml). The notebook [Text_Classification_BERT.ipynb](https://github.com/adellegia/watermelon/blob/main/Text_Classification_BERT.ipynb) contains the memo, code, and explanation of the results. The slide deck of our presentation is available here, [Transfer Learning for Classification of Unstructured Documents.pdf](https://github.com/adellegia/watermelon/blob/main/Transfer%20Learning%20for%20Classification%20of%20Unstructured%20Documents.pdf).
 
 ## Contributors
 - Ma Adelle Gia Arbo ([GitHub](https://github.com/adellegia))
